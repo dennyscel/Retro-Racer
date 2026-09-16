@@ -12773,8 +12773,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "1b2d4f3475decde4b89ad6541aaa7b295e22017f0d77ffc8aae40a4fa5ae338c",
-      "bytes": 38496,
+      "sha256": "e60217ec98ef8c014e541d485bdb41721ef4e363ccb009eced8c46af12faab7c",
+      "bytes": 38505,
       "lines": 255
     },
     {
@@ -13031,9 +13031,9 @@
     },
     {
       "path": "src/main.js",
-      "sha256": "8362e4db9fd15864c36f15c0e53311615ceed090e3471127d807e387e9e0ac48",
-      "bytes": 2132,
-      "lines": 27
+      "sha256": "232e8eccf94094f1018fea05bf97c3218e2dda4a20230fec902db734c46fbf8d",
+      "bytes": 2274,
+      "lines": 29
     },
     {
       "path": "src/meta/cars.js",
@@ -13187,8 +13187,8 @@
     },
     {
       "path": "sw.js",
-      "sha256": "39b3e98b2e1976d127408bfb0ec125bfe66c049615aaec073e158132aec6f9f5",
-      "bytes": 2170,
+      "sha256": "fbae2277c5155fef54472d3a5ae228f654e3100748fa091216c85f5b344214a3",
+      "bytes": 2190,
       "lines": 5
     }
   ]
