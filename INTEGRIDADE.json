@@ -12773,7 +12773,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "e60217ec98ef8c014e541d485bdb41721ef4e363ccb009eced8c46af12faab7c",
+      "sha256": "73d69a82f21643df31b0f942e42a97f4c17cc60d718ee3a2762031215a2b7311",
       "bytes": 38505,
       "lines": 255
     },
@@ -13031,8 +13031,8 @@
     },
     {
       "path": "src/main.js",
-      "sha256": "232e8eccf94094f1018fea05bf97c3218e2dda4a20230fec902db734c46fbf8d",
-      "bytes": 2274,
+      "sha256": "6ee714f54ca146fb7de6b92791bf1fd14ca4f1f3b85629037e965d8ab1c55451",
+      "bytes": 2300,
       "lines": 29
     },
     {
@@ -13187,7 +13187,7 @@
     },
     {
       "path": "sw.js",
-      "sha256": "fbae2277c5155fef54472d3a5ae228f654e3100748fa091216c85f5b344214a3",
+      "sha256": "03d8d8b477b492f964b6aef9676b78d7ba197b8848eccb6dcd9c522b623428cb",
       "bytes": 2190,
       "lines": 5
     }
