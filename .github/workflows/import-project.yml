@@ -33,11 +33,15 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          cp .github/workflows/import-project.yml "$RUNNER_TEMP/import-project.yml"
           cat .bootstrap/part-* > "$RUNNER_TEMP/retro-racer.zip"
           echo "76c0b09bc97434ce2b1e3888185af38d9a70a3fa6ac024d47c3ff6804a43e56e  $RUNNER_TEMP/retro-racer.zip" | sha256sum -c -
           mkdir -p "$RUNNER_TEMP/retro-racer"
           unzip -q "$RUNNER_TEMP/retro-racer.zip" -d "$RUNNER_TEMP/retro-racer"
           rsync -a --delete --exclude=.git/ "$RUNNER_TEMP/retro-racer/" ./
+          rm -f .github/workflows/pages.yml
+          mkdir -p .github/workflows
+          cp "$RUNNER_TEMP/import-project.yml" .github/workflows/import-project.yml
 
       - name: Registrar versão final
         shell: bash
