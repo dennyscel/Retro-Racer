@@ -1,0 +1,190 @@
+{
+  "id": 242,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 26,
+  "name": "Caminho Solaris Oeste",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.2415,
+  "lapTargetSeconds": 63,
+  "signature": "sequência travada",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.674,
+  "pits": [
+    0.26,
+    0.63,
+    0.88
+  ],
+  "palette": {
+    "grass": "#d7ab44",
+    "grass2": "#d1a240",
+    "shoulder": "#c39038",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#cd9443",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 66,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 28,
+      "c": 2.66,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 35,
+      "l": 33,
+      "c": -2.84,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 46,
+      "l": 20,
+      "c": 3.02,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 57,
+      "l": 29,
+      "c": -4.03,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 53,
+      "l": 23,
+      "c": 3.59,
+      "y": -6,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 166,
+      "l": 72,
+      "c": 3.25,
+      "y": 12,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 163,
+      "l": 30,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 96,
+      "l": 48,
+      "c": 1.31,
+      "y": 10,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 93,
+      "l": 38,
+      "c": -2.34,
+      "y": 23,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 118,
+      "l": 58,
+      "c": 2.37,
+      "y": 10,
+      "w": 0.85,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 117,
+      "l": 56,
+      "c": -1.41,
+      "y": -36,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 56,
+      "l": 52,
+      "c": 3.45,
+      "y": -12,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 85,
+      "l": 30,
+      "c": -3.48,
+      "y": 14,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 22,
+      "c": 4.03,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 60,
+      "l": 38,
+      "c": -3.59,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 50,
+      "h": 150,
+      "l": 68,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4fc64ba9e6f5"
+}

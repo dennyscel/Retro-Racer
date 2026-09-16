@@ -1,0 +1,190 @@
+{
+  "id": 356,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 5,
+  "name": "Travessia Cobalto Endurance",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.3557,
+  "lapTargetSeconds": 65,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.25,
+    0.57,
+    0.76
+  ],
+  "palette": {
+    "grass": "#11af1d",
+    "grass2": "#09a012",
+    "shoulder": "#438f31",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#138b1e",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 100,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 38,
+      "h": 184,
+      "l": 30,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 123,
+      "l": 39,
+      "c": -2.21,
+      "y": -7,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 70,
+      "h": 80,
+      "l": 37,
+      "c": 1.5,
+      "y": 32,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 63,
+      "h": 145,
+      "l": 49,
+      "c": 3.27,
+      "y": 3,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 96,
+      "l": 50,
+      "c": -2.07,
+      "y": -30,
+      "w": 1.03,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 71,
+      "l": 61,
+      "c": -5.02,
+      "y": 18,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 100,
+      "l": 42,
+      "c": 2.33,
+      "y": 0,
+      "w": 0.82,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 21,
+      "c": -2.67,
+      "y": 0,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 45,
+      "l": 35,
+      "c": 2.34,
+      "y": 6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 38,
+      "l": 24,
+      "c": 2.71,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 49,
+      "l": 29,
+      "c": -2.89,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 60,
+      "l": 34,
+      "c": 3.07,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 39,
+      "c": -4.11,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 55,
+      "l": 36,
+      "c": 3.67,
+      "y": 6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 96,
+      "l": 70,
+      "c": 3.33,
+      "y": 12,
+      "w": 0.86,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 50,
+      "h": 136,
+      "l": 46,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e456878f6ced"
+}

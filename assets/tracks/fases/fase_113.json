@@ -1,0 +1,199 @@
+{
+  "id": 113,
+  "championship": 5,
+  "cupName": "Liga Neon Noturna",
+  "cupRace": 5,
+  "name": "Rally Solaris Sul",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.1122,
+  "lapTargetSeconds": 60,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.671,
+  "pits": [
+    0.24,
+    0.51,
+    0.85
+  ],
+  "palette": {
+    "grass": "#bec8d1",
+    "grass2": "#aab7c3",
+    "shoulder": "#738695",
+    "skyTop": "#6bafcf",
+    "skyBot": "#b5cedc",
+    "mountColor": "#425260",
+    "mountSnow": true,
+    "road": "#434c58",
+    "road2": "#3a434f"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 109,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 54,
+      "l": 44,
+      "c": -1.73,
+      "y": 39,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 141,
+      "l": 48,
+      "c": 1.64,
+      "y": -5,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 68,
+      "l": 57,
+      "c": -0.88,
+      "y": -31,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 84,
+      "l": 56,
+      "c": 5.49,
+      "y": -18,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 81,
+      "l": 46,
+      "c": -2.64,
+      "y": 14,
+      "w": 0.85,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 24,
+      "c": 3.04,
+      "y": 0,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 44,
+      "l": 22,
+      "c": -2.68,
+      "y": -6,
+      "w": 0.91,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 31,
+      "c": 1.27,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 42,
+      "l": 36,
+      "c": -1.45,
+      "y": 5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 53,
+      "l": 23,
+      "c": 1.63,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 32,
+      "l": 20,
+      "c": 1.88,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 54,
+      "l": 23,
+      "c": -1.62,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 79,
+      "h": 103,
+      "l": 87,
+      "c": -3.69,
+      "y": -12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 94,
+      "l": 29,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 72,
+      "l": 57,
+      "c": -1.64,
+      "y": -5,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 67,
+      "l": 69,
+      "c": 1.02,
+      "y": 40,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 145,
+      "l": 45,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b450f6678105"
+}

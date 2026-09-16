@@ -1,0 +1,145 @@
+{
+  "id": 85,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 4,
+  "name": "Via Expressa Trovão Prime",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0842,
+  "lapTargetSeconds": 56,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "subida cega",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.657,
+  "pits": [
+    0.15,
+    0.58,
+    0.81
+  ],
+  "palette": {
+    "grass": "#323243",
+    "grass2": "#181826",
+    "shoulder": "#1d1d2b",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#101022",
+    "mountSnow": false,
+    "road": "#31313b",
+    "road2": "#2b2b35"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 89,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 37,
+      "h": 47,
+      "l": 39,
+      "c": -2.95,
+      "y": -8,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 51,
+      "l": 23,
+      "c": 2.6,
+      "y": 4,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 90,
+      "l": 66,
+      "c": 2.2,
+      "y": 18,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 125,
+      "l": 35,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.13,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 107,
+      "l": 66,
+      "c": 2.42,
+      "y": -6,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 98,
+      "l": 41,
+      "c": -1.67,
+      "y": 23,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 129,
+      "l": 40,
+      "c": 1.57,
+      "y": -10,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 80,
+      "l": 69,
+      "c": 0.84,
+      "y": -19,
+      "w": 1.08,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 56,
+      "c": -5.38,
+      "y": -12,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 101,
+      "l": 28,
+      "c": -2.56,
+      "y": -14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 45,
+      "h": 133,
+      "l": 45,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f25c38607ce5"
+}

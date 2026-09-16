@@ -1,0 +1,208 @@
+{
+  "id": 836,
+  "championship": 31,
+  "cupName": "Circuito Ilhas Gêmeas",
+  "cupRace": 26,
+  "name": "Boulevard Esmeralda Mirror",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.8367,
+  "lapTargetSeconds": 77,
+  "signature": "retomada após túnel",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.706,
+  "pits": [
+    0.19,
+    0.66,
+    0.88
+  ],
+  "palette": {
+    "grass": "#14a81f",
+    "grass2": "#15a31e",
+    "shoulder": "#3a8129",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1f9029",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 80,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 148,
+      "l": 46,
+      "c": 4.4,
+      "y": 8,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 73,
+      "l": 47,
+      "c": 3.34,
+      "y": 29,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 86,
+      "l": 56,
+      "c": 3.56,
+      "y": 2,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 81,
+      "l": 70,
+      "c": -2.28,
+      "y": -38,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 58,
+      "l": 58,
+      "c": 5.53,
+      "y": -12,
+      "w": 1.14,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 53,
+      "l": 47,
+      "c": -4.87,
+      "y": 0,
+      "w": 1.15,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 36,
+      "l": 30,
+      "c": 5.67,
+      "y": 6,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 42,
+      "c": -5.09,
+      "y": -3,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 35,
+      "c": 2.97,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 22,
+      "c": -3.15,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 27,
+      "c": 3.33,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 50,
+      "l": 26,
+      "c": 4.51,
+      "y": 0,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 28,
+      "l": 22,
+      "c": -4.03,
+      "y": 6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 67,
+      "h": 89,
+      "l": 71,
+      "c": -6.22,
+      "y": 18,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 134,
+      "l": 40,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 101,
+      "l": 65,
+      "c": -3.56,
+      "y": 22,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 86,
+      "l": 37,
+      "c": 2.63,
+      "y": 30,
+      "w": 1.17,
+      "f": "subida cega"
+    },
+    {
+      "e": 36,
+      "h": 128,
+      "l": 58,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "40de89532e09"
+}

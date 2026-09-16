@@ -1,0 +1,181 @@
+{
+  "id": 315,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 18,
+  "name": "Grande Laço Orion Solar",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3146,
+  "lapTargetSeconds": 63,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.671,
+  "pits": [
+    0.27,
+    0.47,
+    0.83
+  ],
+  "palette": {
+    "grass": "#b4bdc5",
+    "grass2": "#aab5bf",
+    "shoulder": "#778795",
+    "skyTop": "#67a6c4",
+    "skyBot": "#afc6d3",
+    "mountColor": "#323f4c",
+    "mountSnow": true,
+    "road": "#3c444f",
+    "road2": "#333b46"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 97,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 94,
+      "l": 36,
+      "c": -1.25,
+      "y": 49,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 125,
+      "l": 70,
+      "c": 2.96,
+      "y": 3,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 64,
+      "l": 49,
+      "c": -1.84,
+      "y": -53,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 66,
+      "l": 34,
+      "c": 4.49,
+      "y": -18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 105,
+      "l": 38,
+      "c": 1.97,
+      "y": 0,
+      "w": 1.09,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 42,
+      "l": 28,
+      "c": 4.85,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 52,
+      "l": 35,
+      "c": -4.34,
+      "y": 6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 35,
+      "c": 2.44,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 40,
+      "l": 22,
+      "c": -2.62,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 51,
+      "l": 27,
+      "c": 2.8,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 56,
+      "l": 24,
+      "c": 3.69,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 62,
+      "l": 36,
+      "c": -3.28,
+      "y": -6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 97,
+      "l": 79,
+      "c": -2.92,
+      "y": -12,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 188,
+      "l": 31,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 131,
+      "l": 63,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "a1c9372d5e10"
+}

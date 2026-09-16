@@ -1,0 +1,102 @@
+{
+  "version": "AAA_R2+C19",
+  "date": "2026-09-16",
+  "logic": {
+    "migration": {
+      "from": 70,
+      "to": 71,
+      "level": 333,
+      "money": 76543,
+      "fichas": 321,
+      "marcas": 0,
+      "car": 2,
+      "monetization_default": false
+    },
+    "currencies": {
+      "cr": "performance",
+      "fichas": "skill_cosmetic",
+      "marcas": "season_cosmetic"
+    },
+    "marks_purchase": {
+      "start": 50,
+      "item": "nitro-cyan",
+      "cost": 45,
+      "end": 5,
+      "owned": [
+        "classic",
+        "cyan"
+      ]
+    },
+    "monetization_off": {
+      "purchase_ok": false,
+      "reason": "MONETIZAÇÃO DESATIVADA"
+    },
+    "mock_adapter": {
+      "founder_adfree": true,
+      "rewarded_double_delta": 1000,
+      "rift_continue_once": true,
+      "rift_restore_fuel": 0.22,
+      "rift_damage_cap": 0.82
+    },
+    "curve": [
+      {
+        "level": 1,
+        "p1": 2020
+      },
+      {
+        "level": 27,
+        "p1": 2858
+      },
+      {
+        "level": 100,
+        "p1": 7659
+      },
+      {
+        "level": 400,
+        "p1": 30337
+      },
+      {
+        "level": 999,
+        "p1": 82921
+      }
+    ],
+    "car_races": {
+      "Banshee": 12,
+      "Goliath": 20,
+      "Firefly": 10,
+      "Nightshade": 9,
+      "Duna": 7,
+      "Avalanche": 6,
+      "Kartz Junior": 5,
+      "Titan": 5,
+      "Pulse": 4,
+      "Eclipse": 15
+    }
+  },
+  "static": {
+    "node_check": "PASS",
+    "js_files": 50,
+    "max_module_lines": 358,
+    "html_ids": 299,
+    "duplicates": [],
+    "tracks": 999,
+    "sentinels": [
+      1,
+      27,
+      333,
+      666,
+      999
+    ],
+    "math_random": [],
+    "missing_local_assets": [],
+    "service_worker_economy_module": true,
+    "shell_gzip_kb": 124.8,
+    "economy_xlsx": true,
+    "save_key_exact": true
+  },
+  "limitations": [
+    "Fluxos de compra/anúncio foram validados com adaptador simulado; nenhum SDK real foi integrado.",
+    "Monetização permanece FALSE por padrão.",
+    "Moto G físico, loja real, anúncio real e PWA HTTPS em hardware: NÃO TESTADOS."
+  ]
+}

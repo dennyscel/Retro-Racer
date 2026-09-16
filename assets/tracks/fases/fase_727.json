@@ -1,0 +1,217 @@
+{
+  "id": 727,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 25,
+  "name": "Circuito Esmeralda Sul",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.7275,
+  "lapTargetSeconds": 76,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.704,
+  "pits": [
+    0.21,
+    0.64,
+    0.75
+  ],
+  "palette": {
+    "grass": "#2a2a40",
+    "grass2": "#202033",
+    "shoulder": "#1c1c2f",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c23",
+    "mountSnow": false,
+    "road": "#30303c",
+    "road2": "#2a2a36"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 57,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 31,
+      "h": 61,
+      "l": 21,
+      "c": -5.89,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 35,
+      "c": 5.3,
+      "y": -3,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 108,
+      "l": 78,
+      "c": 5.04,
+      "y": -12,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 179,
+      "l": 27,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 60,
+      "h": 131,
+      "l": 60,
+      "c": 2.67,
+      "y": 15,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 106,
+      "l": 53,
+      "c": -3.48,
+      "y": 25,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 153,
+      "l": 70,
+      "c": 3.72,
+      "y": 15,
+      "w": 0.92,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 132,
+      "l": 51,
+      "c": -2.4,
+      "y": -49,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 58,
+      "l": 54,
+      "c": 5.82,
+      "y": 18,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 63,
+      "l": 40,
+      "c": 2.85,
+      "y": -14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 56,
+      "l": 36,
+      "c": -5.89,
+      "y": 0,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 30,
+      "l": 29,
+      "c": 5.3,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 37,
+      "c": -3.12,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 56,
+      "l": 24,
+      "c": 3.3,
+      "y": 0,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 35,
+      "l": 29,
+      "c": -3.48,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 36,
+      "l": 32,
+      "c": 4.74,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 40,
+      "l": 30,
+      "c": -4.24,
+      "y": -6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 89,
+      "l": 55,
+      "c": 3.93,
+      "y": 24,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 119,
+      "l": 67,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "acc9f2f6cef2"
+}

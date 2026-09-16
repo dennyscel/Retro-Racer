@@ -1,0 +1,190 @@
+{
+  "id": 306,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 9,
+  "name": "Circuito Ômega Turbo",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.3056,
+  "lapTargetSeconds": 63,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.674,
+  "pits": [
+    0.15,
+    0.53,
+    0.74
+  ],
+  "palette": {
+    "grass": "#14a71f",
+    "grass2": "#0f9c18",
+    "shoulder": "#40872f",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#15851f",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 90,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 38,
+      "h": 96,
+      "l": 56,
+      "c": 1.46,
+      "y": -7,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 65,
+      "l": 42,
+      "c": -2.47,
+      "y": 43,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 118,
+      "l": 66,
+      "c": 2.52,
+      "y": 3,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 93,
+      "l": 50,
+      "c": -1.52,
+      "y": -48,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 60,
+      "c": 3.72,
+      "y": -18,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 71,
+      "l": 42,
+      "c": 3.66,
+      "y": 0,
+      "w": 0.84,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 28,
+      "c": 4.24,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 32,
+      "l": 37,
+      "c": -3.78,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 27,
+      "c": 2.05,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 32,
+      "c": -2.23,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 37,
+      "c": 2.41,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 24,
+      "c": -3.09,
+      "y": 0,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 42,
+      "l": 38,
+      "c": 2.72,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 119,
+      "l": 87,
+      "c": -2.34,
+      "y": -18,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 144,
+      "l": 35,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 102,
+      "l": 64,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "af93d49db95d"
+}

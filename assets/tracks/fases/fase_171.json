@@ -1,0 +1,181 @@
+{
+  "id": 171,
+  "championship": 7,
+  "cupName": "Grande Prêmio Tropical",
+  "cupRace": 9,
+  "name": "Circuito Neon Extreme",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.1703,
+  "lapTargetSeconds": 61,
+  "signature": "túnel escuro",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.666,
+  "pits": [
+    0.22,
+    0.59,
+    0.83
+  ],
+  "palette": {
+    "grass": "#29293c",
+    "grass2": "#151525",
+    "shoulder": "#111121",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#131327",
+    "mountSnow": false,
+    "road": "#2e2e38",
+    "road2": "#282832"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 91,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 37,
+      "h": 95,
+      "l": 31,
+      "c": -1.33,
+      "y": 0,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 42,
+      "l": 24,
+      "c": 4.09,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 50,
+      "l": 36,
+      "c": -3.65,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 49,
+      "l": 31,
+      "c": 1.95,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 60,
+      "l": 36,
+      "c": -2.13,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 39,
+      "l": 23,
+      "c": 2.31,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 56,
+      "l": 20,
+      "c": 2.94,
+      "y": 12,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 60,
+      "l": 37,
+      "c": -2.59,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 117,
+      "l": 77,
+      "c": -2.19,
+      "y": 24,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 184,
+      "l": 35,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 144,
+      "l": 59,
+      "c": 2.41,
+      "y": -5,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 70,
+      "h": 79,
+      "l": 67,
+      "c": 1.67,
+      "y": 22,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 63,
+      "h": 82,
+      "l": 69,
+      "c": 1.57,
+      "y": 9,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 85,
+      "l": 65,
+      "c": 0.83,
+      "y": -45,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 107,
+      "l": 51,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "fcd526411604"
+}

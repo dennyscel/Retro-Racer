@@ -1,0 +1,217 @@
+{
+  "id": 752,
+  "championship": 28,
+  "cupName": "Copa Subúrbio Neon",
+  "cupRace": 23,
+  "name": "Passagem Ômega GT",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.7525,
+  "lapTargetSeconds": 76,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "ponte estreita",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.705,
+  "pits": [
+    0.26,
+    0.66,
+    0.76
+  ],
+  "palette": {
+    "grass": "#16a220",
+    "grass2": "#179e20",
+    "shoulder": "#428532",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#15801f",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 82,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 38,
+      "h": 196,
+      "l": 26,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 75,
+      "l": 39,
+      "c": 3.15,
+      "y": 7,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 64,
+      "l": 48,
+      "c": 2.29,
+      "y": 44,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 97,
+      "l": 49,
+      "c": 4.2,
+      "y": -3,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 116,
+      "l": 56,
+      "c": 2.74,
+      "y": -30,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 59,
+      "l": 37,
+      "c": 6.65,
+      "y": 10,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 108,
+      "l": 39,
+      "c": -3.41,
+      "y": 0,
+      "w": 0.9,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 27,
+      "h": 31,
+      "l": 21,
+      "c": -3.95,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 43,
+      "l": 32,
+      "c": 3.52,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 24,
+      "c": 3.54,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 29,
+      "c": -3.72,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 64,
+      "l": 34,
+      "c": 3.9,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 45,
+      "l": 39,
+      "c": -5.4,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 53,
+      "l": 33,
+      "c": 4.84,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 108,
+      "l": 88,
+      "c": 4.57,
+      "y": 24,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 165,
+      "l": 44,
+      "c": -0.27,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 112,
+      "l": 58,
+      "c": 4.2,
+      "y": 7,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 77,
+      "l": 38,
+      "c": -3.17,
+      "y": 45,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 92,
+      "l": 58,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "5fb3b15666c7"
+}

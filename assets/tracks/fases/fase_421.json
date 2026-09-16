@@ -1,0 +1,190 @@
+{
+  "id": 421,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 16,
+  "name": "Autódromo Titânio Final",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.4208,
+  "lapTargetSeconds": 67,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.21,
+    0.58,
+    0.75
+  ],
+  "palette": {
+    "grass": "#232336",
+    "grass2": "#1b1b2b",
+    "shoulder": "#141424",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#121226",
+    "mountSnow": false,
+    "road": "#2d2d37",
+    "road2": "#272731"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 85,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 31,
+      "h": 61,
+      "l": 23,
+      "c": -4.9,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 47,
+      "l": 23,
+      "c": 4.39,
+      "y": 6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 138,
+      "l": 66,
+      "c": 4.09,
+      "y": -18,
+      "w": 0.91,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 197,
+      "l": 46,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.94,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 60,
+      "h": 107,
+      "l": 42,
+      "c": 1.95,
+      "y": 18,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 98,
+      "l": 62,
+      "c": -2.87,
+      "y": 39,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 129,
+      "l": 52,
+      "c": 3.0,
+      "y": 18,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 120,
+      "l": 45,
+      "c": -1.87,
+      "y": -31,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 52,
+      "l": 56,
+      "c": 4.56,
+      "y": -18,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 99,
+      "l": 28,
+      "c": 2.02,
+      "y": 14,
+      "w": 1.06,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 56,
+      "l": 38,
+      "c": 4.9,
+      "y": 0,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 54,
+      "l": 38,
+      "c": -4.39,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 55,
+      "l": 37,
+      "c": 2.47,
+      "y": 0,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 24,
+      "c": -2.65,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 29,
+      "c": 2.83,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 101,
+      "l": 45,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "803df8701381"
+}

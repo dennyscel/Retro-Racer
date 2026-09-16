@@ -1,0 +1,190 @@
+{
+  "id": 550,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 10,
+  "name": "Boulevard Diamante Sprint",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.5501,
+  "lapTargetSeconds": 70,
+  "signature": "final em mergulho",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.685,
+  "pits": [
+    0.23,
+    0.49,
+    0.78
+  ],
+  "palette": {
+    "grass": "#149f1e",
+    "grass2": "#13991b",
+    "shoulder": "#3d802d",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#218b2b",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 94,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 102,
+      "l": 24,
+      "c": 0.27,
+      "y": -6,
+      "w": 0.95,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 91,
+      "l": 53,
+      "c": 3.73,
+      "y": -5,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 88,
+      "l": 56,
+      "c": 2.77,
+      "y": 34,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 113,
+      "l": 63,
+      "c": 2.88,
+      "y": 5,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 120,
+      "l": 64,
+      "c": 1.79,
+      "y": -44,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 77,
+      "l": 59,
+      "c": 4.35,
+      "y": 10,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 84,
+      "l": 47,
+      "c": -4.08,
+      "y": 0,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 41,
+      "h": 41,
+      "l": 39,
+      "c": -4.74,
+      "y": 6,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 35,
+      "l": 40,
+      "c": 4.24,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 20,
+      "c": 2.37,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 25,
+      "c": -2.55,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 34,
+      "l": 30,
+      "c": 2.73,
+      "y": 5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 55,
+      "l": 35,
+      "c": -3.59,
+      "y": 12,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 45,
+      "l": 41,
+      "c": 3.18,
+      "y": -6,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 70,
+      "h": 114,
+      "l": 54,
+      "c": 5.33,
+      "y": 12,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 54,
+      "h": 106,
+      "l": 68,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "509965554385"
+}

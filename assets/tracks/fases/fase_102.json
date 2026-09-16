@@ -1,0 +1,190 @@
+{
+  "id": 102,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 21,
+  "name": "Travessia Infinito Endurance",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.1012,
+  "lapTargetSeconds": 59,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.666,
+  "pits": [
+    0.15,
+    0.56,
+    0.86
+  ],
+  "palette": {
+    "grass": "#262639",
+    "grass2": "#1c1c2c",
+    "shoulder": "#0a0a1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c20",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 68,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 68,
+      "h": 64,
+      "l": 56,
+      "c": 1.17,
+      "y": -48,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 73,
+      "l": 59,
+      "c": -2.88,
+      "y": -12,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 62,
+      "l": 30,
+      "c": 3.1,
+      "y": 0,
+      "w": 0.92,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 51,
+      "l": 39,
+      "c": 3.58,
+      "y": 0,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 33,
+      "l": 31,
+      "c": -3.18,
+      "y": 6,
+      "w": 1.16,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 36,
+      "c": 1.62,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 23,
+      "c": -1.8,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 28,
+      "c": 1.98,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 31,
+      "l": 35,
+      "c": -2.42,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 43,
+      "l": 32,
+      "c": 2.12,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 86,
+      "l": 84,
+      "c": 1.7,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 25,
+      "h": 99,
+      "l": 42,
+      "c": -0.27,
+      "y": -6,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 112,
+      "l": 72,
+      "c": 2.04,
+      "y": 1,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 73,
+      "l": 63,
+      "c": -1.35,
+      "y": 23,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 134,
+      "l": 46,
+      "c": 1.19,
+      "y": 15,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 90,
+      "l": 68,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2b1592cd220d"
+}

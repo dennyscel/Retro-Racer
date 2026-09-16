@@ -1,0 +1,190 @@
+{
+  "id": 232,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 16,
+  "name": "Via Expressa Solaris Noite",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.2315,
+  "lapTargetSeconds": 63,
+  "signature": "subida em caracol",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.674,
+  "pits": [
+    0.24,
+    0.58,
+    0.84
+  ],
+  "palette": {
+    "grass": "#13ae1f",
+    "grass2": "#0ca015",
+    "shoulder": "#388326",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#11871c",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 68,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 66,
+      "h": 116,
+      "l": 54,
+      "c": 2.77,
+      "y": 10,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 89,
+      "l": 38,
+      "c": -1.97,
+      "y": 33,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 38,
+      "h": 138,
+      "l": 64,
+      "c": 1.92,
+      "y": -4,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 105,
+      "l": 66,
+      "c": -1.09,
+      "y": -46,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 70,
+      "l": 42,
+      "c": 5.98,
+      "y": -18,
+      "w": 0.84,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 107,
+      "l": 31,
+      "c": -2.97,
+      "y": -14,
+      "w": 0.92,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 20,
+      "c": 3.42,
+      "y": 0,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 46,
+      "l": 26,
+      "c": -3.03,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 43,
+      "l": 25,
+      "c": 1.52,
+      "y": 0,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 30,
+      "c": -1.7,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 65,
+      "l": 35,
+      "c": 1.88,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 56,
+      "l": 38,
+      "c": -2.27,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 27,
+      "c": 1.97,
+      "y": 4,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 125,
+      "l": 55,
+      "c": -4.06,
+      "y": -12,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 106,
+      "l": 36,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 108,
+      "l": 66,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f968111ce2ee"
+}

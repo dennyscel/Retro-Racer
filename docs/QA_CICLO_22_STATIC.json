@@ -1,0 +1,67 @@
+{
+  "node_check": {
+    "status": "PASS",
+    "files": 42,
+    "failed": []
+  },
+  "max_module_lines": {
+    "status": "PASS",
+    "max": 358,
+    "file": "src/audio/runtime.js"
+  },
+  "save_key": {
+    "status": "PASS"
+  },
+  "tracks": {
+    "status": "PASS",
+    "count": 999,
+    "sentinels": [
+      1,
+      27,
+      333,
+      666,
+      999
+    ]
+  },
+  "html_ids": {
+    "status": "PASS",
+    "count": 304,
+    "duplicates": []
+  },
+  "math_random_src": {
+    "status": "PASS",
+    "files": []
+  },
+  "four_wheels": {
+    "status": "PASS",
+    "wheel_draw_calls": 4
+  },
+  "html_assets": {
+    "status": "PASS",
+    "refs": 11,
+    "missing": []
+  },
+  "sw_modules": {
+    "status": "PASS",
+    "total": 41,
+    "missing": []
+  },
+  "shell_gzip": {
+    "status": "PASS",
+    "bytes": 133566,
+    "limit": 350000
+  },
+  "console_error_src": {
+    "status": "PASS",
+    "files": []
+  },
+  "investor_docs": {
+    "status": "PASS",
+    "count": 8,
+    "missing": []
+  },
+  "press_media": {
+    "status": "PASS",
+    "count": 8
+  }
+}

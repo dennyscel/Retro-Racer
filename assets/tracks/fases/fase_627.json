@@ -1,0 +1,208 @@
+{
+  "id": 627,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 6,
+  "name": "Caminho Infinito Clássico",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6273,
+  "lapTargetSeconds": 72,
+  "signature": "túnel escuro",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.698,
+  "pits": [
+    0.18,
+    0.56,
+    0.89
+  ],
+  "palette": {
+    "grass": "#bdc5cc",
+    "grass2": "#b0bbc5",
+    "shoulder": "#758593",
+    "skyTop": "#6eacca",
+    "skyBot": "#b5ccd9",
+    "mountColor": "#394653",
+    "mountSnow": true,
+    "road": "#424a55",
+    "road2": "#39414c"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 111,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 69,
+      "h": 62,
+      "l": 68,
+      "c": -2.92,
+      "y": 41,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 77,
+      "l": 58,
+      "c": 3.07,
+      "y": 0,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 112,
+      "l": 61,
+      "c": -1.92,
+      "y": -41,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 42,
+      "l": 38,
+      "c": 4.67,
+      "y": -18,
+      "w": 0.95,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 99,
+      "l": 35,
+      "c": -4.29,
+      "y": -14,
+      "w": 1.11,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 26,
+      "h": 38,
+      "l": 32,
+      "c": 4.99,
+      "y": -8,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 32,
+      "l": 32,
+      "c": -4.47,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 23,
+      "c": 2.53,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 28,
+      "c": -2.71,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 33,
+      "c": 2.89,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 28,
+      "c": 3.84,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 42,
+      "l": 33,
+      "c": -3.41,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 121,
+      "l": 55,
+      "c": 5.57,
+      "y": 18,
+      "w": 1.18,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 92,
+      "l": 43,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 92,
+      "l": 67,
+      "c": 3.07,
+      "y": -4,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 75,
+      "l": 58,
+      "c": -2.22,
+      "y": 42,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 55,
+      "h": 114,
+      "l": 41,
+      "c": -2.22,
+      "y": -4,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 36,
+      "h": 139,
+      "l": 47,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "3936c4d9eb56"
+}

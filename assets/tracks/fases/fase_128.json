@@ -1,0 +1,199 @@
+{
+  "id": 128,
+  "championship": 5,
+  "cupName": "Liga Neon Noturna",
+  "cupRace": 20,
+  "name": "Rota Coral Solar",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.1273,
+  "lapTargetSeconds": 60,
+  "signature": "S técnico",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.672,
+  "pits": [
+    0.27,
+    0.48,
+    0.82
+  ],
+  "palette": {
+    "grass": "#0fb01b",
+    "grass2": "#10ab1a",
+    "shoulder": "#368323",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1a9525",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 84,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 64,
+      "h": 76,
+      "l": 58,
+      "c": 1.47,
+      "y": 15,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 57,
+      "l": 39,
+      "c": -0.88,
+      "y": 25,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 98,
+      "l": 68,
+      "c": 2.52,
+      "y": 9,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 89,
+      "l": 52,
+      "c": 1.52,
+      "y": -50,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 50,
+      "c": 3.72,
+      "y": -12,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 109,
+      "l": 32,
+      "c": -1.46,
+      "y": 0,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 32,
+      "l": 26,
+      "c": 4.24,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 40,
+      "l": 27,
+      "c": -3.78,
+      "y": -3,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 29,
+      "c": 2.05,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 62,
+      "l": 34,
+      "c": -2.23,
+      "y": 9,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 41,
+      "l": 21,
+      "c": 2.41,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 22,
+      "c": 3.09,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 50,
+      "l": 28,
+      "c": -2.72,
+      "y": 4,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 149,
+      "l": 77,
+      "c": -2.34,
+      "y": 18,
+      "w": 1.06,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 98,
+      "l": 32,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.94,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 113,
+      "l": 41,
+      "c": 2.52,
+      "y": -9,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 164,
+      "l": 62,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "cf5f90bc1fd0"
+}

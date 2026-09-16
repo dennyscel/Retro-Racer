@@ -1,0 +1,208 @@
+{
+  "id": 74,
+  "championship": 3,
+  "cupName": "Desafio Vale do Sol",
+  "cupRace": 20,
+  "name": "Túnel Monsoon Extreme",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.0731,
+  "lapTargetSeconds": 61,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.672,
+  "pits": [
+    0.23,
+    0.63,
+    0.82
+  ],
+  "palette": {
+    "grass": "#21a62b",
+    "grass2": "#189720",
+    "shoulder": "#3a7a2b",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#22872b",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 110,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 130,
+      "l": 48,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 147,
+      "l": 45,
+      "c": -0.92,
+      "y": 0,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 104,
+      "l": 70,
+      "c": 2.01,
+      "y": 38,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 85,
+      "l": 55,
+      "c": 1.97,
+      "y": -10,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 76,
+      "l": 68,
+      "c": -1.12,
+      "y": -36,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 89,
+      "l": 59,
+      "c": -2.76,
+      "y": -12,
+      "w": 0.89,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 82,
+      "l": 33,
+      "c": 3.02,
+      "y": -14,
+      "w": 0.89,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 33,
+      "h": 41,
+      "l": 25,
+      "c": 3.49,
+      "y": 6,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 47,
+      "l": 26,
+      "c": -3.09,
+      "y": -3,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 30,
+      "c": 1.56,
+      "y": 5,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 35,
+      "c": -1.74,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 46,
+      "l": 22,
+      "c": 1.92,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 21,
+      "c": 2.33,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 57,
+      "l": 27,
+      "c": -2.03,
+      "y": 4,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 150,
+      "l": 82,
+      "c": -1.61,
+      "y": -12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 99,
+      "l": 41,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 100,
+      "l": 64,
+      "c": 1.97,
+      "y": -6,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 166,
+      "l": 68,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "198c8d54883f"
+}

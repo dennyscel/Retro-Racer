@@ -1,0 +1,145 @@
+{
+  "id": 35,
+  "championship": 2,
+  "cupName": "Torneio Costa Azul",
+  "cupRace": 8,
+  "name": "Arena Vector Mirror",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.0341,
+  "lapTargetSeconds": 55,
+  "signature": "descida rápida",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.654,
+  "pits": [
+    0.22,
+    0.54,
+    0.79
+  ],
+  "palette": {
+    "grass": "#20a32a",
+    "grass2": "#16951f",
+    "shoulder": "#387729",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1d8026",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 79,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 113,
+      "l": 83,
+      "c": -3.72,
+      "y": -12,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 116,
+      "l": 47,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 80,
+      "l": 47,
+      "c": -1.67,
+      "y": 14,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 83,
+      "l": 46,
+      "c": 1.04,
+      "y": 34,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 102,
+      "l": 57,
+      "c": -0.82,
+      "y": 0,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 77,
+      "l": 69,
+      "c": 1.67,
+      "y": -37,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 81,
+      "l": 55,
+      "c": -4.07,
+      "y": -12,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 34,
+      "h": 72,
+      "l": 28,
+      "c": 1.69,
+      "y": 14,
+      "w": 1.06,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 39,
+      "c": 1.92,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 45,
+      "l": 40,
+      "c": -1.65,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 52,
+      "h": 99,
+      "l": 63,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d6bc12868356"
+}

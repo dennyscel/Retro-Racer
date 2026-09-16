@@ -1,0 +1,217 @@
+{
+  "id": 352,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 1,
+  "name": "Travessia Vector Solar",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.3517,
+  "lapTargetSeconds": 66,
+  "signature": "hairpin duplo",
+  "dominantFeature": "ponte estreita",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.31,
+    0.55,
+    0.78
+  ],
+  "palette": {
+    "grass": "#c8a043",
+    "grass2": "#be933a",
+    "shoulder": "#ae7f2f",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#b78239",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 92,
+      "l": 51,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 30,
+      "c": 1.58,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 35,
+      "c": -1.76,
+      "y": 9,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 22,
+      "c": 1.94,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 63,
+      "l": 29,
+      "c": 4.97,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 63,
+      "l": 28,
+      "c": -4.45,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 100,
+      "l": 56,
+      "c": 4.15,
+      "y": 12,
+      "w": 1.09,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 93,
+      "l": 40,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 148,
+      "l": 50,
+      "c": 1.99,
+      "y": 3,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 85,
+      "l": 43,
+      "c": -1.32,
+      "y": 37,
+      "w": 1.12,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 86,
+      "l": 60,
+      "c": 3.05,
+      "y": 17,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 93,
+      "l": 46,
+      "c": -1.91,
+      "y": -38,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 50,
+      "l": 50,
+      "c": 4.64,
+      "y": 10,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 55,
+      "l": 35,
+      "c": -2.07,
+      "y": -14,
+      "w": 0.82,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 22,
+      "c": 4.97,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 32,
+      "l": 22,
+      "c": -4.45,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 47,
+      "l": 23,
+      "c": -2.52,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 58,
+      "l": 28,
+      "c": 2.7,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 37,
+      "l": 33,
+      "c": -2.88,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 46,
+      "h": 84,
+      "l": 62,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d20107db0d84"
+}

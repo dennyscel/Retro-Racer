@@ -1,0 +1,208 @@
+{
+  "id": 303,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 6,
+  "name": "Grande Laço Trovão Sprint",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.3026,
+  "lapTargetSeconds": 67,
+  "signature": "reta de largada larga",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.682,
+  "pits": [
+    0.28,
+    0.62,
+    0.89
+  ],
+  "palette": {
+    "grass": "#17b523",
+    "grass2": "#0da416",
+    "shoulder": "#388426",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#178f22",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 95,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 69,
+      "h": 125,
+      "l": 57,
+      "c": -4.0,
+      "y": 18,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 192,
+      "l": 40,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 112,
+      "l": 63,
+      "c": -1.88,
+      "y": -3,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 67,
+      "l": 69,
+      "c": 1.22,
+      "y": 46,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 134,
+      "l": 73,
+      "c": 2.93,
+      "y": 11,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 89,
+      "l": 67,
+      "c": -1.82,
+      "y": -53,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 69,
+      "l": 43,
+      "c": -4.44,
+      "y": 18,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 78,
+      "l": 44,
+      "c": 1.94,
+      "y": 14,
+      "w": 0.82,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 21,
+      "c": -4.81,
+      "y": 0,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 59,
+      "l": 35,
+      "c": 4.3,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 46,
+      "l": 26,
+      "c": 2.41,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 31,
+      "c": -2.59,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 36,
+      "c": 2.77,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 39,
+      "c": -3.65,
+      "y": 6,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 31,
+      "l": 36,
+      "c": 3.24,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 106,
+      "l": 76,
+      "c": 2.88,
+      "y": 12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 161,
+      "l": 33,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.97,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 151,
+      "l": 55,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b5cbff41a341"
+}

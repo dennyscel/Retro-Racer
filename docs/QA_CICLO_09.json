@@ -1,0 +1,303 @@
+{
+  "version": "AAA_R2+C09",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 61,
+      "level": 210,
+      "money": 54321,
+      "c09": true,
+      "rift": false,
+      "damage": 0.12
+    },
+    "cards": {
+      "total": 40,
+      "legendary": 4,
+      "names": [
+        "MOTOR QUENTE",
+        "PNEU RASPADO",
+        "TANQUE FURADO",
+        "CONTRATO SUJO",
+        "NEBLINA"
+      ]
+    },
+    "start": {
+      "seed": 3454970173,
+      "stage": 0,
+      "levels": [
+        173,
+        5,
+        130,
+        103,
+        158
+      ],
+      "unique": 5,
+      "legendaryStage": 1,
+      "preDamage": 0.12,
+      "runCount": 1
+    },
+    "persistence": {
+      "laps": 1,
+      "fuelRatio": 0.62,
+      "damage": 0.35,
+      "preGarageHidden": true,
+      "mode": "rift",
+      "level": 173
+    },
+    "run": {
+      "offers": [
+        {
+          "stage": 0,
+          "ids": [
+            "scraped",
+            "fog",
+            "storm"
+          ],
+          "leg": 0,
+          "bank": 1000,
+          "earned": 1000,
+          "money": 54321
+        },
+        {
+          "stage": 1,
+          "ids": [
+            "hardbody",
+            "livechassis",
+            "eclipse"
+          ],
+          "leg": 1,
+          "bank": 2500,
+          "earned": 1500,
+          "money": 54321
+        },
+        {
+          "stage": 2,
+          "ids": [
+            "rain",
+            "cold",
+            "jackpot"
+          ],
+          "leg": 0,
+          "bank": 4000,
+          "earned": 1500,
+          "money": 54321
+        },
+        {
+          "stage": 3,
+          "ids": [
+            "draftmag",
+            "eco",
+            "cold"
+          ],
+          "leg": 0,
+          "bank": 5950,
+          "earned": 1950,
+          "money": 54321
+        }
+      ],
+      "legOffers": 1,
+      "money0": 54321,
+      "beforeFinal": 54321,
+      "afterFinal": 62221,
+      "final": 7900,
+      "active": false,
+      "completed": true,
+      "damageRestored": 0.12,
+      "bank": 7900,
+      "chosen": [
+        "scraped",
+        "hardbody",
+        "rain",
+        "draftmag"
+      ]
+    },
+    "fail": {
+      "active": false,
+      "failed": true,
+      "bank": 0,
+      "moneyBefore": 62221,
+      "moneyAfter": 62221,
+      "pre": 0.18,
+      "damage": 0.18,
+      "result": "PANE TESTE"
+    },
+    "mods": {
+      "speed": 1.2264210000000002,
+      "reward": 1.3305600000000004,
+      "synergies": [
+        "REDLINE",
+        "APOSTADOR"
+      ]
+    },
+    "menu": {
+      "visible": true,
+      "start": "⚡ INICIAR NOVA FENDA",
+      "cards": 0
+    },
+    "fps": {
+      "frames": 90,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 30,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 206,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version61": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 91201,
+      "kb": 89.1,
+      "ok": true
+    },
+    "rift": {
+      "module": true,
+      "cards40": true,
+      "fiveTracks": true,
+      "legendary": true,
+      "ui": true
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 20,
+      "missing": [],
+      "cacheVersion": "c09"
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "controles/haptics físicos",
+    "áudio iOS/Android",
+    "PWA HTTPS em instalação real"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": 262,
+  "championship": 10,
+  "cupName": "Copa Chuva de Verão",
+  "cupRace": 19,
+  "name": "Vale Falésia Noite",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.2615,
+  "lapTargetSeconds": 64,
+  "signature": "subida em caracol",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.676,
+  "pits": [
+    0.3,
+    0.52,
+    0.78
+  ],
+  "palette": {
+    "grass": "#1ea428",
+    "grass2": "#189820",
+    "shoulder": "#3e7e2e",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#208629",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 92,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 62,
+      "h": 92,
+      "l": 48,
+      "c": 1.57,
+      "y": -8,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 81,
+      "l": 68,
+      "c": 2.56,
+      "y": 31,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 114,
+      "l": 58,
+      "c": 2.62,
+      "y": 10,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 133,
+      "l": 66,
+      "c": 1.6,
+      "y": -40,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 64,
+      "l": 44,
+      "c": -3.9,
+      "y": 18,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 83,
+      "l": 40,
+      "c": -1.58,
+      "y": 14,
+      "w": 0.85,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 40,
+      "h": 56,
+      "l": 28,
+      "c": 4.39,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 28,
+      "l": 35,
+      "c": -3.92,
+      "y": 4,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 37,
+      "c": -2.14,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 24,
+      "c": 2.32,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 29,
+      "c": -2.5,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 36,
+      "l": 24,
+      "c": 3.23,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 38,
+      "l": 36,
+      "c": -2.86,
+      "y": -3,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 107,
+      "l": 85,
+      "c": -2.48,
+      "y": -12,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 196,
+      "l": 41,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 129,
+      "l": 67,
+      "c": -2.62,
+      "y": 2,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 146,
+      "l": 44,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "42fbd42fdc64"
+}

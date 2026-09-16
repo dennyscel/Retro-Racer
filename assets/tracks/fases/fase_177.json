@@ -1,0 +1,190 @@
+{
+  "id": 177,
+  "championship": 7,
+  "cupName": "Grande Prêmio Tropical",
+  "cupRace": 15,
+  "name": "Ponte Miragem SX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1764,
+  "lapTargetSeconds": 61,
+  "signature": "subida cega",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.671,
+  "pits": [
+    0.3,
+    0.62,
+    0.89
+  ],
+  "palette": {
+    "grass": "#1eab29",
+    "grass2": "#189f21",
+    "shoulder": "#428632",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#198423",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 81,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 71,
+      "h": 143,
+      "l": 57,
+      "c": -3.61,
+      "y": 12,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 150,
+      "l": 39,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 112,
+      "l": 45,
+      "c": -1.58,
+      "y": 9,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 75,
+      "l": 48,
+      "c": 0.97,
+      "y": 48,
+      "w": 0.85,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 134,
+      "l": 55,
+      "c": -2.64,
+      "y": 9,
+      "w": 0.87,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 93,
+      "l": 61,
+      "c": 1.61,
+      "y": -35,
+      "w": 1.15,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 75,
+      "l": 57,
+      "c": -3.92,
+      "y": -18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 86,
+      "l": 44,
+      "c": 1.59,
+      "y": -14,
+      "w": 0.85,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 29,
+      "h": 53,
+      "l": 27,
+      "c": -4.4,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 35,
+      "c": 3.93,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 26,
+      "c": 2.15,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 31,
+      "c": -2.33,
+      "y": -5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 36,
+      "c": 2.51,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 33,
+      "l": 23,
+      "c": -3.25,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 36,
+      "c": 2.87,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 42,
+      "h": 97,
+      "l": 69,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "6d77746067c5"
+}

@@ -1,0 +1,172 @@
+{
+  "id": 25,
+  "championship": 1,
+  "cupName": "Copa Verde Inicial",
+  "cupRace": 25,
+  "name": "Serpentina Diamante Oeste",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.024,
+  "lapTargetSeconds": 56,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.653,
+  "pits": [
+    0.2,
+    0.49,
+    0.75
+  ],
+  "palette": {
+    "grass": "#b7c0c8",
+    "grass2": "#a3afba",
+    "shoulder": "#728392",
+    "skyTop": "#68abca",
+    "skyBot": "#b2cad8",
+    "mountColor": "#3c4a58",
+    "mountSnow": true,
+    "road": "#3f4854",
+    "road2": "#363f4b"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 113,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 67,
+      "h": 86,
+      "l": 61,
+      "c": -1.91,
+      "y": 47,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 133,
+      "l": 68,
+      "c": 1.85,
+      "y": 8,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 72,
+      "l": 59,
+      "c": 1.04,
+      "y": -51,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 60,
+      "l": 52,
+      "c": -2.56,
+      "y": -12,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 105,
+      "l": 42,
+      "c": -2.89,
+      "y": 0,
+      "w": 1.08,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 54,
+      "l": 24,
+      "c": 3.33,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 36,
+      "l": 39,
+      "c": -2.95,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 55,
+      "l": 33,
+      "c": 1.46,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 34,
+      "l": 20,
+      "c": -1.64,
+      "y": 9,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 45,
+      "l": 25,
+      "c": 1.82,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 34,
+      "l": 20,
+      "c": -2.18,
+      "y": -8,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 46,
+      "l": 40,
+      "c": 1.89,
+      "y": 4,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 175,
+      "l": 83,
+      "c": -1.46,
+      "y": 24,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 42,
+      "h": 145,
+      "l": 61,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "6e6b7dfc41a6"
+}

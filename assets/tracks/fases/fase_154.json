@@ -1,0 +1,208 @@
+{
+  "id": 154,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 19,
+  "name": "Volta Vector RX",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.1533,
+  "lapTargetSeconds": 63,
+  "signature": "final em mergulho",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.22,
+    0.61,
+    0.78
+  ],
+  "palette": {
+    "grass": "#28283b",
+    "grass2": "#1d1d2d",
+    "shoulder": "#0a0a1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0d0d21",
+    "mountSnow": false,
+    "road": "#2b2b35",
+    "road2": "#25252f"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 60,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 68,
+      "h": 72,
+      "l": 48,
+      "c": 0.96,
+      "y": -28,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 85,
+      "l": 55,
+      "c": -5.66,
+      "y": 10,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 90,
+      "l": 40,
+      "c": 2.75,
+      "y": -14,
+      "w": 0.91,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 39,
+      "l": 25,
+      "c": 3.17,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 55,
+      "l": 41,
+      "c": -2.8,
+      "y": -3,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 44,
+      "l": 34,
+      "c": 1.35,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 55,
+      "l": 21,
+      "c": -1.53,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 34,
+      "l": 26,
+      "c": 1.71,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 53,
+      "l": 21,
+      "c": 2.02,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 27,
+      "l": 42,
+      "c": -1.74,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 170,
+      "l": 52,
+      "c": 3.81,
+      "y": 18,
+      "w": 1.08,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 103,
+      "l": 44,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 132,
+      "l": 52,
+      "c": 1.74,
+      "y": -5,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 89,
+      "l": 45,
+      "c": 1.1,
+      "y": 43,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 154,
+      "l": 62,
+      "c": -2.79,
+      "y": -9,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 73,
+      "l": 68,
+      "c": -1.72,
+      "y": -36,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 84,
+      "l": 48,
+      "c": 4.19,
+      "y": -12,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 150,
+      "l": 56,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "94ff3acdd9a0"
+}

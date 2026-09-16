@@ -1,0 +1,235 @@
+{
+  "id": 868,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 4,
+  "name": "Túnel Atlas Norte",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.8687,
+  "lapTargetSeconds": 81,
+  "signature": "hairpin duplo",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.716,
+  "pits": [
+    0.22,
+    0.61,
+    0.9
+  ],
+  "palette": {
+    "grass": "#242434",
+    "grass2": "#171724",
+    "shoulder": "#10101d",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#030314",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 98,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 54,
+      "h": 100,
+      "l": 72,
+      "c": 2.64,
+      "y": -22,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 67,
+      "l": 41,
+      "c": -6.4,
+      "y": -18,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 34,
+      "h": 64,
+      "l": 40,
+      "c": 3.24,
+      "y": 14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 35,
+      "c": 6.35,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 37,
+      "l": 41,
+      "c": -5.72,
+      "y": -3,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 28,
+      "c": -3.41,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 33,
+      "c": 3.59,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 64,
+      "l": 20,
+      "c": -3.77,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 53,
+      "l": 31,
+      "c": -5.19,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 47,
+      "l": 42,
+      "c": 4.66,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 164,
+      "l": 52,
+      "c": 4.37,
+      "y": -18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 181,
+      "l": 33,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 132,
+      "l": 46,
+      "c": 4.06,
+      "y": 16,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 65,
+      "l": 59,
+      "c": -3.05,
+      "y": 53,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 154,
+      "l": 56,
+      "c": 3.21,
+      "y": 22,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 101,
+      "l": 62,
+      "c": -2.03,
+      "y": -30,
+      "w": 1.08,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 66,
+      "l": 34,
+      "c": 8.23,
+      "y": -12,
+      "w": 0.86,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 69,
+      "l": 36,
+      "c": 4.46,
+      "y": 14,
+      "w": 1.12,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 24,
+      "c": 5.19,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 36,
+      "c": -4.66,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 49,
+      "h": 104,
+      "l": 42,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ac4bb2e59edb"
+}

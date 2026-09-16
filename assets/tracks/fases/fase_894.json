@@ -1,0 +1,235 @@
+{
+  "id": 894,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 3,
+  "name": "Estrada Nômade Sprint",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.8948,
+  "lapTargetSeconds": 83,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.722,
+  "pits": [
+    0.17,
+    0.53,
+    0.86
+  ],
+  "palette": {
+    "grass": "#17ae22",
+    "grass2": "#0a9b13",
+    "shoulder": "#428a30",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1e9128",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 114,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 48,
+      "h": 96,
+      "l": 68,
+      "c": 3.48,
+      "y": 2,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 113,
+      "l": 70,
+      "c": -2.57,
+      "y": 23,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 118,
+      "l": 42,
+      "c": 4.54,
+      "y": -2,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 125,
+      "l": 68,
+      "c": -2.99,
+      "y": -24,
+      "w": 1.15,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 88,
+      "l": 60,
+      "c": 7.24,
+      "y": 18,
+      "w": 0.84,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 53,
+      "l": 42,
+      "c": -3.8,
+      "y": 0,
+      "w": 0.88,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 22,
+      "c": 4.41,
+      "y": -8,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 44,
+      "l": 37,
+      "c": -3.94,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 45,
+      "l": 21,
+      "c": -3.84,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 26,
+      "c": 4.02,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 31,
+      "c": -4.2,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 34,
+      "l": 40,
+      "c": 5.86,
+      "y": 0,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 54,
+      "l": 38,
+      "c": -5.26,
+      "y": 6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 61,
+      "h": 131,
+      "l": 87,
+      "c": 5.01,
+      "y": -18,
+      "w": 1.05,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 180,
+      "l": 48,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 133,
+      "l": 51,
+      "c": -4.54,
+      "y": 2,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 62,
+      "l": 60,
+      "c": 3.45,
+      "y": 24,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 155,
+      "l": 61,
+      "c": -3.7,
+      "y": 22,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 126,
+      "l": 58,
+      "c": 2.38,
+      "y": -32,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 87,
+      "l": 53,
+      "c": 5.77,
+      "y": -12,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 90,
+      "l": 64,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "8cf8bfd0186a"
+}

@@ -1,0 +1,217 @@
+{
+  "id": 444,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 12,
+  "name": "Arena Saturno Pro",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.4439,
+  "lapTargetSeconds": 69,
+  "signature": "túnel escuro",
+  "dominantFeature": "descida rápida",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.695,
+  "pits": [
+    0.29,
+    0.59,
+    0.86
+  ],
+  "palette": {
+    "grass": "#202036",
+    "grass2": "#141427",
+    "shoulder": "#141427",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c23",
+    "mountSnow": false,
+    "road": "#2a2a36",
+    "road2": "#242430"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 106,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 46,
+      "h": 64,
+      "l": 68,
+      "c": 1.76,
+      "y": -30,
+      "w": 1.02,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 37,
+      "c": -4.28,
+      "y": -12,
+      "w": 0.9,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 90,
+      "l": 36,
+      "c": 4.04,
+      "y": 0,
+      "w": 0.91,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 61,
+      "l": 29,
+      "c": 4.69,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 33,
+      "l": 37,
+      "c": -4.19,
+      "y": -3,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 50,
+      "l": 36,
+      "c": 2.34,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 61,
+      "l": 23,
+      "c": -2.52,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 40,
+      "l": 28,
+      "c": 2.7,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 41,
+      "l": 25,
+      "c": -3.53,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 43,
+      "l": 38,
+      "c": 3.13,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 92,
+      "l": 48,
+      "c": 2.77,
+      "y": -18,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 25,
+      "h": 93,
+      "l": 34,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 124,
+      "l": 54,
+      "c": 2.84,
+      "y": 12,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 97,
+      "l": 55,
+      "c": 2.03,
+      "y": 45,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 146,
+      "l": 64,
+      "c": 2.0,
+      "y": -6,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 65,
+      "l": 58,
+      "c": -2.52,
+      "y": -38,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 42,
+      "l": 58,
+      "c": 6.12,
+      "y": 10,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 95,
+      "l": 32,
+      "c": -3.06,
+      "y": 14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 43,
+      "h": 136,
+      "l": 58,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2ef72f246628"
+}

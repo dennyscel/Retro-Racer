@@ -1,0 +1,217 @@
+{
+  "id": 443,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 11,
+  "name": "Ponte Jaguar Leste",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.4429,
+  "lapTargetSeconds": 69,
+  "signature": "retomada após túnel",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.22,
+    0.48,
+    0.91
+  ],
+  "palette": {
+    "grass": "#2b2b3b",
+    "grass2": "#171725",
+    "shoulder": "#141422",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#09091a",
+    "mountSnow": false,
+    "road": "#2b2b35",
+    "road2": "#25252f"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 115,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 23,
+      "c": -3.53,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 49,
+      "l": 24,
+      "c": 3.13,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 144,
+      "l": 88,
+      "c": 2.76,
+      "y": 24,
+      "w": 1.08,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 111,
+      "l": 43,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 48,
+      "h": 151,
+      "l": 64,
+      "c": 2.84,
+      "y": 4,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 58,
+      "l": 49,
+      "c": 2.03,
+      "y": 29,
+      "w": 1.12,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 89,
+      "l": 38,
+      "c": 2.0,
+      "y": -2,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 100,
+      "l": 67,
+      "c": -2.52,
+      "y": -53,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 70,
+      "l": 50,
+      "c": 6.12,
+      "y": 10,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 93,
+      "l": 29,
+      "c": -3.05,
+      "y": 0,
+      "w": 0.82,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 30,
+      "l": 38,
+      "c": 3.53,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 56,
+      "l": 39,
+      "c": -3.13,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 23,
+      "c": 1.59,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 28,
+      "c": -1.77,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 33,
+      "c": 1.95,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 44,
+      "l": 34,
+      "c": 4.97,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 28,
+      "l": 40,
+      "c": -4.46,
+      "y": 4,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 61,
+      "h": 125,
+      "l": 65,
+      "c": -4.16,
+      "y": -18,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 42,
+      "h": 123,
+      "l": 55,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b612e08b4703"
+}

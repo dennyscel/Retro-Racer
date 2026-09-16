@@ -1,0 +1,190 @@
+{
+  "id": 486,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 27,
+  "name": "Passagem Cascata Turbo",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.486,
+  "lapTargetSeconds": 68,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.685,
+  "pits": [
+    0.17,
+    0.59,
+    0.74
+  ],
+  "palette": {
+    "grass": "#12a01d",
+    "grass2": "#19a122",
+    "shoulder": "#3f832e",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8825",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 110,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 48,
+      "h": 120,
+      "l": 56,
+      "c": 1.89,
+      "y": -2,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 81,
+      "l": 47,
+      "c": 2.82,
+      "y": 31,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 142,
+      "l": 66,
+      "c": 2.94,
+      "y": -6,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 109,
+      "l": 50,
+      "c": -1.83,
+      "y": -48,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 64,
+      "l": 44,
+      "c": 4.46,
+      "y": -18,
+      "w": 0.9,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 101,
+      "l": 33,
+      "c": -4.15,
+      "y": 14,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 32,
+      "c": 4.82,
+      "y": 6,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 38,
+      "l": 28,
+      "c": -4.32,
+      "y": -3,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 27,
+      "c": 2.42,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 32,
+      "c": -2.6,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 37,
+      "c": 2.78,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 34,
+      "l": 28,
+      "c": -3.67,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 48,
+      "l": 29,
+      "c": 3.26,
+      "y": 6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 107,
+      "l": 57,
+      "c": -2.9,
+      "y": 24,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 204,
+      "l": 40,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 154,
+      "l": 44,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "145c2b3c3814"
+}

@@ -1,0 +1,20 @@
+{
+  "product": "Retrô Racer Championship — Horizonte Zero",
+  "version": "AAA_R2+C20",
+  "date": "2026-09-16",
+  "save_key": "retro_racer_championship_v30",
+  "cycle_focus": "OURO 20 — TELEMETRIA E PAINEL",
+  "telemetry": {
+    "local_ring": 500,
+    "pii": false,
+    "opt_in_default": false,
+    "https_only": true,
+    "hidden_dashboard": "5 taps logo"
+  },
+  "qa": {
+    "migration": "v71→v72 PASS",
+    "node_check": "PASS",
+    "shell_gzip_kb": 127.8
+  },
+  "next": "OURO 21 — ANTI-TRAPAÇA E INTEGRIDADE"
+}

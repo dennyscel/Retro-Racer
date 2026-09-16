@@ -1,0 +1,208 @@
+{
+  "id": 93,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 12,
+  "name": "Via Expressa Prisma 16B",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0922,
+  "lapTargetSeconds": 61,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.2,
+    0.62,
+    0.77
+  ],
+  "palette": {
+    "grass": "#333346",
+    "grass2": "#242434",
+    "shoulder": "#1c1c2c",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0d0d21",
+    "mountSnow": false,
+    "road": "#32323c",
+    "road2": "#2c2c36"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 83,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 25,
+      "c": -2.68,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 31,
+      "l": 31,
+      "c": 2.35,
+      "y": -3,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 162,
+      "l": 74,
+      "c": 1.95,
+      "y": -12,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 181,
+      "l": 43,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 123,
+      "l": 38,
+      "c": 2.23,
+      "y": -6,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 66,
+      "l": 49,
+      "c": -1.51,
+      "y": 31,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 145,
+      "l": 48,
+      "c": 1.38,
+      "y": 8,
+      "w": 1.1,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 128,
+      "l": 47,
+      "c": 0.7,
+      "y": -27,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 76,
+      "l": 36,
+      "c": 5.04,
+      "y": 10,
+      "w": 0.95,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 83,
+      "l": 36,
+      "c": 2.34,
+      "y": 14,
+      "w": 0.86,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 40,
+      "c": 2.68,
+      "y": 0,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 38,
+      "l": 25,
+      "c": -2.35,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 33,
+      "c": -1.04,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 20,
+      "c": 1.22,
+      "y": 9,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 53,
+      "l": 25,
+      "c": -1.4,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 62,
+      "l": 36,
+      "c": 4.13,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 48,
+      "l": 26,
+      "c": -3.68,
+      "y": -3,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 53,
+      "h": 149,
+      "l": 69,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2b32f97391cf"
+}

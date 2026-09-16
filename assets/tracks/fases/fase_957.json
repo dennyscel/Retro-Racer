@@ -1,0 +1,226 @@
+{
+  "id": 957,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 12,
+  "name": "Autódromo Trovão Turbo",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9579,
+  "lapTargetSeconds": 82,
+  "signature": "cotovelo em subida",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.717,
+  "pits": [
+    0.16,
+    0.53,
+    0.77
+  ],
+  "palette": {
+    "grass": "#242433",
+    "grass2": "#0f0f1c",
+    "shoulder": "#0f0f1c",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#090919",
+    "mountSnow": false,
+    "road": "#25252e",
+    "road2": "#1f1f28"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 117,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 55,
+      "l": 31,
+      "c": -5.48,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 34,
+      "c": 4.92,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 162,
+      "l": 56,
+      "c": 4.65,
+      "y": -18,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 109,
+      "l": 32,
+      "c": -0.39,
+      "y": 0,
+      "w": 0.97,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 87,
+      "l": 38,
+      "c": 4.27,
+      "y": -1,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 66,
+      "l": 38,
+      "c": 3.22,
+      "y": 31,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 109,
+      "l": 48,
+      "c": 3.42,
+      "y": 9,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 68,
+      "l": 71,
+      "c": 2.18,
+      "y": -27,
+      "w": 1.1,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 76,
+      "l": 60,
+      "c": 8.6,
+      "y": -12,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 53,
+      "l": 39,
+      "c": -4.71,
+      "y": 14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 50,
+      "l": 24,
+      "c": 5.48,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 44,
+      "l": 28,
+      "c": -4.92,
+      "y": 4,
+      "w": 0.9,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 63,
+      "l": 33,
+      "c": -2.85,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 20,
+      "c": 3.03,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 25,
+      "c": -3.21,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 30,
+      "l": 20,
+      "c": 6.93,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 54,
+      "l": 29,
+      "c": -6.25,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 143,
+      "l": 75,
+      "c": -6.04,
+      "y": 12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 198,
+      "l": 25,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 117,
+      "l": 57,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "7515a38be427"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 661,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 13,
+  "name": "Rally Jaguar Pro",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.6613,
+  "lapTargetSeconds": 74,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.696,
+  "pits": [
+    0.18,
+    0.52,
+    0.81
+  ],
+  "palette": {
+    "grass": "#0ea91a",
+    "grass2": "#0ea217",
+    "shoulder": "#378225",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#158b20",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 59,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 75,
+      "h": 179,
+      "l": 79,
+      "c": -4.56,
+      "y": -18,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 178,
+      "l": 48,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 72,
+      "l": 61,
+      "c": -2.3,
+      "y": 20,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 91,
+      "l": 42,
+      "c": 3.17,
+      "y": 52,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 65,
+      "h": 94,
+      "l": 71,
+      "c": -3.36,
+      "y": 0,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 109,
+      "l": 65,
+      "c": 2.13,
+      "y": -51,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 87,
+      "l": 37,
+      "c": -5.18,
+      "y": -12,
+      "w": 0.92,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 70,
+      "l": 45,
+      "c": 4.63,
+      "y": 0,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 27,
+      "c": 5.39,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 57,
+      "l": 36,
+      "c": -4.84,
+      "y": 4,
+      "w": 0.88,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 64,
+      "l": 24,
+      "c": 2.79,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 29,
+      "c": -2.97,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 54,
+      "l": 34,
+      "c": 3.15,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 39,
+      "l": 23,
+      "c": -4.23,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 29,
+      "l": 37,
+      "c": 3.78,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 160,
+      "l": 56,
+      "c": 3.44,
+      "y": -18,
+      "w": 1.07,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 51,
+      "h": 141,
+      "l": 65,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "fa5c6263601c"
+}

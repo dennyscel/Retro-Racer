@@ -1,0 +1,199 @@
+{
+  "id": 631,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 10,
+  "name": "Caminho Gaia Pro",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.6313,
+  "lapTargetSeconds": 72,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.694,
+  "pits": [
+    0.29,
+    0.58,
+    0.87
+  ],
+  "palette": {
+    "grass": "#159b1f",
+    "grass2": "#13941c",
+    "shoulder": "#3d7d2d",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1e8427",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 97,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 77,
+      "h": 101,
+      "l": 49,
+      "c": -3.63,
+      "y": 12,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 208,
+      "l": 43,
+      "c": 0.39,
+      "y": 0,
+      "w": 0.97,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 96,
+      "l": 67,
+      "c": 3.5,
+      "y": -4,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 99,
+      "l": 47,
+      "c": 2.58,
+      "y": 22,
+      "w": 1.18,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 118,
+      "l": 41,
+      "c": 2.65,
+      "y": 20,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 81,
+      "l": 65,
+      "c": 1.62,
+      "y": -21,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 45,
+      "l": 35,
+      "c": 7.26,
+      "y": -12,
+      "w": 0.84,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 94,
+      "l": 36,
+      "c": -3.82,
+      "y": 14,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 41,
+      "c": -4.43,
+      "y": 0,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 27,
+      "c": 3.95,
+      "y": 6,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 30,
+      "c": 2.17,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 35,
+      "c": -2.35,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 60,
+      "l": 22,
+      "c": 2.53,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 37,
+      "c": 5.87,
+      "y": 0,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 28,
+      "c": -5.28,
+      "y": 6,
+      "w": 0.89,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 178,
+      "l": 68,
+      "c": -5.02,
+      "y": 12,
+      "w": 1.18,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 103,
+      "l": 59,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "cdb70b50d661"
+}

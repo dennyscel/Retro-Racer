@@ -1,0 +1,199 @@
+{
+  "id": 83,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 2,
+  "name": "Caminho Prisma Sul",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0822,
+  "lapTargetSeconds": 59,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.669,
+  "pits": [
+    0.18,
+    0.57,
+    0.91
+  ],
+  "palette": {
+    "grass": "#c9d1d8",
+    "grass2": "#a9b4be",
+    "shoulder": "#808e9b",
+    "skyTop": "#71afcc",
+    "skyBot": "#b8cfdb",
+    "mountColor": "#394653",
+    "mountSnow": true,
+    "road": "#454d58",
+    "road2": "#3c444f"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 85,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 62,
+      "l": 49,
+      "c": -1.14,
+      "y": 41,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 81,
+      "l": 54,
+      "c": 0.94,
+      "y": -10,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 116,
+      "l": 57,
+      "c": -1.75,
+      "y": -37,
+      "w": 1.03,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 42,
+      "l": 54,
+      "c": 4.27,
+      "y": -18,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 105,
+      "l": 37,
+      "c": 1.82,
+      "y": 14,
+      "w": 0.92,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 40,
+      "h": 38,
+      "l": 38,
+      "c": -2.07,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 62,
+      "l": 34,
+      "c": 1.79,
+      "y": 4,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 37,
+      "c": -2.33,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 24,
+      "c": 2.51,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 29,
+      "c": -2.69,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 34,
+      "c": 3.52,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 34,
+      "l": 35,
+      "c": -3.12,
+      "y": 6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 121,
+      "l": 57,
+      "c": -2.76,
+      "y": -12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 124,
+      "l": 24,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 96,
+      "l": 63,
+      "c": 0.94,
+      "y": 14,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 75,
+      "l": 39,
+      "c": 2.02,
+      "y": 42,
+      "w": 0.99,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 107,
+      "l": 67,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "abeee6921c21"
+}

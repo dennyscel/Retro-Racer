@@ -1,0 +1,217 @@
+{
+  "id": 209,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 20,
+  "name": "Túnel Delta Turbo",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2084,
+  "lapTargetSeconds": 65,
+  "signature": "miolo ondulado",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.16,
+    0.57,
+    0.91
+  ],
+  "palette": {
+    "grass": "#262639",
+    "grass2": "#1d1d2d",
+    "shoulder": "#121222",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#141428",
+    "mountSnow": false,
+    "road": "#30303a",
+    "road2": "#2a2a34"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 109,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 39,
+      "h": 53,
+      "l": 48,
+      "c": -1.92,
+      "y": 14,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 62,
+      "l": 40,
+      "c": 2.19,
+      "y": 0,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 50,
+      "l": 32,
+      "c": -1.9,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 35,
+      "l": 33,
+      "c": 2.4,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 46,
+      "l": 20,
+      "c": -2.58,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 57,
+      "l": 25,
+      "c": 2.76,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 42,
+      "l": 36,
+      "c": -3.64,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 60,
+      "l": 33,
+      "c": 3.23,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 75,
+      "h": 171,
+      "l": 73,
+      "c": -2.87,
+      "y": 12,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 210,
+      "l": 48,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 136,
+      "l": 61,
+      "c": 2.92,
+      "y": -8,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 103,
+      "l": 70,
+      "c": -2.1,
+      "y": 28,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 74,
+      "l": 71,
+      "c": -2.08,
+      "y": -8,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 85,
+      "l": 73,
+      "c": 1.2,
+      "y": -47,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 79,
+      "l": 61,
+      "c": -2.95,
+      "y": 10,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 44,
+      "c": 3.15,
+      "y": 0,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 29,
+      "c": -3.64,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 29,
+      "l": 27,
+      "c": 3.23,
+      "y": 4,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 36,
+      "h": 161,
+      "l": 53,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "cf5d51a6bc3b"
+}

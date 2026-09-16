@@ -1,0 +1,262 @@
+{
+  "id": 619,
+  "championship": 23,
+  "cupName": "Taça Praia do Eclipse",
+  "cupRace": 25,
+  "name": "Desafio Monsoon Mirror",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6192,
+  "lapTargetSeconds": 75,
+  "signature": "chicane curta",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.705,
+  "pits": [
+    0.3,
+    0.52,
+    0.75
+  ],
+  "palette": {
+    "grass": "#262637",
+    "grass2": "#121220",
+    "shoulder": "#0e0e1c",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#050517",
+    "mountSnow": false,
+    "road": "#282832",
+    "road2": "#22222c"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 65,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 73,
+      "l": 38,
+      "c": -4.27,
+      "y": -14,
+      "w": 1.07,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 32,
+      "c": 4.97,
+      "y": 12,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 32,
+      "l": 22,
+      "c": -4.45,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 49,
+      "l": 29,
+      "c": -2.52,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 60,
+      "l": 34,
+      "c": 2.7,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 39,
+      "l": 21,
+      "c": -2.88,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 28,
+      "c": 3.81,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 42,
+      "l": 23,
+      "c": -3.39,
+      "y": -6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 117,
+      "l": 63,
+      "c": -5.54,
+      "y": -12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 200,
+      "l": 33,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 116,
+      "l": 39,
+      "c": 3.05,
+      "y": 6,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 79,
+      "l": 60,
+      "c": 2.2,
+      "y": 22,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 138,
+      "l": 49,
+      "c": -2.2,
+      "y": 20,
+      "w": 0.87,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 113,
+      "l": 63,
+      "c": 2.67,
+      "y": -25,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 61,
+      "l": 51,
+      "c": 6.47,
+      "y": 10,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 78,
+      "l": 34,
+      "c": 3.29,
+      "y": 14,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 21,
+      "c": -3.81,
+      "y": -8,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 49,
+      "l": 38,
+      "c": 3.39,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 22,
+      "c": 3.45,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 27,
+      "c": -3.63,
+      "y": -5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 32,
+      "c": 3.81,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 39,
+      "c": -5.25,
+      "y": 12,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 59,
+      "l": 39,
+      "c": 4.71,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 47,
+      "h": 123,
+      "l": 51,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "5f5dbbfa43aa"
+}

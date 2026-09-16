@@ -1,0 +1,190 @@
+{
+  "id": 466,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 7,
+  "name": "Passagem Cascata Oeste",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.4659,
+  "lapTargetSeconds": 67,
+  "signature": "ponte estreita",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.3,
+    0.49,
+    0.84
+  ],
+  "palette": {
+    "grass": "#272738",
+    "grass2": "#11111f",
+    "shoulder": "#0a0a18",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0a0a1c",
+    "mountSnow": false,
+    "road": "#262630",
+    "road2": "#20202a"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 74,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 68,
+      "h": 120,
+      "l": 60,
+      "c": 2.41,
+      "y": -52,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 59,
+      "c": -5.84,
+      "y": -12,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 84,
+      "l": 37,
+      "c": 2.87,
+      "y": 0,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 29,
+      "c": 3.31,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 35,
+      "l": 38,
+      "c": -2.93,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 52,
+      "l": 22,
+      "c": 3.13,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 63,
+      "l": 27,
+      "c": -3.31,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 42,
+      "l": 32,
+      "c": 3.49,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 49,
+      "l": 25,
+      "c": 4.76,
+      "y": -8,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 45,
+      "l": 39,
+      "c": -4.26,
+      "y": 4,
+      "w": 0.92,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 98,
+      "l": 70,
+      "c": 3.95,
+      "y": 12,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 127,
+      "l": 31,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 84,
+      "l": 40,
+      "c": 1.84,
+      "y": 4,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 57,
+      "l": 42,
+      "c": 2.78,
+      "y": 35,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 106,
+      "l": 50,
+      "c": 2.9,
+      "y": -2,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 158,
+      "l": 68,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c450d4d8eb3e"
+}

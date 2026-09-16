@@ -1,0 +1,190 @@
+{
+  "id": 381,
+  "championship": 15,
+  "cupName": "Torneio Baía dos Ventos",
+  "cupRace": 3,
+  "name": "Vale Monsoon Circuit",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3808,
+  "lapTargetSeconds": 66,
+  "signature": "cotovelo em subida",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.679,
+  "pits": [
+    0.3,
+    0.59,
+    0.77
+  ],
+  "palette": {
+    "grass": "#b6bfcc",
+    "grass2": "#a2afbf",
+    "shoulder": "#6c8292",
+    "skyTop": "#5da6c8",
+    "skyBot": "#aac5d3",
+    "mountColor": "#2f4151",
+    "mountSnow": true,
+    "road": "#38414f",
+    "road2": "#2f3846"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 63,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 63,
+      "h": 102,
+      "l": 67,
+      "c": -1.91,
+      "y": 51,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 89,
+      "l": 64,
+      "c": 1.85,
+      "y": 3,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 80,
+      "l": 55,
+      "c": 2.42,
+      "y": -47,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 72,
+      "l": 44,
+      "c": 5.86,
+      "y": -12,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 87,
+      "l": 41,
+      "c": -2.89,
+      "y": 0,
+      "w": 0.9,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 32,
+      "h": 32,
+      "l": 28,
+      "c": 3.33,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 58,
+      "l": 38,
+      "c": -2.95,
+      "y": -3,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 35,
+      "l": 29,
+      "c": -1.46,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 46,
+      "l": 34,
+      "c": 1.64,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 57,
+      "l": 21,
+      "c": -1.82,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 24,
+      "c": 4.77,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 30,
+      "l": 39,
+      "c": -4.27,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 59,
+      "h": 115,
+      "l": 61,
+      "c": 3.96,
+      "y": 12,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 170,
+      "l": 47,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 104,
+      "l": 73,
+      "c": -1.85,
+      "y": 3,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 37,
+      "h": 109,
+      "l": 65,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2dc7e2ae0782"
+}

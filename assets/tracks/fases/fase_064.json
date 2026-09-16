@@ -1,0 +1,208 @@
+{
+  "id": 64,
+  "championship": 3,
+  "cupName": "Desafio Vale do Sol",
+  "cupRace": 10,
+  "name": "Anel Monsoon RX",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.0631,
+  "lapTargetSeconds": 61,
+  "signature": "final em mergulho",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.672,
+  "pits": [
+    0.21,
+    0.58,
+    0.78
+  ],
+  "palette": {
+    "grass": "#1d1d2c",
+    "grass2": "#0f0f1c",
+    "shoulder": "#0e0e1b",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#00000c",
+    "mountSnow": false,
+    "road": "#22222b",
+    "road2": "#1c1c25"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 112,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 56,
+      "h": 64,
+      "l": 48,
+      "c": 0.8,
+      "y": -46,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 55,
+      "l": 49,
+      "c": 5.29,
+      "y": -18,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 104,
+      "l": 34,
+      "c": 2.51,
+      "y": 14,
+      "w": 1.1,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 31,
+      "l": 23,
+      "c": -2.88,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 33,
+      "l": 35,
+      "c": 2.53,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 62,
+      "l": 34,
+      "c": 1.17,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 41,
+      "l": 21,
+      "c": -1.35,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 52,
+      "l": 26,
+      "c": 1.53,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 45,
+      "l": 41,
+      "c": 1.72,
+      "y": 0,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 43,
+      "l": 36,
+      "c": -1.47,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 128,
+      "l": 88,
+      "c": 3.53,
+      "y": 12,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 193,
+      "l": 29,
+      "c": 0.39,
+      "y": -6,
+      "w": 0.93,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 58,
+      "h": 120,
+      "l": 70,
+      "c": 1.53,
+      "y": 14,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 113,
+      "l": 60,
+      "c": -0.93,
+      "y": 49,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 142,
+      "l": 44,
+      "c": 2.58,
+      "y": 14,
+      "w": 0.84,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 65,
+      "l": 68,
+      "c": 1.57,
+      "y": -18,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 54,
+      "l": 42,
+      "c": 3.82,
+      "y": -12,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 124,
+      "l": 66,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2411f63ece0f"
+}

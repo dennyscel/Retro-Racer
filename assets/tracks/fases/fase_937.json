@@ -1,0 +1,217 @@
+{
+  "id": 937,
+  "championship": 35,
+  "cupName": "Copa Megacidade Final",
+  "cupRace": 19,
+  "name": "Vale Fênix Leste",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.9379,
+  "lapTargetSeconds": 82,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.716,
+  "pits": [
+    0.29,
+    0.64,
+    0.87
+  ],
+  "palette": {
+    "grass": "#129d1c",
+    "grass2": "#0f9417",
+    "shoulder": "#418431",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1e8828",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 69,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 63,
+      "h": 167,
+      "l": 61,
+      "c": -4.59,
+      "y": -18,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 190,
+      "l": 24,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 120,
+      "l": 49,
+      "c": 4.22,
+      "y": -1,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 107,
+      "l": 38,
+      "c": 3.18,
+      "y": 40,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 142,
+      "l": 59,
+      "c": 3.38,
+      "y": -1,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 93,
+      "l": 71,
+      "c": 2.14,
+      "y": -39,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 51,
+      "l": 61,
+      "c": -8.52,
+      "y": 18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 58,
+      "l": 48,
+      "c": 4.65,
+      "y": 0,
+      "w": 1.09,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 39,
+      "c": -5.42,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 39,
+      "c": 4.86,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 30,
+      "c": 2.81,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 35,
+      "c": -2.99,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 50,
+      "l": 22,
+      "c": 3.17,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 35,
+      "c": 6.86,
+      "y": 6,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 40,
+      "c": -6.19,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 148,
+      "l": 80,
+      "c": -5.98,
+      "y": 12,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 159,
+      "l": 42,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 73,
+      "l": 68,
+      "c": 3.38,
+      "y": 23,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 121,
+      "l": 53,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e2a270c06706"
+}

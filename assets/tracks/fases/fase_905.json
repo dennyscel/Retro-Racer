@@ -1,0 +1,208 @@
+{
+  "id": 905,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 14,
+  "name": "Caminho Tempestade Circuit",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9058,
+  "lapTargetSeconds": 78,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.706,
+  "pits": [
+    0.26,
+    0.48,
+    0.85
+  ],
+  "palette": {
+    "grass": "#1b1b31",
+    "grass2": "#111123",
+    "shoulder": "#030315",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#04041b",
+    "mountSnow": false,
+    "road": "#22222e",
+    "road2": "#1c1c28"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 63,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 29,
+      "h": 33,
+      "l": 23,
+      "c": -5.89,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 53,
+      "l": 24,
+      "c": 5.3,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 174,
+      "l": 88,
+      "c": 5.04,
+      "y": -18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 105,
+      "l": 30,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 151,
+      "l": 58,
+      "c": 4.56,
+      "y": 23,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 50,
+      "l": 56,
+      "c": 3.47,
+      "y": 43,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 40,
+      "h": 89,
+      "l": 68,
+      "c": -3.72,
+      "y": 17,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 60,
+      "l": 49,
+      "c": -2.39,
+      "y": -47,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 64,
+      "l": 36,
+      "c": 5.81,
+      "y": 18,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 83,
+      "l": 29,
+      "c": -5.06,
+      "y": 14,
+      "w": 1.16,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 62,
+      "l": 38,
+      "c": 5.89,
+      "y": 12,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 60,
+      "l": 39,
+      "c": -5.3,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 35,
+      "l": 35,
+      "c": 3.11,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 46,
+      "l": 22,
+      "c": -3.29,
+      "y": 5,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 57,
+      "l": 27,
+      "c": 3.47,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 42,
+      "l": 34,
+      "c": 4.73,
+      "y": -8,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 32,
+      "l": 40,
+      "c": -4.24,
+      "y": 4,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 48,
+      "h": 145,
+      "l": 69,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "edd9b52ed5d6"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 556,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 16,
+  "name": "Autódromo Vulcano Oeste",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.5561,
+  "lapTargetSeconds": 71,
+  "signature": "ponte estreita",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.689,
+  "pits": [
+    0.31,
+    0.52,
+    0.84
+  ],
+  "palette": {
+    "grass": "#1a1a30",
+    "grass2": "#0c0c1f",
+    "shoulder": "#060619",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#03031a",
+    "mountSnow": false,
+    "road": "#262632",
+    "road2": "#20202c"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 84,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 54,
+      "h": 128,
+      "l": 60,
+      "c": 2.56,
+      "y": -34,
+      "w": 1.07,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 43,
+      "l": 37,
+      "c": 6.21,
+      "y": 18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 70,
+      "l": 43,
+      "c": -3.12,
+      "y": 0,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 43,
+      "l": 31,
+      "c": -3.61,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 57,
+      "l": 23,
+      "c": 3.2,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 34,
+      "l": 22,
+      "c": 3.32,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 45,
+      "l": 27,
+      "c": -3.5,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 56,
+      "l": 32,
+      "c": 3.68,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 27,
+      "c": 5.05,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 29,
+      "l": 24,
+      "c": -4.53,
+      "y": -6,
+      "w": 0.92,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 140,
+      "l": 76,
+      "c": -4.23,
+      "y": 12,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 157,
+      "l": 46,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 96,
+      "l": 58,
+      "c": 2.05,
+      "y": 13,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 97,
+      "l": 62,
+      "c": 2.96,
+      "y": 29,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 118,
+      "l": 68,
+      "c": 3.11,
+      "y": 5,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 129,
+      "l": 50,
+      "c": -1.95,
+      "y": -42,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 96,
+      "l": 58,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dd8d7068635b"
+}

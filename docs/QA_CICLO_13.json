@@ -1,0 +1,636 @@
+{
+  "version": "AAA_R2+C13",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 65,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "livery": {
+        "active": true,
+        "base": "#123456",
+        "layers": [
+          {
+            "pattern": 5,
+            "color": "#ff3300"
+          }
+        ],
+        "number": 16,
+        "sponsor": 3
+      },
+      "coach": {
+        "traces": {},
+        "last": null
+      },
+      "c13": false
+    },
+    "first": {
+      "last": {
+        "level": 333,
+        "time": 60,
+        "losses": [
+          null,
+          null,
+          null
+        ],
+        "tip": "S1: guarde um pulso curto de nitro para a saída e carregue velocidade até o próximo setor.",
+        "newBest": true
+      },
+      "stored": {
+        "time": 60,
+        "sectors": [
+          20,
+          20,
+          20
+        ],
+        "trace": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50,
+          52,
+          54,
+          56,
+          60
+        ]
+      },
+      "snap": {
+        "session": {
+          "hasReference": false,
+          "best": {
+            "time": 60,
+            "trace": [
+              0,
+              2,
+              4,
+              6,
+              8,
+              10,
+              12,
+              14,
+              16,
+              18,
+              20,
+              22,
+              24,
+              26,
+              28,
+              30,
+              32,
+              34,
+              36,
+              38,
+              40,
+              42,
+              44,
+              46,
+              48,
+              50,
+              52,
+              54,
+              56,
+              60
+            ],
+            "sectors": [
+              20,
+              20,
+              20
+            ],
+            "offroad": [
+              0,
+              0,
+              0
+            ],
+            "crashes": [
+              0,
+              0,
+              0
+            ],
+            "nitro": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        "last": {
+          "level": 333,
+          "time": 60,
+          "reference": null,
+          "current": {
+            "time": 60,
+            "trace": [
+              0,
+              2,
+              4,
+              6,
+              8,
+              10,
+              12,
+              14,
+              16,
+              18,
+              20,
+              22,
+              24,
+              26,
+              28,
+              30,
+              32,
+              34,
+              36,
+              38,
+              40,
+              42,
+              44,
+              46,
+              48,
+              50,
+              52,
+              54,
+              56,
+              60
+            ],
+            "sectors": [
+              20,
+              20,
+              20
+            ],
+            "offroad": [
+              0,
+              0,
+              0
+            ],
+            "crashes": [
+              0,
+              0,
+              0
+            ],
+            "nitro": [
+              0,
+              0,
+              0
+            ]
+          },
+          "losses": [
+            null,
+            null,
+            null
+          ],
+          "tip": "S1: guarde um pulso curto de nitro para a saída e carregue velocidade até o próximo setor.",
+          "newBest": true
+        },
+        "stored": {
+          "time": 60,
+          "sectors": [
+            20,
+            20,
+            20
+          ],
+          "trace": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            60
+          ]
+        }
+      },
+      "visible": true,
+      "tip": "S1: guarde um pulso curto de nitro para a saída e carregue velocidade até o próximo setor.",
+      "sectors": [
+        "S1BASE",
+        "S2BASE",
+        "S3BASE"
+      ]
+    },
+    "second": {
+      "result": {
+        "level": 333,
+        "time": 64,
+        "reference": {
+          "time": 60,
+          "sectors": [
+            20,
+            20,
+            20
+          ],
+          "trace": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            60
+          ]
+        },
+        "current": {
+          "time": 64,
+          "trace": [
+            0.1,
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22.4,
+            24.8,
+            27.2,
+            29.6,
+            32,
+            34.4,
+            36.8,
+            39.2,
+            41.6,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60,
+            64
+          ],
+          "sectors": [
+            20,
+            24,
+            20
+          ],
+          "offroad": [
+            0,
+            4.7,
+            0
+          ],
+          "crashes": [
+            0,
+            0,
+            0
+          ],
+          "nitro": [
+            0,
+            0,
+            0
+          ]
+        },
+        "losses": [
+          0,
+          4,
+          0
+        ],
+        "tip": "S2: entre 5% mais cedo e mantenha o carro no asfalto; foram 4.7s fora da pista.",
+        "newBest": false
+      },
+      "last": {
+        "level": 333,
+        "time": 64,
+        "losses": [
+          0,
+          4,
+          0
+        ],
+        "tip": "S2: entre 5% mais cedo e mantenha o carro no asfalto; foram 4.7s fora da pista.",
+        "newBest": false
+      },
+      "stored": {
+        "time": 60,
+        "sectors": [
+          20,
+          20,
+          20
+        ],
+        "trace": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50,
+          52,
+          54,
+          56,
+          60
+        ]
+      },
+      "tip": "S2: entre 5% mais cedo e mantenha o carro no asfalto; foram 4.7s fora da pista.",
+      "title": "TREINADOR · CONTRA SUA MELHOR",
+      "sectors": [
+        "S1−0.00s",
+        "S2+4.00s",
+        "S3−0.00s"
+      ],
+      "tracePoints": 30,
+      "refPoints": 30
+    },
+    "third": {
+      "newBest": true,
+      "time": 56,
+      "stored": 56,
+      "losses": [
+        -2,
+        0,
+        -2
+      ],
+      "tip": "Repita a volta: os três setores estão consistentes. Agora procure ganhar décimos sem aumentar risco."
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "fps": {
+      "frames": 72,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 34,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 260,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version65": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 106713,
+      "kb": 104.2,
+      "ok": true
+    },
+    "licenses": {
+      "module": true,
+      "countFormula": true,
+      "menu": true,
+      "hud": true,
+      "carThresholds": true
+    },
+    "paintShop": {
+      "module": true,
+      "menu": true,
+      "patterns12": true,
+      "codec": true,
+      "liveries": true,
+      "flag": true
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 24,
+      "missing": [],
+      "cacheVersion": "c13"
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "gamepad/haptics físicos",
+    "PWA instalada via HTTPS"
+  ]
+}

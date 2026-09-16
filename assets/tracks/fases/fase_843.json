@@ -1,0 +1,226 @@
+{
+  "id": 843,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 6,
+  "name": "Grande Laço Delta Mirror",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.8437,
+  "lapTargetSeconds": 80,
+  "signature": "curva longa de alta",
+  "dominantFeature": "descida rápida",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.715,
+  "pits": [
+    0.17,
+    0.59,
+    0.89
+  ],
+  "palette": {
+    "grass": "#b4bdc5",
+    "grass2": "#a2adb7",
+    "shoulder": "#6b7b89",
+    "skyTop": "#65a5c4",
+    "skyBot": "#adc5d2",
+    "mountColor": "#374451",
+    "mountSnow": true,
+    "road": "#3a434f",
+    "road2": "#313a46"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 73,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 45,
+      "h": 94,
+      "l": 39,
+      "c": -3.35,
+      "y": 33,
+      "w": 1.17,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 89,
+      "l": 58,
+      "c": 3.57,
+      "y": 8,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 116,
+      "l": 67,
+      "c": -2.29,
+      "y": -41,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 66,
+      "l": 58,
+      "c": 5.56,
+      "y": -18,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 77,
+      "l": 41,
+      "c": -4.89,
+      "y": -14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 30,
+      "l": 28,
+      "c": 5.69,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 62,
+      "l": 38,
+      "c": -5.11,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 23,
+      "c": -2.98,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 56,
+      "l": 28,
+      "c": 3.16,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 35,
+      "l": 33,
+      "c": -3.34,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 44,
+      "l": 24,
+      "c": 4.53,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 34,
+      "l": 39,
+      "c": -4.05,
+      "y": 4,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 145,
+      "l": 61,
+      "c": -6.24,
+      "y": 24,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 164,
+      "l": 34,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.05,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 104,
+      "l": 67,
+      "c": -3.57,
+      "y": 2,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 107,
+      "l": 64,
+      "c": 2.64,
+      "y": 34,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 126,
+      "l": 41,
+      "c": -2.73,
+      "y": -2,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 117,
+      "l": 57,
+      "c": 3.05,
+      "y": -49,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 65,
+      "l": 51,
+      "c": -7.39,
+      "y": 18,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 131,
+      "l": 51,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9baf129394c5"
+}

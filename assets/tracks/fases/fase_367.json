@@ -1,0 +1,199 @@
+{
+  "id": 367,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 16,
+  "name": "Via Expressa Cascata Norte",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3667,
+  "lapTargetSeconds": 67,
+  "signature": "final em mergulho",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.682,
+  "pits": [
+    0.17,
+    0.52,
+    0.75
+  ],
+  "palette": {
+    "grass": "#b7c0c8",
+    "grass2": "#a1adb8",
+    "shoulder": "#788897",
+    "skyTop": "#67a9c8",
+    "skyBot": "#b0c8d5",
+    "mountColor": "#354351",
+    "mountSnow": true,
+    "road": "#3d4652",
+    "road2": "#343d49"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 89,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 49,
+      "h": 110,
+      "l": 53,
+      "c": -2.59,
+      "y": 37,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 145,
+      "l": 50,
+      "c": 2.66,
+      "y": 17,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 72,
+      "l": 71,
+      "c": 1.63,
+      "y": -33,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 78,
+      "l": 58,
+      "c": -3.97,
+      "y": -12,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 75,
+      "l": 48,
+      "c": -3.83,
+      "y": 0,
+      "w": 0.93,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 30,
+      "l": 36,
+      "c": 4.44,
+      "y": 6,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 36,
+      "l": 24,
+      "c": -3.96,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 33,
+      "c": 2.17,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 36,
+      "l": 20,
+      "c": -2.35,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 47,
+      "l": 25,
+      "c": 2.53,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 44,
+      "l": 32,
+      "c": 3.28,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 46,
+      "l": 25,
+      "c": -2.9,
+      "y": 4,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 77,
+      "h": 181,
+      "l": 89,
+      "c": -2.53,
+      "y": 24,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 192,
+      "l": 33,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 76,
+      "l": 59,
+      "c": -2.66,
+      "y": -3,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 59,
+      "l": 43,
+      "c": 1.88,
+      "y": 38,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 103,
+      "l": 51,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "0ae5362eb8c2"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 761,
+  "championship": 29,
+  "cupName": "Rally Aurora Boreal",
+  "cupRace": 5,
+  "name": "Travessia Saturno Master",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.7615,
+  "lapTargetSeconds": 76,
+  "signature": "sequência travada",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.702,
+  "pits": [
+    0.21,
+    0.6,
+    0.85
+  ],
+  "palette": {
+    "grass": "#b4bcc3",
+    "grass2": "#acb6bf",
+    "shoulder": "#707e8a",
+    "skyTop": "#66a3bf",
+    "skyBot": "#adc3cf",
+    "mountColor": "#35404b",
+    "mountSnow": true,
+    "road": "#39414c",
+    "road2": "#303843"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 57,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 53,
+      "h": 86,
+      "l": 62,
+      "c": -3.01,
+      "y": 47,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 93,
+      "l": 48,
+      "c": 3.17,
+      "y": 7,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 80,
+      "l": 45,
+      "c": -2.0,
+      "y": -31,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 60,
+      "l": 60,
+      "c": 8.16,
+      "y": 10,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 73,
+      "l": 43,
+      "c": 4.42,
+      "y": -14,
+      "w": 1.1,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 62,
+      "l": 34,
+      "c": -5.14,
+      "y": 6,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 58,
+      "l": 40,
+      "c": 4.6,
+      "y": -3,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 55,
+      "l": 31,
+      "c": -2.63,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 36,
+      "c": 2.81,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 23,
+      "c": -2.99,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 42,
+      "l": 30,
+      "c": 3.98,
+      "y": 6,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 30,
+      "l": 41,
+      "c": -3.54,
+      "y": -3,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 175,
+      "l": 63,
+      "c": -5.71,
+      "y": 12,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 190,
+      "l": 27,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 108,
+      "l": 57,
+      "c": 3.17,
+      "y": -3,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 99,
+      "l": 52,
+      "c": 2.31,
+      "y": 48,
+      "w": 1.05,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 130,
+      "l": 67,
+      "c": -4.22,
+      "y": 1,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 37,
+      "h": 121,
+      "l": 57,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "91a18fd4d90f"
+}

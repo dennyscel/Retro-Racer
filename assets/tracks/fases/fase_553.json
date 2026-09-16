@@ -1,0 +1,217 @@
+{
+  "id": 553,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 13,
+  "name": "Serpentina Saturno Turbo",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5531,
+  "lapTargetSeconds": 73,
+  "signature": "reta com vento",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.697,
+  "pits": [
+    0.27,
+    0.61,
+    0.81
+  ],
+  "palette": {
+    "grass": "#b3bcc4",
+    "grass2": "#a0acb7",
+    "shoulder": "#70808e",
+    "skyTop": "#66a8c7",
+    "skyBot": "#afc7d4",
+    "mountColor": "#374553",
+    "mountSnow": true,
+    "road": "#3c4551",
+    "road2": "#333c48"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 89,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 55,
+      "h": 86,
+      "l": 64,
+      "c": -2.42,
+      "y": 31,
+      "w": 1.12,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 97,
+      "l": 56,
+      "c": 2.47,
+      "y": 13,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 124,
+      "l": 47,
+      "c": 1.49,
+      "y": -39,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 60,
+      "l": 48,
+      "c": -6.94,
+      "y": -12,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 77,
+      "l": 45,
+      "c": -3.6,
+      "y": 14,
+      "w": 0.89,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 24,
+      "c": 4.17,
+      "y": 0,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 46,
+      "l": 42,
+      "c": -3.72,
+      "y": 6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 39,
+      "l": 21,
+      "c": 2.0,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 50,
+      "l": 26,
+      "c": -2.18,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 61,
+      "l": 31,
+      "c": 2.36,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 20,
+      "c": 5.62,
+      "y": 6,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 56,
+      "l": 22,
+      "c": -5.05,
+      "y": -3,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 127,
+      "l": 65,
+      "c": 4.78,
+      "y": -18,
+      "w": 1.02,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 174,
+      "l": 44,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 112,
+      "l": 65,
+      "c": 2.47,
+      "y": -1,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 99,
+      "l": 54,
+      "c": 1.72,
+      "y": 32,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 49,
+      "h": 134,
+      "l": 39,
+      "c": -3.52,
+      "y": -1,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 125,
+      "l": 67,
+      "c": 2.25,
+      "y": -47,
+      "w": 1.08,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 145,
+      "l": 49,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9a68db8bfc88"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 641,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 20,
+  "name": "Via Expressa Gaia SX",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6413,
+  "lapTargetSeconds": 72,
+  "signature": "descida rápida",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.694,
+  "pits": [
+    0.31,
+    0.63,
+    0.91
+  ],
+  "palette": {
+    "grass": "#232339",
+    "grass2": "#1d1d30",
+    "shoulder": "#0e0e21",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0e0e25",
+    "mountSnow": false,
+    "road": "#2a2a36",
+    "road2": "#242430"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 95,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 39,
+      "h": 67,
+      "l": 39,
+      "c": -3.11,
+      "y": -14,
+      "w": 1.09,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 46,
+      "l": 32,
+      "c": 3.59,
+      "y": 12,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 34,
+      "l": 23,
+      "c": -3.19,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 51,
+      "l": 33,
+      "c": 3.31,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 62,
+      "l": 20,
+      "c": -3.49,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 41,
+      "l": 25,
+      "c": 3.67,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 60,
+      "l": 28,
+      "c": -5.04,
+      "y": -8,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 44,
+      "l": 24,
+      "c": 4.51,
+      "y": 4,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 59,
+      "h": 123,
+      "l": 85,
+      "c": -4.22,
+      "y": 24,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 114,
+      "l": 30,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 76,
+      "l": 61,
+      "c": -3.94,
+      "y": 6,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 103,
+      "l": 47,
+      "c": 2.95,
+      "y": 44,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 98,
+      "l": 71,
+      "c": -3.1,
+      "y": 20,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 93,
+      "l": 55,
+      "c": 1.94,
+      "y": -47,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 79,
+      "l": 45,
+      "c": -4.73,
+      "y": 10,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 72,
+      "l": 35,
+      "c": 4.33,
+      "y": 14,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 50,
+      "h": 145,
+      "l": 61,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b3fff63c1cb3"
+}

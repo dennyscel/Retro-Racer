@@ -1,0 +1,253 @@
+{
+  "id": 584,
+  "championship": 22,
+  "cupName": "Campeonato Alpes Pixel",
+  "cupRace": 17,
+  "name": "Circuito Cobalto Norte",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.5842,
+  "lapTargetSeconds": 75,
+  "signature": "S técnico",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.703,
+  "pits": [
+    0.23,
+    0.66,
+    0.88
+  ],
+  "palette": {
+    "grass": "#cfa74e",
+    "grass2": "#bc933d",
+    "shoulder": "#aa7d30",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#b7843e",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 104,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 28,
+      "c": 3.38,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 33,
+      "c": -3.56,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 48,
+      "l": 20,
+      "c": 3.74,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 33,
+      "l": 41,
+      "c": -5.14,
+      "y": -8,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 53,
+      "l": 29,
+      "c": 4.61,
+      "y": 4,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 172,
+      "l": 78,
+      "c": 4.32,
+      "y": -18,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 157,
+      "l": 47,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 108,
+      "l": 66,
+      "c": 2.12,
+      "y": 19,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 53,
+      "l": 65,
+      "c": -3.02,
+      "y": 45,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 130,
+      "l": 40,
+      "c": 3.17,
+      "y": 19,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 117,
+      "l": 68,
+      "c": 2.0,
+      "y": -18,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 74,
+      "l": 58,
+      "c": -4.86,
+      "y": 10,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 55,
+      "l": 36,
+      "c": -4.42,
+      "y": 0,
+      "w": 1.01,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 34,
+      "c": 5.14,
+      "y": -8,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 60,
+      "l": 23,
+      "c": -4.61,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 39,
+      "l": 21,
+      "c": -2.63,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 50,
+      "l": 26,
+      "c": 2.81,
+      "y": 9,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 61,
+      "l": 31,
+      "c": -2.99,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 30,
+      "c": 3.98,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 32,
+      "l": 24,
+      "c": -3.55,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 75,
+      "h": 153,
+      "l": 55,
+      "c": 3.2,
+      "y": -18,
+      "w": 1.07,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 126,
+      "l": 40,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 108,
+      "l": 58,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f8abfe5534c6"
+}

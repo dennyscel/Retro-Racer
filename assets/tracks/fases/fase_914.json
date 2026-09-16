@@ -1,0 +1,262 @@
+{
+  "id": 914,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 23,
+  "name": "Estrada Nômade Sul",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.9148,
+  "lapTargetSeconds": 82,
+  "signature": "descida rápida",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.723,
+  "pits": [
+    0.21,
+    0.63,
+    0.76
+  ],
+  "palette": {
+    "grass": "#28283b",
+    "grass2": "#1d1d2d",
+    "shoulder": "#0a0a1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#09091d",
+    "mountSnow": false,
+    "road": "#292933",
+    "road2": "#23232d"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 110,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 48,
+      "h": 72,
+      "l": 58,
+      "c": 2.87,
+      "y": -32,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 61,
+      "l": 59,
+      "c": 6.95,
+      "y": 18,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 62,
+      "l": 44,
+      "c": -3.61,
+      "y": -14,
+      "w": 1.15,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 31,
+      "l": 37,
+      "c": -6.79,
+      "y": 12,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 55,
+      "l": 24,
+      "c": 6.12,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 52,
+      "l": 20,
+      "c": 3.69,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 63,
+      "l": 25,
+      "c": -3.87,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 42,
+      "l": 30,
+      "c": 4.05,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 33,
+      "c": 5.63,
+      "y": 0,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 27,
+      "l": 25,
+      "c": -5.06,
+      "y": 6,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 98,
+      "l": 56,
+      "c": 4.79,
+      "y": 12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 143,
+      "l": 29,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 58,
+      "h": 140,
+      "l": 56,
+      "c": -4.37,
+      "y": -1,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 57,
+      "l": 70,
+      "c": -3.32,
+      "y": 35,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 78,
+      "l": 66,
+      "c": 3.53,
+      "y": -1,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 73,
+      "l": 48,
+      "c": -2.26,
+      "y": -40,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 52,
+      "c": 8.79,
+      "y": 18,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 67,
+      "l": 40,
+      "c": -4.84,
+      "y": 0,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 40,
+      "l": 26,
+      "c": 5.63,
+      "y": -8,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 34,
+      "l": 40,
+      "c": -5.06,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 65,
+      "l": 31,
+      "c": 2.95,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 44,
+      "l": 36,
+      "c": -3.13,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 55,
+      "l": 23,
+      "c": 3.31,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 86,
+      "l": 68,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "22ac5b43d44d"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 87,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 6,
+  "name": "Caminho Orion SX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.0862,
+  "lapTargetSeconds": 59,
+  "signature": "subida cega",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.665,
+  "pits": [
+    0.29,
+    0.59,
+    0.89
+  ],
+  "palette": {
+    "grass": "#0ba717",
+    "grass2": "#099f13",
+    "shoulder": "#408b2e",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#168d20",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 71,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 77,
+      "h": 101,
+      "l": 51,
+      "c": -3.33,
+      "y": 18,
+      "w": 0.87,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 120,
+      "l": 24,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 100,
+      "l": 63,
+      "c": 1.37,
+      "y": 8,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 99,
+      "l": 63,
+      "c": 0.79,
+      "y": 22,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 122,
+      "l": 73,
+      "c": -2.42,
+      "y": 14,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 85,
+      "l": 61,
+      "c": 1.45,
+      "y": -53,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 51,
+      "c": -3.55,
+      "y": -18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 100,
+      "l": 38,
+      "c": 1.34,
+      "y": -14,
+      "w": 0.86,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 45,
+      "l": 25,
+      "c": 4.11,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 29,
+      "l": 29,
+      "c": -3.66,
+      "y": -3,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 26,
+      "c": 1.96,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 31,
+      "c": -2.14,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 60,
+      "l": 36,
+      "c": 2.32,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 21,
+      "c": -2.95,
+      "y": 12,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 39,
+      "l": 30,
+      "c": 2.6,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 47,
+      "h": 159,
+      "l": 51,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c01cf980a566"
+}

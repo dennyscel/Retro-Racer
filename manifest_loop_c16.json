@@ -1,0 +1,37 @@
+{
+  "product": "Retrô Racer Championship — Horizonte Zero",
+  "version": "AAA_R2+C16",
+  "date": "2026-09-15",
+  "author": "Dennys Smaniotto Pavanelli",
+  "save_key": "retro_racer_championship_v30",
+  "tracks": 999,
+  "cups": 37,
+  "tracks_per_cup": 27,
+  "career_laps": 5,
+  "rivals": 22,
+  "cars": 12,
+  "entrypoint": "index.html",
+  "requires_http": true,
+  "cycle_focus": "OURO 16 — CLIPE DE DESTAQUE",
+  "architecture": {
+    "native_es_modules": true,
+    "max_src_lines": 351,
+    "c16_highlight": true,
+    "buffer_seconds": 8,
+    "capture_hz": 20,
+    "vertical": "9:16",
+    "webm": true,
+    "next": "OURO 17 — IDENTIDADE E BOOT AAA"
+  },
+  "qa": {
+    "node_check": "PASS",
+    "save_migration": "v67→v68 PASS",
+    "webm_bytes": 1138384,
+    "tracks_json": 999,
+    "sentinels": "PASS",
+    "determinism_3x": "PASS",
+    "shell_gzip_kb": 115.9
+  },
+  "state_file": "ESTADO_DO_LOOP.json",
+  "integrity_file": "INTEGRIDADE.json"
+}

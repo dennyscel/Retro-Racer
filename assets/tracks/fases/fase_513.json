@@ -1,0 +1,217 @@
+{
+  "id": 513,
+  "championship": 19,
+  "cupName": "Desafio Planalto Roxo",
+  "cupRace": 27,
+  "name": "Estrada Turbo Sprint",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.513,
+  "lapTargetSeconds": 73,
+  "signature": "reta de largada larga",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.695,
+  "pits": [
+    0.19,
+    0.62,
+    0.83
+  ],
+  "palette": {
+    "grass": "#0ea41a",
+    "grass2": "#13a31d",
+    "shoulder": "#418930",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#168720",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 77,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 55,
+      "h": 95,
+      "l": 57,
+      "c": -2.98,
+      "y": -18,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 102,
+      "l": 25,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 112,
+      "l": 57,
+      "c": 3.01,
+      "y": 5,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 75,
+      "l": 69,
+      "c": 2.17,
+      "y": 32,
+      "w": 0.89,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 134,
+      "l": 67,
+      "c": -2.16,
+      "y": -5,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 133,
+      "l": 67,
+      "c": 2.64,
+      "y": -47,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 75,
+      "l": 57,
+      "c": -6.4,
+      "y": -18,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 84,
+      "l": 44,
+      "c": 3.25,
+      "y": 14,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 33,
+      "l": 33,
+      "c": -3.75,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 35,
+      "c": 3.34,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 20,
+      "c": 1.73,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 25,
+      "c": -1.91,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 58,
+      "l": 30,
+      "c": 2.09,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 29,
+      "c": -5.2,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 36,
+      "c": 4.66,
+      "y": 6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 172,
+      "l": 76,
+      "c": 4.38,
+      "y": -18,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 191,
+      "l": 43,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 149,
+      "l": 40,
+      "c": 2.16,
+      "y": -5,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 36,
+      "h": 153,
+      "l": 69,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4e57d44ea5fc"
+}

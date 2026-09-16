@@ -1,0 +1,217 @@
+{
+  "id": 636,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 15,
+  "name": "Estrada Cristal Noite",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.6363,
+  "lapTargetSeconds": 73,
+  "signature": "reta de largada larga",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.694,
+  "pits": [
+    0.3,
+    0.5,
+    0.8
+  ],
+  "palette": {
+    "grass": "#c8a24b",
+    "grass2": "#c79e4c",
+    "shoulder": "#af8439",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c2914d",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 96,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 54,
+      "l": 26,
+      "c": 3.11,
+      "y": 9,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 65,
+      "l": 31,
+      "c": -3.29,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 44,
+      "l": 36,
+      "c": 3.47,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 55,
+      "l": 27,
+      "c": -4.73,
+      "y": -8,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 37,
+      "l": 39,
+      "c": 4.23,
+      "y": 4,
+      "w": 1.18,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 160,
+      "l": 88,
+      "c": 3.92,
+      "y": -18,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 161,
+      "l": 24,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 128,
+      "l": 46,
+      "c": 3.72,
+      "y": 0,
+      "w": 1.1,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 69,
+      "l": 47,
+      "c": -2.77,
+      "y": 33,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 150,
+      "l": 56,
+      "c": 2.88,
+      "y": 0,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 125,
+      "l": 60,
+      "c": -1.78,
+      "y": -34,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 86,
+      "l": 54,
+      "c": 7.64,
+      "y": -12,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 83,
+      "l": 46,
+      "c": -4.07,
+      "y": 14,
+      "w": 0.98,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 50,
+      "l": 20,
+      "c": 4.73,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 33,
+      "c": -4.23,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 37,
+      "c": -2.36,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 46,
+      "l": 24,
+      "c": 2.54,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 29,
+      "c": -2.72,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 45,
+      "h": 168,
+      "l": 46,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9ccff6d4e4d5"
+}

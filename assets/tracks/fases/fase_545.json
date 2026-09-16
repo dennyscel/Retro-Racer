@@ -1,0 +1,190 @@
+{
+  "id": 545,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 5,
+  "name": "Serpentina Aurora Extreme",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5451,
+  "lapTargetSeconds": 68,
+  "signature": "miolo ondulado",
+  "dominantFeature": "subida cega",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.685,
+  "pits": [
+    0.22,
+    0.57,
+    0.85
+  ],
+  "palette": {
+    "grass": "#c0c9d5",
+    "grass2": "#acb9c9",
+    "shoulder": "#768c9c",
+    "skyTop": "#64acce",
+    "skyBot": "#b0cbd9",
+    "mountColor": "#2f4151",
+    "mountSnow": true,
+    "road": "#3e4755",
+    "road2": "#353e4c"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 95,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 47,
+      "h": 54,
+      "l": 56,
+      "c": -2.59,
+      "y": 23,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 81,
+      "l": 48,
+      "c": 2.66,
+      "y": 19,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 76,
+      "l": 69,
+      "c": -1.63,
+      "y": -31,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 84,
+      "l": 40,
+      "c": 7.27,
+      "y": -12,
+      "w": 0.89,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 95,
+      "l": 37,
+      "c": 3.82,
+      "y": 14,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 36,
+      "l": 38,
+      "c": 4.44,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 28,
+      "l": 34,
+      "c": -3.96,
+      "y": -6,
+      "w": 1.17,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 31,
+      "c": -2.17,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 58,
+      "l": 36,
+      "c": 2.35,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 23,
+      "c": -2.53,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 50,
+      "l": 34,
+      "c": 3.28,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 38,
+      "l": 35,
+      "c": -2.9,
+      "y": -6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 151,
+      "l": 57,
+      "c": -5.03,
+      "y": 24,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 118,
+      "l": 36,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 96,
+      "l": 57,
+      "c": -2.66,
+      "y": -1,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 129,
+      "l": 53,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f7a1e054d5fc"
+}

@@ -1,0 +1,172 @@
+{
+  "id": 245,
+  "championship": 10,
+  "cupName": "Copa Chuva de Verão",
+  "cupRace": 2,
+  "name": "Sprint Mandacaru Arcade",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2445,
+  "lapTargetSeconds": 61,
+  "signature": "sequência travada",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.667,
+  "pits": [
+    0.3,
+    0.54,
+    0.91
+  ],
+  "palette": {
+    "grass": "#2c2c41",
+    "grass2": "#202032",
+    "shoulder": "#121224",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0a0a21",
+    "mountSnow": false,
+    "road": "#2f2f3b",
+    "road2": "#292935"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 113,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 39,
+      "h": 59,
+      "l": 42,
+      "c": -2.02,
+      "y": -14,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 38,
+      "l": 32,
+      "c": 2.31,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 36,
+      "l": 26,
+      "c": -2.01,
+      "y": -3,
+      "w": 1.18,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 47,
+      "l": 33,
+      "c": 2.48,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 20,
+      "c": -2.66,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 25,
+      "c": 2.84,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 52,
+      "l": 28,
+      "c": -3.75,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 46,
+      "l": 27,
+      "c": 3.34,
+      "y": -3,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 79,
+      "h": 111,
+      "l": 67,
+      "c": -2.98,
+      "y": 12,
+      "w": 1.06,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 102,
+      "l": 34,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 124,
+      "l": 61,
+      "c": -3.01,
+      "y": -8,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 55,
+      "l": 36,
+      "c": 2.17,
+      "y": 32,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 146,
+      "l": 71,
+      "c": -2.16,
+      "y": 2,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 101,
+      "l": 49,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "524c4fd2abeb"
+}

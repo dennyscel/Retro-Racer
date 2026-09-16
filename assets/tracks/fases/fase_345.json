@@ -1,0 +1,181 @@
+{
+  "id": 345,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 21,
+  "name": "Desafio Saturno Solar",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3447,
+  "lapTargetSeconds": 64,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.673,
+  "pits": [
+    0.16,
+    0.62,
+    0.77
+  ],
+  "palette": {
+    "grass": "#b7bfc6",
+    "grass2": "#adb8c2",
+    "shoulder": "#768694",
+    "skyTop": "#6dabc9",
+    "skyBot": "#b4cbd8",
+    "mountColor": "#374451",
+    "mountSnow": true,
+    "road": "#414954",
+    "road2": "#38404b"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 59,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 86,
+      "l": 66,
+      "c": -1.84,
+      "y": 47,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 101,
+      "l": 64,
+      "c": 1.77,
+      "y": -3,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 92,
+      "l": 49,
+      "c": -2.35,
+      "y": -47,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 60,
+      "l": 36,
+      "c": 5.71,
+      "y": -12,
+      "w": 0.92,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 81,
+      "l": 47,
+      "c": -2.79,
+      "y": 0,
+      "w": 1.09,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 56,
+      "l": 36,
+      "c": 3.21,
+      "y": 6,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 34,
+      "l": 23,
+      "c": -2.84,
+      "y": -3,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 55,
+      "l": 29,
+      "c": 1.38,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 34,
+      "c": -1.56,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 21,
+      "c": 1.74,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 36,
+      "l": 32,
+      "c": 4.66,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 44,
+      "l": 24,
+      "c": -4.16,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 175,
+      "l": 67,
+      "c": -3.85,
+      "y": 12,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 158,
+      "l": 36,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 169,
+      "l": 69,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "6ed660745ffc"
+}

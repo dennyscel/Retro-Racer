@@ -1,0 +1,235 @@
+{
+  "id": 769,
+  "championship": 29,
+  "cupName": "Rally Aurora Boreal",
+  "cupRace": 13,
+  "name": "Travessia Atlas Arcade",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.7695,
+  "lapTargetSeconds": 78,
+  "signature": "ponte estreita",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.714,
+  "pits": [
+    0.26,
+    0.64,
+    0.81
+  ],
+  "palette": {
+    "grass": "#c6cfdb",
+    "grass2": "#a6b3c3",
+    "shoulder": "#778d9d",
+    "skyTop": "#6ab2d4",
+    "skyBot": "#b6d1df",
+    "mountColor": "#3c4e5e",
+    "mountSnow": true,
+    "road": "#444d5b",
+    "road2": "#3b4452"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 113,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 61,
+      "h": 54,
+      "l": 70,
+      "c": -2.85,
+      "y": 23,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 109,
+      "l": 56,
+      "c": 2.98,
+      "y": 15,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 128,
+      "l": 53,
+      "c": 1.86,
+      "y": -39,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 84,
+      "l": 40,
+      "c": -7.82,
+      "y": -18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 55,
+      "l": 30,
+      "c": -4.19,
+      "y": 0,
+      "w": 0.89,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 20,
+      "c": 4.87,
+      "y": 12,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 38,
+      "l": 27,
+      "c": -4.36,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 21,
+      "c": 2.46,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 58,
+      "l": 26,
+      "c": -2.64,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 31,
+      "c": 2.82,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 38,
+      "c": -6.32,
+      "y": 6,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 48,
+      "l": 28,
+      "c": 5.69,
+      "y": -3,
+      "w": 0.89,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 151,
+      "l": 71,
+      "c": -5.45,
+      "y": -18,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 126,
+      "l": 35,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.11,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 124,
+      "l": 65,
+      "c": -2.98,
+      "y": 1,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 67,
+      "l": 60,
+      "c": 2.14,
+      "y": 24,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 146,
+      "l": 39,
+      "c": 4.03,
+      "y": 21,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 129,
+      "l": 73,
+      "c": 2.62,
+      "y": -47,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 83,
+      "l": 61,
+      "c": -6.36,
+      "y": -18,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 60,
+      "l": 47,
+      "c": 3.21,
+      "y": -14,
+      "w": 1.05,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 45,
+      "h": 137,
+      "l": 53,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dafca04bec1c"
+}

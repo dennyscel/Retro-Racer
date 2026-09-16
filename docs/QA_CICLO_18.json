@@ -1,0 +1,113 @@
+{
+  "version": "AAA_R2+C18",
+  "date": "2026-09-16",
+  "runtime": {
+    "accessibility_logic": {
+      "colorblind_classes": [
+        "cb-protan",
+        "cb-deuter",
+        "cb-tritan"
+      ],
+      "left_handed_layout": "PASS",
+      "button_scale_min_css": "51px no controle virtual a 80%",
+      "small_buttons_min_height": "48px",
+      "steer_assist": {
+        "OFF": 0,
+        "LEVE": -0.00204063552,
+        "MEDIO": -0.00378975168,
+        "FORTE": -0.00568462752
+      },
+      "captions": "PASS",
+      "reward_independent": true
+    },
+    "migration": {
+      "from": 69,
+      "to": 70,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "difficulty": "HEROI",
+      "story_cup1": true,
+      "story_cup37": true,
+      "highlight_exports": 3,
+      "livery": "preservada"
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "mobile_evidence": {
+      "viewport": "390x844",
+      "settings_scroll": "1297 > 844",
+      "controls_min_target": "51px",
+      "quality_buttons": "48px"
+    }
+  },
+  "static": {
+    "node_check": {
+      "ok": true,
+      "files": 49
+    },
+    "module_lines": {
+      "ok": true,
+      "max": 358
+    },
+    "html_ids": {
+      "ok": true,
+      "count": 288,
+      "duplicates": []
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": [
+        1,
+        27,
+        333,
+        666,
+        999
+      ]
+    },
+    "four_wheels": true,
+    "math_random": [],
+    "service_worker_missing": [],
+    "missing_local_assets": [],
+    "shell_gzip": {
+      "bytes": 124244,
+      "kb": 121.3,
+      "ok": true
+    },
+    "save_key_exact": true
+  },
+  "limitations": [
+    "Moto G físico NÃO TESTADO.",
+    "Gamepad/haptics físicos NÃO TESTADOS.",
+    "PWA instalada via HTTPS em hardware NÃO TESTADA.",
+    "Leitura prática por usuário com daltonismo real NÃO TESTADA; filtros/paletas foram validados estruturalmente e visualmente."
+  ]
+}

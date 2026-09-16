@@ -1,0 +1,235 @@
+{
+  "id": 928,
+  "championship": 35,
+  "cupName": "Copa Megacidade Final",
+  "cupRace": 10,
+  "name": "Sprint Liberdade Norte",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.9289,
+  "lapTargetSeconds": 81,
+  "signature": "hairpin duplo",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.72,
+  "pits": [
+    0.17,
+    0.49,
+    0.78
+  ],
+  "palette": {
+    "grass": "#2c2c3f",
+    "grass2": "#202030",
+    "shoulder": "#141424",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0f0f23",
+    "mountSnow": false,
+    "road": "#32323c",
+    "road2": "#2c2c36"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 84,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 62,
+      "h": 80,
+      "l": 72,
+      "c": 2.28,
+      "y": -46,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 45,
+      "c": -8.85,
+      "y": -18,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 74,
+      "l": 37,
+      "c": 4.87,
+      "y": 14,
+      "w": 1.0,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 33,
+      "l": 29,
+      "c": -5.68,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 39,
+      "l": 38,
+      "c": 5.1,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 34,
+      "c": 2.98,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 21,
+      "c": -3.16,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 26,
+      "c": 3.34,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 47,
+      "l": 25,
+      "c": -4.52,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 49,
+      "l": 39,
+      "c": 4.04,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 128,
+      "l": 70,
+      "c": 6.23,
+      "y": -18,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 121,
+      "l": 43,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 84,
+      "l": 70,
+      "c": 3.56,
+      "y": 23,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 113,
+      "l": 49,
+      "c": -2.64,
+      "y": 49,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 106,
+      "l": 44,
+      "c": 4.62,
+      "y": 23,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 81,
+      "l": 62,
+      "c": 3.05,
+      "y": -18,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 54,
+      "l": 38,
+      "c": 7.38,
+      "y": 10,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 79,
+      "l": 33,
+      "c": -3.9,
+      "y": 14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 42,
+      "l": 40,
+      "c": 4.52,
+      "y": 0,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 33,
+      "c": -4.04,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 52,
+      "h": 92,
+      "l": 54,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ba16003f813f"
+}

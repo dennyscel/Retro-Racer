@@ -1,0 +1,226 @@
+{
+  "id": 514,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 1,
+  "name": "Rally Ômega Master",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.514,
+  "lapTargetSeconds": 73,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.699,
+  "pits": [
+    0.26,
+    0.52,
+    0.78
+  ],
+  "palette": {
+    "grass": "#11ad1d",
+    "grass2": "#079d11",
+    "shoulder": "#378225",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#158c1f",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 58,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 42,
+      "h": 92,
+      "l": 48,
+      "c": 2.17,
+      "y": 13,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 65,
+      "l": 40,
+      "c": 3.05,
+      "y": 27,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 114,
+      "l": 58,
+      "c": 3.22,
+      "y": -5,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 125,
+      "l": 48,
+      "c": 2.03,
+      "y": -40,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 52,
+      "l": 44,
+      "c": 4.94,
+      "y": 18,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 67,
+      "l": 40,
+      "c": -2.27,
+      "y": 0,
+      "w": 0.83,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 58,
+      "l": 38,
+      "c": 5.2,
+      "y": -8,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 44,
+      "l": 35,
+      "c": -4.67,
+      "y": 4,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 57,
+      "l": 37,
+      "c": 2.67,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 24,
+      "c": -2.85,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 29,
+      "c": 3.03,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 38,
+      "l": 34,
+      "c": 4.05,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 54,
+      "l": 36,
+      "c": -3.61,
+      "y": 6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 167,
+      "l": 85,
+      "c": 3.26,
+      "y": 12,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 160,
+      "l": 43,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 129,
+      "l": 67,
+      "c": -3.22,
+      "y": 13,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 78,
+      "l": 65,
+      "c": 2.35,
+      "y": 28,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 151,
+      "l": 41,
+      "c": 2.38,
+      "y": -5,
+      "w": 0.87,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 126,
+      "l": 68,
+      "c": -1.42,
+      "y": -48,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 166,
+      "l": 44,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "46f2a19c28af"
+}

@@ -1,0 +1,217 @@
+{
+  "id": 708,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 6,
+  "name": "Grande Laço Monsoon SX",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.7084,
+  "lapTargetSeconds": 76,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.707,
+  "pits": [
+    0.24,
+    0.65,
+    0.8
+  ],
+  "palette": {
+    "grass": "#0fa01a",
+    "grass2": "#16a11f",
+    "shoulder": "#418630",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#188622",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 114,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 66,
+      "h": 144,
+      "l": 62,
+      "c": 3.68,
+      "y": 1,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 73,
+      "l": 59,
+      "c": -2.73,
+      "y": 29,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 38,
+      "h": 82,
+      "l": 72,
+      "c": 2.83,
+      "y": 1,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 73,
+      "l": 62,
+      "c": -1.75,
+      "y": -18,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 58,
+      "l": 42,
+      "c": 7.57,
+      "y": 10,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 109,
+      "l": 45,
+      "c": -4.03,
+      "y": -14,
+      "w": 0.97,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 42,
+      "l": 34,
+      "c": 4.68,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 34,
+      "l": 40,
+      "c": -4.18,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 63,
+      "l": 33,
+      "c": -2.33,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 20,
+      "c": 2.51,
+      "y": 0,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 25,
+      "c": -2.69,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 56,
+      "l": 30,
+      "c": 6.12,
+      "y": 12,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 44,
+      "l": 41,
+      "c": -5.51,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 67,
+      "h": 89,
+      "l": 69,
+      "c": -5.26,
+      "y": -18,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 198,
+      "l": 37,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 97,
+      "l": 45,
+      "c": 2.83,
+      "y": 15,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 86,
+      "l": 49,
+      "c": 2.02,
+      "y": 30,
+      "w": 1.18,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 119,
+      "l": 55,
+      "c": 3.89,
+      "y": 1,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 41,
+      "h": 136,
+      "l": 66,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e128d89edb96"
+}

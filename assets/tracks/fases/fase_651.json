@@ -1,0 +1,208 @@
+{
+  "id": 651,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 3,
+  "name": "Vale Jaguar Norte",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6513,
+  "lapTargetSeconds": 73,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.695,
+  "pits": [
+    0.16,
+    0.47,
+    0.77
+  ],
+  "palette": {
+    "grass": "#252538",
+    "grass2": "#0c0c1c",
+    "shoulder": "#050515",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#000011",
+    "mountSnow": false,
+    "road": "#24242e",
+    "road2": "#1e1e28"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 83,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 55,
+      "l": 33,
+      "c": -4.49,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 61,
+      "l": 22,
+      "c": 4.01,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 96,
+      "l": 86,
+      "c": 3.69,
+      "y": -18,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 127,
+      "l": 26,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 147,
+      "l": 56,
+      "c": 3.54,
+      "y": 6,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 58,
+      "l": 47,
+      "c": 2.62,
+      "y": 45,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 85,
+      "l": 66,
+      "c": 2.7,
+      "y": -4,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 132,
+      "l": 65,
+      "c": 1.65,
+      "y": -45,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 70,
+      "l": 34,
+      "c": 7.34,
+      "y": 18,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 89,
+      "l": 48,
+      "c": -3.87,
+      "y": 14,
+      "w": 1.07,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 50,
+      "l": 26,
+      "c": 4.49,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 30,
+      "l": 37,
+      "c": -4.01,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 33,
+      "c": -2.21,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 20,
+      "c": 2.39,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 25,
+      "c": -2.57,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 30,
+      "l": 22,
+      "c": 5.94,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 40,
+      "l": 38,
+      "c": -5.34,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 41,
+      "h": 99,
+      "l": 63,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c4fd40c98482"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 645,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 24,
+  "name": "Via Expressa Delta Chuva",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6453,
+  "lapTargetSeconds": 72,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.25,
+    0.65,
+    0.89
+  ],
+  "palette": {
+    "grass": "#272738",
+    "grass2": "#1b1b29",
+    "shoulder": "#161624",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#060618",
+    "mountSnow": false,
+    "road": "#2c2c36",
+    "road2": "#262630"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 103,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 39,
+      "h": 59,
+      "l": 27,
+      "c": -5.34,
+      "y": 6,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 57,
+      "l": 37,
+      "c": 4.79,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 138,
+      "l": 80,
+      "c": 4.51,
+      "y": -18,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 205,
+      "l": 45,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 135,
+      "l": 50,
+      "c": -2.26,
+      "y": 6,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 98,
+      "l": 41,
+      "c": -3.14,
+      "y": 39,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 73,
+      "l": 60,
+      "c": 3.32,
+      "y": 6,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 96,
+      "l": 59,
+      "c": 2.1,
+      "y": -39,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 52,
+      "l": 56,
+      "c": 5.11,
+      "y": -18,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 42,
+      "c": 4.59,
+      "y": 0,
+      "w": 0.88,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 20,
+      "c": 5.34,
+      "y": 6,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 26,
+      "l": 31,
+      "c": -4.79,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 55,
+      "l": 27,
+      "c": -2.76,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 32,
+      "c": 2.94,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 37,
+      "c": -3.12,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 54,
+      "h": 109,
+      "l": 45,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "031da7c47ac6"
+}

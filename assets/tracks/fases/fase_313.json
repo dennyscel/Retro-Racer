@@ -1,0 +1,217 @@
+{
+  "id": 313,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 16,
+  "name": "Arena Trovão Clássico",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3126,
+  "lapTargetSeconds": 65,
+  "signature": "ponte estreita",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.3,
+    0.67,
+    0.75
+  ],
+  "palette": {
+    "grass": "#252538",
+    "grass2": "#1e1e2e",
+    "shoulder": "#161626",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0d0d21",
+    "mountSnow": false,
+    "road": "#32323c",
+    "road2": "#2c2c36"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 93,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 109,
+      "l": 47,
+      "c": -3.43,
+      "y": -14,
+      "w": 1.13,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 34,
+      "c": 3.97,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 56,
+      "l": 31,
+      "c": -3.54,
+      "y": -6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 29,
+      "c": 1.87,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 34,
+      "c": -2.05,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 21,
+      "c": 2.23,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 30,
+      "c": 2.82,
+      "y": -8,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 28,
+      "l": 32,
+      "c": -2.48,
+      "y": 4,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 83,
+      "h": 147,
+      "l": 51,
+      "c": -4.59,
+      "y": -12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 98,
+      "l": 27,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 92,
+      "l": 57,
+      "c": 2.32,
+      "y": -7,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 71,
+      "l": 69,
+      "c": 1.6,
+      "y": 36,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 114,
+      "l": 67,
+      "c": 1.48,
+      "y": 17,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 101,
+      "l": 57,
+      "c": -2.15,
+      "y": -43,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 55,
+      "l": 53,
+      "c": -5.21,
+      "y": 18,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 43,
+      "c": 2.45,
+      "y": 0,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 23,
+      "c": -2.82,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 26,
+      "c": 2.48,
+      "y": 4,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 45,
+      "h": 105,
+      "l": 57,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f3e5d0f9157f"
+}

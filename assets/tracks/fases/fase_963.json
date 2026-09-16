@@ -1,0 +1,226 @@
+{
+  "id": 963,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 18,
+  "name": "Boulevard Cristal Mirror",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9639,
+  "lapTargetSeconds": 82,
+  "signature": "curva longa de alta",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.722,
+  "pits": [
+    0.24,
+    0.56,
+    0.83
+  ],
+  "palette": {
+    "grass": "#b7c1ca",
+    "grass2": "#a2afbb",
+    "shoulder": "#657887",
+    "skyTop": "#5fa4c5",
+    "skyBot": "#aac3d1",
+    "mountColor": "#334351",
+    "mountSnow": true,
+    "road": "#38414d",
+    "road2": "#2f3844"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 107,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 45,
+      "h": 62,
+      "l": 54,
+      "c": -2.53,
+      "y": 25,
+      "w": 0.89,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 77,
+      "l": 70,
+      "c": 4.49,
+      "y": 23,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 76,
+      "l": 67,
+      "c": 2.95,
+      "y": -53,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 42,
+      "l": 38,
+      "c": 7.15,
+      "y": -18,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 97,
+      "l": 35,
+      "c": 3.75,
+      "y": 0,
+      "w": 1.08,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 52,
+      "l": 38,
+      "c": 6.95,
+      "y": -8,
+      "w": 1.13,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 28,
+      "l": 32,
+      "c": -6.26,
+      "y": 4,
+      "w": 1.2,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 35,
+      "c": 3.8,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 64,
+      "l": 22,
+      "c": -3.98,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 43,
+      "l": 27,
+      "c": 4.16,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 32,
+      "l": 34,
+      "c": 5.79,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 38,
+      "l": 33,
+      "c": -5.2,
+      "y": 6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 169,
+      "l": 55,
+      "c": 4.95,
+      "y": -12,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 164,
+      "l": 29,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.13,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 92,
+      "l": 43,
+      "c": -4.49,
+      "y": -1,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 75,
+      "l": 44,
+      "c": 3.41,
+      "y": 26,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 114,
+      "l": 53,
+      "c": -3.65,
+      "y": 3,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 77,
+      "l": 57,
+      "c": 2.34,
+      "y": -25,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 89,
+      "l": 59,
+      "c": 8.99,
+      "y": 18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 49,
+      "h": 107,
+      "l": 47,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9ef61716c9ca"
+}

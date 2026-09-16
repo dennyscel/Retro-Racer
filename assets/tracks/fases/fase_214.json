@@ -1,0 +1,208 @@
+{
+  "id": 214,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 25,
+  "name": "Desafio Trovão RX",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.2134,
+  "lapTargetSeconds": 64,
+  "signature": "final em mergulho",
+  "dominantFeature": "subida cega",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.17,
+    0.49,
+    0.84
+  ],
+  "palette": {
+    "grass": "#1d1d32",
+    "grass2": "#060618",
+    "shoulder": "#08081a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#00000f",
+    "mountSnow": false,
+    "road": "#1f1f2b",
+    "road2": "#191925"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 108,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 50,
+      "h": 128,
+      "l": 48,
+      "c": 1.98,
+      "y": -52,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 73,
+      "l": 59,
+      "c": -4.81,
+      "y": 10,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 100,
+      "l": 37,
+      "c": 2.18,
+      "y": 14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 33,
+      "l": 41,
+      "c": -2.5,
+      "y": 0,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 57,
+      "l": 38,
+      "c": 2.18,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 22,
+      "c": 2.6,
+      "y": 5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 43,
+      "l": 27,
+      "c": -2.78,
+      "y": 9,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 54,
+      "l": 32,
+      "c": 2.96,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 47,
+      "l": 37,
+      "c": 3.94,
+      "y": -8,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 29,
+      "l": 39,
+      "c": -3.51,
+      "y": 4,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 134,
+      "l": 70,
+      "c": 3.16,
+      "y": 12,
+      "w": 0.86,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 163,
+      "l": 29,
+      "c": -0.39,
+      "y": 0,
+      "w": 0.97,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 84,
+      "l": 40,
+      "c": 1.25,
+      "y": -4,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 73,
+      "l": 70,
+      "c": 2.28,
+      "y": 39,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 106,
+      "l": 50,
+      "c": -2.3,
+      "y": 10,
+      "w": 0.86,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 129,
+      "l": 68,
+      "c": -1.36,
+      "y": -24,
+      "w": 1.07,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 72,
+      "l": 52,
+      "c": 3.34,
+      "y": -12,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 138,
+      "l": 68,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "fd3983fc6d3a"
+}

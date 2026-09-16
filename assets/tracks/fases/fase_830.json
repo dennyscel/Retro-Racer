@@ -1,0 +1,217 @@
+{
+  "id": 830,
+  "championship": 31,
+  "cupName": "Circuito Ilhas Gêmeas",
+  "cupRace": 20,
+  "name": "Autódromo Turbo Turbo",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.8307,
+  "lapTargetSeconds": 77,
+  "signature": "sequência de placas",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.702,
+  "pits": [
+    0.28,
+    0.63,
+    0.82
+  ],
+  "palette": {
+    "grass": "#d3a53a",
+    "grass2": "#d1a03a",
+    "shoulder": "#c28d31",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c68b36",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 90,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 60,
+      "l": 22,
+      "c": 2.77,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 27,
+      "c": -2.95,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 50,
+      "l": 32,
+      "c": 3.13,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 23,
+      "c": 4.2,
+      "y": 0,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 27,
+      "l": 23,
+      "c": -3.75,
+      "y": 6,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 178,
+      "l": 72,
+      "c": 5.92,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 199,
+      "l": 43,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 96,
+      "l": 60,
+      "c": 3.33,
+      "y": 2,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 77,
+      "l": 66,
+      "c": -2.44,
+      "y": 35,
+      "w": 1.18,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 118,
+      "l": 70,
+      "c": 4.39,
+      "y": -2,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 73,
+      "l": 44,
+      "c": -2.88,
+      "y": -48,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 44,
+      "l": 52,
+      "c": 6.97,
+      "y": 18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 67,
+      "l": 30,
+      "c": -3.63,
+      "y": 0,
+      "w": 0.92,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 34,
+      "l": 38,
+      "c": 4.2,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 34,
+      "l": 38,
+      "c": -3.75,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 41,
+      "l": 33,
+      "c": -3.71,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 20,
+      "c": 3.89,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 25,
+      "c": -4.07,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 49,
+      "h": 138,
+      "l": 68,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "106f087477be"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 650,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 2,
+  "name": "Sprint Atlas Turbo",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.6503,
+  "lapTargetSeconds": 71,
+  "signature": "sequência de placas",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.26,
+    0.57,
+    0.82
+  ],
+  "palette": {
+    "grass": "#daa52e",
+    "grass2": "#cc9422",
+    "shoulder": "#c78b24",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c88427",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 70,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 64,
+      "l": 22,
+      "c": 2.39,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 43,
+      "l": 27,
+      "c": -2.57,
+      "y": 9,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 32,
+      "c": 2.75,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 41,
+      "c": -3.62,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 59,
+      "l": 32,
+      "c": 3.21,
+      "y": 4,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 94,
+      "l": 60,
+      "c": 5.36,
+      "y": 24,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 139,
+      "l": 38,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.18,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 72,
+      "l": 60,
+      "c": -2.91,
+      "y": 14,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 61,
+      "l": 61,
+      "c": -2.09,
+      "y": 47,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 94,
+      "l": 70,
+      "c": 3.96,
+      "y": 20,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 133,
+      "l": 44,
+      "c": 2.57,
+      "y": -48,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 80,
+      "l": 40,
+      "c": 6.23,
+      "y": 18,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 95,
+      "l": 39,
+      "c": -3.13,
+      "y": 14,
+      "w": 1.02,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 52,
+      "l": 34,
+      "c": 3.62,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 28,
+      "l": 26,
+      "c": -3.21,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 40,
+      "h": 86,
+      "l": 60,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b1876e07b5eb"
+}

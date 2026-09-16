@@ -1,0 +1,235 @@
+{
+  "id": 754,
+  "championship": 28,
+  "cupName": "Copa Subúrbio Neon",
+  "cupRace": 25,
+  "name": "Desafio Delta Master",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.7545,
+  "lapTargetSeconds": 79,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.713,
+  "pits": [
+    0.23,
+    0.67,
+    0.84
+  ],
+  "palette": {
+    "grass": "#13a01e",
+    "grass2": "#0f9618",
+    "shoulder": "#3b7f2b",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#178221",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 64,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 44,
+      "h": 152,
+      "l": 72,
+      "c": 4.0,
+      "y": 1,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 65,
+      "l": 70,
+      "c": -3.0,
+      "y": 43,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 90,
+      "l": 46,
+      "c": 3.15,
+      "y": 1,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 121,
+      "l": 48,
+      "c": 1.98,
+      "y": -28,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 52,
+      "l": 60,
+      "c": 8.13,
+      "y": 10,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 107,
+      "l": 28,
+      "c": -4.4,
+      "y": -14,
+      "w": 0.97,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 34,
+      "l": 36,
+      "c": 5.11,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 23,
+      "c": -4.58,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 25,
+      "c": -2.61,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 30,
+      "c": 2.79,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 35,
+      "c": -2.97,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 32,
+      "c": 3.96,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 24,
+      "c": -3.52,
+      "y": -3,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 119,
+      "l": 73,
+      "c": 5.69,
+      "y": 18,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 160,
+      "l": 33,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 105,
+      "l": 55,
+      "c": -3.15,
+      "y": -3,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 78,
+      "l": 60,
+      "c": 2.29,
+      "y": 44,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 49,
+      "h": 127,
+      "l": 65,
+      "c": 4.21,
+      "y": 21,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 122,
+      "l": 68,
+      "c": -2.75,
+      "y": -36,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 51,
+      "l": 53,
+      "c": -6.66,
+      "y": -18,
+      "w": 0.84,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 49,
+      "h": 118,
+      "l": 64,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "8619a1d0dd25"
+}

@@ -1,0 +1,217 @@
+{
+  "id": 991,
+  "championship": 37,
+  "cupName": "Grande Final 999",
+  "cupRace": 19,
+  "name": "Ponte Aurora 16B",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.992,
+  "lapTargetSeconds": 80,
+  "signature": "subida em caracol",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.716,
+  "pits": [
+    0.16,
+    0.49,
+    0.87
+  ],
+  "palette": {
+    "grass": "#1b1b2e",
+    "grass2": "#0f0f1f",
+    "shoulder": "#050515",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#09091d",
+    "mountSnow": false,
+    "road": "#25252f",
+    "road2": "#1f1f29"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 65,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 29,
+      "h": 77,
+      "l": 32,
+      "c": -3.82,
+      "y": 14,
+      "w": 1.0,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 62,
+      "l": 30,
+      "c": 7.04,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 52,
+      "l": 37,
+      "c": -6.35,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 23,
+      "c": 3.86,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 56,
+      "l": 28,
+      "c": -4.04,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 35,
+      "l": 33,
+      "c": 4.22,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 26,
+      "c": -5.88,
+      "y": 12,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 62,
+      "l": 38,
+      "c": 5.29,
+      "y": -6,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 105,
+      "l": 57,
+      "c": -5.03,
+      "y": -12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 164,
+      "l": 30,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.05,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 104,
+      "l": 51,
+      "c": 4.56,
+      "y": 3,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 95,
+      "l": 47,
+      "c": 3.47,
+      "y": 42,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 126,
+      "l": 61,
+      "c": -3.71,
+      "y": 3,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 65,
+      "l": 45,
+      "c": 2.39,
+      "y": -37,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 73,
+      "l": 59,
+      "c": -9.1,
+      "y": 10,
+      "w": 0.97,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 82,
+      "l": 28,
+      "c": 5.05,
+      "y": -14,
+      "w": 0.99,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 37,
+      "l": 41,
+      "c": -5.88,
+      "y": 12,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 31,
+      "l": 32,
+      "c": 5.29,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 39,
+      "h": 119,
+      "l": 47,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e6c928e51d51"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 323,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 26,
+  "name": "Grande Laço Trovão Sul",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3226,
+  "lapTargetSeconds": 67,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "subida cega",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.15,
+    0.51,
+    0.79
+  ],
+  "palette": {
+    "grass": "#b4bdc9",
+    "grass2": "#acb8c7",
+    "shoulder": "#718797",
+    "skyTop": "#63abcc",
+    "skyBot": "#afcad8",
+    "mountColor": "#314353",
+    "mountSnow": true,
+    "road": "#3d4654",
+    "road2": "#343d4b"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 91,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 62,
+      "l": 44,
+      "c": -2.68,
+      "y": 25,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 141,
+      "l": 42,
+      "c": 2.77,
+      "y": 11,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 112,
+      "l": 57,
+      "c": -1.7,
+      "y": -25,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 42,
+      "l": 42,
+      "c": 4.15,
+      "y": -12,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 87,
+      "l": 46,
+      "c": 1.75,
+      "y": 0,
+      "w": 1.04,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 36,
+      "c": 4.58,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 32,
+      "l": 22,
+      "c": -4.1,
+      "y": -3,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 53,
+      "l": 25,
+      "c": 2.27,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 30,
+      "c": -2.45,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 43,
+      "l": 35,
+      "c": 2.63,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 32,
+      "c": 3.43,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 42,
+      "l": 23,
+      "c": -3.04,
+      "y": 4,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 169,
+      "l": 87,
+      "c": -2.67,
+      "y": -12,
+      "w": 0.89,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 124,
+      "l": 39,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 72,
+      "l": 51,
+      "c": -2.77,
+      "y": 3,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 75,
+      "l": 69,
+      "c": 1.97,
+      "y": 26,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 94,
+      "l": 61,
+      "c": 1.93,
+      "y": 11,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 36,
+      "h": 147,
+      "l": 59,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "faecc449054c"
+}

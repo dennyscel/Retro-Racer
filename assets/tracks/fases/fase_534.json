@@ -1,0 +1,235 @@
+{
+  "id": 534,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 21,
+  "name": "Rally Ômega Pro",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.5341,
+  "lapTargetSeconds": 72,
+  "signature": "túnel escuro",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.7,
+  "pits": [
+    0.3,
+    0.62,
+    0.86
+  ],
+  "palette": {
+    "grass": "#212132",
+    "grass2": "#0a0a18",
+    "shoulder": "#0b0b19",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#010112",
+    "mountSnow": false,
+    "road": "#23232d",
+    "road2": "#1d1d27"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 116,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 72,
+      "l": 68,
+      "c": 1.91,
+      "y": -48,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 73,
+      "l": 43,
+      "c": 4.66,
+      "y": 18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 76,
+      "l": 42,
+      "c": 4.28,
+      "y": 0,
+      "w": 0.83,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 35,
+      "l": 31,
+      "c": 4.98,
+      "y": 12,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 55,
+      "l": 22,
+      "c": -4.46,
+      "y": -6,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 64,
+      "l": 36,
+      "c": 2.52,
+      "y": 9,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 43,
+      "l": 23,
+      "c": -2.7,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 28,
+      "c": 2.88,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 49,
+      "l": 27,
+      "c": -3.82,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 27,
+      "l": 23,
+      "c": 3.4,
+      "y": 4,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 134,
+      "l": 54,
+      "c": 3.05,
+      "y": -12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 25,
+      "h": 123,
+      "l": 24,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 136,
+      "l": 72,
+      "c": 3.06,
+      "y": -1,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 73,
+      "l": 40,
+      "c": -2.21,
+      "y": 39,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 74,
+      "l": 46,
+      "c": 2.21,
+      "y": 13,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 73,
+      "l": 58,
+      "c": -2.68,
+      "y": -20,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 72,
+      "l": 36,
+      "c": 6.49,
+      "y": 18,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 81,
+      "l": 38,
+      "c": -3.3,
+      "y": -14,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 44,
+      "l": 20,
+      "c": 3.82,
+      "y": 12,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 34,
+      "l": 38,
+      "c": -3.4,
+      "y": -6,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 38,
+      "h": 162,
+      "l": 48,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "0f80077ed586"
+}

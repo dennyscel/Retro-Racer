@@ -1,0 +1,199 @@
+{
+  "id": 267,
+  "championship": 10,
+  "cupName": "Copa Chuva de Verão",
+  "cupRace": 24,
+  "name": "Rota Cobalto SX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.2665,
+  "lapTargetSeconds": 64,
+  "signature": "subida cega",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.676,
+  "pits": [
+    0.31,
+    0.65,
+    0.89
+  ],
+  "palette": {
+    "grass": "#13a01e",
+    "grass2": "#11991a",
+    "shoulder": "#3e822e",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1d8826",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 91,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 89,
+      "l": 63,
+      "c": -3.89,
+      "y": 24,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 180,
+      "l": 29,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 124,
+      "l": 63,
+      "c": -1.79,
+      "y": 10,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 51,
+      "l": 68,
+      "c": 1.15,
+      "y": 42,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 146,
+      "l": 73,
+      "c": 2.85,
+      "y": 2,
+      "w": 0.85,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 101,
+      "l": 61,
+      "c": 1.76,
+      "y": -53,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 57,
+      "l": 35,
+      "c": -4.29,
+      "y": -18,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 72,
+      "l": 29,
+      "c": 1.84,
+      "y": 0,
+      "w": 1.0,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 61,
+      "l": 29,
+      "c": 4.69,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 35,
+      "l": 41,
+      "c": -4.2,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 34,
+      "l": 26,
+      "c": -2.34,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 31,
+      "c": 2.52,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 36,
+      "c": -2.7,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 25,
+      "c": -3.54,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 42,
+      "c": 3.14,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 166,
+      "l": 82,
+      "c": 2.77,
+      "y": 12,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 123,
+      "l": 59,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d4c133ae4c93"
+}

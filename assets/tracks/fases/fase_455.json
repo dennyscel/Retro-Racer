@@ -1,0 +1,181 @@
+{
+  "id": 455,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 23,
+  "name": "Ponte Coral Arcade",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.4549,
+  "lapTargetSeconds": 67,
+  "signature": "sequência travada",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.679,
+  "pits": [
+    0.21,
+    0.54,
+    0.85
+  ],
+  "palette": {
+    "grass": "#2c2c42",
+    "grass2": "#1c1c2e",
+    "shoulder": "#161628",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#04041b",
+    "mountSnow": false,
+    "road": "#2c2c38",
+    "road2": "#262632"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 95,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 42,
+      "c": -3.33,
+      "y": 14,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 34,
+      "l": 22,
+      "c": 3.86,
+      "y": 12,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 62,
+      "l": 26,
+      "c": -3.43,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 37,
+      "l": 27,
+      "c": -1.8,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 32,
+      "c": 1.98,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 37,
+      "c": -2.16,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 40,
+      "c": 5.3,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 34,
+      "l": 27,
+      "c": -4.76,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 177,
+      "l": 67,
+      "c": -4.47,
+      "y": -12,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 132,
+      "l": 44,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 124,
+      "l": 55,
+      "c": -2.24,
+      "y": 4,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 63,
+      "l": 36,
+      "c": 1.52,
+      "y": 50,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 146,
+      "l": 65,
+      "c": -3.29,
+      "y": -2,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 117,
+      "l": 49,
+      "c": 2.08,
+      "y": -41,
+      "w": 1.02,
+      "f": "descida rápida"
+    },
+    {
+      "e": 54,
+      "h": 103,
+      "l": 63,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b9d87f05a4da"
+}

@@ -1,0 +1,244 @@
+{
+  "id": 762,
+  "championship": 29,
+  "cupName": "Rally Aurora Boreal",
+  "cupRace": 6,
+  "name": "Caminho Coral Extreme",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.7625,
+  "lapTargetSeconds": 79,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.706,
+  "pits": [
+    0.28,
+    0.5,
+    0.8
+  ],
+  "palette": {
+    "grass": "#e5b034",
+    "grass2": "#d89e29",
+    "shoulder": "#c7891f",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#dd9737",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 110,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 26,
+      "c": 3.38,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 31,
+      "c": -3.56,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 36,
+      "c": 3.74,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 21,
+      "c": -5.14,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 45,
+      "l": 39,
+      "c": 4.61,
+      "y": 6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 142,
+      "l": 88,
+      "c": 4.32,
+      "y": 12,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 203,
+      "l": 25,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 128,
+      "l": 64,
+      "c": 4.02,
+      "y": 21,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 61,
+      "l": 68,
+      "c": -3.01,
+      "y": 31,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 150,
+      "l": 38,
+      "c": 3.17,
+      "y": 1,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 121,
+      "l": 66,
+      "c": -2.0,
+      "y": -52,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 80,
+      "l": 40,
+      "c": 8.16,
+      "y": -12,
+      "w": 0.86,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 75,
+      "l": 46,
+      "c": 4.42,
+      "y": 14,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 34,
+      "l": 36,
+      "c": 5.14,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 52,
+      "l": 33,
+      "c": -4.61,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 37,
+      "c": 2.63,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 40,
+      "l": 24,
+      "c": -2.81,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 51,
+      "l": 29,
+      "c": 2.99,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 32,
+      "c": 3.98,
+      "y": 0,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 34,
+      "c": -3.55,
+      "y": 6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 61,
+      "h": 123,
+      "l": 65,
+      "c": -5.71,
+      "y": 18,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 134,
+      "l": 60,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "309a2d3d2a12"
+}

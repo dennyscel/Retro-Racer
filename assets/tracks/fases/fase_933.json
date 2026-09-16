@@ -1,0 +1,226 @@
+{
+  "id": 933,
+  "championship": 35,
+  "cupName": "Copa Megacidade Final",
+  "cupRace": 15,
+  "name": "Vale Lunar Mirror",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9339,
+  "lapTargetSeconds": 81,
+  "signature": "curva longa de alta",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.72,
+  "pits": [
+    0.18,
+    0.62,
+    0.89
+  ],
+  "palette": {
+    "grass": "#bac3cf",
+    "grass2": "#aab7c7",
+    "shoulder": "#6b8191",
+    "skyTop": "#61a9cb",
+    "skyBot": "#adc8d6",
+    "mountColor": "#344656",
+    "mountSnow": true,
+    "road": "#3b4452",
+    "road2": "#323b49"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 83,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 45,
+      "h": 70,
+      "l": 59,
+      "c": -3.53,
+      "y": 27,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 101,
+      "l": 40,
+      "c": 3.79,
+      "y": 23,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 124,
+      "l": 67,
+      "c": -2.44,
+      "y": -23,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 48,
+      "l": 36,
+      "c": 5.93,
+      "y": 18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 47,
+      "c": -5.13,
+      "y": 0,
+      "w": 0.87,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 38,
+      "l": 30,
+      "c": 5.98,
+      "y": 12,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 46,
+      "l": 23,
+      "c": -5.38,
+      "y": -6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 59,
+      "l": 23,
+      "c": 3.17,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 38,
+      "l": 28,
+      "c": -3.35,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 49,
+      "l": 33,
+      "c": 3.53,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 26,
+      "c": -4.83,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 56,
+      "l": 24,
+      "c": 4.32,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 67,
+      "h": 91,
+      "l": 67,
+      "c": -6.52,
+      "y": 24,
+      "w": 1.08,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 194,
+      "l": 24,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.05,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 116,
+      "l": 49,
+      "c": 3.79,
+      "y": 9,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 83,
+      "l": 49,
+      "c": -2.82,
+      "y": 28,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 55,
+      "h": 138,
+      "l": 59,
+      "c": -2.94,
+      "y": 3,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 125,
+      "l": 57,
+      "c": 3.21,
+      "y": -31,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 47,
+      "l": 57,
+      "c": -7.76,
+      "y": 18,
+      "w": 0.86,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 157,
+      "l": 69,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9799666130d1"
+}

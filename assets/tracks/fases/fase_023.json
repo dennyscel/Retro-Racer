@@ -1,0 +1,199 @@
+{
+  "id": 23,
+  "championship": 1,
+  "cupName": "Copa Verde Inicial",
+  "cupRace": 23,
+  "name": "Volta Centelha Norte",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.022,
+  "lapTargetSeconds": 58,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.665,
+  "pits": [
+    0.23,
+    0.48,
+    0.85
+  ],
+  "palette": {
+    "grass": "#2e2e3e",
+    "grass2": "#1a1a27",
+    "shoulder": "#171724",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0a0a1b",
+    "mountSnow": false,
+    "road": "#2d2d37",
+    "road2": "#272731"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 109,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 33,
+      "h": 109,
+      "l": 30,
+      "c": -2.15,
+      "y": 14,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 50,
+      "l": 30,
+      "c": 2.46,
+      "y": 0,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 40,
+      "l": 35,
+      "c": -2.15,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 53,
+      "l": 27,
+      "c": 0.89,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 64,
+      "l": 32,
+      "c": -1.07,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 37,
+      "c": 1.25,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 30,
+      "l": 26,
+      "c": 3.9,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 50,
+      "l": 36,
+      "c": -3.47,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 129,
+      "l": 55,
+      "c": 3.13,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 108,
+      "l": 37,
+      "c": -0.27,
+      "y": -6,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 100,
+      "l": 55,
+      "c": -1.22,
+      "y": -6,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 63,
+      "l": 59,
+      "c": 0.67,
+      "y": 34,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 122,
+      "l": 65,
+      "c": -2.27,
+      "y": -6,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 109,
+      "l": 67,
+      "c": 1.34,
+      "y": -41,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 49,
+      "l": 43,
+      "c": -3.29,
+      "y": -18,
+      "w": 0.86,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 56,
+      "l": 47,
+      "c": 1.17,
+      "y": 14,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 119,
+      "l": 55,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "8131a2c5c807"
+}

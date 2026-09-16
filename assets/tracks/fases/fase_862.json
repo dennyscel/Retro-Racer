@@ -1,0 +1,217 @@
+{
+  "id": 862,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 25,
+  "name": "Circuito Ametista Chuva",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.8627,
+  "lapTargetSeconds": 77,
+  "signature": "chicane curta",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.712,
+  "pits": [
+    0.31,
+    0.58,
+    0.84
+  ],
+  "palette": {
+    "grass": "#232333",
+    "grass2": "#181825",
+    "shoulder": "#161623",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#060616",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 56,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 48,
+      "h": 64,
+      "l": 66,
+      "c": 3.09,
+      "y": -52,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 35,
+      "c": -7.47,
+      "y": -12,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 92,
+      "l": 34,
+      "c": 3.96,
+      "y": 14,
+      "w": 1.04,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 43,
+      "l": 29,
+      "c": -4.6,
+      "y": 0,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 33,
+      "l": 35,
+      "c": 4.11,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 22,
+      "c": 3.96,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 27,
+      "c": -4.14,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 46,
+      "l": 32,
+      "c": 4.32,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 25,
+      "c": 6.04,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 43,
+      "l": 36,
+      "c": -5.43,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 110,
+      "l": 88,
+      "c": 5.19,
+      "y": -18,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 139,
+      "l": 27,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 120,
+      "l": 40,
+      "c": 2.78,
+      "y": -2,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 105,
+      "l": 53,
+      "c": -3.57,
+      "y": 47,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 142,
+      "l": 50,
+      "c": 3.83,
+      "y": 22,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 65,
+      "l": 56,
+      "c": -2.47,
+      "y": -24,
+      "w": 1.1,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 48,
+      "l": 56,
+      "c": 6.0,
+      "y": 10,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 97,
+      "l": 30,
+      "c": 5.18,
+      "y": -14,
+      "w": 1.15,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 43,
+      "h": 114,
+      "l": 52,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "fa9c7d700daf"
+}

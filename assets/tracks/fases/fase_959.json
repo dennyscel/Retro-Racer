@@ -1,0 +1,235 @@
+{
+  "id": 959,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 14,
+  "name": "Boulevard Orion Chuva",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.9599,
+  "lapTargetSeconds": 85,
+  "signature": "retomada após túnel",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.726,
+  "pits": [
+    0.3,
+    0.54,
+    0.85
+  ],
+  "palette": {
+    "grass": "#11a71c",
+    "grass2": "#0c9c15",
+    "shoulder": "#448c33",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1c8d26",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 99,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 85,
+      "h": 173,
+      "l": 83,
+      "c": -5.77,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 104,
+      "l": 46,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 80,
+      "l": 71,
+      "c": 3.22,
+      "y": 9,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 67,
+      "l": 60,
+      "c": -3.94,
+      "y": 30,
+      "w": 1.19,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 102,
+      "l": 45,
+      "c": -4.27,
+      "y": 23,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 73,
+      "l": 63,
+      "c": 2.79,
+      "y": -25,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 69,
+      "l": 55,
+      "c": 6.77,
+      "y": 10,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 52,
+      "l": 28,
+      "c": -3.49,
+      "y": 14,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 53,
+      "l": 39,
+      "c": -6.64,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 53,
+      "l": 40,
+      "c": 5.99,
+      "y": -3,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 34,
+      "c": 3.6,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 21,
+      "c": -3.78,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 26,
+      "c": 3.96,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 33,
+      "l": 35,
+      "c": 5.49,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 63,
+      "l": 41,
+      "c": -4.93,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 154,
+      "l": 60,
+      "c": 4.65,
+      "y": 24,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 193,
+      "l": 39,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 117,
+      "l": 54,
+      "c": 4.27,
+      "y": 3,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 80,
+      "l": 50,
+      "c": -3.23,
+      "y": 31,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 139,
+      "l": 64,
+      "c": 3.43,
+      "y": 17,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 143,
+      "l": 63,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e088eb68544d"
+}

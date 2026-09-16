@@ -1,0 +1,181 @@
+{
+  "id": 146,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 11,
+  "name": "Volta Mandacaru Sprint",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.1453,
+  "lapTargetSeconds": 60,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.665,
+  "pits": [
+    0.17,
+    0.57,
+    0.82
+  ],
+  "palette": {
+    "grass": "#1a1a2a",
+    "grass2": "#171724",
+    "shoulder": "#11111e",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0a0a1b",
+    "mountSnow": false,
+    "road": "#262630",
+    "road2": "#20202a"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 66,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 60,
+      "h": 100,
+      "l": 70,
+      "c": 1.09,
+      "y": -20,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 61,
+      "l": 47,
+      "c": -2.69,
+      "y": 10,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 108,
+      "l": 32,
+      "c": 2.98,
+      "y": 0,
+      "w": 0.86,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 33,
+      "l": 39,
+      "c": -3.43,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 37,
+      "l": 33,
+      "c": 3.04,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 26,
+      "c": 1.52,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 63,
+      "l": 31,
+      "c": -1.7,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 42,
+      "l": 36,
+      "c": 1.88,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 47,
+      "l": 35,
+      "c": -2.28,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 47,
+      "l": 34,
+      "c": 1.98,
+      "y": 4,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 98,
+      "l": 86,
+      "c": 4.07,
+      "y": 24,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 167,
+      "l": 36,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 116,
+      "l": 44,
+      "c": -1.93,
+      "y": 1,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 57,
+      "l": 37,
+      "c": -1.26,
+      "y": 35,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 49,
+      "h": 134,
+      "l": 60,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c476d1ccc946"
+}

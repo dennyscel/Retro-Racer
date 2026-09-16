@@ -1,0 +1,208 @@
+{
+  "id": 418,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 13,
+  "name": "Serpentina Cristal Extreme",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4178,
+  "lapTargetSeconds": 69,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.689,
+  "pits": [
+    0.17,
+    0.67,
+    0.9
+  ],
+  "palette": {
+    "grass": "#169f20",
+    "grass2": "#0c9015",
+    "shoulder": "#387928",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8425",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 68,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 48,
+      "h": 152,
+      "l": 60,
+      "c": 2.57,
+      "y": -6,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 65,
+      "l": 49,
+      "c": 1.8,
+      "y": 27,
+      "w": 0.91,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 90,
+      "l": 70,
+      "c": -1.73,
+      "y": 12,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 81,
+      "l": 72,
+      "c": -2.33,
+      "y": -52,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 60,
+      "c": 5.65,
+      "y": -18,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 109,
+      "l": 28,
+      "c": -2.74,
+      "y": -14,
+      "w": 0.83,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 30,
+      "c": 3.16,
+      "y": 0,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 23,
+      "c": -2.79,
+      "y": 6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 57,
+      "l": 31,
+      "c": -3.03,
+      "y": -5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 36,
+      "c": 3.21,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 23,
+      "c": -3.39,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 34,
+      "l": 26,
+      "c": 4.6,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 28,
+      "l": 24,
+      "c": -4.12,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 167,
+      "l": 73,
+      "c": 3.8,
+      "y": 24,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 208,
+      "l": 47,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 105,
+      "l": 43,
+      "c": 1.73,
+      "y": 12,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 78,
+      "l": 39,
+      "c": 2.69,
+      "y": 28,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 36,
+      "h": 150,
+      "l": 64,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dc6163897fd4"
+}

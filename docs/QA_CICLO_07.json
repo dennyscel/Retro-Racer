@@ -1,0 +1,339 @@
+{
+  "version": "AAA_R2+C07",
+  "date": "2026-09-14",
+  "runtime": {
+    "migration": {
+      "version": 59,
+      "level": 77,
+      "money": 54321,
+      "car": 1,
+      "c06": true,
+      "c07": true
+    },
+    "radio": {
+      "banks": 14,
+      "total": 84,
+      "deterministic": true,
+      "ghost": "GHOST: QUATRO POR CENTO É O BASTANTE.",
+      "rex": "REX: SEM ESPAÇO PRA VOCÊ AQUI."
+    },
+    "adaptive": {
+      "calls": [
+        [
+          "state",
+          "chase"
+        ],
+        [
+          "state",
+          "podium"
+        ],
+        [
+          "pit",
+          true
+        ],
+        [
+          "state",
+          "final"
+        ],
+        [
+          "pitch",
+          1
+        ],
+        [
+          "muffle",
+          780,
+          300
+        ]
+      ],
+      "state": {
+        "state": "final",
+        "pit": true,
+        "lastLap": true,
+        "hitLatched": true
+      }
+    },
+    "bridge": {
+      "chase": [
+        1.1,
+        0.8856,
+        0.2992,
+        0.9912,
+        0.1152,
+        0.3564,
+        0.0832,
+        0.1536
+      ],
+      "podium": [
+        1.04,
+        0.8446,
+        0.3536,
+        0.8568,
+        0.2784,
+        0.7128,
+        0.7176,
+        0.3776
+      ],
+      "pit": {
+        "cutoff": 1450,
+        "wet": 0.24
+      },
+      "pitch": 1,
+      "muffled": 780,
+      "restored": 20000
+    },
+    "graph": {
+      "player": true,
+      "channels": 8,
+      "filter": true,
+      "wet": true,
+      "delay": true,
+      "pitch": 0
+    },
+    "race": {
+      "mode": "timeTrial",
+      "level": 27,
+      "a": {
+        "state": "neutral",
+        "pit": false,
+        "lastLap": false,
+        "hitLatched": false
+      },
+      "b": {
+        "state": "neutral",
+        "pit": false,
+        "lastLap": false,
+        "hitLatched": false
+      },
+      "radio": "ENG: TRÊS PRIMEIROS. MANTÉM O RITMO."
+    },
+    "fps": {
+      "frames": 97,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "liveAudio": {
+    "chase": {
+      "a": {
+        "state": "chase",
+        "pit": false,
+        "lastLap": false,
+        "hitLatched": false
+      },
+      "player": true
+    },
+    "podium": {
+      "state": "podium",
+      "pit": false,
+      "lastLap": false,
+      "hitLatched": false
+    },
+    "pit": {
+      "state": {
+        "state": "podium",
+        "pit": true,
+        "lastLap": false,
+        "hitLatched": false
+      },
+      "musicCutoff": 20000,
+      "wet": 0,
+      "sfxCutoff": 1900
+    },
+    "final": {
+      "state": {
+        "state": "final",
+        "pit": true,
+        "lastLap": true,
+        "hitLatched": false
+      },
+      "pitch": 1
+    },
+    "hit": {
+      "state": {
+        "state": "final",
+        "pit": true,
+        "lastLap": true,
+        "hitLatched": true
+      },
+      "music": 17500.228515625,
+      "sfx": 6200
+    },
+    "restored": {
+      "music": 960.6734619140625,
+      "sfx": 1058.795654296875,
+      "sfxTarget": 1900
+    },
+    "radioEvents": [
+      "ENG: AQUEÇA PNEU, NÃO O EGO.",
+      "ENG: PORTA ABERTA, VOCÊ ENTROU.",
+      "ENG: VOCÊ CEDEU A CORDA. RECUPERA.",
+      "ENG: BOX À DIREITA. NÃO CHEGUE VOANDO.",
+      "ENG: PIT NO PONTO. SEM TEMPO PERDIDO.",
+      "ENG: RESERVA ACESA. SEM DESPERDÍCIO.",
+      "ENG: UMA VOLTA ENTRE VOCÊ E O RESULTADO.",
+      "ENG: SUSPENSÃO SENTIU. SEGURA A LINHA.",
+      "ENG: ÁGUA NA PISTA. RESPEITE O GRIP.",
+      "GHOST: QUATRO POR CENTO É O BASTANTE.",
+      "REX: SEM ESPAÇO PRA VOCÊ AQUI.",
+      "VIPER: NÃO OLHA PRA TRÁS."
+    ],
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 28,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 188,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version59": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "wheelEvidence": 6,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 82323,
+      "kb": 80.4,
+      "ok": true
+    },
+    "shadow": {
+      "module": true,
+      "maxChain4": true,
+      "checksum": true,
+      "qrReal": true,
+      "hashImport": true,
+      "ui": true
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "áudio iOS/Android real",
+    "headphones/stereo físico",
+    "PWA HTTPS"
+  ]
+}

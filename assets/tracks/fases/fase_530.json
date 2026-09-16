@@ -1,0 +1,190 @@
+{
+  "id": 530,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 17,
+  "name": "Rally Titânio Clássico",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.5301,
+  "lapTargetSeconds": 69,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.19,
+    0.6,
+    0.88
+  ],
+  "palette": {
+    "grass": "#0da318",
+    "grass2": "#13a31c",
+    "shoulder": "#3a8229",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#168821",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 108,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 124,
+      "l": 64,
+      "c": 3.68,
+      "y": 19,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 65,
+      "l": 56,
+      "c": -2.73,
+      "y": 43,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 146,
+      "l": 38,
+      "c": 2.84,
+      "y": 5,
+      "w": 0.87,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 69,
+      "l": 64,
+      "c": 1.75,
+      "y": -20,
+      "w": 1.02,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 52,
+      "l": 60,
+      "c": 4.27,
+      "y": -18,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 89,
+      "l": 35,
+      "c": -4.03,
+      "y": -14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 36,
+      "l": 32,
+      "c": 4.68,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 42,
+      "l": 30,
+      "c": -4.18,
+      "y": 4,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 35,
+      "c": 2.33,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 22,
+      "c": -2.51,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 27,
+      "c": 2.69,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 50,
+      "l": 28,
+      "c": -3.52,
+      "y": 12,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 31,
+      "c": 3.12,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 119,
+      "l": 59,
+      "c": -5.27,
+      "y": -18,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 152,
+      "l": 34,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 110,
+      "l": 64,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "73323d015320"
+}

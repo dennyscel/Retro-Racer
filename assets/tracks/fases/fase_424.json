@@ -1,0 +1,217 @@
+{
+  "id": 424,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 19,
+  "name": "Volta Orion SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.4238,
+  "lapTargetSeconds": 71,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.693,
+  "pits": [
+    0.25,
+    0.49,
+    0.78
+  ],
+  "palette": {
+    "grass": "#1ca627",
+    "grass2": "#179c20",
+    "shoulder": "#377a27",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1b8424",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 80,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 180,
+      "l": 48,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 91,
+      "l": 71,
+      "c": 3.43,
+      "y": -2,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 96,
+      "l": 70,
+      "c": 2.52,
+      "y": 36,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 63,
+      "h": 113,
+      "l": 45,
+      "c": 2.59,
+      "y": 12,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 124,
+      "l": 58,
+      "c": -1.57,
+      "y": -26,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 83,
+      "l": 45,
+      "c": -3.84,
+      "y": 10,
+      "w": 1.06,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 92,
+      "l": 47,
+      "c": 3.74,
+      "y": -14,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 57,
+      "l": 23,
+      "c": -4.33,
+      "y": 6,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 27,
+      "l": 40,
+      "c": 3.87,
+      "y": -3,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 50,
+      "l": 20,
+      "c": 2.11,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 25,
+      "c": -2.29,
+      "y": -5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 40,
+      "l": 30,
+      "c": 2.47,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 41,
+      "c": 3.18,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 37,
+      "l": 41,
+      "c": -2.81,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 132,
+      "l": 54,
+      "c": -4.93,
+      "y": 12,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 149,
+      "l": 41,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 128,
+      "l": 54,
+      "c": 2.59,
+      "y": 18,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 109,
+      "l": 60,
+      "c": -1.82,
+      "y": 37,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 140,
+      "l": 54,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f617bbec1c16"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 525,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 12,
+  "name": "Rota Ametista Chuva",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5251,
+  "lapTargetSeconds": 69,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.18,
+    0.47,
+    0.77
+  ],
+  "palette": {
+    "grass": "#171727",
+    "grass2": "#070714",
+    "shoulder": "#01010e",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#00000b",
+    "mountSnow": false,
+    "road": "#20202a",
+    "road2": "#1a1a24"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 69,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 39,
+      "c": -4.08,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 53,
+      "l": 22,
+      "c": 3.64,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 114,
+      "l": 86,
+      "c": 3.3,
+      "y": -18,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 205,
+      "l": 25,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 147,
+      "l": 38,
+      "c": -3.25,
+      "y": -5,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 66,
+      "l": 61,
+      "c": -2.37,
+      "y": 47,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 85,
+      "l": 48,
+      "c": 2.4,
+      "y": 5,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 60,
+      "l": 59,
+      "c": 1.44,
+      "y": -27,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 76,
+      "l": 48,
+      "c": -6.82,
+      "y": 18,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 97,
+      "l": 48,
+      "c": -3.52,
+      "y": -14,
+      "w": 0.89,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 32,
+      "l": 32,
+      "c": 4.08,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 60,
+      "l": 37,
+      "c": -3.64,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 33,
+      "c": -1.94,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 20,
+      "c": 2.12,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 25,
+      "c": -2.3,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 48,
+      "h": 133,
+      "l": 49,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9adbfab095e6"
+}

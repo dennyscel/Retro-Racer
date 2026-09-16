@@ -1,0 +1,169 @@
+{
+  "cycle": 5,
+  "version": "AAA_R2+C05",
+  "static": {
+    "node_fail": [],
+    "max_src_lines": [
+      351,
+      "src/audio/runtime.js"
+    ],
+    "math_random_src": [],
+    "html_ids": 173,
+    "duplicates": [],
+    "tracks": 999,
+    "sentinels": {
+      "1": true,
+      "27": true,
+      "333": true,
+      "666": true,
+      "999": true
+    },
+    "cups": 37,
+    "cup_sizes": [
+      27
+    ],
+    "ghost_learning": {
+      "braking": true,
+      "slip": true,
+      "aggression": true,
+      "nitro": true,
+      "line": true,
+      "cap4": true,
+      "dossier": true,
+      "radio": true
+    },
+    "save_key": true,
+    "shell_gzip_sum": 80111
+  },
+  "runtime": {
+    "migrated": {
+      "version": 57,
+      "level": 77,
+      "money": 54321,
+      "car": 1,
+      "profile": {
+        "version": 1,
+        "races": 0,
+        "braking": {
+          "light": 10,
+          "medium": 10,
+          "hairpin": 11
+        },
+        "brakeSpeed": 0.62,
+        "slipTolerance": 0.45,
+        "aggression": 0.5,
+        "nitroPoint": 0.5,
+        "lineBias": 0,
+        "errors": {
+          "offroad": 0,
+          "collisions": 0
+        },
+        "dominantError": "SEM DADOS",
+        "lastInsight": "",
+        "lastRace": {}
+      }
+    },
+    "learned": {
+      "profile": {
+        "version": 1,
+        "races": 1,
+        "braking": {
+          "light": 10,
+          "medium": 8,
+          "hairpin": 12
+        },
+        "brakeSpeed": 0.6833333333333335,
+        "slipTolerance": 0.3,
+        "aggression": 0.6,
+        "nitroPoint": 0.48665,
+        "lineBias": 0.1900229160135086,
+        "errors": {
+          "offroad": 1.8,
+          "collisions": 1
+        },
+        "dominantError": "SAÍDA DE PISTA",
+        "lastInsight": "VOCÊ FREIA CEDO NAS HAIRPINS · 12.0 SEGMENTOS.",
+        "lastRace": {
+          "overtakes": 5,
+          "collisions": 1,
+          "offroad": 1.8,
+          "nitroStarts": 5
+        }
+      },
+      "tune": {
+        "speedBonus": 0.0195,
+        "lineBias": 0.1900229160135086,
+        "aggression": 0.64,
+        "curveConfidence": 0.9532499999999999,
+        "nitroPoint": 0.48665,
+        "races": 1
+      },
+      "ghost": {
+        "baseSpeed": 10430.7084,
+        "learned": {
+          "speedBonus": 0.0195,
+          "lineBias": 0.1900229160135086,
+          "aggression": 0.64,
+          "curveConfidence": 0.9532499999999999,
+          "nitroPoint": 0.48665,
+          "races": 1
+        },
+        "aggression": 1.3376000000000001,
+        "lane": 0.58
+      },
+      "insight": "VOCÊ FREIA CEDO NAS HAIRPINS · 12.0 SEGMENTOS."
+    },
+    "dossier": {
+      "visible": true,
+      "lead": "VOCÊ FREIA CEDO NAS HAIRPINS · 12.0 SEGMENTOS.",
+      "races": "1",
+      "hair": "12.0 seg",
+      "nitro": "49% da volta",
+      "aggro": "60%",
+      "error": "SAÍDA DE PISTA",
+      "bonus": "+2%"
+    },
+    "cap": {
+      "speedBonus": 0.04,
+      "lineBias": 0.1900229160135086,
+      "aggression": 0.64,
+      "curveConfidence": 0.9532499999999999,
+      "nitroPoint": 0.48665,
+      "races": 50
+    },
+    "radio": {
+      "text": "GHOST: VOCÊ FREIA CEDO NAS HAIRPINS",
+      "used": true,
+      "tune": {
+        "speedBonus": 0.0255,
+        "lineBias": 0.1900229160135086,
+        "aggression": 0.64,
+        "curveConfidence": 0.9532499999999999,
+        "nitroPoint": 0.48665,
+        "races": 5
+      }
+    },
+    "fps": {
+      "frames": 132,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.799999999999955
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "laws": {
+    "L1": "PASS",
+    "L2": "PASS",
+    "L3": "PASS",
+    "L4": "PASS",
+    "L5": "PASS LAB / NÃO TESTADO Moto G",
+    "L6": "PASS",
+    "L7": "PASS",
+    "L8": "PASS",
+    "L9": "PASS LAB",
+    "L10": "PASS ESTRUTURAL / NÃO TESTADO hardware",
+    "L11": "PASS",
+    "L12": "PASS"
+  }
+}

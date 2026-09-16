@@ -1,0 +1,190 @@
+{
+  "id": 7,
+  "championship": 1,
+  "cupName": "Copa Verde Inicial",
+  "cupRace": 7,
+  "name": "Volta Jaguar Circuit",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.006,
+  "lapTargetSeconds": 58,
+  "signature": "reta com vento",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.66,
+  "pits": [
+    0.3,
+    0.61,
+    0.75
+  ],
+  "palette": {
+    "grass": "#2b2b3b",
+    "grass2": "#161623",
+    "shoulder": "#1b1b28",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#151526",
+    "mountSnow": false,
+    "road": "#2f2f39",
+    "road2": "#292933"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 59,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 87,
+      "l": 35,
+      "c": -2.59,
+      "y": 14,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 36,
+      "c": 2.98,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 42,
+      "l": 40,
+      "c": -2.63,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 37,
+      "l": 29,
+      "c": 1.23,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 34,
+      "c": -1.41,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 21,
+      "c": 1.59,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 32,
+      "c": 1.83,
+      "y": 12,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 52,
+      "l": 41,
+      "c": -1.57,
+      "y": -6,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 177,
+      "l": 81,
+      "c": -3.63,
+      "y": -12,
+      "w": 0.85,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 116,
+      "l": 46,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.98,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 152,
+      "l": 39,
+      "c": -1.6,
+      "y": 0,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 63,
+      "l": 43,
+      "c": 0.99,
+      "y": 50,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 90,
+      "l": 49,
+      "c": 0.76,
+      "y": 14,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 89,
+      "l": 51,
+      "c": 1.62,
+      "y": -25,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 49,
+      "l": 55,
+      "c": -3.96,
+      "y": 10,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 87,
+      "l": 63,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "02231753ced5"
+}

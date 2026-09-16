@@ -1,0 +1,199 @@
+{
+  "id": 586,
+  "championship": 22,
+  "cupName": "Campeonato Alpes Pixel",
+  "cupRace": 19,
+  "name": "Ponte Neblina Oeste",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.5862,
+  "lapTargetSeconds": 71,
+  "signature": "ponte estreita",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.2,
+    0.67,
+    0.78
+  ],
+  "palette": {
+    "grass": "#222231",
+    "grass2": "#151522",
+    "shoulder": "#0e0e1b",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0b0b1b",
+    "mountSnow": false,
+    "road": "#292933",
+    "road2": "#23232d"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 108,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 80,
+      "l": 60,
+      "c": 1.7,
+      "y": -28,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 85,
+      "l": 39,
+      "c": -7.44,
+      "y": 10,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 104,
+      "l": 31,
+      "c": 3.94,
+      "y": -14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 57,
+      "l": 39,
+      "c": -4.57,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 39,
+      "l": 32,
+      "c": 4.08,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 60,
+      "l": 34,
+      "c": 2.26,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 39,
+      "l": 21,
+      "c": -2.44,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 50,
+      "l": 26,
+      "c": 2.62,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 37,
+      "l": 35,
+      "c": -3.41,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 49,
+      "l": 33,
+      "c": 3.02,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 70,
+      "h": 122,
+      "l": 64,
+      "c": 5.16,
+      "y": -18,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 127,
+      "l": 26,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 70,
+      "h": 72,
+      "l": 52,
+      "c": 2.76,
+      "y": -1,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 89,
+      "l": 57,
+      "c": -1.96,
+      "y": 27,
+      "w": 1.18,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 94,
+      "l": 62,
+      "c": 3.81,
+      "y": -5,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 81,
+      "l": 50,
+      "c": -2.46,
+      "y": -36,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 52,
+      "h": 134,
+      "l": 64,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "46d5090923a4"
+}

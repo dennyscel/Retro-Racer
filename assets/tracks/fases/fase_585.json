@@ -1,0 +1,190 @@
+{
+  "id": 585,
+  "championship": 22,
+  "cupName": "Campeonato Alpes Pixel",
+  "cupRace": 18,
+  "name": "Grande Laço Cascata Chuva",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5852,
+  "lapTargetSeconds": 70,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.687,
+  "pits": [
+    0.3,
+    0.56,
+    0.83
+  ],
+  "palette": {
+    "grass": "#1f1f34",
+    "grass2": "#1c1c2e",
+    "shoulder": "#0e0e20",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c22",
+    "mountSnow": false,
+    "road": "#2a2a36",
+    "road2": "#242430"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 117,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 33,
+      "h": 31,
+      "l": 33,
+      "c": -3.41,
+      "y": 12,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 55,
+      "l": 40,
+      "c": 3.02,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 174,
+      "l": 62,
+      "c": 5.16,
+      "y": -18,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 145,
+      "l": 35,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 99,
+      "l": 62,
+      "c": 2.76,
+      "y": 13,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 50,
+      "l": 51,
+      "c": 1.96,
+      "y": 43,
+      "w": 1.05,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 121,
+      "l": 72,
+      "c": -3.81,
+      "y": 19,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 116,
+      "l": 59,
+      "c": -2.46,
+      "y": -51,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 64,
+      "l": 52,
+      "c": 5.97,
+      "y": -12,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 107,
+      "l": 45,
+      "c": -2.95,
+      "y": 0,
+      "w": 0.97,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 60,
+      "l": 26,
+      "c": 3.41,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 62,
+      "l": 34,
+      "c": -3.02,
+      "y": 4,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 21,
+      "c": 3.19,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 26,
+      "c": -3.37,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 31,
+      "c": 3.55,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 51,
+      "h": 121,
+      "l": 61,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "3c4a9d301e48"
+}

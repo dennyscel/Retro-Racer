@@ -1,0 +1,172 @@
+{
+  "id": 445,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 13,
+  "name": "Circuito Coral GT",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.4449,
+  "lapTargetSeconds": 66,
+  "signature": "subida em caracol",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.679,
+  "pits": [
+    0.19,
+    0.49,
+    0.81
+  ],
+  "palette": {
+    "grass": "#19b224",
+    "grass2": "#0fa218",
+    "shoulder": "#367f24",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#158a20",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 97,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 83,
+      "h": 155,
+      "l": 73,
+      "c": -3.89,
+      "y": 24,
+      "w": 1.05,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 106,
+      "l": 32,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.11,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 144,
+      "l": 61,
+      "c": -1.79,
+      "y": 12,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 70,
+      "h": 59,
+      "l": 36,
+      "c": 2.74,
+      "y": 28,
+      "w": 0.99,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 82,
+      "l": 71,
+      "c": -2.85,
+      "y": -2,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 105,
+      "l": 59,
+      "c": 1.76,
+      "y": -51,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 63,
+      "l": 45,
+      "c": -4.29,
+      "y": -12,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 92,
+      "l": 39,
+      "c": 4.04,
+      "y": 0,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 27,
+      "h": 33,
+      "l": 31,
+      "c": 4.69,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 27,
+      "l": 30,
+      "c": -4.2,
+      "y": -6,
+      "w": 1.16,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 24,
+      "c": -2.34,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 29,
+      "c": 2.52,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 34,
+      "c": -2.7,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 44,
+      "h": 149,
+      "l": 61,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "bec19c085865"
+}

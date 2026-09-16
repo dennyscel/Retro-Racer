@@ -1,0 +1,244 @@
+{
+  "id": 718,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 16,
+  "name": "Arena Monsoon Circuit",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.7184,
+  "lapTargetSeconds": 77,
+  "signature": "subida em caracol",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.707,
+  "pits": [
+    0.26,
+    0.49,
+    0.84
+  ],
+  "palette": {
+    "grass": "#f2bb3d",
+    "grass2": "#e0a52d",
+    "shoulder": "#cd8d22",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#dd9533",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 112,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 44,
+      "l": 36,
+      "c": 3.47,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 55,
+      "l": 23,
+      "c": -3.65,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 34,
+      "l": 28,
+      "c": 3.83,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 57,
+      "l": 21,
+      "c": -5.29,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 41,
+      "l": 37,
+      "c": 4.74,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 70,
+      "h": 130,
+      "l": 86,
+      "c": 4.46,
+      "y": 12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 25,
+      "h": 135,
+      "l": 31,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 124,
+      "l": 56,
+      "c": -4.12,
+      "y": 7,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 77,
+      "l": 59,
+      "c": -3.1,
+      "y": 51,
+      "w": 1.18,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 146,
+      "l": 66,
+      "c": 3.28,
+      "y": 7,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 85,
+      "l": 52,
+      "c": -2.07,
+      "y": -44,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 44,
+      "l": 52,
+      "c": 5.04,
+      "y": 10,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 87,
+      "l": 44,
+      "c": -4.54,
+      "y": 0,
+      "w": 1.08,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 36,
+      "c": 5.29,
+      "y": 12,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 31,
+      "c": -4.74,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 57,
+      "l": 29,
+      "c": -2.72,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 36,
+      "l": 34,
+      "c": 2.9,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 21,
+      "c": -3.08,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 32,
+      "l": 32,
+      "c": 4.13,
+      "y": -8,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 58,
+      "l": 32,
+      "c": -3.68,
+      "y": 4,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 111,
+      "l": 63,
+      "c": -5.85,
+      "y": 12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 51,
+      "h": 90,
+      "l": 68,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "be04e120c798"
+}

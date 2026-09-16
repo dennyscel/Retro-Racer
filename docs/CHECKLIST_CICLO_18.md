@@ -1,0 +1,21 @@
+# CHECKLIST — CICLO 18
+
+- [x] SAVE_KEY permanece `retro_racer_championship_v30`.
+- [x] Migração v69→v70 preserva progresso e carro selecionado.
+- [x] PROTAN / DEUTER / TRITAN disponíveis.
+- [x] Modo canhoto troca lados dos controles.
+- [x] Escala 80–140%; alvo mínimo >=48 px.
+- [x] Assistência OFF/LEVE/MÉDIA/FORTE.
+- [x] Legendas de SFX/rádio.
+- [x] Reduzir Flash e prefers-reduced-motion integrados.
+- [x] Recompensa independente de assistência.
+- [x] 999 pistas + 1/27/333/666/999.
+- [x] 4 rodas em drawCarGeneric.
+- [x] Determinismo 3×.
+- [x] Todos JS/SW passam `node --check`.
+- [x] IDs HTML únicos; zero asset local faltando.
+- [x] Service worker contém todos os módulos importados.
+- [x] Shell crítico 121,3 KB gzip (<350 KB).
+- [ ] Moto G físico: NÃO TESTADO.
+- [ ] Gamepad/haptics físicos: NÃO TESTADO.
+- [ ] PWA HTTPS instalada em hardware: NÃO TESTADO.

@@ -1,0 +1,190 @@
+{
+  "id": 117,
+  "championship": 5,
+  "cupName": "Liga Neon Noturna",
+  "cupRace": 9,
+  "name": "Rally Saturno SX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1162,
+  "lapTargetSeconds": 61,
+  "signature": "subida cega",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.667,
+  "pits": [
+    0.18,
+    0.53,
+    0.83
+  ],
+  "palette": {
+    "grass": "#179f21",
+    "grass2": "#15971d",
+    "shoulder": "#3f802f",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#188022",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 95,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 75,
+      "h": 179,
+      "l": 81,
+      "c": -1.75,
+      "y": -18,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 210,
+      "l": 29,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 76,
+      "l": 57,
+      "c": 2.07,
+      "y": -5,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 91,
+      "l": 58,
+      "c": 1.38,
+      "y": 52,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 65,
+      "h": 98,
+      "l": 67,
+      "c": 1.23,
+      "y": 9,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 113,
+      "l": 61,
+      "c": 1.96,
+      "y": -47,
+      "w": 0.94,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 87,
+      "l": 53,
+      "c": -4.78,
+      "y": 10,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 76,
+      "l": 47,
+      "c": 2.16,
+      "y": -14,
+      "w": 0.95,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 41,
+      "h": 59,
+      "l": 33,
+      "c": -2.47,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 38,
+      "c": 2.16,
+      "y": 4,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 64,
+      "l": 20,
+      "c": 0.9,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 43,
+      "l": 25,
+      "c": -1.08,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 30,
+      "c": 1.26,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 39,
+      "l": 29,
+      "c": -3.92,
+      "y": -8,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 39,
+      "c": 3.49,
+      "y": 4,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 39,
+      "h": 109,
+      "l": 57,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "5b8689d924cf"
+}

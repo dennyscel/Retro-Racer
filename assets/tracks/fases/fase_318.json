@@ -1,0 +1,208 @@
+{
+  "id": 318,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 21,
+  "name": "Circuito Delta GT",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.3176,
+  "lapTargetSeconds": 66,
+  "signature": "cotovelo em subida",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.31,
+    0.59,
+    0.86
+  ],
+  "palette": {
+    "grass": "#202033",
+    "grass2": "#0d0d1d",
+    "shoulder": "#0a0a1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c20",
+    "mountSnow": false,
+    "road": "#272731",
+    "road2": "#21212b"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 92,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 50,
+      "h": 68,
+      "l": 62,
+      "c": 1.54,
+      "y": -48,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 49,
+      "l": 51,
+      "c": -3.77,
+      "y": 10,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 98,
+      "l": 36,
+      "c": 3.69,
+      "y": 0,
+      "w": 1.04,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 43,
+      "l": 35,
+      "c": 4.28,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 63,
+      "l": 37,
+      "c": -3.82,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 56,
+      "l": 36,
+      "c": 2.07,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 35,
+      "l": 23,
+      "c": -2.25,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 46,
+      "l": 28,
+      "c": 2.43,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 57,
+      "l": 31,
+      "c": -3.12,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 35,
+      "l": 38,
+      "c": 2.76,
+      "y": 6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 110,
+      "l": 48,
+      "c": 2.37,
+      "y": 24,
+      "w": 0.86,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 25,
+      "h": 171,
+      "l": 33,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 124,
+      "l": 72,
+      "c": -2.55,
+      "y": 3,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 105,
+      "l": 69,
+      "c": -1.78,
+      "y": 47,
+      "w": 0.89,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 146,
+      "l": 46,
+      "c": 1.7,
+      "y": 11,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 69,
+      "l": 52,
+      "c": -2.31,
+      "y": -20,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 44,
+      "c": 5.6,
+      "y": -18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 50,
+      "h": 170,
+      "l": 44,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c19a6bffb773"
+}

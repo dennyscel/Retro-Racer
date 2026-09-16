@@ -1,0 +1,12 @@
+# CHECKLIST — CICLO 20
+- [x] SAVE_KEY intacto; v71→v72 preserva progresso.
+- [x] Taxonomia completa implementada.
+- [x] Buffer local em anel = 500.
+- [x] Allowlist remove payload não previsto.
+- [x] Opt-in falso por padrão.
+- [x] Endpoint exige HTTPS.
+- [x] Painel oculto por 5 toques no logo.
+- [x] D1/D7/D30 identificados como proxy local.
+- [x] Sessão média, FTUE, pista e dificuldade no canvas.
+- [x] 999 pistas / determinismo / assets preservados.
+- [ ] Endpoint de produção: NÃO CONFIGURADO/NÃO TESTADO.

@@ -1,0 +1,217 @@
+{
+  "id": 606,
+  "championship": 23,
+  "cupName": "Taça Praia do Eclipse",
+  "cupRace": 12,
+  "name": "Túnel Lunar Noite",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.6062,
+  "lapTargetSeconds": 73,
+  "signature": "reta de largada larga",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.692,
+  "pits": [
+    0.24,
+    0.56,
+    0.86
+  ],
+  "palette": {
+    "grass": "#cba54a",
+    "grass2": "#c29942",
+    "shoulder": "#b88b3d",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#be8b44",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 72,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 60,
+      "l": 32,
+      "c": 2.49,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 37,
+      "c": -2.67,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 50,
+      "l": 24,
+      "c": 2.85,
+      "y": -5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 41,
+      "l": 41,
+      "c": 3.77,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 55,
+      "l": 30,
+      "c": -3.35,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 178,
+      "l": 58,
+      "c": -5.5,
+      "y": -12,
+      "w": 1.18,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 191,
+      "l": 44,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 152,
+      "l": 52,
+      "c": 3.02,
+      "y": 6,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 77,
+      "l": 52,
+      "c": -2.18,
+      "y": 35,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 90,
+      "l": 62,
+      "c": 2.17,
+      "y": 0,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 97,
+      "l": 60,
+      "c": 2.65,
+      "y": -40,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 44,
+      "l": 52,
+      "c": 6.42,
+      "y": -12,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 107,
+      "l": 37,
+      "c": 3.26,
+      "y": 0,
+      "w": 0.92,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 34,
+      "c": 3.77,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 24,
+      "c": -3.35,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 41,
+      "l": 25,
+      "c": -3.42,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 52,
+      "l": 30,
+      "c": 3.6,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 35,
+      "c": -3.78,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 53,
+      "h": 130,
+      "l": 68,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "56ca8ccde65a"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 448,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 16,
+  "name": "Arena Relâmpago Extreme",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4479,
+  "lapTargetSeconds": 69,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.23,
+    0.61,
+    0.84
+  ],
+  "palette": {
+    "grass": "#13a61e",
+    "grass2": "#0f9c18",
+    "shoulder": "#398028",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#178721",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 92,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 44,
+      "h": 128,
+      "l": 54,
+      "c": 3.27,
+      "y": 12,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 57,
+      "l": 44,
+      "c": 2.39,
+      "y": 25,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 150,
+      "l": 64,
+      "c": 2.43,
+      "y": -6,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 109,
+      "l": 72,
+      "c": 1.46,
+      "y": -46,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 46,
+      "l": 34,
+      "c": -6.87,
+      "y": -18,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 85,
+      "l": 37,
+      "c": -3.56,
+      "y": -14,
+      "w": 0.84,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 28,
+      "h": 34,
+      "l": 38,
+      "c": 4.12,
+      "y": 6,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 38,
+      "l": 32,
+      "c": -3.67,
+      "y": -3,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 25,
+      "c": -1.97,
+      "y": 9,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 30,
+      "c": 2.15,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 35,
+      "c": -2.33,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 34,
+      "c": 2.97,
+      "y": 6,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 48,
+      "l": 33,
+      "c": -2.61,
+      "y": -3,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 149,
+      "l": 61,
+      "c": -4.73,
+      "y": -12,
+      "w": 1.02,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 178,
+      "l": 27,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 81,
+      "l": 73,
+      "c": 2.43,
+      "y": 4,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 70,
+      "l": 69,
+      "c": -1.69,
+      "y": 26,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 100,
+      "l": 42,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "0180fc9a6057"
+}

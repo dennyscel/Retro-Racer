@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FINAL",
+  "files": 2197,
+  "json_valid": true,
+  "node_checked": 42,
+  "tracks": 999,
+  "ids": 304,
+  "max_module_lines": 358,
+  "shell_gzip_bytes": 133566,
+  "score": 118
+}

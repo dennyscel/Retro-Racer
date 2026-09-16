@@ -1,0 +1,163 @@
+{
+  "id": 295,
+  "championship": 11,
+  "cupName": "Liga Metro Futuro",
+  "cupRace": 25,
+  "name": "Serpentina Turbo Prime",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2946,
+  "lapTargetSeconds": 63,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.23,
+    0.58,
+    0.75
+  ],
+  "palette": {
+    "grass": "#1f1f2f",
+    "grass2": "#10101d",
+    "shoulder": "#0c0c19",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#030313",
+    "mountSnow": false,
+    "road": "#20202a",
+    "road2": "#1a1a24"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 71,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 31,
+      "h": 43,
+      "l": 29,
+      "c": -4.49,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 39,
+      "l": 23,
+      "c": 4.02,
+      "y": 4,
+      "w": 0.91,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 62,
+      "h": 156,
+      "l": 66,
+      "c": 3.7,
+      "y": -12,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 155,
+      "l": 45,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 70,
+      "h": 107,
+      "l": 60,
+      "c": 1.65,
+      "y": 10,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 106,
+      "l": 41,
+      "c": -2.62,
+      "y": 41,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 129,
+      "l": 70,
+      "c": 2.7,
+      "y": 2,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 124,
+      "l": 69,
+      "c": -1.66,
+      "y": -49,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 58,
+      "l": 42,
+      "c": 4.04,
+      "y": 18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 107,
+      "l": 28,
+      "c": -1.67,
+      "y": 0,
+      "w": 1.06,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 38,
+      "l": 22,
+      "c": 4.49,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 46,
+      "l": 38,
+      "c": -4.02,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 46,
+      "h": 135,
+      "l": 59,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4e4216a54d31"
+}

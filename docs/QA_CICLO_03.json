@@ -1,0 +1,152 @@
+{
+  "static": {
+    "node_fail": [],
+    "max_src_lines": [
+      351,
+      "src/audio/runtime.js"
+    ],
+    "math_random_src": [],
+    "html_ids": 158,
+    "duplicates": [],
+    "tracks": 999,
+    "sentinels": {
+      "1": true,
+      "27": true,
+      "333": true,
+      "666": true,
+      "999": true
+    },
+    "cups": 37,
+    "cup_sizes": [
+      27
+    ],
+    "save_key": true,
+    "juice_checks": {
+      "marks6s": true,
+      "camera2frames": true,
+      "chroma240": true,
+      "perfectFlash": true,
+      "reducedMotion": true,
+      "guardSparks": true
+    },
+    "shell_gzip_sum": 75270
+  },
+  "runtime": {
+    "normal": {
+      "snapAfterSteer": {
+        "reducedMotion": false,
+        "activeTireMarks": 10,
+        "cameraLag": [
+          0,
+          0,
+          0
+        ],
+        "chromatic": 0,
+        "perfectFlashFrames": 0
+      },
+      "postFx": {
+        "before": {
+          "reducedMotion": false,
+          "activeTireMarks": 10,
+          "cameraLag": [
+            0,
+            0,
+            0
+          ],
+          "chromatic": 0,
+          "perfectFlashFrames": 1
+        },
+        "after": {
+          "reducedMotion": false,
+          "activeTireMarks": 10,
+          "cameraLag": [
+            0,
+            0,
+            0
+          ],
+          "chromatic": 0.517,
+          "perfectFlashFrames": 0
+        }
+      },
+      "cameraLagSequence": [
+        0,
+        0,
+        0.10000000149011612,
+        0.20000000298023224
+      ],
+      "sparks": {
+        "before": 100,
+        "after": 104
+      },
+      "probes": [
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        }
+      ],
+      "fps": {
+        "frames": 151,
+        "medianMs": 16.699999999999818,
+        "fps": 59.88023952095874,
+        "p95": 16.799999999999727
+      },
+      "errors": [],
+      "consoleErrors": []
+    },
+    "reduced": {
+      "juice": {
+        "reducedMotion": true,
+        "activeTireMarks": 0,
+        "cameraLag": [
+          0,
+          0,
+          0
+        ],
+        "chromatic": 0,
+        "perfectFlashFrames": 0
+      },
+      "camera": [
+        0.1,
+        0.2,
+        0.3
+      ],
+      "body": [
+        "reduced-motion"
+      ],
+      "impactFreeze": 0,
+      "cameraShake": 0,
+      "after": {
+        "reducedMotion": true,
+        "activeTireMarks": 0,
+        "cameraLag": [
+          0,
+          0,
+          0
+        ],
+        "chromatic": 0,
+        "perfectFlashFrames": 0
+      },
+      "errors": []
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": 539,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 26,
+  "name": "Sprint Prisma Noite",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5391,
+  "lapTargetSeconds": 73,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "descida rápida",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.7,
+  "pits": [
+    0.31,
+    0.54,
+    0.79
+  ],
+  "palette": {
+    "grass": "#aeb7bf",
+    "grass2": "#9ca8b3",
+    "shoulder": "#667684",
+    "skyTop": "#63a4c2",
+    "skyBot": "#abc3d0",
+    "mountColor": "#384552",
+    "mountSnow": true,
+    "road": "#38414d",
+    "road2": "#2f3844"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 115,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 71,
+      "h": 94,
+      "l": 50,
+      "c": -3.1,
+      "y": 49,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 153,
+      "l": 42,
+      "c": 3.28,
+      "y": 5,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 116,
+      "l": 63,
+      "c": -2.07,
+      "y": -25,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 66,
+      "l": 34,
+      "c": 5.04,
+      "y": 10,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 65,
+      "l": 31,
+      "c": 2.34,
+      "y": 14,
+      "w": 1.09,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 28,
+      "h": 40,
+      "l": 32,
+      "c": -5.28,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 62,
+      "l": 28,
+      "c": 4.74,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 25,
+      "c": -2.72,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 40,
+      "l": 30,
+      "c": 2.9,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 51,
+      "l": 35,
+      "c": -3.08,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 28,
+      "c": 4.13,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 34,
+      "l": 29,
+      "c": -3.68,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 97,
+      "l": 51,
+      "c": 3.34,
+      "y": -12,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 196,
+      "l": 30,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 84,
+      "l": 51,
+      "c": -3.28,
+      "y": 19,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 107,
+      "l": 40,
+      "c": 2.4,
+      "y": 50,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 106,
+      "l": 61,
+      "c": -2.44,
+      "y": -5,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 117,
+      "l": 53,
+      "c": 1.46,
+      "y": -33,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 55,
+      "c": -6.88,
+      "y": -12,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 139,
+      "l": 63,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b83bb5e351cb"
+}

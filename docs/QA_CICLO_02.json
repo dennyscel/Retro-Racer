@@ -1,0 +1,245 @@
+{
+  "static": {
+    "node_fail": [],
+    "max_src_lines": [
+      351,
+      "src/audio/runtime.js"
+    ],
+    "html_id_count": 158,
+    "duplicate_ids": [],
+    "missing_refs": [],
+    "phase_json_count": 999,
+    "sentinels": {
+      "1": true,
+      "27": true,
+      "333": true,
+      "666": true,
+      "999": true
+    },
+    "catalog_csv": "assets/tracks/catalogo_circuitos_999_v40.csv",
+    "catalog_rows": 999,
+    "cups_count": 37,
+    "cup_sizes_unique": [
+      27
+    ],
+    "cup_size_bad": {},
+    "save_key_exact": true,
+    "math_random_src": [],
+    "wheel_related_lines": [
+      [
+        "src/render/car-fx.js",
+        "const rearWheelW=w*.19, rearWheelH=h*.45, frontWheelW=w*.15, frontWheelH=h*.34;"
+      ],
+      [
+        "src/render/car-fx.js",
+        "carRoundRect(-w*.54+lean,top+h*.46,rearWheelW,rearWheelH,w*.035,'#060606',context); carRoundRect(w*.35+lean,top+h*.46,rearWheelW,rearWheelH,w*.035,'#060606',context);"
+      ],
+      [
+        "src/render/car-fx.js",
+        "carRoundRect(-w*.52+lean,top+h*.24,frontWheelW,frontWheelH,w*.03,'#080808',context); carRoundRect(w*.37+lean,top+h*.24,frontWheelW,frontWheelH,w*.03,'#080808',context);"
+      ]
+    ],
+    "wheel_rect_calls": 2,
+    "hot_alloc_obvious": [],
+    "critical_payload_raw_bytes": 238743,
+    "critical_shell_gzip_sum_bytes": 72674
+  },
+  "runtime": {
+    "fresh": {
+      "s1": {
+        "active": true,
+        "phase": "prologue",
+        "elapsed": 0.9000000000000011,
+        "handoff": 0,
+        "firstOvertake": false,
+        "firstOvertakeAt": null,
+        "maxSteer": 0,
+        "leadName": "NOVA",
+        "careerStarts": 0,
+        "careerRaces": 0,
+        "flag": false,
+        "mode": "race",
+        "level": 1,
+        "speed": 3600,
+        "playerX": -0.16,
+        "cars": 1
+      },
+      "vis1": {
+        "menu": false,
+        "hud": "none",
+        "body": [
+          "ftue-prologue"
+        ]
+      },
+      "s7": {
+        "active": true,
+        "phase": "prologue",
+        "elapsed": 7.683333333333311,
+        "handoff": 0,
+        "firstOvertake": true,
+        "firstOvertakeAt": 2.0999999999999974,
+        "maxSteer": 0.6968000000000002,
+        "leadName": "NOVA",
+        "careerStarts": 0,
+        "careerRaces": 0,
+        "flag": false,
+        "mode": "race",
+        "level": 1,
+        "speed": 3600,
+        "playerX": 0.537,
+        "cars": 1
+      },
+      "s9": {
+        "active": true,
+        "phase": "handoff",
+        "elapsed": 8.016666666666644,
+        "handoff": 1.083333333333338,
+        "firstOvertake": true,
+        "firstOvertakeAt": 2.0999999999999974,
+        "maxSteer": 0.6968000000000002,
+        "leadName": "NOVA",
+        "careerStarts": 1,
+        "careerRaces": 0,
+        "flag": true,
+        "mode": "race",
+        "level": 1,
+        "speed": 9415.73,
+        "playerX": 0.295,
+        "cars": 22
+      },
+      "s12": {
+        "active": false,
+        "phase": "idle",
+        "elapsed": 8.016666666666644,
+        "handoff": 0,
+        "firstOvertake": true,
+        "firstOvertakeAt": 2.0999999999999974,
+        "maxSteer": 0.6968000000000002,
+        "leadName": "NOVA",
+        "careerStarts": 1,
+        "careerRaces": 0,
+        "flag": true,
+        "mode": "race",
+        "level": 1,
+        "speed": 3741.06,
+        "playerX": -0.138,
+        "cars": 22
+      },
+      "probes": [
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 86448.157378,
+          "x": -1.697361,
+          "speed": 3000,
+          "fuel": 0.855677,
+          "time": 20,
+          "lap": 1
+        }
+      ],
+      "fps": {
+        "frames": 181,
+        "medianMs": 16.69999999999891,
+        "fps": 59.880239520962,
+        "p95": 16.700000000000728
+      },
+      "errors": [],
+      "consoleErrors": []
+    },
+    "old": {
+      "snapshot": {
+        "ftue": {
+          "active": false,
+          "phase": "idle",
+          "elapsed": 0,
+          "handoff": 0,
+          "firstOvertake": false,
+          "firstOvertakeAt": null,
+          "maxSteer": 0,
+          "leadName": "NOVA",
+          "careerStarts": 7,
+          "careerRaces": 5,
+          "flag": false,
+          "mode": "menu",
+          "level": 123,
+          "speed": 0,
+          "playerX": 0,
+          "cars": 22
+        },
+        "core": {
+          "level": 123,
+          "money": 45678,
+          "car": 2,
+          "trackCount": 999,
+          "mode": "menu"
+        },
+        "menu": true,
+        "career": {
+          "level": 123,
+          "money": 45678,
+          "car": 2,
+          "starts": 7,
+          "upgrades": 10
+        }
+      },
+      "errors": []
+    }
+  },
+  "mobile": {
+    "pre": {
+      "ftue": {
+        "active": true,
+        "phase": "prologue",
+        "elapsed": 0.8166666666666675,
+        "handoff": 0,
+        "firstOvertake": false,
+        "firstOvertakeAt": null,
+        "maxSteer": 0,
+        "leadName": "NOVA",
+        "careerStarts": 0,
+        "careerRaces": 0,
+        "flag": false,
+        "mode": "race",
+        "level": 1,
+        "speed": 3600,
+        "playerX": -0.16,
+        "cars": 1
+      },
+      "menu": false,
+      "hud": "none"
+    },
+    "post": {
+      "active": true,
+      "phase": "prologue",
+      "elapsed": 2.1499999999999972,
+      "handoff": 0,
+      "firstOvertake": true,
+      "firstOvertakeAt": 2.0166666666666644,
+      "maxSteer": 0.6970283609869443,
+      "leadName": "NOVA",
+      "careerStarts": 0,
+      "careerRaces": 0,
+      "flag": false,
+      "mode": "race",
+      "level": 1,
+      "speed": 3600,
+      "playerX": 0.537,
+      "cars": 1
+    },
+    "errors": []
+  }
+}

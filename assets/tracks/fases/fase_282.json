@@ -1,0 +1,199 @@
+{
+  "id": 282,
+  "championship": 11,
+  "cupName": "Liga Metro Futuro",
+  "cupRace": 12,
+  "name": "Autódromo Monsoon Mirror",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.2816,
+  "lapTargetSeconds": 65,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.17,
+    0.62,
+    0.86
+  ],
+  "palette": {
+    "grass": "#18b724",
+    "grass2": "#0fa819",
+    "shoulder": "#418d2e",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#168f21",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 78,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 36,
+      "h": 146,
+      "l": 31,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 143,
+      "l": 73,
+      "c": 1.62,
+      "y": 16,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 104,
+      "l": 68,
+      "c": 2.59,
+      "y": 22,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 81,
+      "l": 47,
+      "c": 2.67,
+      "y": 16,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 108,
+      "l": 66,
+      "c": 1.63,
+      "y": -28,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 89,
+      "l": 43,
+      "c": 3.99,
+      "y": -12,
+      "w": 1.06,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 78,
+      "l": 31,
+      "c": 1.63,
+      "y": 14,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 35,
+      "c": -4.45,
+      "y": 12,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 59,
+      "l": 24,
+      "c": 3.98,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 40,
+      "l": 22,
+      "c": 2.18,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 51,
+      "l": 27,
+      "c": -2.36,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 62,
+      "l": 32,
+      "c": 2.54,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 31,
+      "c": 3.3,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 31,
+      "l": 25,
+      "c": -2.92,
+      "y": 6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 102,
+      "l": 80,
+      "c": 2.54,
+      "y": 12,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 115,
+      "l": 24,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 142,
+      "l": 48,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "bacb849afc11"
+}

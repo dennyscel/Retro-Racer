@@ -1,0 +1,208 @@
+{
+  "id": 184,
+  "championship": 7,
+  "cupName": "Grande Prêmio Tropical",
+  "cupRace": 22,
+  "name": "Grande Laço Fênix RX",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.1834,
+  "lapTargetSeconds": 64,
+  "signature": "final em mergulho",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.679,
+  "pits": [
+    0.28,
+    0.55,
+    0.9
+  ],
+  "palette": {
+    "grass": "#29293a",
+    "grass2": "#1b1b29",
+    "shoulder": "#141422",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#09091b",
+    "mountSnow": false,
+    "road": "#31313b",
+    "road2": "#2b2b35"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 84,
+      "l": 51,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 46,
+      "h": 100,
+      "l": 48,
+      "c": 1.47,
+      "y": -22,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 79,
+      "l": 57,
+      "c": 3.58,
+      "y": -12,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 34,
+      "h": 66,
+      "l": 28,
+      "c": 1.37,
+      "y": 0,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 31,
+      "h": 53,
+      "l": 33,
+      "c": -4.14,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 37,
+      "l": 29,
+      "c": 3.69,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 38,
+      "l": 28,
+      "c": 1.98,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 49,
+      "l": 33,
+      "c": -2.16,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 20,
+      "c": 2.34,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 33,
+      "l": 29,
+      "c": -2.98,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 47,
+      "l": 30,
+      "c": 2.63,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 152,
+      "l": 82,
+      "c": 2.23,
+      "y": 24,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 193,
+      "l": 24,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 108,
+      "l": 46,
+      "c": 2.44,
+      "y": -5,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 81,
+      "l": 40,
+      "c": -1.69,
+      "y": 41,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 130,
+      "l": 56,
+      "c": 1.6,
+      "y": -9,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 101,
+      "l": 68,
+      "c": -0.85,
+      "y": -30,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 78,
+      "l": 50,
+      "c": 5.42,
+      "y": -12,
+      "w": 0.9,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 49,
+      "h": 100,
+      "l": 62,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "7fa5c9e7c55a"
+}

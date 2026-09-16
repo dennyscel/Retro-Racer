@@ -1,0 +1,110 @@
+{
+  "version": "AAA_R2+C17",
+  "date": "2026-09-15",
+  "runtime": {
+    "boot": {
+      "mid_1s_visible": true,
+      "after_4_4s_visible": false,
+      "menu_after": [
+        "start"
+      ],
+      "sfx": [
+        "engine"
+      ],
+      "saved_flag": true
+    },
+    "attract": {
+      "active_after_idle": true,
+      "source": "SEU REPLAY · FASE 005",
+      "frames": 240,
+      "cancelled_by_pointer": true,
+      "pageErrors": 0
+    },
+    "reducedMotion": {
+      "boot_hidden_after_800ms": true,
+      "pageErrors": 0
+    },
+    "migration": {
+      "from": 68,
+      "to": 69,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "story_cup1": true,
+      "story_cup37": true,
+      "highlight_exports": 3,
+      "livery": "preservada"
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    }
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 38
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 357
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 281,
+      "duplicates": []
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": [
+        1,
+        27,
+        333,
+        666,
+        999
+      ]
+    },
+    "fourWheels": true,
+    "mathRandom": [],
+    "serviceWorkerMissing": [],
+    "shellGzip": {
+      "bytes": 121702,
+      "kb": 118.8,
+      "ok": true
+    },
+    "saveKeyExact": true,
+    "engineFallback": true,
+    "freshFtueBeforeBoot": true
+  },
+  "limitations": [
+    "Moto G físico NÃO TESTADO.",
+    "Autoplay de áudio sem gesto continua sujeito à política do navegador; a ignição fica armada para o primeiro gesto.",
+    "Gamepad/haptics físicos e PWA HTTPS em hardware continuam NÃO TESTADOS."
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": 139,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 4,
+  "name": "Autódromo Cascata Endurance",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1383,
+  "lapTargetSeconds": 63,
+  "signature": "hairpin duplo",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.676,
+  "pits": [
+    0.19,
+    0.64,
+    0.81
+  ],
+  "palette": {
+    "grass": "#159d1f",
+    "grass2": "#179a1f",
+    "shoulder": "#438433",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#198122",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 63,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 89,
+      "l": 61,
+      "c": -2.93,
+      "y": 12,
+      "w": 0.87,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 124,
+      "l": 26,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 120,
+      "l": 43,
+      "c": 1.07,
+      "y": -5,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 51,
+      "l": 45,
+      "c": -2.13,
+      "y": 42,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 142,
+      "l": 53,
+      "c": -2.12,
+      "y": -5,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 93,
+      "l": 53,
+      "c": 1.24,
+      "y": -33,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 57,
+      "l": 47,
+      "c": -3.03,
+      "y": 18,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 70,
+      "l": 48,
+      "c": 3.2,
+      "y": -14,
+      "w": 0.99,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 27,
+      "h": 33,
+      "l": 33,
+      "c": 3.7,
+      "y": 12,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 51,
+      "l": 39,
+      "c": -3.29,
+      "y": -6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 34,
+      "l": 24,
+      "c": -1.7,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 29,
+      "c": 1.88,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 56,
+      "l": 34,
+      "c": -2.06,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 29,
+      "c": -2.54,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 61,
+      "l": 40,
+      "c": 2.23,
+      "y": -6,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 166,
+      "l": 80,
+      "c": 1.81,
+      "y": -12,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 93,
+      "l": 44,
+      "c": -0.27,
+      "y": 6,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 131,
+      "l": 67,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "89440da826c3"
+}

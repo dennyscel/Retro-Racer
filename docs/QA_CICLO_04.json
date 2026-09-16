@@ -1,0 +1,231 @@
+{
+  "static": {
+    "node_fail": [],
+    "max_src_lines": [
+      351,
+      "src/audio/runtime.js"
+    ],
+    "math_random_src": [],
+    "html_ids": 158,
+    "duplicate_ids": [],
+    "tracks": 999,
+    "sentinels": {
+      "1": true,
+      "27": true,
+      "333": true,
+      "666": true,
+      "999": true
+    },
+    "cups": 37,
+    "cup_sizes": [
+      27
+    ],
+    "haptic_patterns": {
+      "zebra8": true,
+      "gripDouble": true,
+      "nitroRamp": true,
+      "impact40": true,
+      "finishTriple": true,
+      "navigatorVibrate": true,
+      "gamepadActuator": true
+    },
+    "save_key": true,
+    "shell_gzip_sum": 76484
+  },
+  "runtime": {
+    "direct": {
+      "snap": {
+        "zebra": 1,
+        "grip": 1,
+        "nitroCharge": 1,
+        "nitroOn": 1,
+        "impact": 1,
+        "touch": 1,
+        "finish": 1,
+        "mobileCalls": 7,
+        "gamepadCalls": 7,
+        "last": "finish",
+        "zebraCooldown": 0,
+        "gripCooldown": 0
+      },
+      "vibes": [
+        8,
+        [
+          12,
+          28,
+          12
+        ],
+        [
+          4,
+          16,
+          7,
+          16,
+          11
+        ],
+        16,
+        40,
+        18,
+        [
+          18,
+          35,
+          18,
+          35,
+          32
+        ]
+      ],
+      "gp": [
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 8,
+            "strongMagnitude": 0.1,
+            "weakMagnitude": 0.18
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 64,
+            "strongMagnitude": 0.28,
+            "weakMagnitude": 0.48
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 92,
+            "strongMagnitude": 0.16,
+            "weakMagnitude": 0.38
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 120,
+            "strongMagnitude": 0.24,
+            "weakMagnitude": 0.22
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 40,
+            "strongMagnitude": 0.95,
+            "weakMagnitude": 0.72
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 20,
+            "strongMagnitude": 0.45,
+            "weakMagnitude": 0.28
+          }
+        },
+        {
+          "kind": "dual-rumble",
+          "opt": {
+            "duration": 155,
+            "strongMagnitude": 0.58,
+            "weakMagnitude": 0.42
+          }
+        }
+      ]
+    },
+    "road": {
+      "zebra": 1,
+      "grip": 1,
+      "nitroCharge": 0,
+      "nitroOn": 0,
+      "impact": 0,
+      "touch": 0,
+      "finish": 0,
+      "mobileCalls": 2,
+      "gamepadCalls": 2,
+      "last": "grip",
+      "zebraCooldown": 0.105,
+      "gripCooldown": 0.52
+    },
+    "nitroIntegration": {
+      "a": {
+        "zebra": 0,
+        "grip": 0,
+        "nitroCharge": 1,
+        "nitroOn": 0,
+        "impact": 0,
+        "touch": 0,
+        "finish": 0,
+        "mobileCalls": 1,
+        "gamepadCalls": 1,
+        "last": "nitroCharge",
+        "zebraCooldown": 0,
+        "gripCooldown": 0
+      },
+      "b": {
+        "zebra": 0,
+        "grip": 0,
+        "nitroCharge": 1,
+        "nitroOn": 1,
+        "impact": 0,
+        "touch": 0,
+        "finish": 0,
+        "mobileCalls": 2,
+        "gamepadCalls": 2,
+        "last": "nitroOn",
+        "zebraCooldown": 0,
+        "gripCooldown": 0
+      }
+    },
+    "migrated": {
+      "version": 56,
+      "level": 88,
+      "money": 76543,
+      "car": 2,
+      "starts": 9
+    },
+    "fps": {
+      "frames": 132,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.799999999999727
+    },
+    "fresh": {
+      "ftue": {
+        "active": true,
+        "phase": "prologue",
+        "elapsed": 0.8833333333333344,
+        "handoff": 0,
+        "firstOvertake": false,
+        "firstOvertakeAt": null,
+        "maxSteer": 0,
+        "leadName": "NOVA",
+        "careerStarts": 0,
+        "careerRaces": 0,
+        "flag": false,
+        "mode": "race",
+        "level": 1,
+        "speed": 3600,
+        "playerX": -0.16,
+        "cars": 1
+      },
+      "h": {
+        "zebra": 0,
+        "grip": 0,
+        "nitroCharge": 0,
+        "nitroOn": 0,
+        "impact": 0,
+        "touch": 0,
+        "finish": 0,
+        "mobileCalls": 0,
+        "gamepadCalls": 0,
+        "last": "",
+        "zebraCooldown": 0,
+        "gripCooldown": 0
+      },
+      "mode": "race"
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "freshErrors": []
+  }
+}

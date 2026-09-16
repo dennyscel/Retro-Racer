@@ -1,0 +1,172 @@
+{
+  "id": 221,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 5,
+  "name": "Travessia Centelha RX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.2204,
+  "lapTargetSeconds": 61,
+  "signature": "S técnico",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.669,
+  "pits": [
+    0.15,
+    0.63,
+    0.85
+  ],
+  "palette": {
+    "grass": "#12ad1e",
+    "grass2": "#079c11",
+    "shoulder": "#418c2f",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1e9429",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 79,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 83,
+      "h": 155,
+      "l": 59,
+      "c": -3.46,
+      "y": -18,
+      "w": 0.86,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 98,
+      "l": 33,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 116,
+      "l": 53,
+      "c": 1.47,
+      "y": 16,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 59,
+      "l": 57,
+      "c": -2.47,
+      "y": 28,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 138,
+      "l": 63,
+      "c": -2.53,
+      "y": 2,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 129,
+      "l": 45,
+      "c": 1.53,
+      "y": -43,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 63,
+      "l": 45,
+      "c": 3.73,
+      "y": -12,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 74,
+      "l": 46,
+      "c": -1.47,
+      "y": 14,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 35,
+      "l": 27,
+      "c": -4.25,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 37,
+      "c": 3.8,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 34,
+      "c": 2.06,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 21,
+      "c": -2.24,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 26,
+      "c": 2.42,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 48,
+      "h": 141,
+      "l": 61,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9c082e157b41"
+}

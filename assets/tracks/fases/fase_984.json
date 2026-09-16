@@ -1,0 +1,235 @@
+{
+  "id": 984,
+  "championship": 37,
+  "cupName": "Grande Final 999",
+  "cupRace": 12,
+  "name": "Arena Centelha Sprint",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.985,
+  "lapTargetSeconds": 84,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.727,
+  "pits": [
+    0.18,
+    0.56,
+    0.86
+  ],
+  "palette": {
+    "grass": "#16a321",
+    "grass2": "#0e9517",
+    "shoulder": "#3a7e2a",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#178221",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 62,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 70,
+      "h": 108,
+      "l": 50,
+      "c": 3.7,
+      "y": 23,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 89,
+      "l": 55,
+      "c": -2.75,
+      "y": 49,
+      "w": 0.96,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 130,
+      "l": 60,
+      "c": 4.75,
+      "y": -1,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 133,
+      "l": 68,
+      "c": -3.14,
+      "y": -42,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 70,
+      "l": 38,
+      "c": 7.61,
+      "y": 10,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 97,
+      "l": 48,
+      "c": -4.05,
+      "y": 0,
+      "w": 0.97,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 24,
+      "c": 4.7,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 28,
+      "l": 22,
+      "c": -4.21,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 21,
+      "c": -4.03,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 26,
+      "c": 4.21,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 31,
+      "c": -4.39,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 20,
+      "c": 6.15,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 38,
+      "l": 23,
+      "c": -5.53,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 173,
+      "l": 51,
+      "c": 5.29,
+      "y": 12,
+      "w": 0.91,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 210,
+      "l": 38,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 145,
+      "l": 69,
+      "c": -4.75,
+      "y": 9,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 102,
+      "l": 45,
+      "c": 3.63,
+      "y": 50,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 83,
+      "l": 43,
+      "c": -3.91,
+      "y": 17,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 134,
+      "l": 58,
+      "c": 2.53,
+      "y": -50,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 69,
+      "l": 59,
+      "c": -6.14,
+      "y": -18,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 51,
+      "h": 116,
+      "l": 54,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4bee0a9e4b80"
+}

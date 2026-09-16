@@ -1,0 +1,217 @@
+{
+  "id": 728,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 26,
+  "name": "Grande Laço Monsoon Final",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.7285,
+  "lapTargetSeconds": 77,
+  "signature": "sequência travada",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.708,
+  "pits": [
+    0.28,
+    0.54,
+    0.88
+  ],
+  "palette": {
+    "grass": "#282838",
+    "grass2": "#10101e",
+    "shoulder": "#090917",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#09091a",
+    "mountSnow": false,
+    "road": "#292933",
+    "road2": "#23232d"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 110,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 44,
+      "h": 96,
+      "l": 52,
+      "c": 3.01,
+      "y": -26,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 79,
+      "l": 41,
+      "c": -7.29,
+      "y": 10,
+      "w": 0.95,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 60,
+      "l": 47,
+      "c": 3.84,
+      "y": 14,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 53,
+      "l": 27,
+      "c": -4.45,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 45,
+      "l": 27,
+      "c": 3.98,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 38,
+      "l": 32,
+      "c": 2.18,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 49,
+      "l": 37,
+      "c": -2.36,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 60,
+      "l": 24,
+      "c": 2.54,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 33,
+      "l": 23,
+      "c": 5.9,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 55,
+      "l": 28,
+      "c": -5.3,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 152,
+      "l": 80,
+      "c": 5.05,
+      "y": 18,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 161,
+      "l": 43,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 104,
+      "l": 50,
+      "c": 2.67,
+      "y": 15,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 81,
+      "l": 59,
+      "c": 3.48,
+      "y": 41,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 126,
+      "l": 60,
+      "c": 3.73,
+      "y": -3,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 97,
+      "l": 72,
+      "c": -2.4,
+      "y": -34,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 78,
+      "l": 34,
+      "c": 5.82,
+      "y": -12,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 65,
+      "l": 43,
+      "c": -2.86,
+      "y": 14,
+      "w": 0.97,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 42,
+      "h": 132,
+      "l": 42,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b14802dab035"
+}

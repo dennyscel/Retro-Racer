@@ -1,0 +1,104 @@
+{
+  "version": "AAA_R2+C16",
+  "date": "2026-09-15",
+  "runtime": {
+    "highlight": {
+      "buffer": 160,
+      "after220": 160,
+      "comboScore": 82,
+      "ghostScore": 95,
+      "photoScore": 110,
+      "winner": "photo",
+      "label": "FOTO FINISH · 0.12s",
+      "code": "RR7-ABCD-EFGH"
+    },
+    "webm": {
+      "ok": true,
+      "bytes": 1138384,
+      "type": "video/webm;codecs=vp9"
+    },
+    "mobile": {
+      "viewport": "390x844",
+      "scrollHeight": 859,
+      "innerHeight": 844,
+      "pageErrors": 0
+    },
+    "migration": {
+      "from": 67,
+      "to": 68,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "livery": "LIVERY",
+      "story": true,
+      "highlight": {
+        "exports": 0,
+        "shares": 0,
+        "last": null
+      }
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    }
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 37
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 278,
+      "duplicates": []
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": "1,27,333,666,999"
+    },
+    "fourWheels": true,
+    "mathRandom": [],
+    "assetsMissing": [],
+    "serviceWorkerMissing": [],
+    "shellGzip": {
+      "bytes": 118715,
+      "kb": 115.9,
+      "ok": true
+    }
+  },
+  "limitations": [
+    "Moto G físico NÃO TESTADO.",
+    "Compartilhamento nativo de arquivo via Web Share em Android/iPhone NÃO TESTADO.",
+    "PWA HTTPS em hardware NÃO TESTADA."
+  ]
+}

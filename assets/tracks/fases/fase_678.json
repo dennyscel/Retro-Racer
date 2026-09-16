@@ -1,0 +1,217 @@
+{
+  "id": 678,
+  "championship": 26,
+  "cupName": "Liga Desfiladeiro Ônix",
+  "cupRace": 3,
+  "name": "Volta Falésia SX",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.6784,
+  "lapTargetSeconds": 75,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.705,
+  "pits": [
+    0.18,
+    0.5,
+    0.86
+  ],
+  "palette": {
+    "grass": "#0bad17",
+    "grass2": "#10ab1a",
+    "shoulder": "#388525",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1a9525",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 90,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 70,
+      "h": 84,
+      "l": 68,
+      "c": 2.97,
+      "y": 0,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 81,
+      "l": 64,
+      "c": 2.14,
+      "y": 31,
+      "w": 0.99,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 106,
+      "l": 42,
+      "c": -4.03,
+      "y": 14,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 121,
+      "l": 62,
+      "c": -2.62,
+      "y": -24,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 40,
+      "c": 6.35,
+      "y": 10,
+      "w": 1.13,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 75,
+      "l": 36,
+      "c": 3.21,
+      "y": -14,
+      "w": 0.84,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 26,
+      "c": 3.71,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 31,
+      "c": -3.3,
+      "y": -6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 21,
+      "c": -3.39,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 48,
+      "l": 26,
+      "c": 3.57,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 59,
+      "l": 31,
+      "c": -3.75,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 22,
+      "c": 5.16,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 62,
+      "l": 32,
+      "c": -4.62,
+      "y": -3,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 107,
+      "l": 81,
+      "c": -4.33,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 108,
+      "l": 32,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 121,
+      "l": 51,
+      "c": -4.03,
+      "y": 6,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 94,
+      "l": 54,
+      "c": 3.03,
+      "y": 32,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 143,
+      "l": 61,
+      "c": -3.19,
+      "y": 20,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 98,
+      "l": 60,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c3ae49a01375"
+}

@@ -1,0 +1,226 @@
+{
+  "id": 509,
+  "championship": 19,
+  "cupName": "Desafio Planalto Roxo",
+  "cupRace": 23,
+  "name": "Estrada Esmeralda Noite",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.509,
+  "lapTargetSeconds": 72,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.699,
+  "pits": [
+    0.25,
+    0.6,
+    0.85
+  ],
+  "palette": {
+    "grass": "#c4cdd9",
+    "grass2": "#aebaca",
+    "shoulder": "#7b91a1",
+    "skyTop": "#6fb7d8",
+    "skyBot": "#bbd6e4",
+    "mountColor": "#425464",
+    "mountSnow": true,
+    "road": "#495260",
+    "road2": "#404957"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 91,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 71,
+      "h": 102,
+      "l": 55,
+      "c": -2.51,
+      "y": 51,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 40,
+      "h": 93,
+      "l": 48,
+      "c": 2.58,
+      "y": -5,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 88,
+      "l": 63,
+      "c": -1.56,
+      "y": -31,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 72,
+      "l": 60,
+      "c": 7.12,
+      "y": 10,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 89,
+      "l": 43,
+      "c": -3.73,
+      "y": 14,
+      "w": 1.14,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 60,
+      "l": 24,
+      "c": 4.32,
+      "y": 0,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 42,
+      "l": 40,
+      "c": -3.86,
+      "y": 6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 35,
+      "l": 31,
+      "c": -2.1,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 36,
+      "c": 2.28,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 57,
+      "l": 23,
+      "c": -2.46,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 40,
+      "l": 20,
+      "c": 3.16,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 52,
+      "l": 41,
+      "c": -2.79,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 59,
+      "h": 115,
+      "l": 63,
+      "c": 4.92,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 106,
+      "l": 25,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 67,
+      "h": 108,
+      "l": 57,
+      "c": -2.58,
+      "y": -1,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 51,
+      "l": 45,
+      "c": 1.81,
+      "y": 52,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 39,
+      "h": 130,
+      "l": 67,
+      "c": -3.63,
+      "y": -5,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 89,
+      "l": 53,
+      "c": 2.33,
+      "y": -39,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 71,
+      "l": 53,
+      "c": 5.65,
+      "y": -18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 51,
+      "h": 101,
+      "l": 57,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "0904871603f2"
+}

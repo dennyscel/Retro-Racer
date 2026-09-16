@@ -1,0 +1,217 @@
+{
+  "id": 329,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 5,
+  "name": "Desafio Relâmpago Noite",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3287,
+  "lapTargetSeconds": 68,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "subida cega",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.688,
+  "pits": [
+    0.23,
+    0.54,
+    0.85
+  ],
+  "palette": {
+    "grass": "#cdd7e0",
+    "grass2": "#b0bdc9",
+    "shoulder": "#8598a7",
+    "skyTop": "#73b8d9",
+    "skyBot": "#bed7e5",
+    "mountColor": "#445462",
+    "mountSnow": true,
+    "road": "#4c5561",
+    "road2": "#434c58"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 71,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 71,
+      "h": 86,
+      "l": 50,
+      "c": -2.16,
+      "y": 31,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 153,
+      "l": 48,
+      "c": 2.15,
+      "y": -7,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 72,
+      "l": 63,
+      "c": -1.26,
+      "y": -31,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 48,
+      "c": 6.38,
+      "y": -12,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 59,
+      "l": 31,
+      "c": 3.23,
+      "y": -14,
+      "w": 0.82,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 20,
+      "c": -3.74,
+      "y": 12,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 36,
+      "l": 28,
+      "c": 3.32,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 39,
+      "l": 31,
+      "c": -1.72,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 50,
+      "l": 36,
+      "c": 1.9,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 61,
+      "l": 23,
+      "c": -2.08,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 58,
+      "l": 38,
+      "c": 2.58,
+      "y": 12,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 46,
+      "l": 29,
+      "c": -2.26,
+      "y": -6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 127,
+      "l": 51,
+      "c": 4.36,
+      "y": -18,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 166,
+      "l": 45,
+      "c": 0.39,
+      "y": -6,
+      "w": 0.97,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 84,
+      "l": 57,
+      "c": 2.15,
+      "y": 11,
+      "w": 1.1,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 99,
+      "l": 40,
+      "c": 1.45,
+      "y": 32,
+      "w": 0.99,
+      "f": "subida cega"
+    },
+    {
+      "e": 63,
+      "h": 106,
+      "l": 67,
+      "c": 3.2,
+      "y": -7,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 73,
+      "l": 53,
+      "c": 2.02,
+      "y": -39,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 137,
+      "l": 49,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "122c431d6f88"
+}

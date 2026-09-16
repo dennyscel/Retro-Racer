@@ -1,0 +1,217 @@
+{
+  "id": 472,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 13,
+  "name": "Desafio Atlântico Solar",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.4719,
+  "lapTargetSeconds": 69,
+  "signature": "hairpin duplo",
+  "dominantFeature": "ponte estreita",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.688,
+  "pits": [
+    0.21,
+    0.52,
+    0.9
+  ],
+  "palette": {
+    "grass": "#ddb556",
+    "grass2": "#cfa44a",
+    "shoulder": "#bb8c3c",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#cf9a51",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 64,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 32,
+      "h": 42,
+      "l": 24,
+      "c": 2.39,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 53,
+      "l": 29,
+      "c": -2.57,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 64,
+      "l": 34,
+      "c": 2.75,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 39,
+      "c": -3.62,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 29,
+      "l": 22,
+      "c": 3.22,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 124,
+      "l": 50,
+      "c": 2.85,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 93,
+      "l": 35,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 136,
+      "l": 62,
+      "c": 2.91,
+      "y": -6,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 53,
+      "l": 58,
+      "c": -2.09,
+      "y": 29,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 74,
+      "l": 72,
+      "c": 2.07,
+      "y": 18,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 129,
+      "l": 46,
+      "c": 2.57,
+      "y": -50,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 74,
+      "l": 58,
+      "c": -6.24,
+      "y": -18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 75,
+      "l": 29,
+      "c": -3.13,
+      "y": 0,
+      "w": 1.01,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 46,
+      "l": 32,
+      "c": 3.62,
+      "y": 0,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 36,
+      "l": 37,
+      "c": -3.22,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 55,
+      "l": 35,
+      "c": -1.65,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 34,
+      "l": 22,
+      "c": 1.83,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 27,
+      "c": -2.01,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 52,
+      "h": 148,
+      "l": 58,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "90868588b37a"
+}

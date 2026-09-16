@@ -1,0 +1,253 @@
+{
+  "id": 524,
+  "championship": 20,
+  "cupName": "Copa Tempestade Elétrica",
+  "cupRace": 11,
+  "name": "Vale Ômega Norte",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.524,
+  "lapTargetSeconds": 73,
+  "signature": "S técnico",
+  "dominantFeature": "descida rápida",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.699,
+  "pits": [
+    0.28,
+    0.57,
+    0.82
+  ],
+  "palette": {
+    "grass": "#dba52a",
+    "grass2": "#d39924",
+    "shoulder": "#c08219",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c78121",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 56,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 38,
+      "l": 22,
+      "c": 2.13,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 49,
+      "l": 27,
+      "c": -2.31,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 32,
+      "c": 2.49,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 25,
+      "c": -3.21,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 51,
+      "l": 32,
+      "c": 2.84,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 112,
+      "l": 60,
+      "c": 4.97,
+      "y": 12,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 97,
+      "l": 37,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 72,
+      "l": 42,
+      "c": -2.61,
+      "y": 19,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 69,
+      "l": 40,
+      "c": -1.84,
+      "y": 49,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 94,
+      "l": 52,
+      "c": 3.66,
+      "y": -1,
+      "w": 0.86,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 61,
+      "l": 68,
+      "c": -2.35,
+      "y": -30,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 86,
+      "l": 54,
+      "c": 5.72,
+      "y": -18,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 103,
+      "l": 39,
+      "c": -2.79,
+      "y": 14,
+      "w": 0.98,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 34,
+      "l": 40,
+      "c": 3.21,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 58,
+      "l": 26,
+      "c": -2.84,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 51,
+      "l": 33,
+      "c": 3.06,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 62,
+      "l": 20,
+      "c": -3.24,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 25,
+      "c": 3.42,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 48,
+      "l": 36,
+      "c": -4.66,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 30,
+      "l": 27,
+      "c": 4.17,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 79,
+      "h": 93,
+      "l": 79,
+      "c": -3.85,
+      "y": -18,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 186,
+      "l": 30,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 120,
+      "l": 46,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b0ca0edeae3d"
+}

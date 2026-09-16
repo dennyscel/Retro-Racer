@@ -1,0 +1,217 @@
+{
+  "id": 842,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 5,
+  "name": "Circuito Ametista RX",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.8427,
+  "lapTargetSeconds": 79,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.711,
+  "pits": [
+    0.27,
+    0.48,
+    0.76
+  ],
+  "palette": {
+    "grass": "#0fa61a",
+    "grass2": "#0fa018",
+    "shoulder": "#398127",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8f26",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 60,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 64,
+      "h": 76,
+      "l": 52,
+      "c": 3.78,
+      "y": 8,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 97,
+      "l": 53,
+      "c": 2.82,
+      "y": 35,
+      "w": 1.05,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 98,
+      "l": 62,
+      "c": 2.94,
+      "y": -2,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 117,
+      "l": 46,
+      "c": -3.21,
+      "y": -44,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 76,
+      "l": 36,
+      "c": 7.76,
+      "y": 18,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 83,
+      "l": 32,
+      "c": 4.15,
+      "y": 14,
+      "w": 0.92,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 26,
+      "h": 32,
+      "l": 36,
+      "c": 4.82,
+      "y": 6,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 27,
+      "c": -4.31,
+      "y": -3,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 23,
+      "c": 2.42,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 28,
+      "c": -2.6,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 39,
+      "l": 33,
+      "c": 2.78,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 46,
+      "l": 32,
+      "c": -6.26,
+      "y": 0,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 32,
+      "l": 28,
+      "c": 5.64,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 143,
+      "l": 77,
+      "c": -5.4,
+      "y": 12,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 176,
+      "l": 46,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 113,
+      "l": 71,
+      "c": 2.94,
+      "y": 16,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 110,
+      "l": 43,
+      "c": 3.7,
+      "y": 36,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 135,
+      "l": 45,
+      "c": 3.99,
+      "y": -2,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 118,
+      "l": 48,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9e55b8d6014d"
+}

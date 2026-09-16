@@ -1,0 +1,190 @@
+{
+  "id": 655,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 7,
+  "name": "Vale Vulcano RX",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6553,
+  "lapTargetSeconds": 72,
+  "signature": "hairpin duplo",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.691,
+  "pits": [
+    0.27,
+    0.49,
+    0.75
+  ],
+  "palette": {
+    "grass": "#2e2e3f",
+    "grass2": "#161624",
+    "shoulder": "#141422",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#070719",
+    "mountSnow": false,
+    "road": "#2d2d37",
+    "road2": "#272731"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 69,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 79,
+      "l": 32,
+      "c": -4.37,
+      "y": 0,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 24,
+      "c": 5.08,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 56,
+      "l": 37,
+      "c": -4.55,
+      "y": 6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 29,
+      "c": 2.59,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 40,
+      "l": 34,
+      "c": -2.77,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 51,
+      "l": 21,
+      "c": 2.95,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 62,
+      "l": 20,
+      "c": -3.93,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 28,
+      "l": 38,
+      "c": 3.49,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 153,
+      "l": 57,
+      "c": -5.66,
+      "y": 24,
+      "w": 0.87,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 92,
+      "l": 44,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 104,
+      "l": 39,
+      "c": 3.13,
+      "y": -4,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 95,
+      "l": 61,
+      "c": 2.27,
+      "y": 26,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 126,
+      "l": 49,
+      "c": 2.29,
+      "y": -4,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 101,
+      "l": 69,
+      "c": -2.73,
+      "y": -25,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 73,
+      "l": 59,
+      "c": -6.62,
+      "y": 18,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 151,
+      "l": 47,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "1810b49e75e7"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 865,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 1,
+  "name": "Desafio Centelha SX",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.8657,
+  "lapTargetSeconds": 78,
+  "signature": "chicane curta",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.704,
+  "pits": [
+    0.18,
+    0.49,
+    0.87
+  ],
+  "palette": {
+    "grass": "#c1cbd4",
+    "grass2": "#adbac6",
+    "shoulder": "#758897",
+    "skyTop": "#67accd",
+    "skyBot": "#b2cbd9",
+    "mountColor": "#334351",
+    "mountSnow": true,
+    "road": "#404955",
+    "road2": "#37404c"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 103,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 67,
+      "h": 54,
+      "l": 61,
+      "c": -2.51,
+      "y": 23,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 133,
+      "l": 44,
+      "c": 4.47,
+      "y": 8,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 96,
+      "l": 59,
+      "c": -2.94,
+      "y": -27,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 84,
+      "l": 52,
+      "c": 7.12,
+      "y": 10,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 71,
+      "l": 42,
+      "c": -3.72,
+      "y": -14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 28,
+      "c": 4.32,
+      "y": 6,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 26,
+      "l": 39,
+      "c": -3.85,
+      "y": -3,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 27,
+      "c": 3.78,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 32,
+      "c": -3.96,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 37,
+      "c": 4.14,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 24,
+      "c": -5.76,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 36,
+      "l": 40,
+      "c": 5.18,
+      "y": -6,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 151,
+      "l": 83,
+      "c": -4.92,
+      "y": -18,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 198,
+      "l": 31,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 148,
+      "l": 53,
+      "c": 4.47,
+      "y": 2,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 67,
+      "l": 51,
+      "c": 3.4,
+      "y": 24,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 153,
+      "l": 61,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4dccc276f0ed"
+}

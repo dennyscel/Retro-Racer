@@ -1,0 +1,172 @@
+{
+  "id": 80,
+  "championship": 3,
+  "cupName": "Desafio Vale do Sol",
+  "cupRace": 26,
+  "name": "Anel Eclipse SX",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.0792,
+  "lapTargetSeconds": 57,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.657,
+  "pits": [
+    0.31,
+    0.66,
+    0.88
+  ],
+  "palette": {
+    "grass": "#29293c",
+    "grass2": "#1e1e2e",
+    "shoulder": "#171727",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#08081c",
+    "mountSnow": false,
+    "road": "#30303a",
+    "road2": "#2a2a34"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 100,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 46,
+      "h": 84,
+      "l": 64,
+      "c": 1.9,
+      "y": -26,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 55,
+      "l": 37,
+      "c": 4.62,
+      "y": 10,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 68,
+      "l": 29,
+      "c": -2.06,
+      "y": -14,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 39,
+      "c": -2.35,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 31,
+      "l": 30,
+      "c": 2.05,
+      "y": 6,
+      "w": 1.17,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 46,
+      "l": 32,
+      "c": 0.83,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 57,
+      "l": 37,
+      "c": -1.01,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 36,
+      "l": 24,
+      "c": 1.19,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 57,
+      "l": 35,
+      "c": 3.8,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 41,
+      "l": 31,
+      "c": -3.38,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 176,
+      "l": 62,
+      "c": -3.02,
+      "y": -18,
+      "w": 0.85,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 185,
+      "l": 45,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 152,
+      "l": 50,
+      "c": 1.14,
+      "y": -6,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 40,
+      "h": 156,
+      "l": 58,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "aad8684e8725"
+}

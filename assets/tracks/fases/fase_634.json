@@ -1,0 +1,226 @@
+{
+  "id": 634,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 13,
+  "name": "Travessia Ametista Master",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.6343,
+  "lapTargetSeconds": 75,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.706,
+  "pits": [
+    0.16,
+    0.49,
+    0.9
+  ],
+  "palette": {
+    "grass": "#16a921",
+    "grass2": "#0a9713",
+    "shoulder": "#428931",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#21912b",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 92,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 60,
+      "h": 80,
+      "l": 60,
+      "c": 3.08,
+      "y": 14,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 97,
+      "l": 55,
+      "c": -2.23,
+      "y": 51,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 102,
+      "l": 70,
+      "c": 2.24,
+      "y": 20,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 85,
+      "l": 48,
+      "c": -2.7,
+      "y": -52,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 76,
+      "l": 52,
+      "c": 6.54,
+      "y": 18,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 87,
+      "l": 34,
+      "c": 3.33,
+      "y": 14,
+      "w": 1.09,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 26,
+      "c": 3.86,
+      "y": 0,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 29,
+      "c": -3.43,
+      "y": 6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 31,
+      "c": -3.48,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 36,
+      "c": 3.66,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 23,
+      "c": -3.84,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 60,
+      "l": 22,
+      "c": 5.3,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 58,
+      "l": 30,
+      "c": -4.76,
+      "y": 4,
+      "w": 0.91,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 95,
+      "l": 79,
+      "c": 4.48,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 160,
+      "l": 38,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 117,
+      "l": 43,
+      "c": -2.24,
+      "y": 14,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 110,
+      "l": 45,
+      "c": 3.11,
+      "y": 52,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 65,
+      "h": 139,
+      "l": 53,
+      "c": 3.29,
+      "y": -4,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 86,
+      "l": 68,
+      "c": 2.08,
+      "y": -24,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 142,
+      "l": 68,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "224cdace89fb"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 39,
+  "championship": 2,
+  "cupName": "Torneio Costa Azul",
+  "cupRace": 12,
+  "name": "Arena Cobalto Leste",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0381,
+  "lapTargetSeconds": 59,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "subida cega",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.16,
+    0.56,
+    0.77
+  ],
+  "palette": {
+    "grass": "#c7d1da",
+    "grass2": "#b5c2ce",
+    "shoulder": "#758897",
+    "skyTop": "#6eb2d2",
+    "skyBot": "#b8d1df",
+    "mountColor": "#3e4e5c",
+    "mountSnow": true,
+    "road": "#464f5b",
+    "road2": "#3d4652"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 87,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 51,
+      "h": 78,
+      "l": 40,
+      "c": -1.23,
+      "y": 29,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 77,
+      "l": 46,
+      "c": 1.04,
+      "y": -10,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 80,
+      "l": 73,
+      "c": -1.83,
+      "y": -29,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 54,
+      "l": 38,
+      "c": 4.46,
+      "y": 18,
+      "w": 1.06,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 35,
+      "c": 1.95,
+      "y": 0,
+      "w": 1.0,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 32,
+      "h": 56,
+      "l": 38,
+      "c": -2.22,
+      "y": 12,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 58,
+      "l": 32,
+      "c": 1.93,
+      "y": -6,
+      "w": 0.9,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 65,
+      "l": 29,
+      "c": -0.74,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 44,
+      "l": 34,
+      "c": 0.92,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 55,
+      "l": 21,
+      "c": -1.1,
+      "y": 0,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 36,
+      "l": 34,
+      "c": 3.67,
+      "y": 0,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 30,
+      "l": 33,
+      "c": -3.26,
+      "y": 6,
+      "w": 0.88,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 109,
+      "l": 55,
+      "c": -2.9,
+      "y": -12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 176,
+      "l": 30,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 92,
+      "l": 55,
+      "c": -1.04,
+      "y": 0,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 91,
+      "l": 65,
+      "c": 2.11,
+      "y": 30,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 114,
+      "l": 65,
+      "c": 2.1,
+      "y": -6,
+      "w": 0.85,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 37,
+      "h": 151,
+      "l": 47,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "115077d5c0bb"
+}

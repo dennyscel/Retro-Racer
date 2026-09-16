@@ -1,0 +1,217 @@
+{
+  "id": 274,
+  "championship": 11,
+  "cupName": "Liga Metro Futuro",
+  "cupRace": 4,
+  "name": "Autódromo Liberdade SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.2735,
+  "lapTargetSeconds": 67,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.29,
+    0.58,
+    0.9
+  ],
+  "palette": {
+    "grass": "#14b620",
+    "grass2": "#0faa19",
+    "shoulder": "#378424",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#189323",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 84,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 210,
+      "l": 48,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 127,
+      "l": 65,
+      "c": 1.81,
+      "y": -4,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 72,
+      "l": 60,
+      "c": -1.16,
+      "y": 46,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 49,
+      "h": 149,
+      "l": 39,
+      "c": -2.86,
+      "y": 10,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 60,
+      "l": 58,
+      "c": 1.77,
+      "y": -20,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 65,
+      "l": 35,
+      "c": 4.32,
+      "y": 18,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 96,
+      "l": 44,
+      "c": 1.86,
+      "y": 0,
+      "w": 0.95,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 27,
+      "c": 4.72,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 41,
+      "l": 37,
+      "c": -4.22,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 32,
+      "c": -2.35,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 59,
+      "l": 37,
+      "c": 2.53,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 38,
+      "l": 24,
+      "c": -2.71,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 35,
+      "l": 23,
+      "c": -3.56,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 51,
+      "l": 38,
+      "c": 3.16,
+      "y": 4,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 126,
+      "l": 72,
+      "c": 2.79,
+      "y": -12,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 179,
+      "l": 41,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.11,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 80,
+      "l": 48,
+      "c": 2.86,
+      "y": 10,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 85,
+      "l": 50,
+      "c": -2.05,
+      "y": 47,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 126,
+      "l": 52,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "23c9bed3eff6"
+}

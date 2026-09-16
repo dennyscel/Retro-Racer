@@ -1,0 +1,208 @@
+{
+  "id": 63,
+  "championship": 3,
+  "cupName": "Desafio Vale do Sol",
+  "cupRace": 9,
+  "name": "Desafio Esmeralda 16B",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0621,
+  "lapTargetSeconds": 60,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.668,
+  "pits": [
+    0.31,
+    0.47,
+    0.83
+  ],
+  "palette": {
+    "grass": "#222235",
+    "grass2": "#1b1b2b",
+    "shoulder": "#0b0b1b",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c20",
+    "mountSnow": false,
+    "road": "#272731",
+    "road2": "#21212b"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 59,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 33,
+      "h": 39,
+      "l": 39,
+      "c": -1.72,
+      "y": -8,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 49,
+      "l": 22,
+      "c": 1.47,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 180,
+      "l": 86,
+      "c": 3.53,
+      "y": -12,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 211,
+      "l": 38,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 147,
+      "l": 44,
+      "c": 1.52,
+      "y": 0,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 74,
+      "l": 54,
+      "c": -0.92,
+      "y": 33,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 85,
+      "l": 54,
+      "c": 2.58,
+      "y": 0,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 100,
+      "l": 47,
+      "c": -1.56,
+      "y": -33,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 82,
+      "l": 34,
+      "c": 3.82,
+      "y": 10,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 107,
+      "l": 48,
+      "c": 1.52,
+      "y": 14,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 32,
+      "c": -1.72,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 56,
+      "l": 37,
+      "c": 1.47,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 21,
+      "c": -2.1,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 26,
+      "c": 2.28,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 31,
+      "c": -2.46,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 28,
+      "c": 3.17,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 28,
+      "l": 38,
+      "c": -2.8,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 42,
+      "h": 111,
+      "l": 63,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9b3edc9973f1"
+}

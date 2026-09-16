@@ -1,0 +1,199 @@
+{
+  "id": 233,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 17,
+  "name": "Travessia Diamante Sul",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2325,
+  "lapTargetSeconds": 64,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.678,
+  "pits": [
+    0.31,
+    0.48,
+    0.79
+  ],
+  "palette": {
+    "grass": "#c8d1de",
+    "grass2": "#aebbcb",
+    "shoulder": "#7f95a5",
+    "skyTop": "#6eb7d9",
+    "skyBot": "#bbd6e4",
+    "mountColor": "#3e5060",
+    "mountSnow": true,
+    "road": "#495260",
+    "road2": "#404957"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 81,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 86,
+      "l": 59,
+      "c": -2.5,
+      "y": 31,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 129,
+      "l": 60,
+      "c": 2.56,
+      "y": -8,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 104,
+      "l": 57,
+      "c": -1.55,
+      "y": -43,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 60,
+      "l": 36,
+      "c": 3.78,
+      "y": -18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 101,
+      "l": 40,
+      "c": -1.5,
+      "y": 14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 40,
+      "l": 34,
+      "c": 4.29,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 48,
+      "l": 37,
+      "c": -3.83,
+      "y": -3,
+      "w": 1.18,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 39,
+      "l": 25,
+      "c": -2.08,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 50,
+      "l": 30,
+      "c": 2.26,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 35,
+      "c": -2.44,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 54,
+      "l": 30,
+      "c": 3.14,
+      "y": 12,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 58,
+      "l": 38,
+      "c": -2.77,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 127,
+      "l": 81,
+      "c": 2.39,
+      "y": 18,
+      "w": 1.05,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 94,
+      "l": 24,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 144,
+      "l": 69,
+      "c": -2.56,
+      "y": 10,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 99,
+      "l": 49,
+      "c": 1.79,
+      "y": 32,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 121,
+      "l": 69,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "1d67b7cc1d0a"
+}

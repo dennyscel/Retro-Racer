@@ -1,0 +1,181 @@
+{
+  "id": 460,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 1,
+  "name": "Desafio Falésia Sprint",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.4599,
+  "lapTargetSeconds": 67,
+  "signature": "final em mergulho",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.68,
+  "pits": [
+    0.22,
+    0.67,
+    0.78
+  ],
+  "palette": {
+    "grass": "#19a123",
+    "grass2": "#15981d",
+    "shoulder": "#438433",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#188021",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 84,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 192,
+      "l": 34,
+      "c": 0.27,
+      "y": -6,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 79,
+      "l": 71,
+      "c": -3.51,
+      "y": 18,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 112,
+      "l": 36,
+      "c": 2.59,
+      "y": 40,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 65,
+      "h": 101,
+      "l": 45,
+      "c": -2.67,
+      "y": 12,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 112,
+      "l": 64,
+      "c": 1.63,
+      "y": -26,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 47,
+      "l": 53,
+      "c": -3.98,
+      "y": 10,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 98,
+      "l": 41,
+      "c": 3.84,
+      "y": -14,
+      "w": 0.93,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 41,
+      "h": 33,
+      "l": 37,
+      "c": -4.45,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 51,
+      "l": 34,
+      "c": 3.98,
+      "y": 4,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 20,
+      "c": 2.18,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 41,
+      "l": 25,
+      "c": -2.36,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 52,
+      "l": 30,
+      "c": 2.54,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 33,
+      "c": 3.29,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 61,
+      "l": 35,
+      "c": -2.91,
+      "y": -6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 40,
+      "h": 168,
+      "l": 50,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dd8c2ec27a36"
+}

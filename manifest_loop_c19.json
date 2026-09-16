@@ -1,0 +1,30 @@
+{
+  "product": "Retrô Racer Championship — Horizonte Zero",
+  "version": "AAA_R2+C19",
+  "date": "2026-09-16",
+  "author": "Dennys Smaniotto Pavanelli",
+  "save_key": "retro_racer_championship_v30",
+  "tracks": 999,
+  "cups": 37,
+  "cars": 12,
+  "cycle_focus": "OURO 19 — ECONOMIA E MONETIZAÇÃO ÉTICA",
+  "economy": {
+    "currencies": [
+      "CR$",
+      "FICHAS",
+      "MARCAS"
+    ],
+    "monetization_default": false,
+    "paid_performance": false,
+    "lootboxes": false,
+    "rewarded_optional": true,
+    "founder_adfree": true,
+    "spreadsheet": "docs/ECONOMIA_C19.xlsx"
+  },
+  "qa": {
+    "node_check": "PASS",
+    "migration": "v70→v71 PASS",
+    "shell_gzip_kb": 124.8
+  },
+  "next": "OURO 20 — TELEMETRIA E PAINEL"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 347,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 23,
+  "name": "Passagem Aurora Pro",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3467,
+  "lapTargetSeconds": 66,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.3,
+    0.63,
+    0.85
+  ],
+  "palette": {
+    "grass": "#29293f",
+    "grass2": "#19192c",
+    "shoulder": "#151528",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0b0b22",
+    "mountSnow": false,
+    "road": "#2d2d39",
+    "road2": "#272733"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 63,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 29,
+      "h": 31,
+      "l": 37,
+      "c": -4.08,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 33,
+      "c": 3.64,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 144,
+      "l": 76,
+      "c": 3.3,
+      "y": 18,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 159,
+      "l": 47,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 127,
+      "l": 40,
+      "c": -3.25,
+      "y": 17,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 58,
+      "l": 58,
+      "c": -2.37,
+      "y": 29,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 149,
+      "l": 50,
+      "c": 2.4,
+      "y": 17,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 132,
+      "l": 61,
+      "c": 1.44,
+      "y": -29,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 70,
+      "l": 38,
+      "c": -3.52,
+      "y": 10,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 77,
+      "l": 38,
+      "c": -3.53,
+      "y": -14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 60,
+      "l": 30,
+      "c": 4.08,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 30,
+      "l": 27,
+      "c": -3.64,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 57,
+      "l": 35,
+      "c": 1.95,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 36,
+      "l": 22,
+      "c": -2.13,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 47,
+      "l": 27,
+      "c": 2.31,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 40,
+      "l": 26,
+      "c": 2.93,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 40,
+      "l": 28,
+      "c": -2.58,
+      "y": 6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 41,
+      "h": 107,
+      "l": 47,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c1b979225399"
+}

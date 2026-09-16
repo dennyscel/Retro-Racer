@@ -1,0 +1,190 @@
+{
+  "id": 276,
+  "championship": 11,
+  "cupName": "Liga Metro Futuro",
+  "cupRace": 6,
+  "name": "Boulevard Miragem Turbo",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.2756,
+  "lapTargetSeconds": 64,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.673,
+  "pits": [
+    0.26,
+    0.59,
+    0.8
+  ],
+  "palette": {
+    "grass": "#18b724",
+    "grass2": "#0aa314",
+    "shoulder": "#398526",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#189123",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 66,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 42,
+      "h": 120,
+      "l": 62,
+      "c": 2.66,
+      "y": 10,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 73,
+      "l": 47,
+      "c": 1.88,
+      "y": 45,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 142,
+      "l": 72,
+      "c": 1.81,
+      "y": 10,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 65,
+      "l": 50,
+      "c": 1.01,
+      "y": -18,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 58,
+      "l": 58,
+      "c": 5.8,
+      "y": -18,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 95,
+      "l": 33,
+      "c": -2.84,
+      "y": -14,
+      "w": 0.96,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 58,
+      "l": 20,
+      "c": 3.28,
+      "y": 12,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 50,
+      "l": 28,
+      "c": -2.9,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 47,
+      "l": 33,
+      "c": -1.42,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 20,
+      "c": 1.6,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 25,
+      "c": -1.78,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 38,
+      "l": 38,
+      "c": 4.72,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 29,
+      "c": -4.22,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 83,
+      "h": 137,
+      "l": 57,
+      "c": 3.92,
+      "y": 24,
+      "w": 0.86,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 174,
+      "l": 30,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 152,
+      "l": 58,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "1b4bc85f7a7d"
+}

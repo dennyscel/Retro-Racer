@@ -1,0 +1,190 @@
+{
+  "id": 217,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 1,
+  "name": "Travessia Coral Norte",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2164,
+  "lapTargetSeconds": 61,
+  "signature": "final em mergulho",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.673,
+  "pits": [
+    0.21,
+    0.61,
+    0.87
+  ],
+  "palette": {
+    "grass": "#c4cdd9",
+    "grass2": "#a9b6c6",
+    "shoulder": "#6e8494",
+    "skyTop": "#66afd1",
+    "skyBot": "#b3cedc",
+    "mountColor": "#3f5161",
+    "mountSnow": true,
+    "road": "#414a58",
+    "road2": "#38414f"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 93,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 49,
+      "h": 86,
+      "l": 43,
+      "c": -1.23,
+      "y": 47,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 97,
+      "l": 44,
+      "c": 2.94,
+      "y": -8,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 84,
+      "l": 71,
+      "c": -1.83,
+      "y": -27,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 48,
+      "c": 4.45,
+      "y": 10,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 79,
+      "l": 45,
+      "c": 1.95,
+      "y": -14,
+      "w": 0.94,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 40,
+      "c": 2.22,
+      "y": 12,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 50,
+      "l": 42,
+      "c": -1.93,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 27,
+      "c": 2.42,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 34,
+      "l": 32,
+      "c": -2.6,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 45,
+      "l": 37,
+      "c": 2.78,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 42,
+      "l": 36,
+      "c": 3.66,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 60,
+      "l": 22,
+      "c": -3.25,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 175,
+      "l": 65,
+      "c": 2.89,
+      "y": 18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 102,
+      "l": 33,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 112,
+      "l": 53,
+      "c": -2.94,
+      "y": -4,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 89,
+      "l": 49,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "71be19964cf5"
+}

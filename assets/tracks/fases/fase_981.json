@@ -1,0 +1,208 @@
+{
+  "id": 981,
+  "championship": 37,
+  "cupName": "Grande Final 999",
+  "cupRace": 9,
+  "name": "Circuito Aurora Sul",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.982,
+  "lapTargetSeconds": 82,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.715,
+  "pits": [
+    0.31,
+    0.65,
+    0.83
+  ],
+  "palette": {
+    "grass": "#16b923",
+    "grass2": "#0ba715",
+    "shoulder": "#42912f",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#138f1e",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 67,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 75,
+      "h": 179,
+      "l": 63,
+      "c": -4.44,
+      "y": -18,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 138,
+      "l": 43,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 124,
+      "l": 57,
+      "c": -4.11,
+      "y": 9,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 91,
+      "l": 47,
+      "c": 3.09,
+      "y": 52,
+      "w": 0.91,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 146,
+      "l": 67,
+      "c": -3.27,
+      "y": 23,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 129,
+      "l": 55,
+      "c": 3.44,
+      "y": -47,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 87,
+      "l": 49,
+      "c": -8.33,
+      "y": -18,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 104,
+      "l": 29,
+      "c": 4.53,
+      "y": -14,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 61,
+      "l": 39,
+      "c": -5.27,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 41,
+      "c": 4.73,
+      "y": -3,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 64,
+      "l": 20,
+      "c": 2.71,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 43,
+      "l": 25,
+      "c": -2.89,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 30,
+      "c": 3.07,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 35,
+      "c": 6.71,
+      "y": 12,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 27,
+      "l": 42,
+      "c": -6.05,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 160,
+      "l": 82,
+      "c": 5.84,
+      "y": 24,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 107,
+      "l": 36,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 48,
+      "h": 165,
+      "l": 45,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2ba599956c4c"
+}

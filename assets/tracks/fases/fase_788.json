@@ -1,0 +1,226 @@
+{
+  "id": 788,
+  "championship": 30,
+  "cupName": "Copa Fumaça e Aço",
+  "cupRace": 5,
+  "name": "Rally Vector Pro",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.7886,
+  "lapTargetSeconds": 79,
+  "signature": "miolo ondulado",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.711,
+  "pits": [
+    0.23,
+    0.63,
+    0.76
+  ],
+  "palette": {
+    "grass": "#19b425",
+    "grass2": "#099e13",
+    "shoulder": "#368124",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c9227",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 86,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 38,
+      "h": 208,
+      "l": 37,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 47,
+      "h": 147,
+      "l": 39,
+      "c": 3.23,
+      "y": 7,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 80,
+      "l": 49,
+      "c": -2.36,
+      "y": 48,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 53,
+      "h": 85,
+      "l": 49,
+      "c": -4.29,
+      "y": 7,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 104,
+      "l": 62,
+      "c": 2.81,
+      "y": -30,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 71,
+      "l": 45,
+      "c": 6.8,
+      "y": 18,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 56,
+      "l": 33,
+      "c": 3.51,
+      "y": 14,
+      "w": 1.09,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 35,
+      "c": -4.07,
+      "y": 12,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 29,
+      "l": 26,
+      "c": 3.62,
+      "y": -6,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 24,
+      "c": 3.62,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 65,
+      "l": 29,
+      "c": -3.8,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 44,
+      "l": 34,
+      "c": 3.98,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 55,
+      "l": 31,
+      "c": 5.51,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 39,
+      "l": 27,
+      "c": -4.95,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 144,
+      "l": 82,
+      "c": 4.68,
+      "y": -12,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 177,
+      "l": 30,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 46,
+      "h": 100,
+      "l": 58,
+      "c": 4.29,
+      "y": 1,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 93,
+      "l": 39,
+      "c": 3.24,
+      "y": 49,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 52,
+      "h": 122,
+      "l": 68,
+      "c": 3.45,
+      "y": 7,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 120,
+      "l": 54,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b1b423989eaf"
+}

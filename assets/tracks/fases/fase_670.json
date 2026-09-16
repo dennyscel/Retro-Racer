@@ -1,0 +1,190 @@
+{
+  "id": 670,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 22,
+  "name": "Sprint Atlas Sprint",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.6703,
+  "lapTargetSeconds": 71,
+  "signature": "final em mergulho",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.692,
+  "pits": [
+    0.3,
+    0.67,
+    0.9
+  ],
+  "palette": {
+    "grass": "#18b024",
+    "grass2": "#16a71f",
+    "shoulder": "#3f882d",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8f26",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 66,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 102,
+      "l": 44,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 79,
+      "l": 65,
+      "c": -2.74,
+      "y": -4,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 56,
+      "l": 36,
+      "c": 1.95,
+      "y": 26,
+      "w": 1.05,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 101,
+      "l": 39,
+      "c": 3.8,
+      "y": 14,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 80,
+      "l": 64,
+      "c": -2.45,
+      "y": -20,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 53,
+      "l": 39,
+      "c": -5.95,
+      "y": 10,
+      "w": 1.14,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 104,
+      "l": 41,
+      "c": 2.94,
+      "y": 14,
+      "w": 0.96,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 63,
+      "l": 27,
+      "c": 6.0,
+      "y": 6,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 39,
+      "l": 34,
+      "c": -5.39,
+      "y": -3,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 32,
+      "c": -3.18,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 37,
+      "c": 3.36,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 42,
+      "l": 24,
+      "c": -3.54,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 43,
+      "l": 23,
+      "c": -4.84,
+      "y": 12,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 49,
+      "l": 35,
+      "c": 4.33,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 62,
+      "h": 138,
+      "l": 48,
+      "c": 4.03,
+      "y": -12,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 170,
+      "l": 64,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c2b7479328ca"
+}

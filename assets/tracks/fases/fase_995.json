@@ -1,0 +1,208 @@
+{
+  "id": 995,
+  "championship": 37,
+  "cupName": "Grande Final 999",
+  "cupRace": 23,
+  "name": "Ponte Solaris Circuit",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.996,
+  "lapTargetSeconds": 79,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.712,
+  "pits": [
+    0.27,
+    0.51,
+    0.85
+  ],
+  "palette": {
+    "grass": "#28283e",
+    "grass2": "#1c1c2f",
+    "shoulder": "#0b0b1e",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#090920",
+    "mountSnow": false,
+    "road": "#2a2a36",
+    "road2": "#242430"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 73,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 29,
+      "h": 41,
+      "l": 25,
+      "c": -6.18,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 30,
+      "c": 5.56,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 120,
+      "l": 52,
+      "c": 5.32,
+      "y": 12,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 135,
+      "l": 45,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 79,
+      "l": 40,
+      "c": -4.78,
+      "y": 9,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 90,
+      "l": 41,
+      "c": -3.65,
+      "y": 37,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 101,
+      "l": 50,
+      "c": 3.93,
+      "y": 3,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 68,
+      "l": 49,
+      "c": 2.55,
+      "y": -29,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 46,
+      "l": 42,
+      "c": 6.18,
+      "y": 10,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 69,
+      "l": 35,
+      "c": -5.3,
+      "y": -14,
+      "w": 0.99,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 36,
+      "l": 40,
+      "c": 6.18,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 44,
+      "l": 24,
+      "c": -5.56,
+      "y": 4,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 35,
+      "c": -3.3,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 60,
+      "l": 22,
+      "c": 3.48,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 39,
+      "l": 27,
+      "c": -3.66,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 50,
+      "l": 36,
+      "c": 5.03,
+      "y": 0,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 54,
+      "l": 25,
+      "c": -4.5,
+      "y": -6,
+      "w": 1.19,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 43,
+      "h": 171,
+      "l": 59,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f06e324db586"
+}

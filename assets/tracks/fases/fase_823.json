@@ -1,0 +1,235 @@
+{
+  "id": 823,
+  "championship": 31,
+  "cupName": "Circuito Ilhas Gêmeas",
+  "cupRace": 13,
+  "name": "Serpentina Eclipse Noite",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.8236,
+  "lapTargetSeconds": 80,
+  "signature": "final em mergulho",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.713,
+  "pits": [
+    0.3,
+    0.49,
+    0.81
+  ],
+  "palette": {
+    "grass": "#1e1e31",
+    "grass2": "#131323",
+    "shoulder": "#0d0d1d",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0e0e22",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 109,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 37,
+      "h": 31,
+      "l": 29,
+      "c": -5.34,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 49,
+      "l": 26,
+      "c": 4.79,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 108,
+      "l": 48,
+      "c": 4.51,
+      "y": -12,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 131,
+      "l": 48,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 155,
+      "l": 48,
+      "c": -4.16,
+      "y": 8,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 106,
+      "l": 44,
+      "c": -3.14,
+      "y": 25,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 93,
+      "l": 58,
+      "c": 3.32,
+      "y": 22,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 100,
+      "l": 57,
+      "c": -2.1,
+      "y": -37,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 58,
+      "l": 38,
+      "c": 8.41,
+      "y": 10,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 79,
+      "l": 31,
+      "c": -4.59,
+      "y": 14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 60,
+      "l": 22,
+      "c": 5.34,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 56,
+      "l": 41,
+      "c": -4.79,
+      "y": 4,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 45,
+      "l": 25,
+      "c": 2.76,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 56,
+      "l": 30,
+      "c": -2.94,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 35,
+      "l": 35,
+      "c": 3.12,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 40,
+      "l": 40,
+      "c": 4.18,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 28,
+      "l": 42,
+      "c": -3.73,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 89,
+      "l": 67,
+      "c": -5.9,
+      "y": -12,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 100,
+      "l": 41,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 108,
+      "l": 67,
+      "c": -3.32,
+      "y": 8,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 135,
+      "l": 47,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b3403c7f297f"
+}

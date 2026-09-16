@@ -1,0 +1,190 @@
+{
+  "id": 456,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 24,
+  "name": "Arena Aurora Turbo",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4559,
+  "lapTargetSeconds": 68,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.28,
+    0.65,
+    0.8
+  ],
+  "palette": {
+    "grass": "#17a822",
+    "grass2": "#139e1c",
+    "shoulder": "#377c26",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#22902c",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 86,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 52,
+      "h": 144,
+      "l": 62,
+      "c": 3.08,
+      "y": -6,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 89,
+      "l": 52,
+      "c": 2.23,
+      "y": 33,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 58,
+      "h": 82,
+      "l": 72,
+      "c": 2.24,
+      "y": -6,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 81,
+      "l": 50,
+      "c": -1.32,
+      "y": -18,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 70,
+      "l": 42,
+      "c": 6.54,
+      "y": 10,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 67,
+      "l": 45,
+      "c": -3.34,
+      "y": 0,
+      "w": 0.91,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 40,
+      "l": 24,
+      "c": 3.86,
+      "y": 0,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 40,
+      "c": -3.43,
+      "y": -6,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 43,
+      "l": 33,
+      "c": -1.8,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 20,
+      "c": 1.98,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 65,
+      "l": 25,
+      "c": -2.16,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 54,
+      "l": 20,
+      "c": 5.3,
+      "y": 6,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 28,
+      "l": 41,
+      "c": -4.76,
+      "y": -3,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 125,
+      "l": 69,
+      "c": -4.48,
+      "y": 12,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 114,
+      "l": 35,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 36,
+      "h": 116,
+      "l": 66,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ecb00b75b5ef"
+}

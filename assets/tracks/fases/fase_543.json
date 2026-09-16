@@ -1,0 +1,244 @@
+{
+  "id": 543,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 3,
+  "name": "Volta Saturno Endurance",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5431,
+  "lapTargetSeconds": 72,
+  "signature": "subida cega",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.697,
+  "pits": [
+    0.25,
+    0.56,
+    0.77
+  ],
+  "palette": {
+    "grass": "#1f1f35",
+    "grass2": "#111123",
+    "shoulder": "#0d0d1f",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0c0c23",
+    "mountSnow": false,
+    "road": "#2b2b37",
+    "road2": "#252531"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 91,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 31,
+      "h": 99,
+      "l": 46,
+      "c": -3.08,
+      "y": 0,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 32,
+      "l": 22,
+      "c": 3.56,
+      "y": 0,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 32,
+      "l": 30,
+      "c": -3.16,
+      "y": 6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 25,
+      "c": -3.29,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 56,
+      "l": 30,
+      "c": 3.47,
+      "y": -5,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 35,
+      "l": 35,
+      "c": -3.65,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 40,
+      "c": 5.01,
+      "y": 6,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 42,
+      "l": 31,
+      "c": -4.49,
+      "y": -3,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 105,
+      "l": 71,
+      "c": 4.19,
+      "y": 12,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 148,
+      "l": 32,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.11,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 132,
+      "l": 71,
+      "c": -2.02,
+      "y": 5,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 95,
+      "l": 54,
+      "c": 2.93,
+      "y": 42,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 154,
+      "l": 45,
+      "c": -3.08,
+      "y": 19,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 113,
+      "l": 47,
+      "c": 1.93,
+      "y": -21,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 73,
+      "l": 59,
+      "c": -4.69,
+      "y": -18,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 104,
+      "l": 42,
+      "c": 4.31,
+      "y": 0,
+      "w": 0.88,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 41,
+      "l": 33,
+      "c": -5.01,
+      "y": 6,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 49,
+      "l": 25,
+      "c": 4.49,
+      "y": -3,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 36,
+      "c": 2.54,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 23,
+      "c": -2.72,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 48,
+      "l": 28,
+      "c": 2.9,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 47,
+      "h": 103,
+      "l": 47,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2342c451fa29"
+}

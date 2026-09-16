@@ -1,0 +1,163 @@
+{
+  "id": 40,
+  "championship": 2,
+  "cupName": "Torneio Costa Azul",
+  "cupRace": 13,
+  "name": "Circuito Cascata Pro",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.0391,
+  "lapTargetSeconds": 57,
+  "signature": "ponte estreita",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.654,
+  "pits": [
+    0.23,
+    0.67,
+    0.9
+  ],
+  "palette": {
+    "grass": "#e4af31",
+    "grass2": "#dba12c",
+    "shoulder": "#cb8d22",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#d28b2b",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 78,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 58,
+      "l": 24,
+      "c": 1.49,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 29,
+      "c": -1.67,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 48,
+      "l": 34,
+      "c": 1.85,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 33,
+      "l": 25,
+      "c": -2.22,
+      "y": -8,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 45,
+      "l": 31,
+      "c": 1.93,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 172,
+      "l": 80,
+      "c": 1.51,
+      "y": 12,
+      "w": 1.02,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 189,
+      "l": 28,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 112,
+      "l": 62,
+      "c": 1.89,
+      "y": -6,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 53,
+      "l": 46,
+      "c": -1.23,
+      "y": 45,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 134,
+      "l": 72,
+      "c": 1.05,
+      "y": 0,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 121,
+      "l": 64,
+      "c": -1.83,
+      "y": -50,
+      "w": 0.92,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 74,
+      "l": 46,
+      "c": 4.46,
+      "y": -18,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 164,
+      "l": 50,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c3f8ad061361"
+}

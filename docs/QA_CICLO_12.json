@@ -1,0 +1,298 @@
+{
+  "version": "AAA_R2+C12",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 64,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "c12": false,
+      "liveries": {}
+    },
+    "menu": {
+      "visible": true,
+      "patterns": 12,
+      "sponsors": 8,
+      "name": "GOLIATH"
+    },
+    "edit": {
+      "id": 2,
+      "code": "RRP1-ARI0VgX_MwAG____CTjV_xADWoGCLw",
+      "len": 35,
+      "saved": {
+        "active": true,
+        "base": "#123456",
+        "layers": [
+          {
+            "pattern": 5,
+            "color": "#ff3300"
+          },
+          {
+            "pattern": 6,
+            "color": "#ffffff"
+          },
+          {
+            "pattern": 9,
+            "color": "#38d5ff"
+          }
+        ],
+        "number": 16,
+        "sponsor": 3
+      },
+      "decoded": {
+        "active": true,
+        "base": "#123456",
+        "layers": [
+          {
+            "pattern": 5,
+            "color": "#ff3300"
+          },
+          {
+            "pattern": 6,
+            "color": "#ffffff"
+          },
+          {
+            "pattern": 9,
+            "color": "#38d5ff"
+          }
+        ],
+        "number": 16,
+        "sponsor": 3
+      },
+      "paint": {
+        "color": "#123456",
+        "stripe": "#ff3300"
+      }
+    },
+    "codec": {
+      "round": true,
+      "bad": true
+    },
+    "imported": {
+      "ok": true,
+      "car3": {
+        "active": true,
+        "base": "#123456",
+        "layers": [
+          {
+            "pattern": 5,
+            "color": "#ff3300"
+          },
+          {
+            "pattern": 6,
+            "color": "#ffffff"
+          },
+          {
+            "pattern": 9,
+            "color": "#38d5ff"
+          }
+        ],
+        "number": 16,
+        "sponsor": 3
+      },
+      "speed": 0.96,
+      "accel": 1.05
+    },
+    "determinism": {
+      "same": true,
+      "a": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      },
+      "b": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      },
+      "c": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      }
+    },
+    "fps": {
+      "frames": 72,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 33,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 253,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version64": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 103991,
+      "kb": 101.6,
+      "ok": true
+    },
+    "licenses": {
+      "module": true,
+      "countFormula": true,
+      "menu": true,
+      "hud": true,
+      "carThresholds": true
+    },
+    "paintShop": {
+      "module": true,
+      "menu": true,
+      "patterns12": true,
+      "codec": true,
+      "liveries": true,
+      "flag": true
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 23,
+      "missing": [],
+      "cacheVersion": "c12"
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "gamepad/haptics físicos",
+    "PWA instalada via HTTPS",
+    "compartilhamento nativo em iOS/Android"
+  ]
+}

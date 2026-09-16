@@ -1,0 +1,217 @@
+{
+  "id": 757,
+  "championship": 29,
+  "cupName": "Rally Aurora Boreal",
+  "cupRace": 1,
+  "name": "Travessia Solaris Leste",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.7575,
+  "lapTargetSeconds": 78,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.705,
+  "pits": [
+    0.27,
+    0.58,
+    0.87
+  ],
+  "palette": {
+    "grass": "#0da418",
+    "grass2": "#16a71f",
+    "shoulder": "#377f25",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#13861d",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 111,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 75,
+      "h": 179,
+      "l": 49,
+      "c": -4.02,
+      "y": 24,
+      "w": 0.87,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 130,
+      "l": 44,
+      "c": 0.39,
+      "y": 0,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 96,
+      "l": 49,
+      "c": 3.79,
+      "y": 15,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 91,
+      "l": 68,
+      "c": -2.83,
+      "y": 52,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 59,
+      "h": 118,
+      "l": 59,
+      "c": -2.95,
+      "y": -3,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 77,
+      "l": 71,
+      "c": 1.84,
+      "y": -39,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 87,
+      "l": 49,
+      "c": 7.78,
+      "y": 10,
+      "w": 1.13,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 86,
+      "l": 36,
+      "c": -4.16,
+      "y": -14,
+      "w": 0.89,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 33,
+      "h": 63,
+      "l": 35,
+      "c": -4.83,
+      "y": -8,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 27,
+      "c": 4.33,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 64,
+      "l": 30,
+      "c": 2.43,
+      "y": 9,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 43,
+      "l": 35,
+      "c": -2.61,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 22,
+      "c": 2.79,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 31,
+      "c": 6.28,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 28,
+      "c": -5.65,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 160,
+      "l": 68,
+      "c": -5.42,
+      "y": -18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 99,
+      "l": 37,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 52,
+      "h": 133,
+      "l": 68,
+      "c": 2.95,
+      "y": 1,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 157,
+      "l": 45,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c5fac37fca6d"
+}

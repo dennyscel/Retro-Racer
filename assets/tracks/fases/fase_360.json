@@ -1,0 +1,172 @@
+{
+  "id": 360,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 9,
+  "name": "Travessia Tempestade Sul",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.3597,
+  "lapTargetSeconds": 63,
+  "signature": "subida cega",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.674,
+  "pits": [
+    0.19,
+    0.59,
+    0.74
+  ],
+  "palette": {
+    "grass": "#daaa3d",
+    "grass2": "#d19e36",
+    "shoulder": "#c68f32",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c48732",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 86,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 20,
+      "c": 1.41,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 25,
+      "c": -1.59,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 48,
+      "l": 30,
+      "c": 1.77,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 37,
+      "c": -4.7,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 43,
+      "l": 36,
+      "c": 4.21,
+      "y": -3,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 172,
+      "l": 64,
+      "c": 3.9,
+      "y": -18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 149,
+      "l": 48,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 70,
+      "h": 80,
+      "l": 58,
+      "c": -1.8,
+      "y": 3,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 53,
+      "l": 51,
+      "c": -2.75,
+      "y": 45,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 102,
+      "l": 68,
+      "c": 2.86,
+      "y": 11,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 65,
+      "l": 54,
+      "c": 1.77,
+      "y": -46,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 74,
+      "l": 58,
+      "c": -4.31,
+      "y": -18,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 95,
+      "l": 43,
+      "c": -1.85,
+      "y": -14,
+      "w": 0.84,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 54,
+      "h": 100,
+      "l": 58,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "080f37cff8f1"
+}

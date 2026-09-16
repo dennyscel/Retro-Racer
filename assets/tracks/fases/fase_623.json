@@ -1,0 +1,217 @@
+{
+  "id": 623,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 2,
+  "name": "Caminho Ômega Oeste",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.6232,
+  "lapTargetSeconds": 73,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.701,
+  "pits": [
+    0.24,
+    0.54,
+    0.91
+  ],
+  "palette": {
+    "grass": "#1fa429",
+    "grass2": "#1b9b23",
+    "shoulder": "#39792a",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1a7f23",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 103,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 69,
+      "h": 125,
+      "l": 83,
+      "c": -3.88,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 152,
+      "l": 35,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.18,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 80,
+      "l": 59,
+      "c": -3.69,
+      "y": -4,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 67,
+      "l": 39,
+      "c": 2.74,
+      "y": 46,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 102,
+      "l": 69,
+      "c": -2.84,
+      "y": 6,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 109,
+      "l": 57,
+      "c": 1.76,
+      "y": -49,
+      "w": 1.05,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 69,
+      "l": 55,
+      "c": -7.59,
+      "y": 10,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 54,
+      "l": 28,
+      "c": 4.04,
+      "y": 14,
+      "w": 0.99,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 39,
+      "l": 33,
+      "c": 4.69,
+      "y": 0,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 57,
+      "l": 40,
+      "c": -4.19,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 46,
+      "l": 22,
+      "c": -2.34,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 57,
+      "l": 27,
+      "c": 2.52,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 32,
+      "c": -2.7,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 29,
+      "c": -3.53,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 29,
+      "l": 41,
+      "c": 3.13,
+      "y": 6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 106,
+      "l": 60,
+      "c": 5.28,
+      "y": 18,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 121,
+      "l": 28,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 117,
+      "l": 42,
+      "c": 2.84,
+      "y": 0,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 87,
+      "l": 63,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ac9d64a84bc0"
+}

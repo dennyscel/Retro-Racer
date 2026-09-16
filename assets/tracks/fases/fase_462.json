@@ -1,0 +1,199 @@
+{
+  "id": 462,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 3,
+  "name": "Passagem Atlântico Arcade",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4619,
+  "lapTargetSeconds": 69,
+  "signature": "reta de pit longa",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.688,
+  "pits": [
+    0.19,
+    0.47,
+    0.86
+  ],
+  "palette": {
+    "grass": "#18a523",
+    "grass2": "#189f21",
+    "shoulder": "#458935",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8726",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 66,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 72,
+      "l": 68,
+      "c": 2.46,
+      "y": -2,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 113,
+      "l": 58,
+      "c": -1.71,
+      "y": 39,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 94,
+      "l": 42,
+      "c": 3.52,
+      "y": 4,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 117,
+      "l": 56,
+      "c": -2.25,
+      "y": -24,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 88,
+      "l": 48,
+      "c": 5.46,
+      "y": 10,
+      "w": 0.95,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 97,
+      "l": 30,
+      "c": -2.62,
+      "y": 14,
+      "w": 1.08,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 36,
+      "l": 30,
+      "c": 3.01,
+      "y": -8,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 25,
+      "c": -2.66,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 61,
+      "l": 21,
+      "c": -2.93,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 40,
+      "l": 26,
+      "c": 3.11,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 31,
+      "c": -3.29,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 50,
+      "l": 26,
+      "c": 4.46,
+      "y": -8,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 32,
+      "l": 26,
+      "c": -3.98,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 77,
+      "h": 179,
+      "l": 75,
+      "c": -3.66,
+      "y": -12,
+      "w": 0.89,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 156,
+      "l": 41,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 109,
+      "l": 51,
+      "c": 3.52,
+      "y": 12,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 106,
+      "l": 56,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9bea3884f8ee"
+}

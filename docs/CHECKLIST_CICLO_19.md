@@ -1,0 +1,14 @@
+# CHECKLIST — CICLO 19
+- [x] SAVE_KEY intacto.
+- [x] v70→v71 preserva fase/dinheiro/carro/FICHAS.
+- [x] CR$ / FICHAS / MARCAS separados.
+- [x] Monetização FALSE por padrão.
+- [x] Nenhuma compra concede carro, upgrade, CR$, XP ou progresso.
+- [x] Fundador = ad-free + cosmético.
+- [x] Passe = cosmético.
+- [x] Anúncio recompensado opcional: 1 dobro / 1 continue Fenda.
+- [x] Curva 1–999 auditada.
+- [x] Planilha ECONOMIA_C19.xlsx criada.
+- [x] 999 pistas e sentinelas preservadas.
+- [x] Node check / IDs / assets / shell gzip: PASS.
+- [ ] SDK de loja/anúncio real: NÃO INTEGRADO por decisão de arquitetura.

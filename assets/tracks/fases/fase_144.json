@@ -1,0 +1,235 @@
+{
+  "id": 144,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 9,
+  "name": "Serpentina Vector Final",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.1433,
+  "lapTargetSeconds": 63,
+  "signature": "curva longa de alta",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.2,
+    0.56,
+    0.74
+  ],
+  "palette": {
+    "grass": "#e0b451",
+    "grass2": "#d7a84a",
+    "shoulder": "#c18e3a",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c88f42",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 62,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 50,
+      "l": 20,
+      "c": 0.96,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 25,
+      "c": -1.14,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 40,
+      "l": 30,
+      "c": 1.32,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 43,
+      "l": 41,
+      "c": -4.01,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 51,
+      "l": 30,
+      "c": 3.57,
+      "y": 6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 148,
+      "l": 58,
+      "c": 3.22,
+      "y": 12,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 197,
+      "l": 32,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 58,
+      "h": 152,
+      "l": 58,
+      "c": 1.29,
+      "y": -9,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 85,
+      "l": 45,
+      "c": -2.32,
+      "y": 53,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 90,
+      "l": 68,
+      "c": 2.35,
+      "y": -5,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 61,
+      "l": 48,
+      "c": -1.4,
+      "y": -46,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 50,
+      "l": 38,
+      "c": 3.42,
+      "y": 10,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 59,
+      "l": 37,
+      "c": -1.26,
+      "y": -14,
+      "w": 0.91,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 34,
+      "c": 4.01,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 58,
+      "l": 24,
+      "c": -3.57,
+      "y": 6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 63,
+      "l": 31,
+      "c": -1.89,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 36,
+      "c": 2.07,
+      "y": 9,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 23,
+      "c": -2.25,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 52,
+      "l": 30,
+      "c": 2.85,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 30,
+      "l": 25,
+      "c": -2.51,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 47,
+      "h": 108,
+      "l": 54,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dffab8b97067"
+}

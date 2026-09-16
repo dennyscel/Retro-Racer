@@ -1,0 +1,199 @@
+{
+  "id": 38,
+  "championship": 2,
+  "cupName": "Torneio Costa Azul",
+  "cupRace": 11,
+  "name": "Ponte Horizonte Solar",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.0371,
+  "lapTargetSeconds": 58,
+  "signature": "S técnico",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.666,
+  "pits": [
+    0.26,
+    0.66,
+    0.82
+  ],
+  "palette": {
+    "grass": "#1ba326",
+    "grass2": "#11931a",
+    "shoulder": "#468736",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#167d20",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 74,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 42,
+      "h": 148,
+      "l": 40,
+      "c": 1.25,
+      "y": 14,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 81,
+      "l": 54,
+      "c": -0.7,
+      "y": 31,
+      "w": 1.12,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 86,
+      "l": 50,
+      "c": 2.31,
+      "y": -6,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 81,
+      "l": 52,
+      "c": -1.37,
+      "y": -32,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 64,
+      "l": 44,
+      "c": 3.35,
+      "y": -18,
+      "w": 1.06,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 65,
+      "l": 47,
+      "c": -1.21,
+      "y": -14,
+      "w": 0.83,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 24,
+      "c": 3.95,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 42,
+      "c": -3.52,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 29,
+      "c": -1.86,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 34,
+      "c": 2.04,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 21,
+      "c": -2.22,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 20,
+      "c": 2.8,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 28,
+      "l": 22,
+      "c": -2.46,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 107,
+      "l": 71,
+      "c": -2.06,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 188,
+      "l": 42,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 101,
+      "l": 59,
+      "c": -2.31,
+      "y": -6,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 36,
+      "h": 138,
+      "l": 44,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "67fbc257d953"
+}

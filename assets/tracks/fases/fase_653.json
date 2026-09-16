@@ -1,0 +1,217 @@
+{
+  "id": 653,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 5,
+  "name": "Rally Coral Oeste",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.6533,
+  "lapTargetSeconds": 75,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.703,
+  "pits": [
+    0.3,
+    0.48,
+    0.85
+  ],
+  "palette": {
+    "grass": "#1aad25",
+    "grass2": "#0f9c18",
+    "shoulder": "#40872f",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#188822",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 65,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 67,
+      "h": 107,
+      "l": 71,
+      "c": -4.81,
+      "y": -12,
+      "w": 1.08,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 122,
+      "l": 40,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 140,
+      "l": 53,
+      "c": 2.49,
+      "y": 20,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 59,
+      "l": 69,
+      "c": -3.33,
+      "y": 44,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 78,
+      "l": 63,
+      "c": -3.55,
+      "y": -4,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 61,
+      "l": 57,
+      "c": 2.27,
+      "y": -43,
+      "w": 1.08,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 63,
+      "l": 57,
+      "c": 5.51,
+      "y": 10,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 88,
+      "l": 37,
+      "c": -2.65,
+      "y": -14,
+      "w": 0.85,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 53,
+      "l": 41,
+      "c": -5.65,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 28,
+      "c": 5.08,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 40,
+      "l": 34,
+      "c": 2.96,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 51,
+      "l": 21,
+      "c": -3.14,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 26,
+      "c": 3.32,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 33,
+      "l": 37,
+      "c": 4.5,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 29,
+      "c": -4.02,
+      "y": -3,
+      "w": 1.17,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 88,
+      "l": 48,
+      "c": -3.7,
+      "y": 18,
+      "w": 0.96,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 211,
+      "l": 33,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 93,
+      "l": 72,
+      "c": 3.55,
+      "y": 14,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 125,
+      "l": 69,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "53589811a7d6"
+}

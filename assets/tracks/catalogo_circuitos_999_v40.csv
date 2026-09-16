@@ -1,0 +1,1000 @@
+fase;campeonato;copa;pista;bioma;ambiente;clima;horario;peculiaridade;traço dominante;compassos/sections;fingerprint
+1;1;Copa Verde Inicial;Serpentina Vulcano Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;hairpin forte;16;cf8ecc8c769e
+2;1;Copa Verde Inicial;Boulevard Relâmpago Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;42fc1b042dde
+3;1;Copa Verde Inicial;Volta Centelha 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;túnel escuro;19;aad8f696cff0
+4;1;Copa Verde Inicial;Autódromo Solaris RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;curva longa de alta;19;1ea6dc5ddb2c
+5;1;Copa Verde Inicial;Serpentina Diamante Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;d59c2ba28732
+6;1;Copa Verde Inicial;Boulevard Atlas Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;descida rápida;16;86726ea54f65
+7;1;Copa Verde Inicial;Volta Jaguar Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;02231753ced5
+8;1;Copa Verde Inicial;Autódromo Saturno Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;esses de alta velocidade;18;eff97c4267a3
+9;1;Copa Verde Inicial;Serpentina Coral Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;entrada de chicane;19;b31238ff70a9
+10;1;Copa Verde Inicial;Boulevard Aurora Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;reta de recuperação;14;967c687a7aad
+11;1;Copa Verde Inicial;Volta Vulcano GT;city;Porto neon;chuva;Noite;sequência de placas;túnel escuro;14;18ddd7ddd63b
+12;1;Copa Verde Inicial;Autódromo Relâmpago Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;208de8427c62
+13;1;Copa Verde Inicial;Serpentina Centelha Master;grass;Floresta leve;neblina;Amanhecer;chicane curta;ponte estreita;18;ab62449c65a4
+14;1;Copa Verde Inicial;Boulevard Solaris Extreme;grass;Costa tropical;céu limpo;Tarde;miolo de 3 vértices;saída de chicane;19;9cdd87a3df28
+15;1;Copa Verde Inicial;Volta Diamante Noite;city;Cidade neon;noite seca;Noite;cotovelo em subida;entrada de chicane;15;efb429f0be82
+16;1;Copa Verde Inicial;Autódromo Atlas Sul;grass;Campos verdes;céu limpo;Manhã;hairpin duplo;entrada de chicane;16;9d6066d8704f
+17;1;Copa Verde Inicial;Serpentina Jaguar Final;mountain;Vale nevado;neblina;Noite;retomada após túnel;saída de chicane;17;b596fac34bef
+18;1;Copa Verde Inicial;Boulevard Saturno Prime;desert;Cânion seco;céu limpo;Pôr do sol;túnel escuro;esses de alta velocidade;20;92e0f10d7023
+19;1;Copa Verde Inicial;Volta Coral Sprint;city;Porto neon;chuva;Noite;subida em caracol;reta de recuperação;20;e427448f1b92
+20;1;Copa Verde Inicial;Autódromo Aurora SX;city;Megacidade cyber;tempestade;Madrugada;curva de raio fechado;entrada de chicane;15;ceb2257de71d
+21;1;Copa Verde Inicial;Serpentina Vulcano Arcade;grass;Floresta leve;neblina;Amanhecer;curva longa de alta;esses de alta velocidade;15;af441d10fbea
+22;1;Copa Verde Inicial;Boulevard Relâmpago Turbo;grass;Costa tropical;céu limpo;Tarde;curva espelhada falsa;ponte estreita;17;78f43ceb175a
+23;1;Copa Verde Inicial;Volta Centelha Norte;city;Cidade neon;noite seca;Noite;zigue-zague rítmico;esses de alta velocidade;18;8131a2c5c807
+24;1;Copa Verde Inicial;Autódromo Solaris Chuva;grass;Campos verdes;céu limpo;Manhã;subida cega;hairpin forte;19;405b8965e3f7
+25;1;Copa Verde Inicial;Serpentina Diamante Oeste;mountain;Vale nevado;neblina;Noite;trecho de aderência baixa;entrada de chicane;15;6e6b7dfc41a6
+26;1;Copa Verde Inicial;Boulevard Atlas 16B;desert;Cânion seco;céu limpo;Pôr do sol;miolo ondulado;esses de alta velocidade;15;d276adc485b1
+27;1;Copa Verde Inicial;Volta Jaguar RX;city;Porto neon;chuva;Noite;reta de largada larga;curva longa de alta;17;1ddb72fe2aa9
+28;2;Torneio Costa Azul;Circuito Horizonte Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;descida rápida;18;04cec6537828
+29;2;Torneio Costa Azul;Grande Laço Cobalto Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;e7b1f0056e09
+30;2;Torneio Costa Azul;Ponte Cascata Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;saída de chicane;15;a435d3256e10
+31;2;Torneio Costa Azul;Arena Neblina Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;esses de alta velocidade;16;bf1e6c6f33ac
+32;2;Torneio Costa Azul;Circuito Nômade Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;bb19d175ca2e
+33;2;Torneio Costa Azul;Grande Laço Tempestade 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;esses de alta velocidade;19;47a4b67f57a1
+34;2;Torneio Costa Azul;Ponte Falésia RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;descida rápida;19;54da9fffbcd7
+35;2;Torneio Costa Azul;Arena Vector Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;d6bc12868356
+36;2;Torneio Costa Azul;Circuito Atlântico Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;esses de alta velocidade;16;dee2ba9a5295
+37;2;Torneio Costa Azul;Grande Laço Mandacaru Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;4cab0278d147
+38;2;Torneio Costa Azul;Ponte Horizonte Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;curva longa de alta;18;67fbc257d953
+39;2;Torneio Costa Azul;Arena Cobalto Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;subida cega;19;115077d5c0bb
+40;2;Torneio Costa Azul;Circuito Cascata Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;esses de alta velocidade;14;c3f8ad061361
+41;2;Torneio Costa Azul;Grande Laço Neblina GT;city;Porto neon;chuva;Noite;sequência de placas;reta de recuperação;14;2e046b887237
+42;2;Torneio Costa Azul;Ponte Nômade Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;a0f0ba333f2f
+43;2;Torneio Costa Azul;Arena Tempestade Master;grass;Floresta leve;neblina;Amanhecer;chicane curta;reta de recuperação;18;47a13aac8c95
+44;2;Torneio Costa Azul;Circuito Falésia Extreme;grass;Costa tropical;céu limpo;Tarde;miolo de 3 vértices;saída de chicane;19;0b90319122c4
+45;2;Torneio Costa Azul;Grande Laço Vector Noite;city;Cidade neon;noite seca;Noite;cotovelo em subida;esses de alta velocidade;15;9bf138491b1a
+46;2;Torneio Costa Azul;Ponte Atlântico Sul;grass;Campos verdes;céu limpo;Manhã;hairpin duplo;saída de chicane;16;6e3c4a645d0a
+47;2;Torneio Costa Azul;Arena Mandacaru Final;mountain;Vale nevado;neblina;Noite;retomada após túnel;saída de chicane;17;25eb0f3f006a
+48;2;Torneio Costa Azul;Circuito Horizonte Prime;desert;Cânion seco;céu limpo;Pôr do sol;túnel escuro;esses de alta velocidade;20;d706796e4d81
+49;2;Torneio Costa Azul;Grande Laço Cobalto Sprint;city;Porto neon;chuva;Noite;subida em caracol;reta de recuperação;20;42b56da34511
+50;2;Torneio Costa Azul;Ponte Cascata SX;city;Megacidade cyber;tempestade;Madrugada;curva de raio fechado;esses de alta velocidade;15;6912ee6c1f85
+51;2;Torneio Costa Azul;Arena Neblina Arcade;grass;Floresta leve;neblina;Amanhecer;curva longa de alta;esses de alta velocidade;15;5b889cd848e8
+52;2;Torneio Costa Azul;Circuito Nômade Turbo;grass;Costa tropical;céu limpo;Tarde;curva espelhada falsa;túnel escuro;17;15061f3dbb4f
+53;2;Torneio Costa Azul;Grande Laço Tempestade Norte;city;Cidade neon;noite seca;Noite;zigue-zague rítmico;túnel escuro;18;1da78ab8ca49
+54;2;Torneio Costa Azul;Ponte Falésia Chuva;grass;Campos verdes;céu limpo;Manhã;subida cega;esses de alta velocidade;19;e8bb48fcac2a
+55;3;Desafio Vale do Sol;Desafio Fênix Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;2aeaf79f27ea
+56;3;Desafio Vale do Sol;Anel Liberdade Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;descida rápida;16;a2e2c35d9bcf
+57;3;Desafio Vale do Sol;Passagem Turbo SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;8df404d2c569
+58;3;Desafio Vale do Sol;Túnel Miragem Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;curva em caracol;18;867c2fd8479c
+59;3;Desafio Vale do Sol;Desafio Pixel Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;eabc4f188bf5
+60;3;Desafio Vale do Sol;Anel Eclipse Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;entrada de chicane;15;652c4e7cb91d
+61;3;Desafio Vale do Sol;Passagem Lunar Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;curva longa de alta;16;cc04f593e095
+62;3;Desafio Vale do Sol;Túnel Neon Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;525cba475e03
+63;3;Desafio Vale do Sol;Desafio Esmeralda 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;curva em caracol;19;9b3edc9973f1
+64;3;Desafio Vale do Sol;Anel Monsoon RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;esses de alta velocidade;19;2411f63ece0f
+65;3;Desafio Vale do Sol;Passagem Fênix Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;211546780ef7
+66;3;Desafio Vale do Sol;Túnel Liberdade Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;subida cega;16;84a08c78ec85
+67;3;Desafio Vale do Sol;Desafio Turbo Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;c8ae24733b07
+68;3;Desafio Vale do Sol;Anel Miragem Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;saída de chicane;18;c046effddd8c
+69;3;Desafio Vale do Sol;Passagem Pixel Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;hairpin forte;19;b4ad58be16be
+70;3;Desafio Vale do Sol;Túnel Eclipse Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;reta de recuperação;14;b1aac69c0c81
+71;3;Desafio Vale do Sol;Desafio Lunar GT;city;Porto neon;chuva;Noite;sequência de placas;túnel escuro;14;18e738110e04
+72;3;Desafio Vale do Sol;Anel Neon Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;ef2c281119c6
+73;3;Desafio Vale do Sol;Passagem Esmeralda Master;grass;Floresta leve;neblina;Amanhecer;chicane curta;esses de alta velocidade;18;791a90605be2
+74;3;Desafio Vale do Sol;Túnel Monsoon Extreme;grass;Costa tropical;céu limpo;Tarde;miolo de 3 vértices;curva longa de alta;19;198c8d54883f
+75;3;Desafio Vale do Sol;Desafio Fênix Noite;city;Cidade neon;noite seca;Noite;cotovelo em subida;esses de alta velocidade;15;92b09c178f39
+76;3;Desafio Vale do Sol;Anel Liberdade Sul;grass;Campos verdes;céu limpo;Manhã;hairpin duplo;hairpin forte;16;e5408e6807b9
+77;3;Desafio Vale do Sol;Passagem Turbo Final;mountain;Vale nevado;neblina;Noite;retomada após túnel;saída de chicane;17;c5a9ab8af6e9
+78;3;Desafio Vale do Sol;Túnel Miragem Prime;desert;Cânion seco;céu limpo;Pôr do sol;túnel escuro;esses de alta velocidade;20;6a72255b0a0e
+79;3;Desafio Vale do Sol;Desafio Pixel Sprint;city;Porto neon;chuva;Noite;subida em caracol;reta de recuperação;20;528bcca7c6e9
+80;3;Desafio Vale do Sol;Anel Eclipse SX;city;Megacidade cyber;tempestade;Madrugada;curva de raio fechado;esses de alta velocidade;15;aad8684e8725
+81;3;Desafio Vale do Sol;Passagem Lunar Arcade;grass;Floresta leve;neblina;Amanhecer;curva longa de alta;saída de chicane;15;501aafa572aa
+82;4;Copa Deserto Rubro;Travessia Infinito Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;1304ab4a1cbd
+83;4;Copa Deserto Rubro;Caminho Prisma Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;esses de alta velocidade;18;abeee6921c21
+84;4;Copa Deserto Rubro;Estrada Titânio Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;túnel escuro;22;96add4fb2a21
+85;4;Copa Deserto Rubro;Via Expressa Trovão Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;f25c38607ce5
+86;4;Copa Deserto Rubro;Travessia Gaia Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;esses de alta velocidade;16;3845b65c6f76
+87;4;Copa Deserto Rubro;Caminho Orion SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;c01cf980a566
+88;4;Copa Deserto Rubro;Estrada Ômega Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;saída de chicane;18;02f27f234bb6
+89;4;Copa Deserto Rubro;Via Expressa Ametista Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;cb2e0dd7e718
+90;4;Copa Deserto Rubro;Travessia Delta Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;esses de alta velocidade;15;27009577c812
+91;4;Copa Deserto Rubro;Caminho Cristal Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;esses de alta velocidade;16;76a47e9c379e
+92;4;Copa Deserto Rubro;Estrada Infinito Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;b4794794f4c9
+93;4;Copa Deserto Rubro;Via Expressa Prisma 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;descida rápida;19;2b32f97391cf
+94;4;Copa Deserto Rubro;Travessia Titânio RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;curva em caracol;19;9e814f403635
+95;4;Copa Deserto Rubro;Caminho Trovão Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;3817ab4ea32e
+96;4;Copa Deserto Rubro;Estrada Gaia Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;saída de chicane;16;31c1013f5356
+97;4;Copa Deserto Rubro;Via Expressa Orion Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;2119a30dc17c
+98;4;Copa Deserto Rubro;Travessia Ômega Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;entrada de chicane;18;841f46e97847
+99;4;Copa Deserto Rubro;Caminho Ametista Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;esses de alta velocidade;19;c1c1daecbcf5
+100;4;Copa Deserto Rubro;Estrada Delta Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;esses de alta velocidade;14;c940d88b2037
+101;4;Copa Deserto Rubro;Via Expressa Cristal GT;city;Porto neon;chuva;Noite;sequência de placas;reta de recuperação;14;753bf092f709
+102;4;Copa Deserto Rubro;Travessia Infinito Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;2b1592cd220d
+103;4;Copa Deserto Rubro;Caminho Prisma Master;grass;Floresta leve;neblina;Amanhecer;chicane curta;descida rápida;18;65a04efc145e
+104;4;Copa Deserto Rubro;Estrada Titânio Extreme;grass;Costa tropical;céu limpo;Tarde;miolo de 3 vértices;ponte estreita;19;d46d92bf02bb
+105;4;Copa Deserto Rubro;Via Expressa Trovão Noite;city;Cidade neon;noite seca;Noite;cotovelo em subida;esses de alta velocidade;15;107725bf4ebd
+106;4;Copa Deserto Rubro;Travessia Gaia Sul;grass;Campos verdes;céu limpo;Manhã;hairpin duplo;esses de alta velocidade;16;6be57b27831c
+107;4;Copa Deserto Rubro;Caminho Orion Final;mountain;Vale nevado;neblina;Noite;retomada após túnel;saída de chicane;17;adb87d119069
+108;4;Copa Deserto Rubro;Estrada Ômega Prime;desert;Cânion seco;céu limpo;Pôr do sol;túnel escuro;esses de alta velocidade;20;7d25569837af
+109;5;Liga Neon Noturna;Rally Aurora Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;curva longa de alta;19;ae6b4791dbb6
+110;5;Liga Neon Noturna;Sprint Vulcano Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;túnel escuro;14;aa256c9a9a97
+111;5;Liga Neon Noturna;Vale Relâmpago Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;subida cega;16;00d340dcca11
+112;5;Liga Neon Noturna;Rota Centelha Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;f3f544ee0a55
+113;5;Liga Neon Noturna;Rally Solaris Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;hairpin forte;18;b450f6678105
+114;5;Liga Neon Noturna;Sprint Diamante Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;esses de alta velocidade;22;b0bf80a506fe
+115;5;Liga Neon Noturna;Vale Atlas Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;c17dc5303023
+116;5;Liga Neon Noturna;Rota Jaguar Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;curva longa de alta;16;a90730b2f6a8
+117;5;Liga Neon Noturna;Rally Saturno SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;5b8689d924cf
+118;5;Liga Neon Noturna;Sprint Coral Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;subida cega;18;ba5b30a2467e
+119;5;Liga Neon Noturna;Vale Aurora Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;74b2b508f22e
+120;5;Liga Neon Noturna;Rota Vulcano Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;esses de alta velocidade;15;558e9011f5ed
+121;5;Liga Neon Noturna;Rally Relâmpago Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;reta de recuperação;16;3374e32fa1de
+122;5;Liga Neon Noturna;Sprint Centelha Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;58ebcb27705d
+123;5;Liga Neon Noturna;Vale Solaris 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;esses de alta velocidade;19;2285db7f8664
+124;5;Liga Neon Noturna;Rota Diamante RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;descida rápida;19;bf221851ab42
+125;5;Liga Neon Noturna;Rally Atlas Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;2ec53625fa62
+126;5;Liga Neon Noturna;Sprint Jaguar Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;reta de recuperação;16;cca33edbaa3a
+127;5;Liga Neon Noturna;Vale Saturno Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;d2e628758c24
+128;5;Liga Neon Noturna;Rota Coral Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;curva longa de alta;18;cf5f90bc1fd0
+129;5;Liga Neon Noturna;Rally Aurora Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;reta de recuperação;19;7af6d64c4e97
+130;5;Liga Neon Noturna;Sprint Vulcano Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;reta de recuperação;14;d9c80157ed01
+131;5;Liga Neon Noturna;Vale Relâmpago GT;city;Porto neon;chuva;Noite;sequência de placas;túnel escuro;14;5a5ef119b8f1
+132;5;Liga Neon Noturna;Rota Centelha Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;0632060e4e23
+133;5;Liga Neon Noturna;Rally Solaris Master;grass;Floresta leve;neblina;Amanhecer;chicane curta;curva em caracol;18;b2420e882174
+134;5;Liga Neon Noturna;Sprint Diamante Extreme;grass;Costa tropical;céu limpo;Tarde;miolo de 3 vértices;esses de alta velocidade;19;ea25839b7196
+135;5;Liga Neon Noturna;Vale Atlas Noite;city;Cidade neon;noite seca;Noite;cotovelo em subida;saída de chicane;15;b2e9cb8e5c14
+136;6;Rally Serra Fria;Serpentina Mandacaru Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;curva em caracol;15;2ae3d4ae1f09
+137;6;Rally Serra Fria;Boulevard Horizonte Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;17;3012ed9d8301
+138;6;Rally Serra Fria;Volta Cobalto GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;curva longa de alta;18;72ca664ab6cd
+139;6;Rally Serra Fria;Autódromo Cascata Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;saída de chicane;19;89440da826c3
+140;6;Rally Serra Fria;Serpentina Neblina Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;reta de recuperação;14;36486f0ca034
+141;6;Rally Serra Fria;Boulevard Nômade Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;esses de alta velocidade;16;b47c5e6bb6f7
+142;6;Rally Serra Fria;Volta Tempestade Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;213003a4e82f
+143;6;Rally Serra Fria;Autódromo Falésia Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;reta de recuperação;18;d494d01a5aac
+144;6;Rally Serra Fria;Serpentina Vector Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;túnel escuro;22;dffab8b97067
+145;6;Rally Serra Fria;Boulevard Atlântico Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;8b73e0f61bed
+146;6;Rally Serra Fria;Volta Mandacaru Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;saída de chicane;16;c476d1ccc946
+147;6;Rally Serra Fria;Autódromo Horizonte SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;91d3b9a2ddb3
+148;6;Rally Serra Fria;Serpentina Cobalto Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;entrada de chicane;18;cc11bcec68cc
+149;6;Rally Serra Fria;Boulevard Cascata Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;c1d941c4f6b0
+150;6;Rally Serra Fria;Volta Neblina Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;esses de alta velocidade;15;85e5ed6dc8a2
+151;6;Rally Serra Fria;Autódromo Nômade Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;entrada de chicane;16;b3ab19898943
+152;6;Rally Serra Fria;Serpentina Tempestade Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;d2ca78c1f19e
+153;6;Rally Serra Fria;Boulevard Falésia 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;entrada de chicane;19;e857f24aa6eb
+154;6;Rally Serra Fria;Volta Vector RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;entrada de chicane;19;94ff3acdd9a0
+155;6;Rally Serra Fria;Autódromo Atlântico Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;89b09e155da7
+156;6;Rally Serra Fria;Serpentina Mandacaru Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;ponte estreita;16;28ed523d04a0
+157;6;Rally Serra Fria;Boulevard Horizonte Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;3bc645d369a4
+158;6;Rally Serra Fria;Volta Cobalto Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;esses de alta velocidade;18;dd05b9ab4081
+159;6;Rally Serra Fria;Autódromo Cascata Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;curva longa de alta;19;81369c4cfba0
+160;6;Rally Serra Fria;Serpentina Neblina Pro;desert;Cânion seco;céu limpo;Pôr do sol;ponte estreita;esses de alta velocidade;14;9b8f91fd4c16
+161;6;Rally Serra Fria;Boulevard Nômade GT;city;Porto neon;chuva;Noite;sequência de placas;reta de recuperação;14;347478ed7f50
+162;6;Rally Serra Fria;Volta Tempestade Endurance;city;Megacidade cyber;tempestade;Madrugada;curva de raio crescente;esses de alta velocidade;17;e86b6c11e733
+163;7;Grande Prêmio Tropical;Circuito Monsoon Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;reta de recuperação;18;0cd1a3b6a5c6
+164;7;Grande Prêmio Tropical;Grande Laço Fênix Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;subida cega;19;7662203e625b
+165;7;Grande Prêmio Tropical;Ponte Liberdade Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;curva longa de alta;15;9e6748602433
+166;7;Grande Prêmio Tropical;Arena Turbo Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;saída de chicane;15;8e9280f50b75
+167;7;Grande Prêmio Tropical;Circuito Miragem Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;17;264c2d2387e9
+168;7;Grande Prêmio Tropical;Grande Laço Pixel GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;entrada de chicane;18;3f3122f14188
+169;7;Grande Prêmio Tropical;Ponte Eclipse Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;saída de chicane;19;1477ce5f8091
+170;7;Grande Prêmio Tropical;Arena Lunar Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;túnel escuro;14;5b6b33878136
+171;7;Grande Prêmio Tropical;Circuito Neon Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;reta de recuperação;16;fcd526411604
+172;7;Grande Prêmio Tropical;Grande Laço Esmeralda Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;9a9d4b5ceb85
+173;7;Grande Prêmio Tropical;Ponte Monsoon Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;esses de alta velocidade;18;a83700bc4f3a
+174;7;Grande Prêmio Tropical;Arena Fênix Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;esses de alta velocidade;22;11ecb8bb346c
+175;7;Grande Prêmio Tropical;Circuito Liberdade Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;903c6ccd23df
+176;7;Grande Prêmio Tropical;Grande Laço Turbo Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;curva em caracol;16;3d54151591eb
+177;7;Grande Prêmio Tropical;Ponte Miragem SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;6d77746067c5
+178;7;Grande Prêmio Tropical;Arena Pixel Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;túnel escuro;18;99d5d54e697f
+179;7;Grande Prêmio Tropical;Circuito Eclipse Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;f60c98bbe9f0
+180;7;Grande Prêmio Tropical;Grande Laço Lunar Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;saída de chicane;15;6d257b714b38
+181;7;Grande Prêmio Tropical;Ponte Neon Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;saída de chicane;16;f0e1e1dc4dcd
+182;7;Grande Prêmio Tropical;Arena Esmeralda Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;3ffd0ad871da
+183;7;Grande Prêmio Tropical;Circuito Monsoon 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;subida cega;19;2c32cab63a48
+184;7;Grande Prêmio Tropical;Grande Laço Fênix RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;entrada de chicane;19;7fa5c9e7c55a
+185;7;Grande Prêmio Tropical;Ponte Liberdade Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;2ed12d953eac
+186;7;Grande Prêmio Tropical;Arena Turbo Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;entrada de chicane;16;23af9e010893
+187;7;Grande Prêmio Tropical;Circuito Miragem Circuit;city;Cidade neon;noite seca;Noite;reta com vento;entrada de chicane;17;e3b3377613c8
+188;7;Grande Prêmio Tropical;Grande Laço Pixel Solar;grass;Campos verdes;céu limpo;Manhã;S técnico;hairpin forte;18;76238f905000
+189;7;Grande Prêmio Tropical;Ponte Eclipse Leste;mountain;Vale nevado;neblina;Noite;ponto de frenagem tardia;saída de chicane;19;b3f9078d3db1
+190;8;Circuito Industrial 16 Bits;Desafio Cristal 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;reta de recuperação;15;8c061adef29b
+191;8;Circuito Industrial 16 Bits;Anel Infinito RX;grass;Floresta leve;neblina;Amanhecer;S técnico;reta de recuperação;15;957197a38c91
+192;8;Circuito Industrial 16 Bits;Passagem Prisma Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;ponte estreita;17;b77eb8a87477
+193;8;Circuito Industrial 16 Bits;Túnel Titânio Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;18;b61b8349db30
+194;8;Circuito Industrial 16 Bits;Desafio Trovão Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;hairpin forte;19;06efb3d2ea2c
+195;8;Circuito Industrial 16 Bits;Anel Gaia Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;subida cega;15;4064cc130ddd
+196;8;Circuito Industrial 16 Bits;Passagem Orion Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;15;3c58c5410ff3
+197;8;Circuito Industrial 16 Bits;Túnel Ômega Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;17;f426c7ea8c07
+198;8;Circuito Industrial 16 Bits;Desafio Ametista GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;túnel escuro;18;524d5da80765
+199;8;Circuito Industrial 16 Bits;Anel Delta Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;curva longa de alta;19;2ea1afb685d4
+200;8;Circuito Industrial 16 Bits;Passagem Cristal Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;reta de recuperação;14;00d3c2363235
+201;8;Circuito Industrial 16 Bits;Túnel Infinito Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;entrada de chicane;16;92d2334e5f94
+202;8;Circuito Industrial 16 Bits;Desafio Prisma Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;90d599229f61
+203;8;Circuito Industrial 16 Bits;Anel Titânio Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;curva longa de alta;18;f34135a45dd2
+204;8;Circuito Industrial 16 Bits;Passagem Trovão Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;ponte estreita;22;2ea31e61250c
+205;8;Circuito Industrial 16 Bits;Túnel Gaia Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;a0ebb9463136
+206;8;Circuito Industrial 16 Bits;Desafio Orion Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;túnel escuro;16;171235f1392e
+207;8;Circuito Industrial 16 Bits;Anel Ômega SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;5c022133a4cc
+208;8;Circuito Industrial 16 Bits;Passagem Ametista Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;reta de recuperação;18;1093ef3e43e4
+209;8;Circuito Industrial 16 Bits;Túnel Delta Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;cf5d51a6bc3b
+210;8;Circuito Industrial 16 Bits;Desafio Cristal Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;entrada de chicane;15;ee12bb546e2b
+211;8;Circuito Industrial 16 Bits;Anel Infinito Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;hairpin forte;16;a25afcb36165
+212;8;Circuito Industrial 16 Bits;Passagem Prisma Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;eed9a3206ce6
+213;8;Circuito Industrial 16 Bits;Túnel Titânio 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;entrada de chicane;19;aec09a21b7d8
+214;8;Circuito Industrial 16 Bits;Desafio Trovão RX;city;Megacidade cyber;tempestade;Madrugada;final em mergulho;subida cega;19;fd3983fc6d3a
+215;8;Circuito Industrial 16 Bits;Anel Gaia Mirror;grass;Floresta leve;neblina;Amanhecer;descida rápida;descida rápida;12;468c9d47db97
+216;8;Circuito Industrial 16 Bits;Passagem Orion Clássico;grass;Costa tropical;céu limpo;Tarde;reta de pit longa;descida rápida;16;871bc69008af
+217;9;Taça Canion Dourado;Travessia Coral Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;saída de chicane;17;71be19964cf5
+218;9;Taça Canion Dourado;Caminho Aurora Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;reta de recuperação;20;754dbcc8de02
+219;9;Taça Canion Dourado;Estrada Vulcano Oeste;city;Porto neon;chuva;Noite;reta de pit longa;túnel escuro;20;ab555028a52b
+220;9;Taça Canion Dourado;Via Expressa Relâmpago 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;curva em caracol;15;145294ddd626
+221;9;Taça Canion Dourado;Travessia Centelha RX;grass;Floresta leve;neblina;Amanhecer;S técnico;curva em caracol;15;9c082e157b41
+222;9;Taça Canion Dourado;Caminho Solaris Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;ponte estreita;17;e5ae9aea87e6
+223;9;Taça Canion Dourado;Estrada Diamante Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;descida rápida;18;eeeaf884e37c
+224;9;Taça Canion Dourado;Via Expressa Atlas Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;esses de alta velocidade;19;4b058c91fb2b
+225;9;Taça Canion Dourado;Travessia Jaguar Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;curva em caracol;15;91e1885288d2
+226;9;Taça Canion Dourado;Caminho Saturno Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;esses de alta velocidade;15;b1fb2d6e53d7
+227;9;Taça Canion Dourado;Estrada Coral Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;17;b3ca41d0e903
+228;9;Taça Canion Dourado;Via Expressa Aurora GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;curva longa de alta;18;6e4cc4da405a
+229;9;Taça Canion Dourado;Travessia Vulcano Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;ponte estreita;19;032b1bf7c7ff
+230;9;Taça Canion Dourado;Caminho Relâmpago Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;ponte estreita;14;05fee6b5502b
+231;9;Taça Canion Dourado;Estrada Centelha Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;saída de chicane;16;2d5a6786ae5b
+232;9;Taça Canion Dourado;Via Expressa Solaris Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;17;f968111ce2ee
+233;9;Taça Canion Dourado;Travessia Diamante Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;saída de chicane;18;1d67b7cc1d0a
+234;9;Taça Canion Dourado;Caminho Atlas Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;esses de alta velocidade;22;f298407608a1
+235;9;Taça Canion Dourado;Estrada Jaguar Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;subida cega;12;7232e741e35b
+236;9;Taça Canion Dourado;Via Expressa Saturno Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;entrada de chicane;16;f40b19d09e61
+237;9;Taça Canion Dourado;Travessia Coral SX;grass;Floresta leve;neblina;Amanhecer;subida cega;hairpin forte;17;6544e098dc6c
+238;9;Taça Canion Dourado;Caminho Aurora Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;esses de alta velocidade;18;dcedbe657031
+239;9;Taça Canion Dourado;Estrada Vulcano Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;túnel escuro;20;53742bfd2029
+240;9;Taça Canion Dourado;Via Expressa Relâmpago Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;ponte estreita;15;15fac6173512
+241;9;Taça Canion Dourado;Travessia Centelha Chuva;mountain;Vale nevado;neblina;Noite;esses de alta velocidade;esses de alta velocidade;16;de6803720595
+242;9;Taça Canion Dourado;Caminho Solaris Oeste;desert;Cânion seco;céu limpo;Pôr do sol;sequência travada;reta de recuperação;17;4fc64ba9e6f5
+243;9;Taça Canion Dourado;Estrada Diamante 16B;city;Porto neon;chuva;Noite;trecho com relevo quebrado;entrada de chicane;19;ecebf8f6d6dc
+244;10;Copa Chuva de Verão;Rally Atlântico SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;curva longa de alta;19;4405cff7471a
+245;10;Copa Chuva de Verão;Sprint Mandacaru Arcade;city;Cidade neon;noite seca;Noite;sequência travada;saída de chicane;15;524c4fd2abeb
+246;10;Copa Chuva de Verão;Vale Horizonte Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;esses de alta velocidade;16;5dd3b6be1905
+247;10;Copa Chuva de Verão;Rota Cobalto Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;saída de chicane;17;813a38687509
+248;10;Copa Chuva de Verão;Rally Cascata Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;reta de recuperação;20;d8bac976aac6
+249;10;Copa Chuva de Verão;Sprint Neblina Oeste;city;Porto neon;chuva;Noite;reta de pit longa;túnel escuro;20;287371fe389a
+250;10;Copa Chuva de Verão;Vale Nômade 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;saída de chicane;15;346358c45c94
+251;10;Copa Chuva de Verão;Rota Tempestade RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;b63b6e47f3c0
+252;10;Copa Chuva de Verão;Rally Falésia Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;descida rápida;18;363f85640113
+253;10;Copa Chuva de Verão;Sprint Vector Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;c274f6cda436
+254;10;Copa Chuva de Verão;Vale Atlântico Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;4274e772f195
+255;10;Copa Chuva de Verão;Rota Mandacaru Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;esses de alta velocidade;16;1fa4965b808a
+256;10;Copa Chuva de Verão;Rally Horizonte Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;17;3fd0889d07a1
+257;10;Copa Chuva de Verão;Sprint Cobalto Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;19;298e8c40c3db
+258;10;Copa Chuva de Verão;Vale Cascata GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;saída de chicane;19;a152b9d3ef66
+259;10;Copa Chuva de Verão;Rota Neblina Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;subida cega;20;30d341981143
+260;10;Copa Chuva de Verão;Rally Nômade Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;esses de alta velocidade;16;f7dbea7b45aa
+261;10;Copa Chuva de Verão;Sprint Tempestade Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;esses de alta velocidade;17;d64e7c473218
+262;10;Copa Chuva de Verão;Vale Falésia Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;curva longa de alta;18;42fbd42fdc64
+263;10;Copa Chuva de Verão;Rota Vector Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;esses de alta velocidade;19;cbead61f2753
+264;10;Copa Chuva de Verão;Rally Atlântico Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;esses de alta velocidade;23;bb5d8fba23e9
+265;10;Copa Chuva de Verão;Sprint Mandacaru Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;reta de recuperação;14;a0476075267c
+266;10;Copa Chuva de Verão;Vale Horizonte Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;entrada de chicane;17;80c27cef445d
+267;10;Copa Chuva de Verão;Rota Cobalto SX;grass;Floresta leve;neblina;Amanhecer;subida cega;reta de recuperação;18;d4c133ae4c93
+268;10;Copa Chuva de Verão;Rally Cascata Arcade;grass;Costa tropical;céu limpo;Tarde;trecho de aderência baixa;hairpin forte;19;8f549c58834b
+269;10;Copa Chuva de Verão;Sprint Neblina Turbo;city;Cidade neon;noite seca;Noite;miolo ondulado;reta de recuperação;23;39d5b1edeb63
+270;10;Copa Chuva de Verão;Vale Nômade Norte;grass;Campos verdes;céu limpo;Manhã;reta de largada larga;saída de chicane;16;86147fbfae1e
+271;11;Liga Metro Futuro;Serpentina Esmeralda Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;575e76733898
+272;11;Liga Metro Futuro;Boulevard Monsoon Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;descida rápida;18;3f81b97bae06
+273;11;Liga Metro Futuro;Volta Fênix Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;subida cega;19;092b03b91e5a
+274;11;Liga Metro Futuro;Autódromo Liberdade SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;23c9bed3eff6
+275;11;Liga Metro Futuro;Serpentina Turbo Arcade;city;Cidade neon;noite seca;Noite;sequência travada;descida rápida;16;234d84e12807
+276;11;Liga Metro Futuro;Boulevard Miragem Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;1b4bc85f7a7d
+277;11;Liga Metro Futuro;Volta Pixel Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;subida cega;18;47ed83ec4526
+278;11;Liga Metro Futuro;Autódromo Eclipse Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;fa61e81bfa0a
+279;11;Liga Metro Futuro;Serpentina Lunar Oeste;city;Porto neon;chuva;Noite;reta de pit longa;saída de chicane;21;743c5cf39fd8
+280;11;Liga Metro Futuro;Boulevard Neon 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;descida rápida;16;5126d1422e31
+281;11;Liga Metro Futuro;Volta Esmeralda RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;3a193ca116af
+282;11;Liga Metro Futuro;Autódromo Monsoon Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;curva em caracol;18;bacb849afc11
+283;11;Liga Metro Futuro;Serpentina Fênix Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;61badda836e7
+284;11;Liga Metro Futuro;Boulevard Liberdade Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;fdba34869b44
+285;11;Liga Metro Futuro;Volta Turbo Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;curva longa de alta;16;f5636cb9ce27
+286;11;Liga Metro Futuro;Autódromo Miragem Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;17;9de5a166a136
+287;11;Liga Metro Futuro;Serpentina Pixel Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;saída de chicane;19;fcb5cebc36b0
+288;11;Liga Metro Futuro;Boulevard Eclipse GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;curva longa de alta;19;ef2b08fcb8ea
+289;11;Liga Metro Futuro;Volta Lunar Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;subida cega;20;3510e2463536
+290;11;Liga Metro Futuro;Autódromo Neon Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;subida cega;16;9dfed2c463eb
+291;11;Liga Metro Futuro;Serpentina Esmeralda Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;esses de alta velocidade;17;37204f270d2a
+292;11;Liga Metro Futuro;Boulevard Monsoon Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;saída de chicane;18;70a87c8be7d7
+293;11;Liga Metro Futuro;Volta Fênix Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;curva em caracol;19;058b0a7c982a
+294;11;Liga Metro Futuro;Autódromo Liberdade Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;esses de alta velocidade;23;b4a17b4da377
+295;11;Liga Metro Futuro;Serpentina Turbo Prime;city;Porto neon;chuva;Noite;curva espelhada falsa;túnel escuro;14;4e4216a54d31
+296;11;Liga Metro Futuro;Boulevard Miragem Sprint;city;Megacidade cyber;tempestade;Madrugada;zigue-zague rítmico;entrada de chicane;17;01fa4f86c01d
+297;11;Liga Metro Futuro;Volta Pixel SX;grass;Floresta leve;neblina;Amanhecer;subida cega;esses de alta velocidade;18;ac94e06a5900
+298;12;Rota das Cataratas;Circuito Delta Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;esses de alta velocidade;19;b10464b72d77
+299;12;Rota das Cataratas;Grande Laço Cristal Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;94f7183410b3
+300;12;Rota das Cataratas;Ponte Infinito Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;entrada de chicane;15;eb232c8deb18
+301;12;Rota das Cataratas;Arena Prisma Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;3bd1946434f5
+302;12;Rota das Cataratas;Circuito Titânio Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;curva em caracol;18;73f04d541104
+303;12;Rota das Cataratas;Grande Laço Trovão Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;entrada de chicane;19;b5cbff41a341
+304;12;Rota das Cataratas;Ponte Gaia SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;c5fe1bcd40a6
+305;12;Rota das Cataratas;Arena Orion Arcade;city;Cidade neon;noite seca;Noite;sequência travada;esses de alta velocidade;16;b589ee16851f
+306;12;Rota das Cataratas;Circuito Ômega Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;af93d49db95d
+307;12;Rota das Cataratas;Grande Laço Ametista Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;esses de alta velocidade;18;a01c49fbaf3c
+308;12;Rota das Cataratas;Ponte Delta Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;cefd82cb6ba9
+309;12;Rota das Cataratas;Arena Cristal Oeste;city;Porto neon;chuva;Noite;reta de pit longa;entrada de chicane;21;f82decce9da5
+310;12;Rota das Cataratas;Circuito Infinito 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;esses de alta velocidade;16;a506c7d29352
+311;12;Rota das Cataratas;Grande Laço Prisma RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;46cb34e76d8b
+312;12;Rota das Cataratas;Ponte Titânio Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;saída de chicane;18;8029c88bcb8e
+313;12;Rota das Cataratas;Arena Trovão Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;f3e5d0f9157f
+314;12;Rota das Cataratas;Circuito Gaia Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;f7a9b5720ab3
+315;12;Rota das Cataratas;Grande Laço Orion Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;esses de alta velocidade;16;a1c9372d5e10
+316;12;Rota das Cataratas;Ponte Ômega Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;17;6f516f3b10b6
+317;12;Rota das Cataratas;Arena Ametista Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;saída de chicane;19;07bb0e991859
+318;12;Rota das Cataratas;Circuito Delta GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;túnel escuro;19;c19a6bffb773
+319;12;Rota das Cataratas;Grande Laço Cristal Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;subida cega;20;7b5fb0f23f39
+320;12;Rota das Cataratas;Ponte Infinito Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;saída de chicane;16;acf4389589a2
+321;12;Rota das Cataratas;Arena Prisma Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;esses de alta velocidade;17;a2525cfaf06e
+322;12;Rota das Cataratas;Circuito Titânio Noite;grass;Campos verdes;céu limpo;Manhã;subida em caracol;entrada de chicane;18;8af2dba159ac
+323;12;Rota das Cataratas;Grande Laço Trovão Sul;mountain;Vale nevado;neblina;Noite;curva de raio fechado;subida cega;19;faecc449054c
+324;12;Rota das Cataratas;Ponte Gaia Final;desert;Cânion seco;céu limpo;Pôr do sol;curva longa de alta;reta de recuperação;23;5c3bca337906
+325;13;Campeonato Neve Lunar;Desafio Saturno GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;curva em caracol;15;3d4fb21fd240
+326;13;Campeonato Neve Lunar;Anel Coral Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;1be4019d1c0f
+327;13;Campeonato Neve Lunar;Passagem Aurora Master;city;Cidade neon;noite seca;Noite;curva longa de alta;esses de alta velocidade;18;f6a75f6c8229
+328;13;Campeonato Neve Lunar;Túnel Vulcano Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;curva longa de alta;19;d2ffceed392a
+329;13;Campeonato Neve Lunar;Desafio Relâmpago Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;122c431d6f88
+330;13;Campeonato Neve Lunar;Anel Centelha Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;esses de alta velocidade;15;a00a160aeb73
+331;13;Campeonato Neve Lunar;Passagem Solaris Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;d29ad4963542
+332;13;Campeonato Neve Lunar;Túnel Diamante Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;saída de chicane;18;235fc6eae2f1
+333;13;Campeonato Neve Lunar;Desafio Atlas Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;entrada de chicane;19;6a94d155f5c3
+334;13;Campeonato Neve Lunar;Anel Jaguar SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;42ebab256a29
+335;13;Campeonato Neve Lunar;Passagem Saturno Arcade;city;Cidade neon;noite seca;Noite;sequência travada;subida cega;16;b74446290a6a
+336;13;Campeonato Neve Lunar;Túnel Coral Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;71504bd7f170
+337;13;Campeonato Neve Lunar;Desafio Aurora Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;hairpin forte;18;90e298ec9f27
+338;13;Campeonato Neve Lunar;Anel Vulcano Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;706372ebeaf9
+339;13;Campeonato Neve Lunar;Passagem Relâmpago Oeste;city;Porto neon;chuva;Noite;reta de pit longa;entrada de chicane;21;3c578637d8bb
+340;13;Campeonato Neve Lunar;Túnel Centelha 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;curva longa de alta;16;d1b668558e18
+341;13;Campeonato Neve Lunar;Desafio Solaris RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;e1d1109c0c28
+342;13;Campeonato Neve Lunar;Anel Diamante Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;subida cega;18;9a3393f2e7e1
+343;13;Campeonato Neve Lunar;Passagem Atlas Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;938e250c32b7
+344;13;Campeonato Neve Lunar;Túnel Jaguar Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;688b36751a4b
+345;13;Campeonato Neve Lunar;Desafio Saturno Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;reta de recuperação;16;6ed660745ffc
+346;13;Campeonato Neve Lunar;Anel Coral Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;17;edb519e8030f
+347;13;Campeonato Neve Lunar;Passagem Aurora Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;curva longa de alta;19;c1b979225399
+348;13;Campeonato Neve Lunar;Túnel Vulcano GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;esses de alta velocidade;19;22a486dc1551
+349;13;Campeonato Neve Lunar;Desafio Relâmpago Endurance;grass;Floresta leve;neblina;Amanhecer;hairpin duplo;subida cega;20;0803dc033b4b
+350;13;Campeonato Neve Lunar;Anel Centelha Master;grass;Costa tropical;céu limpo;Tarde;retomada após túnel;reta de recuperação;16;3323df9cac15
+351;13;Campeonato Neve Lunar;Passagem Solaris Extreme;city;Cidade neon;noite seca;Noite;túnel escuro;esses de alta velocidade;17;4f7136562227
+352;14;Autódromo Vulcão Antigo;Travessia Vector Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;ponte estreita;20;d20107db0d84
+353;14;Autódromo Vulcão Antigo;Caminho Atlântico Leste;city;Porto neon;chuva;Noite;retomada após túnel;entrada de chicane;20;d54a12d6f30a
+354;14;Autódromo Vulcão Antigo;Estrada Mandacaru Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;descida rápida;20;aa0f635a0ff4
+355;14;Autódromo Vulcão Antigo;Via Expressa Horizonte GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;esses de alta velocidade;15;3bae583e5e5d
+356;14;Autódromo Vulcão Antigo;Travessia Cobalto Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;e456878f6ced
+357;14;Autódromo Vulcão Antigo;Caminho Cascata Master;city;Cidade neon;noite seca;Noite;curva longa de alta;túnel escuro;18;6621d8cc623d
+358;14;Autódromo Vulcão Antigo;Estrada Neblina Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;descida rápida;19;d7edd12f3bbd
+359;14;Autódromo Vulcão Antigo;Via Expressa Nômade Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;a5a94b9d20d9
+360;14;Autódromo Vulcão Antigo;Travessia Tempestade Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;esses de alta velocidade;15;080f37cff8f1
+361;14;Autódromo Vulcão Antigo;Caminho Falésia Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;2cceec8cf93e
+362;14;Autódromo Vulcão Antigo;Estrada Vector Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;curva longa de alta;18;b46250a0e6cf
+363;14;Autódromo Vulcão Antigo;Via Expressa Atlântico Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;reta de recuperação;19;e6eb9ae1258f
+364;14;Autódromo Vulcão Antigo;Travessia Mandacaru SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;30d43dd65eaa
+365;14;Autódromo Vulcão Antigo;Caminho Horizonte Arcade;city;Cidade neon;noite seca;Noite;sequência travada;esses de alta velocidade;16;32c5c2a269ca
+366;14;Autódromo Vulcão Antigo;Estrada Cobalto Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;4b369614928c
+367;14;Autódromo Vulcão Antigo;Via Expressa Cascata Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;reta de recuperação;18;0ae5362eb8c2
+368;14;Autódromo Vulcão Antigo;Travessia Neblina Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;0aa4d9f54037
+369;14;Autódromo Vulcão Antigo;Caminho Nômade Oeste;city;Porto neon;chuva;Noite;reta de pit longa;subida cega;21;4be2dee166b7
+370;14;Autódromo Vulcão Antigo;Estrada Tempestade 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;saída de chicane;16;7f80df96eef2
+371;14;Autódromo Vulcão Antigo;Via Expressa Falésia RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;6cacbd4a3b4d
+372;14;Autódromo Vulcão Antigo;Travessia Vector Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;entrada de chicane;18;317fea07a335
+373;14;Autódromo Vulcão Antigo;Caminho Atlântico Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;066323dbbccd
+374;14;Autódromo Vulcão Antigo;Estrada Mandacaru Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;a7bf9d6151ed
+375;14;Autódromo Vulcão Antigo;Via Expressa Horizonte Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;entrada de chicane;16;4f4561e69c84
+376;14;Autódromo Vulcão Antigo;Travessia Cobalto Leste;desert;Cânion seco;céu limpo;Pôr do sol;chicane curta;entrada de chicane;17;233e408986d2
+377;14;Autódromo Vulcão Antigo;Caminho Cascata Pro;city;Porto neon;chuva;Noite;miolo de 3 vértices;túnel escuro;19;d3765ead68bb
+378;14;Autódromo Vulcão Antigo;Estrada Neblina GT;city;Megacidade cyber;tempestade;Madrugada;cotovelo em subida;curva longa de alta;19;3afb93da9401
+379;15;Torneio Baía dos Ventos;Rally Neon Mirror;city;Cidade neon;noite seca;Noite;chicane curta;esses de alta velocidade;23;b2167d902810
+380;15;Torneio Baía dos Ventos;Sprint Esmeralda Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;entrada de chicane;16;043acc784795
+381;15;Torneio Baía dos Ventos;Vale Monsoon Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;hairpin forte;17;2dc7e2ae0782
+382;15;Torneio Baía dos Ventos;Rota Fênix Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;ponte estreita;20;3060263656e7
+383;15;Torneio Baía dos Ventos;Rally Liberdade Leste;city;Porto neon;chuva;Noite;retomada após túnel;entrada de chicane;20;dee79afff271
+384;15;Torneio Baía dos Ventos;Sprint Turbo Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;descida rápida;20;3d5d4251ae66
+385;15;Torneio Baía dos Ventos;Vale Miragem GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;esses de alta velocidade;15;562a85dbcf66
+386;15;Torneio Baía dos Ventos;Rota Pixel Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;22463f2d3f8c
+387;15;Torneio Baía dos Ventos;Rally Eclipse Master;city;Cidade neon;noite seca;Noite;curva longa de alta;reta de recuperação;18;b1f1e0bda1f4
+388;15;Torneio Baía dos Ventos;Sprint Lunar Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;esses de alta velocidade;19;392521340b1a
+389;15;Torneio Baía dos Ventos;Vale Neon Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;eb6d75e8cdba
+390;15;Torneio Baía dos Ventos;Rota Esmeralda Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;esses de alta velocidade;15;b5e9a9cc04ce
+391;15;Torneio Baía dos Ventos;Rally Monsoon Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;6e8bc81d0c85
+392;15;Torneio Baía dos Ventos;Sprint Fênix Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;entrada de chicane;18;b0ca7f8803af
+393;15;Torneio Baía dos Ventos;Vale Liberdade Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;hairpin forte;19;062fc05a39e8
+394;15;Torneio Baía dos Ventos;Rota Turbo SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;5cae6359f611
+395;15;Torneio Baía dos Ventos;Rally Miragem Arcade;city;Cidade neon;noite seca;Noite;sequência travada;reta de recuperação;16;c2e790e88333
+396;15;Torneio Baía dos Ventos;Sprint Pixel Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;c26c477237bc
+397;15;Torneio Baía dos Ventos;Vale Eclipse Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;esses de alta velocidade;18;6516fee3cbe0
+398;15;Torneio Baía dos Ventos;Rota Lunar Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;9bee6be1fa59
+399;15;Torneio Baía dos Ventos;Rally Neon Oeste;city;Porto neon;chuva;Noite;reta de pit longa;entrada de chicane;21;82743417a830
+400;15;Torneio Baía dos Ventos;Sprint Esmeralda 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;curva em caracol;16;e38e3925fc5c
+401;15;Torneio Baía dos Ventos;Vale Monsoon RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;4572cf3a9dd7
+402;15;Torneio Baía dos Ventos;Rota Fênix Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;túnel escuro;18;66a18c40f051
+403;15;Torneio Baía dos Ventos;Rally Liberdade Clássico;city;Cidade neon;noite seca;Noite;ponte estreita;esses de alta velocidade;20;9ebe3621a495
+404;15;Torneio Baía dos Ventos;Sprint Turbo Circuit;grass;Campos verdes;céu limpo;Manhã;sequência de placas;entrada de chicane;20;59183a87606f
+405;15;Torneio Baía dos Ventos;Vale Miragem Solar;mountain;Vale nevado;neblina;Noite;curva de raio crescente;saída de chicane;16;8ec869d62661
+406;16;Copa Cidade Alta;Serpentina Ametista Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;entrada de chicane;17;a3bc23cb923a
+407;16;Copa Cidade Alta;Boulevard Delta 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;descida rápida;18;9c68040058ac
+408;16;Copa Cidade Alta;Volta Cristal RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;19;89fea90998ce
+409;16;Copa Cidade Alta;Autódromo Infinito Mirror;city;Cidade neon;noite seca;Noite;chicane curta;reta de recuperação;23;b4fcceb8fdd0
+410;16;Copa Cidade Alta;Serpentina Prisma Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;saída de chicane;16;7609afcea5e5
+411;16;Copa Cidade Alta;Boulevard Titânio Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;hairpin forte;17;6782bab29a80
+412;16;Copa Cidade Alta;Volta Trovão Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;túnel escuro;20;0223d27edbdc
+413;16;Copa Cidade Alta;Autódromo Gaia Leste;city;Porto neon;chuva;Noite;retomada após túnel;entrada de chicane;20;a3c71c1c422e
+414;16;Copa Cidade Alta;Serpentina Orion Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;descida rápida;20;4d78f23b4af0
+415;16;Copa Cidade Alta;Boulevard Ômega GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;esses de alta velocidade;15;9e9a71f848a1
+416;16;Copa Cidade Alta;Volta Ametista Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;83c958ffb45d
+417;16;Copa Cidade Alta;Autódromo Delta Master;city;Cidade neon;noite seca;Noite;curva longa de alta;esses de alta velocidade;18;2c3553330b3c
+418;16;Copa Cidade Alta;Serpentina Cristal Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;curva em caracol;19;dc6163897fd4
+419;16;Copa Cidade Alta;Boulevard Infinito Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;f4db0b7d897e
+420;16;Copa Cidade Alta;Volta Prisma Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;ponte estreita;15;054c4a2fc239
+421;16;Copa Cidade Alta;Autódromo Titânio Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;803df8701381
+422;16;Copa Cidade Alta;Serpentina Trovão Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;túnel escuro;18;8214af0d5b84
+423;16;Copa Cidade Alta;Boulevard Gaia Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;esses de alta velocidade;19;15ef9d50c7e2
+424;16;Copa Cidade Alta;Volta Orion SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;f617bbec1c16
+425;16;Copa Cidade Alta;Autódromo Ômega Arcade;city;Cidade neon;noite seca;Noite;sequência travada;entrada de chicane;16;fd014c7c8cf6
+426;16;Copa Cidade Alta;Serpentina Ametista Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;b303a6150ac5
+427;16;Copa Cidade Alta;Boulevard Delta Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;curva longa de alta;18;42e7654f5082
+428;16;Copa Cidade Alta;Volta Cristal Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;c3092e12315e
+429;16;Copa Cidade Alta;Autódromo Infinito Oeste;city;Porto neon;chuva;Noite;reta de pit longa;esses de alta velocidade;21;89996d9684d8
+430;16;Copa Cidade Alta;Serpentina Prisma 16B;city;Megacidade cyber;tempestade;Madrugada;reta com vento;túnel escuro;16;d75f94152d19
+431;16;Copa Cidade Alta;Boulevard Titânio RX;grass;Floresta leve;neblina;Amanhecer;S técnico;subida cega;17;ff5fcecbc504
+432;16;Copa Cidade Alta;Volta Trovão Mirror;grass;Costa tropical;céu limpo;Tarde;ponto de frenagem tardia;reta de recuperação;18;1a4be0c64a10
+433;17;Rally Estrada de Vidro;Circuito Jaguar Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;esses de alta velocidade;19;41f78b9e8da2
+434;17;Rally Estrada de Vidro;Grande Laço Saturno Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;esses de alta velocidade;23;b6be18f34fe6
+435;17;Rally Estrada de Vidro;Ponte Coral Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;túnel escuro;14;33cb3e1cf6d1
+436;17;Rally Estrada de Vidro;Arena Aurora Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;entrada de chicane;17;660d94d546d1
+437;17;Rally Estrada de Vidro;Circuito Vulcano 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;curva em caracol;18;6901381f6857
+438;17;Rally Estrada de Vidro;Grande Laço Relâmpago RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;hairpin forte;19;b283800fb0c7
+439;17;Rally Estrada de Vidro;Ponte Centelha Mirror;city;Cidade neon;noite seca;Noite;chicane curta;túnel escuro;23;aa062a899710
+440;17;Rally Estrada de Vidro;Arena Solaris Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;hairpin forte;16;8cea3dbf166e
+441;17;Rally Estrada de Vidro;Circuito Diamante Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;hairpin forte;17;19ea1464fa93
+442;17;Rally Estrada de Vidro;Grande Laço Atlas Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;ponte estreita;20;a48041dd382d
+443;17;Rally Estrada de Vidro;Ponte Jaguar Leste;city;Porto neon;chuva;Noite;retomada após túnel;entrada de chicane;20;b612e08b4703
+444;17;Rally Estrada de Vidro;Arena Saturno Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;descida rápida;20;2ef72f246628
+445;17;Rally Estrada de Vidro;Circuito Coral GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;saída de chicane;15;bec19c085865
+446;17;Rally Estrada de Vidro;Grande Laço Aurora Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;f66de0fc0485
+447;17;Rally Estrada de Vidro;Ponte Vulcano Master;city;Cidade neon;noite seca;Noite;curva longa de alta;descida rápida;18;3350eef591f3
+448;17;Rally Estrada de Vidro;Arena Relâmpago Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;subida cega;19;0180fc9a6057
+449;17;Rally Estrada de Vidro;Circuito Centelha Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;ae7c34087a1a
+450;17;Rally Estrada de Vidro;Grande Laço Solaris Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;hairpin forte;15;f973ea85f4fc
+451;17;Rally Estrada de Vidro;Ponte Diamante Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;ef294b1847b1
+452;17;Rally Estrada de Vidro;Arena Atlas Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;curva longa de alta;18;8a427c4824a2
+453;17;Rally Estrada de Vidro;Circuito Jaguar Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;reta de recuperação;19;663b5ddc9f12
+454;17;Rally Estrada de Vidro;Grande Laço Saturno SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;758479b0f3b6
+455;17;Rally Estrada de Vidro;Ponte Coral Arcade;city;Cidade neon;noite seca;Noite;sequência travada;saída de chicane;16;b9d87f05a4da
+456;17;Rally Estrada de Vidro;Arena Aurora Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;ecb00b75b5ef
+457;17;Rally Estrada de Vidro;Circuito Vulcano Norte;mountain;Vale nevado;neblina;Noite;final em mergulho;saída de chicane;18;4a12d3d91836
+458;17;Rally Estrada de Vidro;Grande Laço Relâmpago Chuva;desert;Cânion seco;céu limpo;Pôr do sol;descida rápida;saída de chicane;22;beea36db68b3
+459;17;Rally Estrada de Vidro;Ponte Centelha Oeste;city;Porto neon;chuva;Noite;reta de pit longa;túnel escuro;21;8098867bf30b
+460;18;Liga Porto Neon;Desafio Falésia Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;saída de chicane;16;dd8c2ec27a36
+461;18;Liga Porto Neon;Anel Vector SX;city;Cidade neon;noite seca;Noite;descida rápida;esses de alta velocidade;17;3ef0d0dc7b2d
+462;18;Liga Porto Neon;Passagem Atlântico Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;esses de alta velocidade;18;9bea3884f8ee
+463;18;Liga Porto Neon;Túnel Mandacaru Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;curva em caracol;19;2a7f697e785d
+464;18;Liga Porto Neon;Desafio Horizonte Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;reta de recuperação;23;a14354384c3a
+465;18;Liga Porto Neon;Anel Cobalto Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;reta de recuperação;14;536b0d56490d
+466;18;Liga Porto Neon;Passagem Cascata Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;entrada de chicane;17;c450d4d8eb3e
+467;18;Liga Porto Neon;Túnel Neblina 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;saída de chicane;18;2769d98632de
+468;18;Liga Porto Neon;Desafio Nômade RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;esses de alta velocidade;19;f848fdaa37fa
+469;18;Liga Porto Neon;Anel Tempestade Mirror;city;Cidade neon;noite seca;Noite;chicane curta;túnel escuro;23;12c17916d659
+470;18;Liga Porto Neon;Passagem Falésia Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;esses de alta velocidade;16;f8326a465e75
+471;18;Liga Porto Neon;Túnel Vector Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;hairpin forte;17;d171b430039d
+472;18;Liga Porto Neon;Desafio Atlântico Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;ponte estreita;20;90868588b37a
+473;18;Liga Porto Neon;Anel Mandacaru Leste;city;Porto neon;chuva;Noite;retomada após túnel;entrada de chicane;20;7cf0d78fe896
+474;18;Liga Porto Neon;Passagem Horizonte Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;descida rápida;20;bb690ab9a152
+475;18;Liga Porto Neon;Túnel Cobalto GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;entrada de chicane;15;e09b3039d389
+476;18;Liga Porto Neon;Desafio Cascata Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva longa de alta;17;a296d94f464f
+477;18;Liga Porto Neon;Anel Neblina Master;city;Cidade neon;noite seca;Noite;curva longa de alta;saída de chicane;18;88713bc99bc6
+478;18;Liga Porto Neon;Passagem Nômade Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;entrada de chicane;19;9955da48448a
+479;18;Liga Porto Neon;Túnel Tempestade Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;subida cega;20;0497fd79371a
+480;18;Liga Porto Neon;Desafio Falésia Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;descida rápida;15;c7a81384ea48
+481;18;Liga Porto Neon;Anel Vector Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;17;5e44646e3240
+482;18;Liga Porto Neon;Passagem Atlântico Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;esses de alta velocidade;18;8ff282b9eced
+483;18;Liga Porto Neon;Túnel Mandacaru Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;curva longa de alta;19;8c1bf7359b6d
+484;18;Liga Porto Neon;Desafio Horizonte SX;grass;Costa tropical;céu limpo;Tarde;esses de alta velocidade;entrada de chicane;20;13f877b7149f
+485;18;Liga Porto Neon;Anel Cobalto Arcade;city;Cidade neon;noite seca;Noite;sequência travada;descida rápida;16;56ab8a71be13
+486;18;Liga Porto Neon;Passagem Cascata Turbo;grass;Campos verdes;céu limpo;Manhã;trecho com relevo quebrado;descida rápida;17;145c2b3c3814
+487;19;Desafio Planalto Roxo;Travessia Lunar Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;saída de chicane;19;b60795001eae
+488;19;Desafio Planalto Roxo;Caminho Neon Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;túnel escuro;19;565db003e70f
+489;19;Desafio Planalto Roxo;Estrada Esmeralda Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;saída de chicane;20;234d15ff0668
+490;19;Desafio Planalto Roxo;Via Expressa Monsoon Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;16;acc86c46cca1
+491;19;Desafio Planalto Roxo;Travessia Fênix SX;city;Cidade neon;noite seca;Noite;descida rápida;esses de alta velocidade;17;4bd761796fcc
+492;19;Desafio Planalto Roxo;Caminho Liberdade Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;hairpin forte;18;e1e69c854b83
+493;19;Desafio Planalto Roxo;Estrada Turbo Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;subida cega;19;5cbc2c008ac1
+494;19;Desafio Planalto Roxo;Via Expressa Miragem Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;túnel escuro;23;6709820dedf3
+495;19;Desafio Planalto Roxo;Travessia Pixel Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;túnel escuro;14;d1f89bb77742
+496;19;Desafio Planalto Roxo;Caminho Eclipse Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;entrada de chicane;17;ef257ba7a11a
+497;19;Desafio Planalto Roxo;Estrada Lunar 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;subida cega;18;e353ee99eb65
+498;19;Desafio Planalto Roxo;Via Expressa Neon RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;19;f972debf9e23
+499;19;Desafio Planalto Roxo;Travessia Esmeralda Mirror;city;Cidade neon;noite seca;Noite;chicane curta;entrada de chicane;23;5267dcf6ab4d
+500;19;Desafio Planalto Roxo;Caminho Monsoon Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;curva longa de alta;17;b092d0edcb6e
+501;19;Desafio Planalto Roxo;Estrada Fênix Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;subida cega;18;c95de8bece1a
+502;19;Desafio Planalto Roxo;Via Expressa Liberdade Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;reta de recuperação;22;d8ee5e59f12b
+503;19;Desafio Planalto Roxo;Travessia Turbo Leste;city;Porto neon;chuva;Noite;retomada após túnel;hairpin forte;21;c7ec47ab62a3
+504;19;Desafio Planalto Roxo;Caminho Miragem Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;curva longa de alta;22;f08295036120
+505;19;Desafio Planalto Roxo;Estrada Pixel GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;curva em caracol;17;5888629e6c0f
+506;19;Desafio Planalto Roxo;Via Expressa Eclipse Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;curva em caracol;18;8229dbf5d208
+507;19;Desafio Planalto Roxo;Travessia Lunar Master;city;Cidade neon;noite seca;Noite;curva longa de alta;reta de recuperação;20;2f020521c468
+508;19;Desafio Planalto Roxo;Caminho Neon Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;saída de chicane;20;9666d0908943
+509;19;Desafio Planalto Roxo;Estrada Esmeralda Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;esses de alta velocidade;21;0904871603f2
+510;19;Desafio Planalto Roxo;Via Expressa Monsoon Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;esses de alta velocidade;17;5edd6adc7ee4
+511;19;Desafio Planalto Roxo;Travessia Fênix Final;city;Porto neon;chuva;Noite;trecho de aderência baixa;reta de recuperação;19;45fde728ea76
+512;19;Desafio Planalto Roxo;Caminho Liberdade Prime;city;Megacidade cyber;tempestade;Madrugada;miolo ondulado;esses de alta velocidade;19;d03265d291eb
+513;19;Desafio Planalto Roxo;Estrada Turbo Sprint;grass;Floresta leve;neblina;Amanhecer;reta de largada larga;saída de chicane;20;4e57d44ea5fc
+514;20;Copa Tempestade Elétrica;Rally Ômega Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;descida rápida;21;46f2a19c28af
+515;20;Copa Tempestade Elétrica;Sprint Ametista Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;650eed239ca1
+516;20;Copa Tempestade Elétrica;Vale Delta Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;3cb3a1e7c742
+517;20;Copa Tempestade Elétrica;Rota Cristal Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;0ca740b0c96b
+518;20;Copa Tempestade Elétrica;Rally Infinito Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;0aae864189fc
+519;20;Copa Tempestade Elétrica;Sprint Prisma Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;subida cega;21;fa53cc15319a
+520;20;Copa Tempestade Elétrica;Vale Titânio Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;ea6c5bceebb4
+521;20;Copa Tempestade Elétrica;Rota Trovão SX;city;Cidade neon;noite seca;Noite;descida rápida;subida cega;18;a98e57bc814e
+522;20;Copa Tempestade Elétrica;Rally Gaia Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;curva longa de alta;19;fd9d67e82ac7
+523;20;Copa Tempestade Elétrica;Sprint Orion Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;b529c3cdbd28
+524;20;Copa Tempestade Elétrica;Vale Ômega Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;descida rápida;24;b0ca0edeae3d
+525;20;Copa Tempestade Elétrica;Rota Ametista Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;9adbfab095e6
+526;20;Copa Tempestade Elétrica;Rally Delta Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;curva em caracol;18;9e3bd309c2a6
+527;20;Copa Tempestade Elétrica;Sprint Cristal 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;curva em caracol;19;646b71b750d4
+528;20;Copa Tempestade Elétrica;Vale Infinito RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;20;e116676ecaf9
+529;20;Copa Tempestade Elétrica;Rota Prisma Mirror;city;Cidade neon;noite seca;Noite;chicane curta;túnel escuro;25;77399f0745d8
+530;20;Copa Tempestade Elétrica;Rally Titânio Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;curva longa de alta;17;73323d015320
+531;20;Copa Tempestade Elétrica;Sprint Trovão Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;esses de alta velocidade;18;8462d6508854
+532;20;Copa Tempestade Elétrica;Vale Gaia Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;esses de alta velocidade;22;c8067fb609f1
+533;20;Copa Tempestade Elétrica;Rota Orion Leste;city;Porto neon;chuva;Noite;retomada após túnel;reta de recuperação;21;e567e04188ff
+534;20;Copa Tempestade Elétrica;Rally Ômega Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;túnel escuro;22;0f80077ed586
+535;20;Copa Tempestade Elétrica;Sprint Ametista GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;curva em caracol;17;663f59845958
+536;20;Copa Tempestade Elétrica;Vale Delta Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;saída de chicane;18;f8029891659d
+537;20;Copa Tempestade Elétrica;Rota Cristal Master;city;Cidade neon;noite seca;Noite;curva longa de alta;reta de recuperação;20;51fe6a27104f
+538;20;Copa Tempestade Elétrica;Rally Infinito Extreme;grass;Campos verdes;céu limpo;Manhã;curva espelhada falsa;saída de chicane;20;55dfbfb3be9f
+539;20;Copa Tempestade Elétrica;Sprint Prisma Noite;mountain;Vale nevado;neblina;Noite;zigue-zague rítmico;descida rápida;21;b83bb5e351cb
+540;20;Copa Tempestade Elétrica;Vale Titânio Sul;desert;Cânion seco;céu limpo;Pôr do sol;subida cega;esses de alta velocidade;17;17f146b12aa8
+541;21;Circuito Savana Retrô;Serpentina Atlas Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;túnel escuro;18;84b13a70e20d
+542;21;Circuito Savana Retrô;Boulevard Jaguar GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;esses de alta velocidade;19;481de2795c47
+543;21;Circuito Savana Retrô;Volta Saturno Endurance;city;Cidade neon;noite seca;Noite;subida cega;curva longa de alta;23;2342c451fa29
+544;21;Circuito Savana Retrô;Autódromo Coral Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;curva longa de alta;21;57454fb790b8
+545;21;Circuito Savana Retrô;Serpentina Aurora Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;f7a1e054d5fc
+546;21;Circuito Savana Retrô;Boulevard Vulcano Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;bbf3b48bc4d0
+547;21;Circuito Savana Retrô;Volta Relâmpago Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;e3e388fa4abc
+548;21;Circuito Savana Retrô;Autódromo Centelha Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;98d06f3a222f
+549;21;Circuito Savana Retrô;Serpentina Solaris Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;entrada de chicane;21;b04739d4b045
+550;21;Circuito Savana Retrô;Boulevard Diamante Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;509965554385
+551;21;Circuito Savana Retrô;Volta Atlas SX;city;Cidade neon;noite seca;Noite;descida rápida;esses de alta velocidade;18;6342e40a9acb
+552;21;Circuito Savana Retrô;Autódromo Jaguar Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;saída de chicane;19;186f055cdb0c
+553;21;Circuito Savana Retrô;Serpentina Saturno Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;9a68db8bfc88
+554;21;Circuito Savana Retrô;Boulevard Coral Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;túnel escuro;24;6c214933840d
+555;21;Circuito Savana Retrô;Volta Aurora Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;260cf893b7a2
+556;21;Circuito Savana Retrô;Autódromo Vulcano Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;saída de chicane;18;dd8d7068635b
+557;21;Circuito Savana Retrô;Serpentina Relâmpago 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;descida rápida;19;4d1dde42910c
+558;21;Circuito Savana Retrô;Boulevard Centelha RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;20;a0e23b95d31e
+559;21;Circuito Savana Retrô;Volta Solaris Mirror;city;Cidade neon;noite seca;Noite;chicane curta;entrada de chicane;25;4980848672d7
+560;21;Circuito Savana Retrô;Autódromo Diamante Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;curva longa de alta;17;a3545d8cc61f
+561;21;Circuito Savana Retrô;Serpentina Atlas Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;hairpin forte;18;84a4934ff2f3
+562;21;Circuito Savana Retrô;Boulevard Jaguar Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;reta de recuperação;22;81bf2d812ae1
+563;21;Circuito Savana Retrô;Volta Saturno Leste;city;Porto neon;chuva;Noite;retomada após túnel;curva em caracol;21;ecf0a2e372f8
+564;21;Circuito Savana Retrô;Autódromo Coral Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;curva longa de alta;22;508e11bf6143
+565;21;Circuito Savana Retrô;Serpentina Aurora GT;grass;Floresta leve;neblina;Amanhecer;subida em caracol;curva em caracol;17;2ee125a07cae
+566;21;Circuito Savana Retrô;Boulevard Vulcano Endurance;grass;Costa tropical;céu limpo;Tarde;curva de raio fechado;subida cega;18;ddb9355808a6
+567;21;Circuito Savana Retrô;Volta Relâmpago Master;city;Cidade neon;noite seca;Noite;curva longa de alta;reta de recuperação;20;21dd6dbc68f0
+568;22;Campeonato Alpes Pixel;Circuito Tempestade Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;entrada de chicane;23;7b25cce23c03
+569;22;Campeonato Alpes Pixel;Grande Laço Falésia Solar;city;Porto neon;chuva;Noite;curva de raio fechado;descida rápida;22;09d68e51b5fd
+570;22;Campeonato Alpes Pixel;Ponte Vector Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;67b541b956a6
+571;22;Campeonato Alpes Pixel;Arena Atlântico Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;reta de recuperação;18;12e85994aa73
+572;22;Campeonato Alpes Pixel;Circuito Mandacaru GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;curva longa de alta;19;c8f3faf3e8f3
+573;22;Campeonato Alpes Pixel;Grande Laço Horizonte Endurance;city;Cidade neon;noite seca;Noite;subida cega;esses de alta velocidade;23;63d7c754e750
+574;22;Campeonato Alpes Pixel;Ponte Cobalto Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;saída de chicane;21;0d59f2e2d820
+575;22;Campeonato Alpes Pixel;Arena Cascata Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;e51c0dbf83f3
+576;22;Campeonato Alpes Pixel;Circuito Neblina Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;a27444fdc11c
+577;22;Campeonato Alpes Pixel;Grande Laço Nômade Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;af59b1d0b2cd
+578;22;Campeonato Alpes Pixel;Ponte Tempestade Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;f148cd4a880f
+579;22;Campeonato Alpes Pixel;Arena Falésia Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;entrada de chicane;21;1456265ce32a
+580;22;Campeonato Alpes Pixel;Circuito Vector Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;f32cdd590542
+581;22;Campeonato Alpes Pixel;Grande Laço Atlântico SX;city;Cidade neon;noite seca;Noite;descida rápida;túnel escuro;18;395b313b3207
+582;22;Campeonato Alpes Pixel;Ponte Mandacaru Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;saída de chicane;19;47313e324fc1
+583;22;Campeonato Alpes Pixel;Arena Horizonte Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;49ea6babf424
+584;22;Campeonato Alpes Pixel;Circuito Cobalto Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;saída de chicane;24;f8abfe5534c6
+585;22;Campeonato Alpes Pixel;Grande Laço Cascata Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;3c4a9d301e48
+586;22;Campeonato Alpes Pixel;Ponte Neblina Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;curva longa de alta;18;46d5090923a4
+587;22;Campeonato Alpes Pixel;Arena Nômade 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;esses de alta velocidade;19;df331883eb3a
+588;22;Campeonato Alpes Pixel;Circuito Tempestade RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;20;c5232c3a0a9b
+589;22;Campeonato Alpes Pixel;Grande Laço Falésia Mirror;city;Cidade neon;noite seca;Noite;chicane curta;esses de alta velocidade;25;7ea6eaf50771
+590;22;Campeonato Alpes Pixel;Ponte Vector Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;curva longa de alta;17;455eada9967c
+591;22;Campeonato Alpes Pixel;Arena Atlântico Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;reta de recuperação;18;fa2f4f647a16
+592;22;Campeonato Alpes Pixel;Circuito Mandacaru Solar;desert;Cânion seco;céu limpo;Pôr do sol;hairpin duplo;esses de alta velocidade;22;c778c9685535
+593;22;Campeonato Alpes Pixel;Grande Laço Horizonte Leste;city;Porto neon;chuva;Noite;retomada após túnel;esses de alta velocidade;21;3c43dee30139
+594;22;Campeonato Alpes Pixel;Ponte Cobalto Pro;city;Megacidade cyber;tempestade;Madrugada;túnel escuro;túnel escuro;22;73d9e992923b
+595;23;Taça Praia do Eclipse;Desafio Eclipse RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;612f7f39718e
+596;23;Taça Praia do Eclipse;Anel Lunar Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;saída de chicane;18;a7c0eadd1831
+597;23;Taça Praia do Eclipse;Passagem Neon Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;saída de chicane;19;4ce81699faa1
+598;23;Taça Praia do Eclipse;Túnel Esmeralda Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;curva longa de alta;23;8dcbf182cd4f
+599;23;Taça Praia do Eclipse;Desafio Monsoon Solar;city;Porto neon;chuva;Noite;curva de raio fechado;curva em caracol;22;ba58c27529e0
+600;23;Taça Praia do Eclipse;Anel Fênix Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;69b04ddee7c4
+601;23;Taça Praia do Eclipse;Passagem Liberdade Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;esses de alta velocidade;18;f1887ff59ec8
+602;23;Taça Praia do Eclipse;Túnel Turbo GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;descida rápida;19;a57e3109ee62
+603;23;Taça Praia do Eclipse;Desafio Miragem Endurance;city;Cidade neon;noite seca;Noite;subida cega;esses de alta velocidade;23;e03e72b9b0a7
+604;23;Taça Praia do Eclipse;Anel Pixel Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;saída de chicane;21;fa3b2f6c0453
+605;23;Taça Praia do Eclipse;Passagem Eclipse Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;24bc4fb876c5
+606;23;Taça Praia do Eclipse;Túnel Lunar Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;56ca8ccde65a
+607;23;Taça Praia do Eclipse;Desafio Neon Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;a0c9e631e341
+608;23;Taça Praia do Eclipse;Anel Esmeralda Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;55108caeb43f
+609;23;Taça Praia do Eclipse;Passagem Monsoon Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;subida cega;21;4725775e7a68
+610;23;Taça Praia do Eclipse;Túnel Fênix Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;bc523b15d174
+611;23;Taça Praia do Eclipse;Desafio Liberdade SX;city;Cidade neon;noite seca;Noite;descida rápida;reta de recuperação;18;81bfdcee6609
+612;23;Taça Praia do Eclipse;Anel Turbo Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;curva longa de alta;19;411a8eeb9c04
+613;23;Taça Praia do Eclipse;Passagem Miragem Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;cc9494b1f2b5
+614;23;Taça Praia do Eclipse;Túnel Pixel Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;esses de alta velocidade;24;e0d1922f1ee0
+615;23;Taça Praia do Eclipse;Desafio Eclipse Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;fd333c3c29b4
+616;23;Taça Praia do Eclipse;Anel Lunar Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;entrada de chicane;18;b7dc9f55a060
+617;23;Taça Praia do Eclipse;Passagem Neon 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;curva em caracol;19;aeb4b746d5a2
+618;23;Taça Praia do Eclipse;Túnel Esmeralda RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;20;05a640b2f68a
+619;23;Taça Praia do Eclipse;Desafio Monsoon Mirror;city;Cidade neon;noite seca;Noite;chicane curta;saída de chicane;25;5f5dbbfa43aa
+620;23;Taça Praia do Eclipse;Anel Fênix Clássico;grass;Campos verdes;céu limpo;Manhã;miolo de 3 vértices;curva longa de alta;17;97bcbb7fc356
+621;23;Taça Praia do Eclipse;Passagem Liberdade Circuit;mountain;Vale nevado;neblina;Noite;cotovelo em subida;esses de alta velocidade;18;9e6034e7d174
+622;24;Rota Capital Cyber;Travessia Orion Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;subida cega;19;543e7d5de63f
+623;24;Rota Capital Cyber;Caminho Ômega Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;20;ac9d64a84bc0
+624;24;Rota Capital Cyber;Estrada Ametista 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;esses de alta velocidade;21;948e6b2ef6db
+625;24;Rota Capital Cyber;Via Expressa Delta RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;ba10e7ce7874
+626;24;Rota Capital Cyber;Travessia Cristal Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;entrada de chicane;18;9300771f0841
+627;24;Rota Capital Cyber;Caminho Infinito Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;saída de chicane;19;3936c4d9eb56
+628;24;Rota Capital Cyber;Estrada Prisma Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;esses de alta velocidade;23;a86409e19606
+629;24;Rota Capital Cyber;Via Expressa Titânio Solar;city;Porto neon;chuva;Noite;curva de raio fechado;descida rápida;22;7d911fa7aac4
+630;24;Rota Capital Cyber;Travessia Trovão Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;ad795b78abaf
+631;24;Rota Capital Cyber;Caminho Gaia Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;descida rápida;18;cdb70b50d661
+632;24;Rota Capital Cyber;Estrada Orion GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;esses de alta velocidade;19;9fe081c1550e
+633;24;Rota Capital Cyber;Via Expressa Ômega Endurance;city;Cidade neon;noite seca;Noite;subida cega;reta de recuperação;23;a178314eec6f
+634;24;Rota Capital Cyber;Travessia Ametista Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;curva longa de alta;21;224cdace89fb
+635;24;Rota Capital Cyber;Caminho Delta Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;3d768f86b121
+636;24;Rota Capital Cyber;Estrada Cristal Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;9ccff6d4e4d5
+637;24;Rota Capital Cyber;Via Expressa Infinito Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;b5ced466924f
+638;24;Rota Capital Cyber;Travessia Prisma Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;1e246b05103c
+639;24;Rota Capital Cyber;Caminho Titânio Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;curva longa de alta;21;61c3e9effa01
+640;24;Rota Capital Cyber;Estrada Trovão Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;2bd44363e607
+641;24;Rota Capital Cyber;Via Expressa Gaia SX;city;Cidade neon;noite seca;Noite;descida rápida;esses de alta velocidade;18;b3fff63c1cb3
+642;24;Rota Capital Cyber;Travessia Orion Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;túnel escuro;19;e5587da44fc6
+643;24;Rota Capital Cyber;Caminho Ômega Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;c1f14d792d45
+644;24;Rota Capital Cyber;Estrada Ametista Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;entrada de chicane;24;e44c70fe6949
+645;24;Rota Capital Cyber;Via Expressa Delta Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;031da7c47ac6
+646;24;Rota Capital Cyber;Travessia Cristal Oeste;city;Megacidade cyber;tempestade;Madrugada;ponte estreita;túnel escuro;18;7d05f00bf24f
+647;24;Rota Capital Cyber;Caminho Infinito 16B;grass;Floresta leve;neblina;Amanhecer;sequência de placas;subida cega;19;ea47000a4568
+648;24;Rota Capital Cyber;Estrada Prisma RX;grass;Costa tropical;céu limpo;Tarde;curva de raio crescente;reta de recuperação;20;5c039b9afad8
+649;25;Grande Prêmio Floresta Azul;Rally Diamante Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;esses de alta velocidade;21;3cd121c18004
+650;25;Grande Prêmio Floresta Azul;Sprint Atlas Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;esses de alta velocidade;17;b1876e07b5eb
+651;25;Grande Prêmio Floresta Azul;Vale Jaguar Norte;city;Porto neon;chuva;Noite;curva de raio crescente;entrada de chicane;19;c4fd40c98482
+652;25;Grande Prêmio Floresta Azul;Rota Saturno Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;hairpin forte;19;56ffb23c69c5
+653;25;Grande Prêmio Floresta Azul;Rally Coral Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;20;53589811a7d6
+654;25;Grande Prêmio Floresta Azul;Sprint Aurora 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;hairpin forte;21;c825fd02bc67
+655;25;Grande Prêmio Floresta Azul;Vale Vulcano RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;1810b49e75e7
+656;25;Grande Prêmio Floresta Azul;Rota Relâmpago Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;curva longa de alta;18;5aff94892f08
+657;25;Grande Prêmio Floresta Azul;Rally Centelha Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;curva longa de alta;19;d2dcf0b60d7c
+658;25;Grande Prêmio Floresta Azul;Sprint Solaris Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;esses de alta velocidade;23;cc838f8c1549
+659;25;Grande Prêmio Floresta Azul;Vale Diamante Solar;city;Porto neon;chuva;Noite;curva de raio fechado;curva em caracol;22;6989f0acd590
+660;25;Grande Prêmio Floresta Azul;Rota Atlas Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;7be867b3fff3
+661;25;Grande Prêmio Floresta Azul;Rally Jaguar Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;curva em caracol;18;fa5c6263601c
+662;25;Grande Prêmio Floresta Azul;Sprint Saturno GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;curva em caracol;19;fd8c8b67945b
+663;25;Grande Prêmio Floresta Azul;Vale Coral Endurance;city;Cidade neon;noite seca;Noite;subida cega;túnel escuro;23;189679de8dd8
+664;25;Grande Prêmio Floresta Azul;Rota Aurora Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;subida cega;21;ae7c1244dc04
+665;25;Grande Prêmio Floresta Azul;Rally Vulcano Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;fc4ed369ce53
+666;25;Grande Prêmio Floresta Azul;Sprint Relâmpago Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;61df73e914ad
+667;25;Grande Prêmio Floresta Azul;Vale Centelha Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;e4761edd2eaa
+668;25;Grande Prêmio Floresta Azul;Rota Solaris Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;cabd17816039
+669;25;Grande Prêmio Floresta Azul;Rally Diamante Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;esses de alta velocidade;21;1f945a668df6
+670;25;Grande Prêmio Floresta Azul;Sprint Atlas Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;c2b7479328ca
+671;25;Grande Prêmio Floresta Azul;Vale Jaguar SX;city;Cidade neon;noite seca;Noite;descida rápida;descida rápida;18;1264283d3068
+672;25;Grande Prêmio Floresta Azul;Rota Saturno Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;esses de alta velocidade;19;fe045e174604
+673;25;Grande Prêmio Floresta Azul;Rally Coral Turbo;mountain;Vale nevado;neblina;Noite;reta com vento;hairpin forte;20;69ac3437a800
+674;25;Grande Prêmio Floresta Azul;Sprint Aurora Norte;desert;Cânion seco;céu limpo;Pôr do sol;S técnico;curva em caracol;24;85aee8e69fc4
+675;25;Grande Prêmio Floresta Azul;Vale Vulcano Chuva;city;Porto neon;chuva;Noite;ponto de frenagem tardia;entrada de chicane;17;7e01c8cbcf5e
+676;26;Liga Desfiladeiro Ônix;Serpentina Nômade Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;entrada de chicane;18;caf622cf1075
+677;26;Liga Desfiladeiro Ônix;Boulevard Tempestade Sprint;city;Cidade neon;noite seca;Noite;S técnico;túnel escuro;20;1f04dc80c82d
+678;26;Liga Desfiladeiro Ônix;Volta Falésia SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;curva longa de alta;20;c3ae49a01375
+679;26;Liga Desfiladeiro Ônix;Autódromo Vector Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;túnel escuro;21;35bb84f88cb6
+680;26;Liga Desfiladeiro Ônix;Serpentina Atlântico Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;esses de alta velocidade;17;7404832b5df9
+681;26;Liga Desfiladeiro Ônix;Boulevard Mandacaru Norte;city;Porto neon;chuva;Noite;curva de raio crescente;reta de recuperação;19;cc41ec79040e
+682;26;Liga Desfiladeiro Ônix;Volta Horizonte Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;esses de alta velocidade;19;2b0070d5a58c
+683;26;Liga Desfiladeiro Ônix;Autódromo Cobalto Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;20;fbad27368003
+684;26;Liga Desfiladeiro Ônix;Serpentina Cascata 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;reta de recuperação;21;c08d5c6390e9
+685;26;Liga Desfiladeiro Ônix;Boulevard Neblina RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;f80c6f9959ff
+686;26;Liga Desfiladeiro Ônix;Volta Nômade Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;esses de alta velocidade;18;b60ea713ce1a
+687;26;Liga Desfiladeiro Ônix;Autódromo Tempestade Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;túnel escuro;19;4352a8360f41
+688;26;Liga Desfiladeiro Ônix;Serpentina Falésia Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;reta de recuperação;23;e30439acde3f
+689;26;Liga Desfiladeiro Ônix;Boulevard Vector Solar;city;Porto neon;chuva;Noite;curva de raio fechado;descida rápida;22;835c3ad8642a
+690;26;Liga Desfiladeiro Ônix;Volta Atlântico Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;2448474f7dac
+691;26;Liga Desfiladeiro Ônix;Autódromo Mandacaru Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;saída de chicane;18;0c69a1f6aa07
+692;26;Liga Desfiladeiro Ônix;Serpentina Horizonte GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;subida cega;19;e9385fbf9a76
+693;26;Liga Desfiladeiro Ônix;Boulevard Cobalto Endurance;city;Cidade neon;noite seca;Noite;subida cega;túnel escuro;23;52882a1b0aab
+694;26;Liga Desfiladeiro Ônix;Volta Cascata Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;entrada de chicane;21;6c4260fae785
+695;26;Liga Desfiladeiro Ônix;Autódromo Neblina Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;265627b01596
+696;26;Liga Desfiladeiro Ônix;Serpentina Nômade Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;2acba3bb8a26
+697;26;Liga Desfiladeiro Ônix;Boulevard Tempestade Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;2d6602510489
+698;26;Liga Desfiladeiro Ônix;Volta Falésia Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;8ba447aa0734
+699;26;Liga Desfiladeiro Ônix;Autódromo Vector Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;ponte estreita;21;046ab0375fe2
+700;26;Liga Desfiladeiro Ônix;Serpentina Atlântico Sprint;grass;Costa tropical;céu limpo;Tarde;final em mergulho;reta de recuperação;17;1af8b0244219
+701;26;Liga Desfiladeiro Ônix;Boulevard Mandacaru SX;city;Cidade neon;noite seca;Noite;descida rápida;saída de chicane;18;ba5b81664342
+702;26;Liga Desfiladeiro Ônix;Volta Horizonte Arcade;grass;Campos verdes;céu limpo;Manhã;reta de pit longa;curva longa de alta;19;e7e916bbb81c
+703;27;Torneio Oasis Veloz;Circuito Pixel Noite;city;Porto neon;chuva;Noite;final em mergulho;entrada de chicane;21;55d020b2d4ee
+704;27;Torneio Oasis Veloz;Grande Laço Eclipse Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;curva longa de alta;22;0776a9d48797
+705;27;Torneio Oasis Veloz;Ponte Lunar Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;curva em caracol;17;f628970a708c
+706;27;Torneio Oasis Veloz;Arena Neon Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;ponte estreita;18;b54b0b02857c
+707;27;Torneio Oasis Veloz;Circuito Esmeralda Sprint;city;Cidade neon;noite seca;Noite;S técnico;túnel escuro;20;ae0dc630e7f1
+708;27;Torneio Oasis Veloz;Grande Laço Monsoon SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;curva longa de alta;20;e128d89edb96
+709;27;Torneio Oasis Veloz;Ponte Fênix Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;hairpin forte;21;45da91cf307c
+710;27;Torneio Oasis Veloz;Arena Liberdade Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;esses de alta velocidade;17;cd55ea1f057f
+711;27;Torneio Oasis Veloz;Circuito Turbo Norte;city;Porto neon;chuva;Noite;curva de raio crescente;hairpin forte;19;518445fad1c2
+712;27;Torneio Oasis Veloz;Grande Laço Miragem Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;reta de recuperação;19;e8b8be679a4c
+713;27;Torneio Oasis Veloz;Ponte Pixel Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;20;ba847e49f67d
+714;27;Torneio Oasis Veloz;Arena Eclipse 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;curva em caracol;21;2f886c0744b6
+715;27;Torneio Oasis Veloz;Circuito Lunar RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;7007a744e1e6
+716;27;Torneio Oasis Veloz;Grande Laço Neon Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;hairpin forte;18;10cb522ec32e
+717;27;Torneio Oasis Veloz;Ponte Esmeralda Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;esses de alta velocidade;19;e1be99c91424
+718;27;Torneio Oasis Veloz;Arena Monsoon Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;túnel escuro;23;be04e120c798
+719;27;Torneio Oasis Veloz;Circuito Fênix Solar;city;Porto neon;chuva;Noite;curva de raio fechado;curva em caracol;22;9686ff3892bd
+720;27;Torneio Oasis Veloz;Grande Laço Liberdade Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;descida rápida;17;696fa3e00584
+721;27;Torneio Oasis Veloz;Ponte Turbo Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;subida cega;18;4536154e44bf
+722;27;Torneio Oasis Veloz;Arena Miragem GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;entrada de chicane;19;d0ed685a0504
+723;27;Torneio Oasis Veloz;Circuito Pixel Endurance;city;Cidade neon;noite seca;Noite;subida cega;entrada de chicane;23;5c3a8d799ea6
+724;27;Torneio Oasis Veloz;Grande Laço Eclipse Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;entrada de chicane;21;ade5a93c6e00
+725;27;Torneio Oasis Veloz;Ponte Lunar Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;subida cega;17;ab1db8908ff3
+726;27;Torneio Oasis Veloz;Arena Neon Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;esses de alta velocidade;20;16b02905985a
+727;27;Torneio Oasis Veloz;Circuito Esmeralda Sul;city;Porto neon;chuva;Noite;esses de alta velocidade;reta de recuperação;20;acc9f2f6cef2
+728;27;Torneio Oasis Veloz;Grande Laço Monsoon Final;city;Megacidade cyber;tempestade;Madrugada;sequência travada;esses de alta velocidade;20;b14802dab035
+729;27;Torneio Oasis Veloz;Ponte Fênix Prime;grass;Floresta leve;neblina;Amanhecer;trecho com relevo quebrado;curva longa de alta;21;d9900465ecff
+730;28;Copa Subúrbio Neon;Desafio Gaia Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;curva longa de alta;17;080c6d10b8af
+731;28;Copa Subúrbio Neon;Anel Orion Master;mountain;Vale nevado;neblina;Noite;sequência travada;curva longa de alta;18;c60b0ecb1c87
+732;28;Copa Subúrbio Neon;Passagem Ômega Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;esses de alta velocidade;22;0e58a93a69cb
+733;28;Copa Subúrbio Neon;Túnel Ametista Noite;city;Porto neon;chuva;Noite;final em mergulho;esses de alta velocidade;21;83bfec3ef969
+734;28;Copa Subúrbio Neon;Desafio Delta Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;túnel escuro;22;457f60384ed6
+735;28;Copa Subúrbio Neon;Anel Cristal Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;curva em caracol;17;7082eb50ac89
+736;28;Copa Subúrbio Neon;Passagem Infinito Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;reta de recuperação;18;7793784c2601
+737;28;Copa Subúrbio Neon;Túnel Prisma Sprint;city;Cidade neon;noite seca;Noite;S técnico;túnel escuro;20;82a03ba15c50
+738;28;Copa Subúrbio Neon;Desafio Titânio SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;curva longa de alta;20;4d946503e284
+739;28;Copa Subúrbio Neon;Anel Trovão Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;reta de recuperação;21;1351ecdaa104
+740;28;Copa Subúrbio Neon;Passagem Gaia Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;esses de alta velocidade;17;3d5a776f7ca0
+741;28;Copa Subúrbio Neon;Túnel Orion Norte;city;Porto neon;chuva;Noite;curva de raio crescente;esses de alta velocidade;19;d5c3730dc6d1
+742;28;Copa Subúrbio Neon;Desafio Ômega Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;hairpin forte;19;bf3f757a01e7
+743;28;Copa Subúrbio Neon;Anel Ametista Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;20;5eea046c1b45
+744;28;Copa Subúrbio Neon;Passagem Delta 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;esses de alta velocidade;21;c85917b9c7e0
+745;28;Copa Subúrbio Neon;Túnel Cristal RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;17;2d04684b4698
+746;28;Copa Subúrbio Neon;Desafio Infinito Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;reta de recuperação;18;3e8a07e64419
+747;28;Copa Subúrbio Neon;Anel Prisma Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;curva longa de alta;19;f231a956ac65
+748;28;Copa Subúrbio Neon;Passagem Titânio Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;entrada de chicane;23;2b9b670e65c7
+749;28;Copa Subúrbio Neon;Túnel Trovão Solar;city;Porto neon;chuva;Noite;curva de raio fechado;descida rápida;22;6d9452e41c5b
+750;28;Copa Subúrbio Neon;Desafio Gaia Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;curva em caracol;18;c6b42e4effc9
+751;28;Copa Subúrbio Neon;Anel Orion Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;saída de chicane;19;855af45f92a1
+752;28;Copa Subúrbio Neon;Passagem Ômega GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;ponte estreita;20;5fb3b15666c7
+753;28;Copa Subúrbio Neon;Túnel Ametista Endurance;city;Cidade neon;noite seca;Noite;subida cega;esses de alta velocidade;25;54b48048eb10
+754;28;Copa Subúrbio Neon;Desafio Delta Master;grass;Campos verdes;céu limpo;Manhã;trecho de aderência baixa;curva longa de alta;22;8619a1d0dd25
+755;28;Copa Subúrbio Neon;Anel Cristal Extreme;mountain;Vale nevado;neblina;Noite;miolo ondulado;esses de alta velocidade;18;603bd69a1f07
+756;28;Copa Subúrbio Neon;Passagem Infinito Noite;desert;Cânion seco;céu limpo;Pôr do sol;reta de largada larga;subida cega;22;992c1ffb5b63
+757;29;Rally Aurora Boreal;Travessia Solaris Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;c5fac37fca6d
+758;29;Rally Aurora Boreal;Caminho Diamante Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;saída de chicane;21;2b80c16b1ed3
+759;29;Rally Aurora Boreal;Estrada Atlas GT;city;Cidade neon;noite seca;Noite;reta de largada larga;entrada de chicane;26;3a36a4823859
+760;29;Rally Aurora Boreal;Via Expressa Jaguar Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;esses de alta velocidade;18;df9d5350ba1a
+761;29;Rally Aurora Boreal;Travessia Saturno Master;mountain;Vale nevado;neblina;Noite;sequência travada;entrada de chicane;19;91a18fd4d90f
+762;29;Rally Aurora Boreal;Caminho Coral Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;entrada de chicane;23;309a2d3d2a12
+763;29;Rally Aurora Boreal;Estrada Aurora Noite;city;Porto neon;chuva;Noite;final em mergulho;túnel escuro;22;b66831e13fe9
+764;29;Rally Aurora Boreal;Via Expressa Vulcano Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;descida rápida;25;15c2737de0b9
+765;29;Rally Aurora Boreal;Travessia Relâmpago Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;ponte estreita;18;e07c30e90b34
+766;29;Rally Aurora Boreal;Caminho Centelha Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;curva longa de alta;19;6eccf6236ab2
+767;29;Rally Aurora Boreal;Estrada Solaris Sprint;city;Cidade neon;noite seca;Noite;S técnico;curva longa de alta;23;8664a2e0cc47
+768;29;Rally Aurora Boreal;Via Expressa Diamante SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;ponte estreita;21;898b018be26a
+769;29;Rally Aurora Boreal;Travessia Atlas Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;esses de alta velocidade;22;dafca04bec1c
+770;29;Rally Aurora Boreal;Caminho Jaguar Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;reta de recuperação;20;e5654b12f92b
+771;29;Rally Aurora Boreal;Estrada Saturno Norte;city;Porto neon;chuva;Noite;curva de raio crescente;túnel escuro;20;ca4acffc46b1
+772;29;Rally Aurora Boreal;Via Expressa Coral Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;curva longa de alta;20;dcf3c17d3ae3
+773;29;Rally Aurora Boreal;Travessia Aurora Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;reta de recuperação;21;7ce4db5500b7
+774;29;Rally Aurora Boreal;Caminho Vulcano 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;subida cega;22;18609fa9829b
+775;29;Rally Aurora Boreal;Estrada Relâmpago RX;city;Cidade neon;noite seca;Noite;hairpin duplo;esses de alta velocidade;18;29a1b2b50a57
+776;29;Rally Aurora Boreal;Via Expressa Centelha Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;subida cega;19;5a1fe6391207
+777;29;Rally Aurora Boreal;Travessia Solaris Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;esses de alta velocidade;20;56816c8bc0b6
+778;29;Rally Aurora Boreal;Caminho Diamante Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;esses de alta velocidade;24;41d57aed47ce
+779;29;Rally Aurora Boreal;Estrada Atlas Solar;city;Porto neon;chuva;Noite;curva de raio fechado;curva longa de alta;23;7597adde0328
+780;29;Rally Aurora Boreal;Via Expressa Jaguar Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;saída de chicane;18;581ef5a84361
+781;29;Rally Aurora Boreal;Travessia Saturno Pro;grass;Floresta leve;neblina;Amanhecer;curva espelhada falsa;saída de chicane;19;d8a3ad13255d
+782;29;Rally Aurora Boreal;Caminho Coral GT;grass;Costa tropical;céu limpo;Tarde;zigue-zague rítmico;ponte estreita;20;721c76369928
+783;29;Rally Aurora Boreal;Estrada Aurora Endurance;city;Cidade neon;noite seca;Noite;subida cega;esses de alta velocidade;25;f2e46691035c
+784;30;Copa Fumaça e Aço;Rally Neblina Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;reta de recuperação;25;658a661ed45a
+785;30;Copa Fumaça e Aço;Sprint Nômade Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;túnel escuro;19;ffe2ed7f3cc2
+786;30;Copa Fumaça e Aço;Vale Tempestade Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;curva longa de alta;19;d8506d555c32
+787;30;Copa Fumaça e Aço;Rota Falésia Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;3ffa433dea8b
+788;30;Copa Fumaça e Aço;Rally Vector Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;saída de chicane;21;b1b423989eaf
+789;30;Copa Fumaça e Aço;Sprint Atlântico GT;city;Cidade neon;noite seca;Noite;reta de largada larga;túnel escuro;26;c4aaac34ea22
+790;30;Copa Fumaça e Aço;Vale Mandacaru Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;curva longa de alta;18;673839160706
+791;30;Copa Fumaça e Aço;Rota Horizonte Master;mountain;Vale nevado;neblina;Noite;sequência travada;entrada de chicane;19;d68ea58198c6
+792;30;Copa Fumaça e Aço;Rally Cobalto Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;entrada de chicane;23;7f5084894fc9
+793;30;Copa Fumaça e Aço;Sprint Cascata Noite;city;Porto neon;chuva;Noite;final em mergulho;curva longa de alta;22;f9824ad6c525
+794;30;Copa Fumaça e Aço;Vale Neblina Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;subida cega;25;025d6be7855d
+795;30;Copa Fumaça e Aço;Rota Nômade Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;reta de recuperação;18;564439b54928
+796;30;Copa Fumaça e Aço;Rally Tempestade Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;saída de chicane;19;b7e7ec0ce20b
+797;30;Copa Fumaça e Aço;Sprint Falésia Sprint;city;Cidade neon;noite seca;Noite;S técnico;esses de alta velocidade;23;58b8d4ec27f6
+798;30;Copa Fumaça e Aço;Vale Vector SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;curva longa de alta;21;6938af2a0699
+799;30;Copa Fumaça e Aço;Rota Atlântico Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;descida rápida;22;bcd4c30e6290
+800;30;Copa Fumaça e Aço;Rally Mandacaru Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;reta de recuperação;20;d0ab2889b7f8
+801;30;Copa Fumaça e Aço;Sprint Horizonte Norte;city;Porto neon;chuva;Noite;curva de raio crescente;túnel escuro;20;5a23f6936a04
+802;30;Copa Fumaça e Aço;Vale Cobalto Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;curva longa de alta;20;960145319aab
+803;30;Copa Fumaça e Aço;Rota Cascata Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;curva em caracol;21;521ba25052e1
+804;30;Copa Fumaça e Aço;Rally Neblina 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;entrada de chicane;22;fda529aaa29e
+805;30;Copa Fumaça e Aço;Sprint Nômade RX;city;Cidade neon;noite seca;Noite;hairpin duplo;túnel escuro;18;5cbb25967366
+806;30;Copa Fumaça e Aço;Vale Tempestade Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;hairpin forte;19;a8eed895da05
+807;30;Copa Fumaça e Aço;Rota Falésia Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;esses de alta velocidade;20;c8633544ebaa
+808;30;Copa Fumaça e Aço;Rally Vector Circuit;desert;Cânion seco;céu limpo;Pôr do sol;subida em caracol;saída de chicane;24;9cbbbcad1b8b
+809;30;Copa Fumaça e Aço;Sprint Atlântico Solar;city;Porto neon;chuva;Noite;curva de raio fechado;esses de alta velocidade;23;27931ce573a4
+810;30;Copa Fumaça e Aço;Vale Mandacaru Leste;city;Megacidade cyber;tempestade;Madrugada;curva longa de alta;curva longa de alta;18;ff5120377773
+811;31;Circuito Ilhas Gêmeas;Serpentina Miragem 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;dca0858f6aa8
+812;31;Circuito Ilhas Gêmeas;Boulevard Pixel RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;7301375e5329
+813;31;Circuito Ilhas Gêmeas;Volta Eclipse Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;esses de alta velocidade;21;4ad8ab9dbd42
+814;31;Circuito Ilhas Gêmeas;Autódromo Lunar Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;saída de chicane;25;8335997e7ee7
+815;31;Circuito Ilhas Gêmeas;Serpentina Neon Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;esses de alta velocidade;19;48bcfdbd3d61
+816;31;Circuito Ilhas Gêmeas;Boulevard Esmeralda Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;descida rápida;19;d2823583d2d3
+817;31;Circuito Ilhas Gêmeas;Volta Monsoon Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;7fdd9dc1aa8d
+818;31;Circuito Ilhas Gêmeas;Autódromo Fênix Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;curva longa de alta;21;64cd93d25052
+819;31;Circuito Ilhas Gêmeas;Serpentina Liberdade GT;city;Cidade neon;noite seca;Noite;reta de largada larga;reta de recuperação;26;23e1d24d69c2
+820;31;Circuito Ilhas Gêmeas;Boulevard Turbo Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;saída de chicane;18;a62fd0a5d8d7
+821;31;Circuito Ilhas Gêmeas;Volta Miragem Master;mountain;Vale nevado;neblina;Noite;sequência travada;subida cega;19;c1ca44eb293e
+822;31;Circuito Ilhas Gêmeas;Autódromo Pixel Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;curva longa de alta;23;2bced2495e41
+823;31;Circuito Ilhas Gêmeas;Serpentina Eclipse Noite;city;Porto neon;chuva;Noite;final em mergulho;túnel escuro;22;b3403c7f297f
+824;31;Circuito Ilhas Gêmeas;Boulevard Lunar Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;reta de recuperação;25;af56e22b3b01
+825;31;Circuito Ilhas Gêmeas;Volta Neon Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;esses de alta velocidade;18;8d273810479a
+826;31;Circuito Ilhas Gêmeas;Autódromo Esmeralda Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;saída de chicane;19;dd006bd21059
+827;31;Circuito Ilhas Gêmeas;Serpentina Monsoon Sprint;city;Cidade neon;noite seca;Noite;S técnico;esses de alta velocidade;23;ba6b3cc574a5
+828;31;Circuito Ilhas Gêmeas;Boulevard Fênix SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;reta de recuperação;21;9cab49d43e0c
+829;31;Circuito Ilhas Gêmeas;Volta Liberdade Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;esses de alta velocidade;22;0b2ff479bbdb
+830;31;Circuito Ilhas Gêmeas;Autódromo Turbo Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;reta de recuperação;20;106f087477be
+831;31;Circuito Ilhas Gêmeas;Serpentina Miragem Norte;city;Porto neon;chuva;Noite;curva de raio crescente;túnel escuro;20;e081c848eb57
+832;31;Circuito Ilhas Gêmeas;Boulevard Pixel Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;curva longa de alta;20;c97d9a2cf270
+833;31;Circuito Ilhas Gêmeas;Volta Eclipse Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;esses de alta velocidade;21;6651c1c41842
+834;31;Circuito Ilhas Gêmeas;Autódromo Lunar 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;subida cega;22;4470bbf730be
+835;31;Circuito Ilhas Gêmeas;Serpentina Neon RX;city;Cidade neon;noite seca;Noite;hairpin duplo;reta de recuperação;18;2856d6aff74d
+836;31;Circuito Ilhas Gêmeas;Boulevard Esmeralda Mirror;grass;Campos verdes;céu limpo;Manhã;retomada após túnel;esses de alta velocidade;19;40de89532e09
+837;31;Circuito Ilhas Gêmeas;Volta Monsoon Clássico;mountain;Vale nevado;neblina;Noite;túnel escuro;esses de alta velocidade;20;ff363d13e5ec
+838;32;Desafio Ruínas Solares;Circuito Trovão Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;curva longa de alta;22;bb2a017642a8
+839;32;Desafio Ruínas Solares;Grande Laço Gaia Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;curva longa de alta;22;9e2602de0005
+840;32;Desafio Ruínas Solares;Ponte Orion Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;saída de chicane;18;d162a1afa5d1
+841;32;Desafio Ruínas Solares;Arena Ômega 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;b5bf709d3a27
+842;32;Desafio Ruínas Solares;Circuito Ametista RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;9e55b8d6014d
+843;32;Desafio Ruínas Solares;Grande Laço Delta Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;descida rápida;21;9baf129394c5
+844;32;Desafio Ruínas Solares;Ponte Cristal Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;esses de alta velocidade;25;9cf963af3398
+845;32;Desafio Ruínas Solares;Arena Infinito Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;curva em caracol;19;e3033fb95f60
+846;32;Desafio Ruínas Solares;Circuito Prisma Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;esses de alta velocidade;19;7d51aaf10602
+847;32;Desafio Ruínas Solares;Grande Laço Titânio Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;4af4411257ff
+848;32;Desafio Ruínas Solares;Ponte Trovão Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;subida cega;21;70814fba875f
+849;32;Desafio Ruínas Solares;Arena Gaia GT;city;Cidade neon;noite seca;Noite;reta de largada larga;esses de alta velocidade;26;280484b1bcb1
+850;32;Desafio Ruínas Solares;Circuito Orion Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;entrada de chicane;18;354a1e9f656c
+851;32;Desafio Ruínas Solares;Grande Laço Ômega Master;mountain;Vale nevado;neblina;Noite;sequência travada;hairpin forte;19;72b4120b446d
+852;32;Desafio Ruínas Solares;Ponte Ametista Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;esses de alta velocidade;23;d2ffb0946d4a
+853;32;Desafio Ruínas Solares;Arena Delta Noite;city;Porto neon;chuva;Noite;final em mergulho;curva longa de alta;22;9b83c9a98edc
+854;32;Desafio Ruínas Solares;Circuito Cristal Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;saída de chicane;25;dd9b3c94a534
+855;32;Desafio Ruínas Solares;Grande Laço Infinito Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;descida rápida;18;66f41932cbf8
+856;32;Desafio Ruínas Solares;Ponte Prisma Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;curva longa de alta;19;5a8abd60515f
+857;32;Desafio Ruínas Solares;Arena Titânio Sprint;city;Cidade neon;noite seca;Noite;S técnico;reta de recuperação;23;825ace81fe63
+858;32;Desafio Ruínas Solares;Circuito Trovão SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;esses de alta velocidade;21;fa3cdf34237e
+859;32;Desafio Ruínas Solares;Grande Laço Gaia Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;descida rápida;22;a14b5d111bf4
+860;32;Desafio Ruínas Solares;Ponte Orion Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;reta de recuperação;20;ab37c7b0901c
+861;32;Desafio Ruínas Solares;Arena Ômega Norte;city;Porto neon;chuva;Noite;curva de raio crescente;túnel escuro;20;d3ebdf38ced6
+862;32;Desafio Ruínas Solares;Circuito Ametista Chuva;city;Megacidade cyber;tempestade;Madrugada;chicane curta;curva longa de alta;20;fa9c7d700daf
+863;32;Desafio Ruínas Solares;Grande Laço Delta Oeste;grass;Floresta leve;neblina;Amanhecer;miolo de 3 vértices;descida rápida;21;fe0900a6691a
+864;32;Desafio Ruínas Solares;Ponte Cristal 16B;grass;Costa tropical;céu limpo;Tarde;cotovelo em subida;entrada de chicane;22;86d1998e98f7
+865;33;Liga Montanha Estelar;Desafio Centelha SX;mountain;Vale nevado;neblina;Noite;chicane curta;hairpin forte;18;4dccc276f0ed
+866;33;Liga Montanha Estelar;Anel Solaris Arcade;desert;Cânion seco;céu limpo;Pôr do sol;miolo de 3 vértices;entrada de chicane;22;b007971be745
+867;33;Liga Montanha Estelar;Passagem Diamante Turbo;city;Porto neon;chuva;Noite;cotovelo em subida;curva em caracol;21;1d16c58f87aa
+868;33;Liga Montanha Estelar;Túnel Atlas Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;saída de chicane;22;ac4bb2e59edb
+869;33;Liga Montanha Estelar;Desafio Jaguar Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;túnel escuro;22;c99f7663fc52
+870;33;Liga Montanha Estelar;Anel Saturno Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;subida cega;18;208817754ccc
+871;33;Liga Montanha Estelar;Passagem Coral 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;bca0285294db
+872;33;Liga Montanha Estelar;Túnel Aurora RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;233715fa2a94
+873;33;Liga Montanha Estelar;Desafio Vulcano Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;curva longa de alta;21;5a500e8f02cc
+874;33;Liga Montanha Estelar;Anel Relâmpago Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;esses de alta velocidade;25;e82511735de4
+875;33;Liga Montanha Estelar;Passagem Centelha Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;descida rápida;19;ba283fed985a
+876;33;Liga Montanha Estelar;Túnel Solaris Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;curva em caracol;19;7cbd0223eae1
+877;33;Liga Montanha Estelar;Desafio Diamante Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;730fb375e43c
+878;33;Liga Montanha Estelar;Anel Atlas Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;entrada de chicane;21;8316ed06d8b2
+879;33;Liga Montanha Estelar;Passagem Jaguar GT;city;Cidade neon;noite seca;Noite;reta de largada larga;entrada de chicane;26;4f5a7125d193
+880;33;Liga Montanha Estelar;Túnel Saturno Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;curva longa de alta;18;690e5c086bbb
+881;33;Liga Montanha Estelar;Desafio Coral Master;mountain;Vale nevado;neblina;Noite;sequência travada;esses de alta velocidade;19;b5d93194e6c9
+882;33;Liga Montanha Estelar;Anel Aurora Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;esses de alta velocidade;23;515dda8c77f3
+883;33;Liga Montanha Estelar;Passagem Vulcano Noite;city;Porto neon;chuva;Noite;final em mergulho;túnel escuro;22;91774c51f86e
+884;33;Liga Montanha Estelar;Túnel Relâmpago Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;esses de alta velocidade;25;acb2a4b13794
+885;33;Liga Montanha Estelar;Desafio Centelha Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;curva em caracol;18;67062d4e16af
+886;33;Liga Montanha Estelar;Anel Solaris Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;túnel escuro;19;f692cc667ef6
+887;33;Liga Montanha Estelar;Passagem Diamante Sprint;city;Cidade neon;noite seca;Noite;S técnico;túnel escuro;23;9be33f368dbc
+888;33;Liga Montanha Estelar;Túnel Atlas SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;hairpin forte;21;e59167758228
+889;33;Liga Montanha Estelar;Desafio Jaguar Arcade;mountain;Vale nevado;neblina;Noite;ponte estreita;esses de alta velocidade;22;06c0ca872b96
+890;33;Liga Montanha Estelar;Anel Saturno Turbo;desert;Cânion seco;céu limpo;Pôr do sol;sequência de placas;reta de recuperação;20;dbdffeb14d98
+891;33;Liga Montanha Estelar;Passagem Coral Norte;city;Porto neon;chuva;Noite;curva de raio crescente;túnel escuro;20;fdb204ce2905
+892;34;Torneio Rodovia Infinita;Travessia Cascata Final;grass;Costa tropical;céu limpo;Tarde;ponte estreita;entrada de chicane;20;dfe38304448b
+893;34;Torneio Rodovia Infinita;Caminho Neblina Prime;city;Cidade neon;noite seca;Noite;sequência de placas;subida cega;25;e4ee5c09262b
+894;34;Torneio Rodovia Infinita;Estrada Nômade Sprint;grass;Campos verdes;céu limpo;Manhã;curva de raio crescente;curva longa de alta;22;8cf8bfd0186a
+895;34;Torneio Rodovia Infinita;Via Expressa Tempestade SX;mountain;Vale nevado;neblina;Noite;chicane curta;reta de recuperação;18;5be10db79787
+896;34;Torneio Rodovia Infinita;Travessia Falésia Arcade;desert;Cânion seco;céu limpo;Pôr do sol;miolo de 3 vértices;subida cega;22;3747abba78e9
+897;34;Torneio Rodovia Infinita;Caminho Vector Turbo;city;Porto neon;chuva;Noite;cotovelo em subida;esses de alta velocidade;21;c4243736f99f
+898;34;Torneio Rodovia Infinita;Estrada Atlântico Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;curva longa de alta;22;a462d8e4f551
+899;34;Torneio Rodovia Infinita;Via Expressa Mandacaru Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;curva longa de alta;22;c4cb16ac7577
+900;34;Torneio Rodovia Infinita;Travessia Horizonte Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;entrada de chicane;18;328f0e399017
+901;34;Torneio Rodovia Infinita;Caminho Cobalto 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;b69334b4e535
+902;34;Torneio Rodovia Infinita;Estrada Cascata RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;0e76cb81d953
+903;34;Torneio Rodovia Infinita;Via Expressa Neblina Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;saída de chicane;21;e1ac9f34fecd
+904;34;Torneio Rodovia Infinita;Travessia Nômade Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;reta de recuperação;25;72d0364df93f
+905;34;Torneio Rodovia Infinita;Caminho Tempestade Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;esses de alta velocidade;19;edd9b52ed5d6
+906;34;Torneio Rodovia Infinita;Estrada Falésia Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;descida rápida;19;e45c8f1f68ff
+907;34;Torneio Rodovia Infinita;Via Expressa Vector Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;28e10fe6aecd
+908;34;Torneio Rodovia Infinita;Travessia Atlântico Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;entrada de chicane;21;bcc3868f52a4
+909;34;Torneio Rodovia Infinita;Caminho Mandacaru GT;city;Cidade neon;noite seca;Noite;reta de largada larga;túnel escuro;26;a028766e388a
+910;34;Torneio Rodovia Infinita;Estrada Horizonte Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;esses de alta velocidade;18;9065981217d3
+911;34;Torneio Rodovia Infinita;Via Expressa Cobalto Master;mountain;Vale nevado;neblina;Noite;sequência travada;reta de recuperação;19;e41ab5e51e0c
+912;34;Torneio Rodovia Infinita;Travessia Cascata Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;reta de recuperação;23;e811b6e1a49a
+913;34;Torneio Rodovia Infinita;Caminho Neblina Noite;city;Porto neon;chuva;Noite;final em mergulho;curva longa de alta;22;5cff1b384058
+914;34;Torneio Rodovia Infinita;Estrada Nômade Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;esses de alta velocidade;25;22ac5b43d44d
+915;34;Torneio Rodovia Infinita;Via Expressa Tempestade Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;saída de chicane;18;94fd772b3ea5
+916;34;Torneio Rodovia Infinita;Travessia Falésia Prime;grass;Costa tropical;céu limpo;Tarde;reta com vento;esses de alta velocidade;19;1b0359280e9a
+917;34;Torneio Rodovia Infinita;Caminho Vector Sprint;city;Cidade neon;noite seca;Noite;S técnico;túnel escuro;23;a1cf3f805333
+918;34;Torneio Rodovia Infinita;Estrada Atlântico SX;grass;Campos verdes;céu limpo;Manhã;ponto de frenagem tardia;descida rápida;21;d415ec117e4f
+919;35;Copa Megacidade Final;Rally Turbo Extreme;city;Porto neon;chuva;Noite;reta com vento;curva longa de alta;23;cdbbdebf7c51
+920;35;Copa Megacidade Final;Sprint Miragem Noite;city;Megacidade cyber;tempestade;Madrugada;S técnico;entrada de chicane;18;f0bdbbec49c9
+921;35;Copa Megacidade Final;Vale Pixel Sul;grass;Floresta leve;neblina;Amanhecer;ponto de frenagem tardia;saída de chicane;19;fefa6ef23923
+922;35;Copa Megacidade Final;Rota Eclipse Final;grass;Costa tropical;céu limpo;Tarde;ponte estreita;entrada de chicane;20;9ba00c5a2875
+923;35;Copa Megacidade Final;Rally Lunar Prime;city;Cidade neon;noite seca;Noite;sequência de placas;reta de recuperação;25;6e0efb73cc77
+924;35;Copa Megacidade Final;Sprint Neon Sprint;grass;Campos verdes;céu limpo;Manhã;curva de raio crescente;saída de chicane;22;f2678ba954cc
+925;35;Copa Megacidade Final;Vale Esmeralda SX;mountain;Vale nevado;neblina;Noite;chicane curta;esses de alta velocidade;18;a3ca32b17c6e
+926;35;Copa Megacidade Final;Rota Monsoon Arcade;desert;Cânion seco;céu limpo;Pôr do sol;miolo de 3 vértices;entrada de chicane;22;c5fa17234d8b
+927;35;Copa Megacidade Final;Rally Fênix Turbo;city;Porto neon;chuva;Noite;cotovelo em subida;descida rápida;21;18e9a7d5f353
+928;35;Copa Megacidade Final;Sprint Liberdade Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;saída de chicane;22;ba16003f813f
+929;35;Copa Megacidade Final;Vale Turbo Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;túnel escuro;22;a55662ac01c3
+930;35;Copa Megacidade Final;Rota Miragem Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;túnel escuro;18;25e37b6455f4
+931;35;Copa Megacidade Final;Rally Pixel 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;d52ffb0c319f
+932;35;Copa Megacidade Final;Sprint Eclipse RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;e519f7cb3b77
+933;35;Copa Megacidade Final;Vale Lunar Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;saída de chicane;21;9799666130d1
+934;35;Copa Megacidade Final;Rota Neon Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;saída de chicane;25;855c7c3828d6
+935;35;Copa Megacidade Final;Rally Esmeralda Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;entrada de chicane;19;2dd99ab734b9
+936;35;Copa Megacidade Final;Sprint Monsoon Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;entrada de chicane;19;7ce141f62422
+937;35;Copa Megacidade Final;Vale Fênix Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;e2a270c06706
+938;35;Copa Megacidade Final;Rota Liberdade Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;subida cega;21;e12173ca1870
+939;35;Copa Megacidade Final;Rally Turbo GT;city;Cidade neon;noite seca;Noite;reta de largada larga;reta de recuperação;26;09823a9ab293
+940;35;Copa Megacidade Final;Sprint Miragem Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;hairpin forte;18;1b4cc9ec6aea
+941;35;Copa Megacidade Final;Vale Pixel Master;mountain;Vale nevado;neblina;Noite;sequência travada;curva longa de alta;19;6f3b4ba656a9
+942;35;Copa Megacidade Final;Rota Eclipse Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;túnel escuro;23;6d71bfd18f8c
+943;35;Copa Megacidade Final;Rally Lunar Noite;city;Porto neon;chuva;Noite;final em mergulho;túnel escuro;22;5fb784f81bcb
+944;35;Copa Megacidade Final;Sprint Neon Sul;city;Megacidade cyber;tempestade;Madrugada;descida rápida;entrada de chicane;25;87552c8502cf
+945;35;Copa Megacidade Final;Vale Esmeralda Final;grass;Floresta leve;neblina;Amanhecer;reta de pit longa;subida cega;18;320223697a06
+946;36;Pré-Final Horizonte Zero;Serpentina Titânio GT;grass;Campos verdes;céu limpo;Manhã;final em mergulho;subida cega;19;f8b28eebab62
+947;36;Pré-Final Horizonte Zero;Boulevard Trovão Endurance;mountain;Vale nevado;neblina;Noite;descida rápida;subida cega;20;d0252da89fac
+948;36;Pré-Final Horizonte Zero;Volta Gaia Master;desert;Cânion seco;céu limpo;Pôr do sol;reta de pit longa;reta de recuperação;24;80198beac306
+949;36;Pré-Final Horizonte Zero;Autódromo Orion Extreme;city;Porto neon;chuva;Noite;reta com vento;esses de alta velocidade;23;a346fe40e632
+950;36;Pré-Final Horizonte Zero;Serpentina Ômega Noite;city;Megacidade cyber;tempestade;Madrugada;S técnico;túnel escuro;18;c571c2f56d84
+951;36;Pré-Final Horizonte Zero;Boulevard Ametista Sul;grass;Floresta leve;neblina;Amanhecer;ponto de frenagem tardia;saída de chicane;19;0d7e4fa8d97d
+952;36;Pré-Final Horizonte Zero;Volta Delta Final;grass;Costa tropical;céu limpo;Tarde;ponte estreita;entrada de chicane;20;f42d217478b4
+953;36;Pré-Final Horizonte Zero;Autódromo Cristal Prime;city;Cidade neon;noite seca;Noite;sequência de placas;saída de chicane;25;dd33dde2c5a5
+954;36;Pré-Final Horizonte Zero;Serpentina Infinito Sprint;grass;Campos verdes;céu limpo;Manhã;curva de raio crescente;curva longa de alta;22;fbbcc180d942
+955;36;Pré-Final Horizonte Zero;Boulevard Prisma SX;mountain;Vale nevado;neblina;Noite;chicane curta;curva longa de alta;18;45482e68f67a
+956;36;Pré-Final Horizonte Zero;Volta Titânio Arcade;desert;Cânion seco;céu limpo;Pôr do sol;miolo de 3 vértices;subida cega;22;2a3ae97a9086
+957;36;Pré-Final Horizonte Zero;Autódromo Trovão Turbo;city;Porto neon;chuva;Noite;cotovelo em subida;curva em caracol;21;7515a38be427
+958;36;Pré-Final Horizonte Zero;Serpentina Gaia Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;curva longa de alta;22;ef0e019a414d
+959;36;Pré-Final Horizonte Zero;Boulevard Orion Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;curva longa de alta;22;e088eb68544d
+960;36;Pré-Final Horizonte Zero;Volta Ômega Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;reta de recuperação;18;987153ca3802
+961;36;Pré-Final Horizonte Zero;Autódromo Ametista 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;98f1b0173e8d
+962;36;Pré-Final Horizonte Zero;Serpentina Delta RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;6650f25d0645
+963;36;Pré-Final Horizonte Zero;Boulevard Cristal Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;curva longa de alta;21;9ef61716c9ca
+964;36;Pré-Final Horizonte Zero;Volta Infinito Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;esses de alta velocidade;25;fa5d4ed6515e
+965;36;Pré-Final Horizonte Zero;Autódromo Prisma Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;subida cega;19;e008700c0ae3
+966;36;Pré-Final Horizonte Zero;Serpentina Titânio Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;entrada de chicane;19;4a57bf5e520e
+967;36;Pré-Final Horizonte Zero;Boulevard Trovão Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;52829fb0d824
+968;36;Pré-Final Horizonte Zero;Volta Gaia Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;curva longa de alta;21;d6c9d5b0188b
+969;36;Pré-Final Horizonte Zero;Autódromo Orion GT;city;Cidade neon;noite seca;Noite;reta de largada larga;esses de alta velocidade;26;82af91a499d8
+970;36;Pré-Final Horizonte Zero;Serpentina Ômega Endurance;grass;Campos verdes;céu limpo;Manhã;esses de alta velocidade;reta de recuperação;18;c546549c134f
+971;36;Pré-Final Horizonte Zero;Boulevard Ametista Master;mountain;Vale nevado;neblina;Noite;sequência travada;saída de chicane;19;41ad8b69e02f
+972;36;Pré-Final Horizonte Zero;Volta Delta Extreme;desert;Cânion seco;céu limpo;Pôr do sol;trecho com relevo quebrado;entrada de chicane;23;f67bbe7718f4
+973;37;Grande Final 999;Circuito Relâmpago Solar;grass;Floresta leve;neblina;Amanhecer;esses de alta velocidade;esses de alta velocidade;21;00a2b21d65e8
+974;37;Grande Final 999;Grande Laço Centelha Leste;grass;Costa tropical;céu limpo;Tarde;sequência travada;subida cega;22;307e15fd3eb9
+975;37;Grande Final 999;Ponte Solaris Pro;city;Cidade neon;noite seca;Noite;trecho com relevo quebrado;descida rápida;18;20b207d9e823
+976;37;Grande Final 999;Arena Diamante GT;grass;Campos verdes;céu limpo;Manhã;final em mergulho;hairpin forte;19;0ec6965b1cc4
+977;37;Grande Final 999;Circuito Atlas Endurance;mountain;Vale nevado;neblina;Noite;descida rápida;subida cega;20;d1263182c663
+978;37;Grande Final 999;Grande Laço Jaguar Master;desert;Cânion seco;céu limpo;Pôr do sol;reta de pit longa;subida cega;24;23c26859f494
+979;37;Grande Final 999;Ponte Saturno Extreme;city;Porto neon;chuva;Noite;reta com vento;reta de recuperação;23;501f543e569e
+980;37;Grande Final 999;Arena Coral Noite;city;Megacidade cyber;tempestade;Madrugada;S técnico;curva longa de alta;18;b4950d16aeed
+981;37;Grande Final 999;Circuito Aurora Sul;grass;Floresta leve;neblina;Amanhecer;ponto de frenagem tardia;curva longa de alta;19;2ba599956c4c
+982;37;Grande Final 999;Grande Laço Vulcano Final;grass;Costa tropical;céu limpo;Tarde;ponte estreita;entrada de chicane;20;463ad6dba871
+983;37;Grande Final 999;Ponte Relâmpago Prime;city;Cidade neon;noite seca;Noite;sequência de placas;esses de alta velocidade;25;01234b30f055
+984;37;Grande Final 999;Arena Centelha Sprint;grass;Campos verdes;céu limpo;Manhã;curva de raio crescente;saída de chicane;22;4bee0a9e4b80
+985;37;Grande Final 999;Circuito Solaris SX;mountain;Vale nevado;neblina;Noite;chicane curta;saída de chicane;18;77cb10b29980
+986;37;Grande Final 999;Grande Laço Diamante Arcade;desert;Cânion seco;céu limpo;Pôr do sol;miolo de 3 vértices;entrada de chicane;22;61941bb8c807
+987;37;Grande Final 999;Ponte Atlas Turbo;city;Porto neon;chuva;Noite;cotovelo em subida;saída de chicane;21;0e69306f1147
+988;37;Grande Final 999;Arena Jaguar Norte;city;Megacidade cyber;tempestade;Madrugada;hairpin duplo;saída de chicane;22;bf63b3331851
+989;37;Grande Final 999;Circuito Saturno Chuva;grass;Floresta leve;neblina;Amanhecer;retomada após túnel;túnel escuro;22;0dc329b95385
+990;37;Grande Final 999;Grande Laço Coral Oeste;grass;Costa tropical;céu limpo;Tarde;túnel escuro;esses de alta velocidade;18;3b595d849f7f
+991;37;Grande Final 999;Ponte Aurora 16B;city;Cidade neon;noite seca;Noite;subida em caracol;esses de alta velocidade;20;e6c928e51d51
+992;37;Grande Final 999;Arena Vulcano RX;grass;Campos verdes;céu limpo;Manhã;curva de raio fechado;entrada de chicane;20;c824e6227dc0
+993;37;Grande Final 999;Circuito Relâmpago Mirror;mountain;Vale nevado;neblina;Noite;curva longa de alta;subida cega;21;860a04120717
+994;37;Grande Final 999;Grande Laço Centelha Clássico;desert;Cânion seco;céu limpo;Pôr do sol;curva espelhada falsa;esses de alta velocidade;25;7ac27b667b4b
+995;37;Grande Final 999;Ponte Solaris Circuit;city;Porto neon;chuva;Noite;zigue-zague rítmico;entrada de chicane;19;f06e324db586
+996;37;Grande Final 999;Arena Diamante Solar;city;Megacidade cyber;tempestade;Madrugada;subida cega;subida cega;19;c599e0a2eed1
+997;37;Grande Final 999;Circuito Atlas Leste;grass;Floresta leve;neblina;Amanhecer;trecho de aderência baixa;subida cega;20;278b31ddc461
+998;37;Grande Final 999;Grande Laço Jaguar Pro;grass;Costa tropical;céu limpo;Tarde;miolo ondulado;esses de alta velocidade;21;01d750222481
+999;37;Grande Final 999;Grande Final Horizonte Zero 999;city;Megacidade lendária;tempestade;Noite;circuito final com cidade futurista, túnel, ponte e tempestade;final lendária de alta velocidade;28;44e14a5829b4

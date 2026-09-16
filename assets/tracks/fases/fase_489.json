@@ -1,0 +1,217 @@
+{
+  "id": 489,
+  "championship": 19,
+  "cupName": "Desafio Planalto Roxo",
+  "cupRace": 3,
+  "name": "Estrada Esmeralda Prime",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.489,
+  "lapTargetSeconds": 71,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.697,
+  "pits": [
+    0.21,
+    0.5,
+    0.77
+  ],
+  "palette": {
+    "grass": "#11b41e",
+    "grass2": "#0eaa18",
+    "shoulder": "#368523",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#118d1c",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 95,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 63,
+      "h": 167,
+      "l": 75,
+      "c": -3.74,
+      "y": 24,
+      "w": 1.05,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 174,
+      "l": 26,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 148,
+      "l": 69,
+      "c": -3.58,
+      "y": 4,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 107,
+      "l": 45,
+      "c": 2.65,
+      "y": 40,
+      "w": 0.89,
+      "f": "subida cega"
+    },
+    {
+      "e": 63,
+      "h": 86,
+      "l": 43,
+      "c": -2.74,
+      "y": 4,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 65,
+      "l": 73,
+      "c": 1.68,
+      "y": -23,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 51,
+      "l": 61,
+      "c": -4.1,
+      "y": -12,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 80,
+      "l": 41,
+      "c": 3.92,
+      "y": 14,
+      "w": 0.95,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 31,
+      "c": -4.54,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 31,
+      "l": 32,
+      "c": 4.06,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 32,
+      "c": 2.24,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 37,
+      "c": -2.42,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 50,
+      "l": 24,
+      "c": 2.6,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 63,
+      "l": 27,
+      "c": 3.39,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 33,
+      "c": -3.0,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 148,
+      "l": 52,
+      "c": -5.14,
+      "y": 18,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 143,
+      "l": 44,
+      "c": -0.15,
+      "y": -6,
+      "w": 0.95,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 101,
+      "l": 52,
+      "c": 2.74,
+      "y": 18,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 105,
+      "l": 53,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "234d15ff0668"
+}

@@ -1,0 +1,172 @@
+{
+  "id": 240,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 24,
+  "name": "Via Expressa Relâmpago Norte",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.2395,
+  "lapTargetSeconds": 60,
+  "signature": "reta de largada larga",
+  "dominantFeature": "ponte estreita",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.666,
+  "pits": [
+    0.29,
+    0.62,
+    0.8
+  ],
+  "palette": {
+    "grass": "#1cb027",
+    "grass2": "#0f9d18",
+    "shoulder": "#3e852d",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#21912b",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 62,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 132,
+      "l": 62,
+      "c": 2.57,
+      "y": -4,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 57,
+      "l": 46,
+      "c": -1.8,
+      "y": 41,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 154,
+      "l": 72,
+      "c": 1.73,
+      "y": -8,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 77,
+      "l": 44,
+      "c": -0.95,
+      "y": -18,
+      "w": 1.14,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 46,
+      "l": 50,
+      "c": 5.65,
+      "y": 18,
+      "w": 1.03,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 89,
+      "l": 39,
+      "c": -2.74,
+      "y": -14,
+      "w": 0.84,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 28,
+      "c": 3.16,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 26,
+      "l": 34,
+      "c": -2.79,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 35,
+      "l": 33,
+      "c": 1.35,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 46,
+      "l": 20,
+      "c": -1.53,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 57,
+      "l": 25,
+      "c": 1.71,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 62,
+      "l": 24,
+      "c": 4.61,
+      "y": -8,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 36,
+      "l": 35,
+      "c": -4.12,
+      "y": 4,
+      "w": 0.91,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 48,
+      "h": 124,
+      "l": 62,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "15fac6173512"
+}

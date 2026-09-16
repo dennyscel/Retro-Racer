@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Clássicos dos Games Retrô Racer AAA FINAL R2 | Base V42.2 preservada | SAVE_KEY mantido para compatibilidade -->
+    <!-- AAA FINAL R2: V43–V52 + QA pós-final, Almanac 999, PWA/gamepad corrigidos, foto-finish e progressão auditada. -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover" />
+
+    <title>Clássicos dos Games Retrô Racer | Jogo de Corrida Retrô 16 Bits</title>
+    <meta name="description" content="Clássicos dos Games Retrô Racer: jogo de corrida retrô 16 bits em HTML5 Canvas com 999 pistas, campeonato, garagem, upgrades, clima dinâmico, pit stop, IA adversária e música procedural." />
+    <meta name="keywords" content="Clássicos dos Games, Retrô Racer, jogo de corrida retrô, corrida 16 bits, HTML5 Canvas, Top Gear, OutRun, jogo retro, jogos clássicos, corrida arcade" />
+    <meta name="author" content="Dennys Smaniotto Pavanelli" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#050505" />
+    <meta name="color-scheme" content="dark" />
+    <link rel="canonical" href="https://red-otter-848116.hostingersite.com/retroracer/" />
+
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/seo/icon-192.png" />
+    <link rel="apple-touch-icon" href="assets/seo/icon-192.png" />
+
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Clássicos dos Games" />
+    <meta property="og:title" content="Clássicos dos Games Retrô Racer" />
+    <meta property="og:description" content="Jogo de corrida retrô 16 bits com 999 pistas, campeonato, garagem, upgrades, clima dinâmico e música procedural." />
+    <meta property="og:url" content="https://red-otter-848116.hostingersite.com/retroracer/" />
+    <meta property="og:image" content="https://red-otter-848116.hostingersite.com/retroracer/assets/seo/og-retro-racer.jpg" />
+    <meta property="og:image:secure_url" content="https://red-otter-848116.hostingersite.com/retroracer/assets/seo/og-retro-racer.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Clássicos dos Games Retrô Racer - jogo de corrida retrô 16 bits" />
+    <meta property="og:updated_time" content="2026-09-14T21:42:00-03:00" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Clássicos dos Games Retrô Racer" />
+    <meta name="twitter:description" content="Corrida retrô 16 bits em HTML5 Canvas com 999 pistas, campeonato e música procedural." />
+    <meta name="twitter:image" content="https://red-otter-848116.hostingersite.com/retroracer/assets/seo/og-retro-racer.jpg" />
+
+    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoGame", "name": "Clássicos dos Games Retrô Racer", "alternateName": "Retrô Racer", "description": "Jogo de corrida retrô 16 bits em HTML5 Canvas com campeonato, 999 pistas, IA adversária, garagem, upgrades, pit stop, clima dinâmico e música procedural.", "author": {"@type": "Person", "name": "Dennys Smaniotto Pavanelli"}, "publisher": {"@type": "Organization", "name": "Clássicos dos Games"}, "genre": ["Corrida", "Arcade", "Retrô", "16 bits"], "applicationCategory": "GameApplication", "operatingSystem": "Web browser", "inLanguage": "pt-BR", "playMode": "SinglePlayer"}</script>
+    <link rel="stylesheet" href="styles/app.css">
+</head>
+<body>
+    <div id="game-shell">
+        <div id="game-wrapper" class="menu-open">
+            <canvas id="gameCanvas"></canvas>
+            <div id="hud">
+                <div class="hud-box"><span class="hud-label">POS</span><span class="hud-value"><span id="posDisplay">23</span>/<span id="totalRacersDisplay">23</span></span></div>
+                <div class="hud-box"><span class="hud-label">VEL</span><span class="hud-value"><span id="speedDisplay">0</span></span></div>
+                <div class="hud-box" id="nitroHudBox"><span class="hud-label">NITRO</span><span class="hud-value"><span id="nitroDisplay">100</span>%</span></div>
+                <div class="hud-box" id="fuelHudBox"><span class="hud-label">GAS</span><span class="hud-value"><span id="fuelDisplay">100</span>%</span></div>
+                <div class="hud-box" id="damageHudBox"><span class="hud-label">DANO</span><span class="hud-value"><span id="damageDisplay">0</span>%</span></div>
+                <div class="hud-box"><span class="hud-label">VOLTA</span><span class="hud-value"><span id="lapDisplay">1</span>/5</span></div>
+                <div class="hud-box"><span class="hud-label">CR$</span><span class="hud-value"><span id="moneyDisplay">0</span></span></div>
+                <div class="hud-box"><span class="hud-label">TEMPO</span><span class="hud-value hud-time" id="timeDisplay">00:00.0</span><span class="hud-best" id="bestTimeDisplay">BEST: --:--.-</span></div>
+            </div>
+            <div id="licenseHud" class="hidden" aria-live="polite"><span id="licenseHudTitle">LICENÇA</span><b id="licenseHudMetric">0</b><em id="licenseHudTimer">00.0</em></div>
+            <div id="comboHud" aria-live="polite"><span class="combo-kicker">RISCO</span><b id="comboMultiplier">x1.0</b><span id="comboScore">00000</span><em id="comboEvent"></em></div>
+            <button id="fullscreenBtn" type="button" aria-label="Tela cheia">⛶</button>
+            <div id="curveHud" aria-hidden="true"><span id="curveArrow">↗</span><span id="curveLabel">CURVA</span></div>
+            <div id="pitHud" aria-hidden="true"><div id="pitHudTop"><span id="pitStageText">PIT STOP</span><span id="pitPct">0%</span></div><div id="pitBar"><div id="pitBarFill"></div></div><div id="pitStages"><span data-pit-stage="0">PNEUS</span><span data-pit-stage="1">GAS</span><span data-pit-stage="2">ÁGUA</span><span data-pit-stage="3">GO</span></div></div>
+            <div id="touchHint">Toque e segure para acelerar · arraste para virar<br>arraste para cima: nitro · arraste para baixo: freio</div>
+
+            <div id="radioHud" role="status" aria-live="polite">RÁDIO</div><div id="a11yCaption" role="status" aria-live="polite" aria-atomic="true"></div>
+            <div id="finishBanner">🏁 CHEGADA 🏁</div>
+            <div id="virtualControls" aria-hidden="true"><button class="vctrl left" data-vctrl="left">◀</button><button class="vctrl right" data-vctrl="right">▶</button><button class="vctrl accel" data-vctrl="accel">▲</button><button class="vctrl brake" data-vctrl="brake">▼</button><button class="vctrl nitro" data-vctrl="nitro">N</button></div>
+
+            <div id="bootAAA" class="boot-aaa hidden" aria-hidden="true"><canvas id="bootLogoCanvas" width="720" height="420"></canvas></div>
+            <div class="menu-overlay" id="menu-start"><canvas id="startAttractCanvas" width="960" height="540" aria-hidden="true"></canvas>
+                <div class="menu-card compact">
+                    <div class="menu-title brand-title"><span>Clássicos dos Games</span><span>Retrô Racer</span></div>
+                    <div class="menu-subtitle">Corrida retrô 16 bits · 999 pistas · campeonato · garagem · upgrades · clima dinâmico · áudio procedural.</div>
+                    <div class="menu-grid">
+                        <button class="btn green" id="btnCareer">▶ MODO CARREIRA</button>
+                        <button class="btn secondary" id="btnCups">🏆 COPAS</button>
+                        <button class="btn secondary" id="btnModes">🎮 MODOS</button>
+                        <button class="btn secondary" id="btnGarage">🔧 GARAGEM</button>
+                        <button class="btn secondary" id="btnTrophies">🥇 TROFÉUS</button><button class="btn secondary ghost-btn" id="btnGhostDossier">👻 DOSSIÊ DO GHOST</button><button class="btn secondary shadow-code-btn" id="btnShadowCode">🧬 CÓDIGO DE SOMBRA</button><button class="btn secondary" id="btnAlmanac">📖 ALMANAQUE 999</button><button class="btn secondary" id="btnStats">📊 ESTATÍSTICAS</button><button class="btn secondary" id="btnEconomy">◎ ECONOMIA</button><button class="btn secondary" id="btnSettings">⚙ AJUSTES</button><button class="btn secondary full" id="btnHelp">❔ COMO JOGAR</button>
+                    </div>
+                    <div class="menu-panel center">
+                        <span class="tag" id="startLevelTag">FASE 1</span>
+                        <span class="tag" id="startCarTag">STALLION</span>
+                        <span class="tag" id="startMoneyTag">CR$ 0</span><span class="tag risk-tag" id="startFichasTag">FICHAS 0</span><span class="tag season-tag" id="startMarcasTag">MARCAS 0</span>
+                    </div>
+                    <p class="muted">Celular: toque para acelerar, arraste para os lados para virar, para cima ativa nitro e para baixo freia. PC: ↑ acelera, ← → vira, ↓ freia, Espaço/Shift nitro, P pausa.</p>
+                    <div class="start-credit">feito por: Dennys Smaniotto Pavanelli</div>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-story"><div class="menu-card story-shell"><div class="story-kicker" id="storyCup">COPA 01 · CAPÍTULO 01/37</div><div class="menu-title legendary" id="storyTitle">LINHA DE PARTIDA</div><canvas id="storyCanvas" width="720" height="210" aria-label="Quadrinhos 16 bits do capítulo"></canvas><div id="storyLines" class="story-lines"></div><div class="menu-grid"><button class="btn green" id="btnStoryContinue">CONTINUAR ▶</button><button class="btn secondary" id="btnStoryBack">◀ MENU</button></div></div></div>
+
+            <div class="menu-overlay hidden" id="menu-prerace">
+                <div class="menu-card compact">
+                    <div class="menu-title" id="preRaceTitle">COPA INICIANTE</div>
+                    <div class="menu-subtitle" id="preRaceSubtitle">Fase 1 · Prepare o carro e vá para a pista.</div>
+                    <div class="menu-grid">
+                        <div class="menu-panel"><div class="data-line"><span>Carro</span><b id="preCar">Stallion</b></div><div class="data-line"><span>Voltas</span><b id="preLaps">5</b></div><label class="data-line hidden" id="preLapsRow"><span>Escolher voltas</span><select id="preLapsSelect" class="select-row"><option value="3">3</option><option value="5" selected>5</option><option value="8">8</option><option value="12">12</option></select></label><div class="data-line"><span id="preGoldLabel">Tempo Ouro</span><b id="preGold">--:--.-</b></div></div>
+                        <div class="menu-panel" id="prePrizePanel"><div class="data-line"><span>Prêmio 1º</span><b id="prePrize1">CR$ 2000</b></div><div class="data-line"><span>Prêmio 2º</span><b id="prePrize2">CR$ 1000</b></div><div class="data-line"><span>Prêmio 3º</span><b id="prePrize3">CR$ 500</b></div></div>
+                    </div>
+                    <canvas id="preRacePreview" class="preview-ribbon" width="620" height="116"></canvas><div class="menu-grid"><div class="menu-panel"><div class="data-line"><span>Pneu</span><select id="preTireSelect" class="select-row"><option value="MISTO">MISTO</option><option value="SLICK">SLICK</option><option value="CHUVA">CHUVA</option></select></div><label class="data-line" id="preInsuranceRow"><span>Seguro de dano (-15% prêmio)</span><input id="preInsurance" type="checkbox"></label></div><div class="menu-panel"><div class="data-line"><span>Modo</span><b id="preMode">CARREIRA</b></div><div class="data-line"><span>Recorde</span><b id="preRecord">--:--.-</b></div><div class="data-line" id="preSponsorRow"><span>Patrocínio</span><b>TOP 5 LIMPO · +12%</b></div></div></div><button class="btn green full" id="btnStartRace">🏁 INICIAR CORRIDA</button>
+                    <div class="menu-grid"><button class="btn secondary" id="btnPreGarage">🔧 GARAGEM</button><button class="btn secondary" id="btnPreBack">◀ VOLTAR</button></div>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-garage">
+                <div class="menu-card">
+                    <div class="menu-title">GARAGEM MESTRE</div>
+                    <div class="menu-subtitle">Escolha o carro, repare danos e invista nos upgrades da carreira.</div>
+                    <div class="garage-layout">
+                        <div class="menu-panel garage-preview">
+                            <canvas id="garageCarCanvas" width="320" height="210"></canvas>
+                            <div class="car-name" id="garageCarName">Stallion</div>
+                            <div class="car-nav"><button class="btn secondary small full" id="btnCarPrev">◀</button><button class="btn secondary small full" id="btnCarNext">▶</button></div>
+                            <button class="btn green full" id="btnSelectBuyCar">SELECIONAR</button>
+                            <button class="btn secondary full" id="btnRepairCar">REPARAR</button><button class="btn secondary full" id="btnPaintShop">🎨 OFICINA DE PINTURA</button>
+                        </div>
+                        <div class="menu-panel">
+                            <div class="data-line"><span>Saldo</span><b id="garageMoney">CR$ 0</b></div><div class="data-line"><span>Perícia</span><b id="garageFichas">FICHAS 0</b></div>
+                            <div class="data-line"><span>Dano atual</span><b id="garageDamage">0%</b></div>
+                            <div class="data-line"><span>Perfil</span><b id="garageProfile">Equilibrado</b></div><div id="garageUnlock" class="muted tiny"></div><div id="garageStats" class="hex-stats"></div><div class="skin-row" id="garageSkins"></div><div class="cosmetic-title">RASTRO COSMÉTICO · SÓ FICHAS</div><div class="trail-row" id="garageTrails"></div>
+                            <div id="upgradesList"></div>
+                        </div>
+                    </div>
+                    <div class="menu-grid"><button class="btn secondary" id="btnGarageBack">◀ VOLTAR</button><button class="btn red" id="btnResetSave">ZERAR SAVE</button></div>
+                </div>
+            </div>
+
+
+            <div class="menu-overlay hidden" id="menu-paint"><div class="menu-card paint-shell"><div class="menu-title">OFICINA DE PINTURA</div><div class="menu-subtitle">12 padrões vetoriais · 3 camadas · número · patrocinador fictício · código offline.</div><div class="paint-layout"><div class="menu-panel paint-preview"><canvas id="paintPreviewCanvas" width="360" height="240"></canvas><div class="car-name" id="paintCarName">STALLION</div><textarea id="paintCode" class="paint-code" rows="2" aria-label="Código da pintura"></textarea><div class="menu-grid"><button class="btn green" id="btnPaintCopy">COPIAR CÓDIGO</button><button class="btn secondary" id="btnPaintShare">COMPARTILHAR</button></div></div><div class="menu-panel"><div class="paint-head"><label>COR BASE<input id="paintBase" type="color" value="#ffcc00"></label><label>NÚMERO<input id="paintNumber" type="number" min="0" max="99" value="16"></label></div><label class="paint-label">PATROCINADOR<select id="paintSponsor" class="paint-input"></select></label><div class="paint-row"><select id="paintPattern0"></select><input id="paintColor0" type="color" value="#111111"></div><div class="paint-row"><select id="paintPattern1"></select><input id="paintColor1" type="color" value="#ff3b30"></div><div class="paint-row"><select id="paintPattern2"></select><input id="paintColor2" type="color" value="#38d5ff"></div><div class="menu-grid"><button class="btn green" id="btnPaintSave">SALVAR NO CARRO</button><button class="btn secondary" id="btnPaintImport">IMPORTAR CÓDIGO</button><button class="btn secondary" id="btnPaintReset">RASCUNHO STOCK</button></div><div id="paintStatus" class="muted tiny">EDIÇÃO LOCAL · PERFORMANCE INALTERADA</div></div></div><button class="btn secondary full" id="btnPaintBack">◀ GARAGEM</button></div></div>
+            <div class="menu-overlay hidden" id="menu-stats">
+                <div class="menu-card compact">
+                    <div class="menu-title">ESTATÍSTICAS</div>
+                    <div class="menu-panel">
+                        <div class="data-line"><span>Corridas</span><b id="statRaces">0</b></div>
+                        <div class="data-line"><span>Vitórias</span><b id="statWins">0</b></div>
+                        <div class="data-line"><span>Copas concluídas</span><b id="statCups">0</b></div>
+                        <div class="data-line"><span>Ganhos totais</span><b id="statEarned">CR$ 0</b></div><div class="data-line"><span>FICHAS de perícia</span><b id="statFichas">0</b></div><div class="data-line"><span>Melhor combo</span><b id="statBestCombo">x1.0</b></div><div class="data-line"><span>Risco acumulado</span><b id="statRiskScore">0</b></div>
+                        <div class="data-line"><span>Medalhas Ouro</span><b id="statGold">0</b></div>
+                        <div class="data-line"><span>Medalhas Prata</span><b id="statSilver">0</b></div>
+                        <div class="data-line"><span>Medalhas Bronze</span><b id="statBronze">0</b></div>
+                    </div>
+                    <button class="btn secondary full" id="btnStatsBack">◀ VOLTAR</button>
+                </div>
+            </div>
+
+
+            <div class="menu-overlay hidden" id="menu-ghost"><div class="menu-card ghost-dossier"><div class="menu-title">DOSSIÊ DO GHOST</div><div class="menu-subtitle">Ele não recebe dificuldade aleatória. Ele estuda o seu jeito de pilotar e volta até 4% melhor.</div><div class="ghost-face">GHOST // BLACK-07</div><div id="ghostDossierLead" class="ghost-insight">AINDA NÃO TENHO DADOS.</div><div class="menu-grid"><div class="menu-panel"><div class="data-line"><span>Corridas lidas</span><b id="ghostDossierRaces">0</b></div><div class="data-line"><span>Frenagem hairpin</span><b id="ghostDossierHairpin">--</b></div><div class="ghost-meter"><span id="ghostBarBrake"></span></div><div class="data-line"><span>Agressividade</span><b id="ghostDossierAggro">--</b></div><div class="ghost-meter"><span id="ghostBarAggro"></span></div></div><div class="menu-panel"><div class="data-line"><span>Nitro típico</span><b id="ghostDossierNitro">--</b></div><div class="ghost-meter"><span id="ghostBarNitro"></span></div><div class="data-line"><span>Tolerância ao slip</span><b id="ghostDossierSlip">--</b></div><div class="ghost-meter"><span id="ghostBarSlip"></span></div><div class="data-line"><span>Vantagem aprendida</span><b id="ghostDossierBonus">+0%</b></div></div></div><div class="menu-panel ghost-warning">ERRO DOMINANTE: <b id="ghostDossierErrorMirror">calculando...</b><div class="muted tiny">O perfil fica somente no seu save local. Nenhum dado pessoal é enviado.</div></div><button class="btn secondary full" id="btnGhostDossierBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-shadow"><div class="menu-card shadow-share-card"><div class="menu-title">CÓDIGO DE SOMBRA</div><div class="menu-subtitle">Sua volta vira um desafio offline verificável. O código curto identifica; o link/QR carrega o replay completo sem servidor.</div><div class="shadow-share-layout"><div class="menu-panel"><label class="shadow-label">APELIDO DA SOMBRA<input id="shadowAlias" class="shadow-input" maxlength="16" value="PILOTO" autocomplete="off"></label><div class="shadow-code" id="shadowCode">SEM SOMBRA GRAVADA</div><textarea id="shadowLink" class="shadow-link" readonly rows="4" aria-label="Link completo do Código de Sombra"></textarea><div class="menu-grid"><button class="btn green" id="btnShadowCopy">COPIAR LINK</button><button class="btn secondary" id="btnShadowShare">COMPARTILHAR</button></div><div id="shadowStatus" class="shadow-status">Termine uma volta para gerar sua sombra.</div></div><div class="menu-panel shadow-qr-panel"><canvas id="shadowQr" width="250" height="250" aria-label="QR do Código de Sombra"></canvas><div class="muted tiny center">QR contém o link completo quando cabe; correntes longas usam o link copiado.</div></div></div><div class="menu-panel"><b>CORRENTE ATIVA · até 4 sombras</b><div id="shadowChain" class="shadow-chain"></div></div><div class="menu-panel"><label class="shadow-label">IMPORTAR LINK / #g= / RR7 já salvo neste aparelho<textarea id="shadowImport" class="shadow-link" rows="3" placeholder="Cole aqui o desafio recebido"></textarea></label><button class="btn secondary full" id="btnShadowImport">IMPORTAR E VERIFICAR CHECKSUM</button></div><div class="menu-grid"><button class="btn green" id="btnShadowStart">🏁 CORRER CONTRA A CORRENTE</button><button class="btn secondary" id="btnShadowBack">◀ MENU</button></div></div></div>
+
+            <div class="menu-overlay hidden" id="menu-economy"><div class="menu-card economy-shell"><div class="menu-title">ECONOMIA HORIZONTE</div><div class="menu-subtitle">Três moedas, três papéis. Performance nunca é vendida.</div><div id="economyBalances" class="economy-balances"></div><div id="economyFlag" class="economy-flag">MONETIZAÇÃO DESATIVADA · PADRÃO DO JOGO</div><div class="menu-panel"><b>MARCAS · TEMPORADA · SOMENTE COSMÉTICO</b><div id="economyMarks" class="economy-grid"></div></div><div class="menu-panel"><b>MONETIZAÇÃO ÉTICA · DESLIGÁVEL POR FLAG</b><div id="economyPaid" class="economy-grid"></div><p id="economyStatus" class="muted">Nenhuma compra concede desempenho, CR$, carro, upgrade, XP ou progresso.</p></div><div class="menu-panel economy-rules"><b>REGRAS TRAVADAS</b><span>CR$: carros, upgrades, reparo.</span><span>FICHAS: perícia → cosméticos.</span><span>MARCAS: temporada → cosméticos sazonais.</span><span>Sem loot box paga · sem energia · sem comprar vitória.</span></div><button class="btn secondary full" id="btnEconomyBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-season"><div class="menu-card season-shell"><div class="menu-title" id="seasonTitle">TEMPORADA HORIZONTE</div><div class="menu-subtitle" id="seasonDay">DIA 1/28</div><div class="season-mod" id="seasonModifier"></div><div class="season-grid"><button class="season-event" id="btnSeasonDaily"><span>DIÁRIA</span><div id="seasonDaily"></div></button><button class="season-event" id="btnSeasonGauntlet"><span>SEMANAL</span><div id="seasonWeekly"></div><em id="seasonGauntletAction" class="season-action">⚔ INICIAR GAUNTLET</em></button></div><div class="season-head"><b id="seasonXp">PASSE 0/40</b><span>TRILHA GRATUITA · FICHAS AUTOMÁTICAS</span></div><div id="seasonPass" class="season-pass"></div><div class="menu-panel"><b>PLACAR DA PISTA DE HOJE · CÓDIGOS DE SOMBRA</b><div id="seasonBoard" class="season-board"></div></div><button class="btn secondary full" id="btnSeasonBack">◀ MODOS</button></div></div>
+            <div class="menu-overlay hidden" id="menu-rift"><div class="menu-card rift-shell"><div class="menu-title">⚡ FENDA HORIZONTE</div><div class="menu-subtitle">5 pistas · 1 volta cada · dano e combustível atravessam a run · morreu, perdeu o banco.</div><div id="riftStatus" class="rift-status">5 PISTAS · 1 VIDA · ~9 MIN</div><div id="riftTracks" class="rift-tracks"></div><div id="riftMods" class="rift-mods">SEM CARTAS</div><div id="riftCards" class="rift-cards"></div><button class="btn green full" id="btnRiftStart">⚡ INICIAR NOVA FENDA</button><button class="btn secondary full" id="btnRiftBack">◀ MODOS</button></div></div>
+            <div class="menu-overlay hidden" id="menu-settings">
+                <div class="menu-card">
+                    <div class="menu-title">AJUSTES AAA</div>
+                    <div class="menu-subtitle">Áudio, qualidade, controles, IA e acessibilidade. Tudo persiste no mesmo SAVE_KEY.</div>
+                    <div class="settings-grid aaa">
+                        <div class="menu-panel"><b>ÁUDIO</b><label class="settings-row"><span>Música</span><input id="settingMusic" type="range" min="0" max="100" value="53"><output id="settingMusicValue">53%</output></label><label class="settings-row"><span>Efeitos</span><input id="settingSfx" type="range" min="0" max="100" value="37"><output id="settingSfxValue">37%</output></label><p class="muted">Ducking automático permanece ativo.</p></div>
+                        <div class="menu-panel"><b>QUALIDADE</b><div class="quality-buttons" style="grid-template-columns:repeat(4,1fr)"><button class="btn secondary small" id="btnQualityLow">LOW</button><button class="btn secondary small" id="btnQualityMed">MED</button><button class="btn secondary small" id="btnQualityHigh">HIGH</button><button class="btn secondary small" id="btnQualityCrt">CRT</button></div><div class="data-line"><span>Perfil</span><b id="qualityLabel">HIGH</b></div><label class="data-line"><span>FPS</span><select id="settingFps" class="select-row"><option value="60">60</option><option value="30">30</option></select></label></div>
+                        <div class="menu-panel"><b>CONTROLES</b><label class="settings-row"><span>Sensib.</span><input id="settingSensitivity" type="range" min="50" max="150" value="100"><output id="settingSensitivityValue">100%</output></label><label class="settings-row"><span>Deadzone</span><input id="settingDeadzone" type="range" min="0" max="30" value="8"><output id="settingDeadzoneValue">8%</output></label><label class="data-line"><span>Botões virtuais</span><input id="settingVirtualButtons" type="checkbox"></label><button class="btn secondary small full" id="btnShowTouchHint" type="button">REEXIBIR DICA DE CONTROLES</button></div><div class="menu-panel"><b>ACESSIBILIDADE</b><label class="data-line"><span>Daltonismo</span><select id="settingColorblind" class="select-row"><option value="OFF">DESLIGADO</option><option value="PROTAN">PROTAN</option><option value="DEUTER">DEUTER</option><option value="TRITAN">TRITAN</option></select></label><label class="data-line"><span>Mão esquerda</span><input id="settingLeftHanded" type="checkbox"></label><label class="settings-row"><span>Tamanho botões</span><input id="settingButtonScale" type="range" min="80" max="140" value="100"><output id="settingButtonScaleValue">100%</output></label><label class="data-line"><span>Assist. direção</span><select id="settingSteerAssist" class="select-row"><option value="OFF">DESLIGADA</option><option value="LEVE">LEVE</option><option value="MEDIO">MÉDIA</option><option value="FORTE">FORTE</option></select></label><label class="data-line"><span>Legendas sonoras</span><input id="settingCaptions" type="checkbox" checked></label><p class="muted">Assistências não reduzem prêmio nem bloqueiam progresso.</p></div>
+                        <div class="menu-panel"><b>CAMPEONATO / ACESS.</b><label class="data-line"><span>Controle</span><select id="settingControlMode" class="select-row"><option value="PADRAO">PADRÃO</option><option value="COPILOTO">COPILOTO · AUTO</option></select></label><label class="data-line"><span>IA</span><select id="settingAI" class="select-row"><option value="CAMPEONATO">CAMPEONATO</option><option value="FIXA">FIXA</option></select></label><label class="data-line"><span>Dificuldade</span><select id="settingDifficulty" class="select-row"><option value="FACIL">FÁCIL</option><option value="NORMAL">NORMAL</option><option value="HEROI">HERÓI</option><option value="LENDA">LENDÁRIO</option></select></label><label class="data-line"><span>HUD</span><select id="settingHud" class="select-row"><option value="S">S</option><option value="M">M</option><option value="L">L</option></select></label><label class="data-line"><span>Reduzir flash</span><input id="settingReducedFlash" type="checkbox"></label><p class="muted">COPILOTO acelera sozinho. LENDÁRIO remove a seta de curva e o rubber-band, aperta combustível/dano e fortalece GHOST.</p></div><div class="menu-panel"><b>PRIVACIDADE / MÉTRICAS</b><label class="data-line"><span>Enviar telemetria anônima</span><input id="settingTelemetryOptIn" type="checkbox"></label><label class="settings-row"><span>Endpoint HTTPS</span><input id="settingTelemetryEndpoint" class="select-row" type="url" placeholder="desligado"></label><p class="muted">Padrão: só local. Sem nome, e-mail, IP salvo no jogo ou identificador pessoal.</p></div>
+                    </div>
+                    <button class="btn secondary full" id="btnSettingsBack">◀ VOLTAR</button>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-cups"><div class="menu-card"><div class="menu-title">37 COPAS</div><div class="menu-subtitle">Escolha uma copa aberta, reveja pistas antigas sem alterar a carreira e persiga ouros.</div><div id="cupsGrid" class="aaa-grid scroll-grid"></div><button class="btn secondary full" id="btnCupsBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-tracks"><div class="menu-card"><div class="menu-title" id="tracksCupTitle">COPA</div><canvas id="tracksPreview" class="preview-ribbon" width="620" height="116"></canvas><div id="tracksGrid" class="aaa-grid scroll-grid"></div><div class="menu-grid"><button class="btn green" id="btnTrackRace">CORRER PISTA</button><button class="btn secondary" id="btnTracksBack">◀ COPAS</button></div></div></div>
+            <div class="menu-overlay hidden" id="menu-trophies"><div class="menu-card"><div class="menu-title">SALA DE TROFÉUS</div><div id="trophiesGrid" class="aaa-grid scroll-grid"></div><button class="btn secondary full" id="btnTrophiesBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-almanac"><div class="menu-card"><div class="menu-title">ALMANAQUE 999</div><div class="menu-subtitle" id="almanacProgress">0/999 pistas descobertas</div><div class="menu-grid three"><button class="btn secondary" id="btnAlmanacPrev">◀ COPA</button><div class="menu-panel center"><b id="almanacCupTitle">COPA 01</b></div><button class="btn secondary" id="btnAlmanacNext">COPA ▶</button></div><div id="almanacGrid" class="almanac-grid scroll-grid"></div><button class="btn secondary full" id="btnAlmanacBack">◀ MENU</button></div></div>
+
+            <div class="menu-overlay hidden" id="menu-licenses"><div class="menu-card"><div class="menu-title">LICENÇAS HORIZONTE</div><div class="menu-subtitle">60 provas curtas. Aprenda curva, ultrapassagem, vácuo e pit dominando a pista.</div><div class="menu-panel license-summary"><b id="licenseSummary">0/60 OUROS</b><span id="licenseLastResult" class="muted">Escolha uma licença.</span></div><div id="licensesGrid" class="license-grid scroll-grid"></div><button class="btn secondary full" id="btnLicensesBack">◀ MODOS</button></div></div>
+            <div class="menu-overlay hidden" id="menu-modes"><div class="menu-card compact"><div class="menu-title">MODOS DE JOGO</div><div id="modesGrid" class="aaa-grid"></div><div class="menu-panel"><div id="dailyInfo" class="muted"></div></div><button class="btn secondary full" id="btnModesBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-metrics"><div class="menu-card metrics-shell"><div class="menu-title">PAINEL DE MÉTRICAS</div><div class="menu-subtitle">5 toques no logo · dados locais deste aparelho · sem PII.</div><canvas id="metricsCanvas" width="860" height="520" aria-label="Painel local de métricas"></canvas><div class="menu-panel"><b>LEITURA HONESTA</b><p class="muted">D1/D7/D30 são sinais de retorno desta instalação, não retenção populacional. Envio externo exige opt-in e endpoint HTTPS configurado.</p></div><button class="btn secondary full" id="btnMetricsBack">◀ MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-credits"><div class="menu-card compact"><div class="menu-title legendary">CAMPEÃO LENDÁRIO</div><div class="credits-roll">RETRÔ RACER CHAMPIONSHIP
+
+999 PISTAS CONCLUÍDAS
+37 COPAS
+22 RIVAIS
+
+DIREÇÃO / CRIAÇÃO
+Dennys Smaniotto Pavanelli
+
+CLÁSSICOS DOS GAMES
+
+OBRIGADO POR CORRER ATÉ O HORIZONTE ZERO.
+
+🏁 FIM 🏁</div><button class="btn green full" id="btnCreditsMenu">VOLTAR AO MENU</button></div></div>
+            <div class="menu-overlay hidden" id="menu-help">
+                <div class="menu-card">
+                    <div class="menu-title">COMO JOGAR</div>
+                    <div class="menu-grid">
+                        <div class="menu-panel"><b>🏎️ Direção</b><p class="muted">Entre nas curvas dosando volante e freio. Fora da pista perde velocidade e aumenta dano.</p></div>
+                        <div class="menu-panel"><b>🔥 Nitro</b><p class="muted">Aumenta muito a velocidade, mas consome combustível. Recarrega no vácuo, em volta limpa e recebe carga forte no pit.</p></div>
+                        <div class="menu-panel"><b>⛽ Pit Stop</b><p class="muted">Quando aparecer a faixa amarela à direita, encoste e reduza bem antes da faixa e entre abaixo do limite indicado; o pit mostra PNEUS / GAS / ÁGUA / GO.</p></div>
+                        <div class="menu-panel"><b>🔧 Garagem</b><p class="muted">Repare danos, compre carros e melhore motor, pneus, tanque, nitro e chassi.</p></div>
+                    </div>
+                    <button class="btn secondary full" id="btnHelpBack">◀ VOLTAR</button>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-pause">
+                <div class="menu-card compact">
+                    <div class="menu-title">PAUSADO</div>
+                    <div class="menu-grid"><button class="btn green" id="btnResume">▶ CONTINUAR</button><button class="btn secondary" id="btnPauseGarage">🔧 GARAGEM</button><button class="btn red full" id="btnQuitRace">🚪 SAIR DA CORRIDA</button></div>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-highlight"><div class="menu-card highlight-shell"><div class="menu-title">🎬 CLIPE DE DESTAQUE</div><div class="menu-subtitle" id="highlightTitle">MELHOR MOMENTO</div><div class="highlight-layout"><canvas id="highlightCanvas" width="360" height="640"></canvas><div class="highlight-side"><div class="menu-panel"><b id="highlightMeta">FASE · CARRO · CÓDIGO</b><p class="muted">8 segundos · vertical 9:16 · replay por inputs · marca do jogo e Código de Sombra.</p><div id="highlightStatus" class="highlight-status">PRONTO PARA REPRODUZIR.</div></div><button class="btn green full" id="btnHighlightShare">📲 COMPARTILHAR</button><button class="btn secondary full" id="btnHighlightExport">⬇ EXPORTAR WEBM</button><button class="btn secondary full" id="btnHighlightReplay">▶ REPRODUZIR</button><button class="btn secondary full" id="btnHighlightBack">◀ RESULTADO</button></div></div></div></div>
+
+            <div class="menu-overlay hidden" id="menu-results">
+                <div class="menu-card">
+                    <div class="menu-title" id="resultTitle">RESULTADO</div>
+                    <div class="result-rank" id="resultRank">1º</div>
+                    <div class="menu-grid three">
+                        <div class="menu-panel center"><b>PRÊMIO</b><div class="hud-value" id="resultPrize">CR$ 0</div><div class="risk-result" id="resultFichas">+0 FICHAS</div></div>
+                        <div class="menu-panel center"><b>MEDALHA</b><div class="hud-value" id="resultMedal">OURO</div></div>
+                        <div class="menu-panel center"><b>TEMPO TOTAL</b><div class="hud-value" id="resultTime">00:00.0</div><div class="muted tiny" id="resultBestLap">MELHOR VOLTA --:--.-</div></div>
+                    </div>
+                    <div id="coachPanel" class="coach-panel hidden"><div class="coach-head"><b id="coachTitle">TREINADOR</b><span>TRAÇO DA VOLTA</span></div><canvas id="coachTraceCanvas" width="620" height="130"></canvas><div class="coach-sectors"><div id="coachSector1" class="coach-sector"><b>S1</b><span>--</span></div><div id="coachSector2" class="coach-sector"><b>S2</b><span>--</span></div><div id="coachSector3" class="coach-sector"><b>S3</b><span>--</span></div></div><div id="coachTip" class="coach-tip">Uma dica por corrida.</div></div>
+                    <div class="ranking-list" id="resultRanking"></div>
+                    <div class="menu-grid"><button class="btn green" id="btnNextRace">PRÓXIMA ▶</button><button class="btn secondary hidden" id="btnRewardDouble">▶ DOBRAR PRÊMIO · OPCIONAL</button><button class="btn secondary" id="btnResultShadow">🧬 CÓDIGO DE SOMBRA</button><button class="btn secondary" id="btnHighlight">🎬 CLIPE 8S</button><button class="btn secondary" id="btnResultsGarage">🔧 GARAGEM</button><button class="btn secondary full" id="btnResultsMenu">MENU</button></div>
+                </div>
+            </div>
+
+            <div class="menu-overlay hidden" id="menu-gameover">
+                <div class="menu-card compact">
+                    <div class="menu-title" style="color:#ff4b4b">GAME OVER</div>
+                    <div class="menu-subtitle" id="gameOverReason">Pane seca.</div>
+                    <div class="menu-grid"><button class="btn green" id="btnRetry">🔁 TENTAR NOVAMENTE</button><button class="btn green hidden" id="btnRewardContinue">▶ CONTINUAR FENDA · 1×</button><button class="btn secondary" id="btnGameOverGarage">🔧 GARAGEM</button><button class="btn secondary full" id="btnGameOverMenu">MENU</button></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- V40 Track Pack: 999 circuitos distintos -->
+
+    <!-- Runtime modularizado: entrada ES module em src/main.js -->
+
+
+    <!-- V37 Music Pack 999 Classic Top Gear Formula -->
+    <script src="assets/music/retro16_classic_tracker_engine.js"></script>
+    <script src="assets/music/retro16_music_bridge.js"></script>
+
+    <!-- V38 Premium Audio FX Pack + V39 Final Audio Manager -->
+    <script src="assets/sfx/retro16_sfx_bank.js"></script>
+    <script src="assets/sfx/retro16_sfx_engine.js"></script>
+    <script src="assets/sfx/retro16_sfx_bridge.js"></script>
+
+    <!-- V39 Final Audio Manager -->
+    <script src="assets/audio/retro16_audio_manager.js"></script>
+    <script type="module" src="src/main.js"></script>
+</body>
+</html>

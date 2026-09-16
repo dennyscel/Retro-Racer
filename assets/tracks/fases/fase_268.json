@@ -1,0 +1,208 @@
+{
+  "id": 268,
+  "championship": 10,
+  "cupName": "Copa Chuva de Verão",
+  "cupRace": 25,
+  "name": "Rally Cascata Arcade",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.2675,
+  "lapTargetSeconds": 66,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.68,
+  "pits": [
+    0.21,
+    0.55,
+    0.84
+  ],
+  "palette": {
+    "grass": "#19aa24",
+    "grass2": "#15a01e",
+    "shoulder": "#377c26",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#198723",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 104,
+      "l": 51,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 168,
+      "l": 42,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 115,
+      "l": 59,
+      "c": -2.43,
+      "y": 10,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 112,
+      "l": 54,
+      "c": 1.68,
+      "y": 40,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 137,
+      "l": 69,
+      "c": -1.59,
+      "y": -4,
+      "w": 0.87,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 100,
+      "l": 52,
+      "c": 2.22,
+      "y": -50,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 47,
+      "l": 57,
+      "c": 5.4,
+      "y": 10,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 66,
+      "l": 38,
+      "c": -2.58,
+      "y": 0,
+      "w": 0.87,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 21,
+      "c": -2.96,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 37,
+      "l": 31,
+      "c": 2.61,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 62,
+      "l": 26,
+      "c": 1.22,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 41,
+      "l": 31,
+      "c": -1.4,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 36,
+      "c": 1.58,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 39,
+      "c": -4.41,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 47,
+      "l": 32,
+      "c": 3.94,
+      "y": -6,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 168,
+      "l": 66,
+      "c": 3.61,
+      "y": -12,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 137,
+      "l": 35,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 70,
+      "h": 152,
+      "l": 42,
+      "c": -1.59,
+      "y": 10,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 38,
+      "h": 136,
+      "l": 62,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "8f549c58834b"
+}

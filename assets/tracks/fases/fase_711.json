@@ -1,0 +1,208 @@
+{
+  "id": 711,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 9,
+  "name": "Circuito Turbo Norte",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.7114,
+  "lapTargetSeconds": 74,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.699,
+  "pits": [
+    0.28,
+    0.56,
+    0.83
+  ],
+  "palette": {
+    "grass": "#282839",
+    "grass2": "#191927",
+    "shoulder": "#151523",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0f0f21",
+    "mountSnow": false,
+    "road": "#2d2d37",
+    "road2": "#272731"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 69,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 27,
+      "c": -3.82,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 63,
+      "l": 40,
+      "c": 3.39,
+      "y": 6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 62,
+      "h": 156,
+      "l": 62,
+      "c": 5.55,
+      "y": 18,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 187,
+      "l": 36,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 99,
+      "l": 44,
+      "c": -3.05,
+      "y": 1,
+      "w": 1.1,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 106,
+      "l": 37,
+      "c": -2.21,
+      "y": 41,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 121,
+      "l": 54,
+      "c": 4.11,
+      "y": 1,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 112,
+      "l": 65,
+      "c": -2.67,
+      "y": -33,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 58,
+      "l": 38,
+      "c": 6.48,
+      "y": -12,
+      "w": 0.92,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 99,
+      "l": 45,
+      "c": 3.3,
+      "y": 14,
+      "w": 1.13,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 44,
+      "l": 20,
+      "c": -3.82,
+      "y": 0,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 32,
+      "l": 34,
+      "c": 3.39,
+      "y": -6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 61,
+      "l": 21,
+      "c": -3.46,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 40,
+      "l": 26,
+      "c": 3.64,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 51,
+      "l": 31,
+      "c": -3.82,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 38,
+      "c": 5.26,
+      "y": 12,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 42,
+      "l": 35,
+      "c": -4.72,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 44,
+      "h": 87,
+      "l": 47,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "518445fad1c2"
+}

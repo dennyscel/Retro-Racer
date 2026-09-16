@@ -1,0 +1,272 @@
+{
+  "version": "AAA_R2+C14",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 66,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "control": "PADRAO",
+      "coach": 56
+    },
+    "copilot": {
+      "snapshot": {
+        "control": "COPILOTO",
+        "difficulty": "NORMAL",
+        "copilot": true,
+        "legendary": false,
+        "rubberBand": true,
+        "ghostMultiplier": 1,
+        "damage": 1,
+        "fuel": 1,
+        "ai": 1
+      },
+      "autoSpeed": 4746.067415730332,
+      "brakeSpeed": 0,
+      "x0": 0,
+      "x1": 0.0864469812734083,
+      "jump": false,
+      "message": "ULTRAPASSAGEM!"
+    },
+    "legendary": {
+      "snapshot": {
+        "control": "PADRAO",
+        "difficulty": "LENDA",
+        "copilot": false,
+        "legendary": true,
+        "rubberBand": false,
+        "ghostMultiplier": 1.08,
+        "damage": 1.42,
+        "fuel": 1.2,
+        "ai": 1.07
+      },
+      "normalGhost": 10415.361599999998,
+      "legendGhost": 11248.590528,
+      "ratio": 1.0800000000000003,
+      "curveVisible": false
+    },
+    "ui": {
+      "control": "COPILOTO",
+      "difficulty": "LENDA",
+      "controlOptions": 2,
+      "legendText": "LENDÁRIO"
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "fps": {
+      "frames": 72,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 35,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 261,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version66": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 107553,
+      "kb": 105.0,
+      "ok": true
+    },
+    "licenses": {
+      "module": true,
+      "countFormula": true,
+      "menu": true,
+      "hud": true,
+      "carThresholds": true
+    },
+    "paintShop": {
+      "module": true,
+      "menu": true,
+      "patterns12": true,
+      "codec": true,
+      "liveries": true,
+      "flag": true
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 25,
+      "missing": [],
+      "cacheVersion": "c14"
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    },
+    "driveModes": {
+      "module": true,
+      "setting": true,
+      "copilot": true,
+      "legendGhost": true,
+      "noRubber": true,
+      "ui": true,
+      "flag": true
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "mobile": {
+    "viewport": "390x844",
+    "menu_scroll": 978,
+    "client": 844,
+    "result": "PASS"
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "gamepad/haptics físicos",
+    "PWA instalada via HTTPS"
+  ]
+}

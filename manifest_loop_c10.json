@@ -1,0 +1,42 @@
+{
+  "product": "Retrô Racer Championship — Horizonte Zero",
+  "version": "AAA_R2+C10",
+  "date": "2026-09-15",
+  "author": "Dennys Smaniotto Pavanelli",
+  "save_key": "retro_racer_championship_v30",
+  "tracks": 999,
+  "cups": 37,
+  "tracks_per_cup": 27,
+  "career_laps": 5,
+  "rivals": 22,
+  "cars": 12,
+  "entrypoint": "index.html",
+  "requires_http": true,
+  "cycle_focus": "OURO 10 — TEMPORADA HORIZONTE",
+  "architecture": {
+    "native_es_modules": true,
+    "max_src_lines": 351,
+    "c10_season": true,
+    "season_days": 28,
+    "season_pass_levels": 40,
+    "next": "OURO 11 — LICENÇAS"
+  },
+  "qa": {
+    "node_check": "PASS",
+    "season_determinism": "PASS",
+    "daily_anti_farm": "PASS",
+    "weekly_gauntlet": "3 unique PASS",
+    "season_rollover": "PASS",
+    "shadow_board": "PASS",
+    "tracks_json": 999,
+    "sentinels": "1,27,333,666,999 PASS",
+    "determinism_3x": "PASS",
+    "service_worker_runtime_modules": "21/21",
+    "shell_gzip_kb": 93.1,
+    "lab_fps": 59.88,
+    "runtime_page_errors": 0,
+    "runtime_console_errors": 0
+  },
+  "state_file": "ESTADO_DO_LOOP.json",
+  "integrity_file": "INTEGRIDADE.json"
+}

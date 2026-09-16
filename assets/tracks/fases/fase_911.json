@@ -1,0 +1,208 @@
+{
+  "id": 911,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 20,
+  "name": "Via Expressa Cobalto Master",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9118,
+  "lapTargetSeconds": 80,
+  "signature": "sequência travada",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.711,
+  "pits": [
+    0.17,
+    0.51,
+    0.91
+  ],
+  "palette": {
+    "grass": "#b9c2ce",
+    "grass2": "#adb9c8",
+    "shoulder": "#6b8190",
+    "skyTop": "#65accd",
+    "skyBot": "#b0cbd9",
+    "mountColor": "#394a59",
+    "mountSnow": true,
+    "road": "#3e4755",
+    "road2": "#353e4c"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 115,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 53,
+      "h": 110,
+      "l": 37,
+      "c": -2.78,
+      "y": 37,
+      "w": 1.15,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 141,
+      "l": 54,
+      "c": 2.89,
+      "y": 3,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 68,
+      "l": 45,
+      "c": 3.17,
+      "y": -37,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 78,
+      "l": 42,
+      "c": 7.67,
+      "y": 18,
+      "w": 1.13,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 69,
+      "l": 46,
+      "c": 4.09,
+      "y": 14,
+      "w": 0.89,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 40,
+      "h": 30,
+      "l": 30,
+      "c": -4.75,
+      "y": -8,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 44,
+      "l": 22,
+      "c": 4.25,
+      "y": 4,
+      "w": 0.92,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 57,
+      "l": 37,
+      "c": -4.06,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 36,
+      "l": 24,
+      "c": 4.24,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 47,
+      "l": 29,
+      "c": -4.42,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 44,
+      "l": 26,
+      "c": 6.2,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 54,
+      "l": 23,
+      "c": -5.58,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 77,
+      "h": 181,
+      "l": 87,
+      "c": 5.34,
+      "y": 24,
+      "w": 0.98,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 160,
+      "l": 27,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 72,
+      "l": 63,
+      "c": 2.89,
+      "y": -1,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 59,
+      "l": 62,
+      "c": 3.66,
+      "y": 38,
+      "w": 1.04,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 94,
+      "l": 73,
+      "c": 3.95,
+      "y": 23,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 135,
+      "l": 59,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e41ab5e51e0c"
+}

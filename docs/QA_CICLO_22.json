@@ -1,0 +1,201 @@
+{
+  "ciclo": 22,
+  "ouro": "PACOTE DE VITRINE",
+  "resultado": "PASS",
+  "testes": {
+    "documentos_investidor": {
+      "status": "PASS",
+      "total": 9,
+      "detalhe": "8 obrigatórios + índice do pacote"
+    },
+    "deck_12_slides": {
+      "status": "PASS",
+      "slides": 12
+    },
+    "aso_3_idiomas": {
+      "status": "PASS"
+    },
+    "pitch_3_numeros": {
+      "status": "PASS"
+    },
+    "press_midia": {
+      "status": "PASS",
+      "arquivos": [
+        {
+          "file": "01_gameplay_coach.png",
+          "format": "PNG",
+          "width": 1280,
+          "height": 720,
+          "frames": 1,
+          "bytes": 146647
+        },
+        {
+          "file": "02_season.png",
+          "format": "PNG",
+          "width": 1280,
+          "height": 720,
+          "frames": 1,
+          "bytes": 177605
+        },
+        {
+          "file": "03_rift.png",
+          "format": "PNG",
+          "width": 1280,
+          "height": 720,
+          "frames": 1,
+          "bytes": 173824
+        },
+        {
+          "file": "04_paint.png",
+          "format": "PNG",
+          "width": 1280,
+          "height": 720,
+          "frames": 1,
+          "bytes": 184734
+        },
+        {
+          "file": "05_story.png",
+          "format": "PNG",
+          "width": 1280,
+          "height": 800,
+          "frames": 1,
+          "bytes": 52102
+        },
+        {
+          "file": "06_accessibility.png",
+          "format": "PNG",
+          "width": 390,
+          "height": 844,
+          "frames": 1,
+          "bytes": 89186
+        },
+        {
+          "file": "preview_product.gif",
+          "format": "GIF",
+          "width": 960,
+          "height": 540,
+          "frames": 5,
+          "bytes": 434938
+        },
+        {
+          "file": "preview_social_loop.gif",
+          "format": "GIF",
+          "width": 960,
+          "height": 540,
+          "frames": 4,
+          "bytes": 345491
+        }
+      ]
+    },
+    "claims_sem_metricas_inventadas": {
+      "status": "PASS",
+      "detalhe": "D1/D7/D30, k-factor e mercado são rotulados como metas/hipóteses, não resultados."
+    },
+    "qa_estatico_global": {
+      "node_check": {
+        "status": "PASS",
+        "files": 42,
+        "failed": []
+      },
+      "max_module_lines": {
+        "status": "PASS",
+        "max": 358,
+        "file": "src/audio/runtime.js"
+      },
+      "save_key": {
+        "status": "PASS"
+      },
+      "tracks": {
+        "status": "PASS",
+        "count": 999,
+        "sentinels": [
+          1,
+          27,
+          333,
+          666,
+          999
+        ]
+      },
+      "html_ids": {
+        "status": "PASS",
+        "count": 304,
+        "duplicates": []
+      },
+      "math_random_src": {
+        "status": "PASS",
+        "files": []
+      },
+      "four_wheels": {
+        "status": "PASS",
+        "wheel_draw_calls": 4
+      },
+      "html_assets": {
+        "status": "PASS",
+        "refs": 11,
+        "missing": []
+      },
+      "sw_modules": {
+        "status": "PASS",
+        "total": 41,
+        "missing": []
+      },
+      "shell_gzip": {
+        "status": "PASS",
+        "bytes": 133566,
+        "limit": 350000
+      },
+      "console_error_src": {
+        "status": "PASS",
+        "files": []
+      },
+      "investor_docs": {
+        "status": "PASS",
+        "count": 8,
+        "missing": []
+      },
+      "press_media": {
+        "status": "PASS",
+        "count": 8
+      }
+    },
+    "browser_jogado_c22": {
+      "status": "NAO_TESTADO",
+      "detalhe": "C22 altera documentação/mídia e somente a chave de cache do SW; não altera gameplay. Não foi inventado novo teste jogado."
+    },
+    "hardware_real": {
+      "status": "NAO_TESTADO",
+      "detalhe": "Moto G/gamepad/PWA instalado/áudio iOS-Android continuam requerendo hardware real."
+    }
+  },
+  "leis": {
+    "L1": "PASS — SAVE_KEY intacta; C22 não altera state/gameplay.",
+    "L2": "PASS — Canvas 2D pseudo-3D preservado.",
+    "L3": "PASS — zero CDN/dependência externa adicionada.",
+    "L4": "PASS — press kit usa evidências/assets do próprio projeto.",
+    "L5": "PASS — C22 não adiciona código ao hot loop; shell 133,6 KB gzip. Hardware real segue NÃO TESTADO.",
+    "L6": "PASS — shell crítico <350 KB gzip; docs/press não entram no first race.",
+    "L7": "PASS — monetização documentada continua sem venda de performance.",
+    "L8": "PASS — sem dark pattern.",
+    "L9": "PASS — nenhum código de feel/pit/touch/save alterado.",
+    "L10": "PASS — mobile primário preservado; evidências mobile incluídas.",
+    "L11": "PASS — limites e testes não executados declarados explicitamente.",
+    "L12": "PASS — ciclo final encerra somente após rubrica/pack completo."
+  },
+  "rubrica_final": {
+    "feel": 10,
+    "clareza": 10,
+    "progressao": 10,
+    "meta": 10,
+    "social": 10,
+    "audio": 9,
+    "identidade": 10,
+    "performance": 9,
+    "acessibilidade": 10,
+    "economia": 10,
+    "retencao": 10,
+    "vitrine": 10,
+    "total": 118,
+    "criterio_110": true,
+    "todos_eixos_ge_9": true
+  }
+}

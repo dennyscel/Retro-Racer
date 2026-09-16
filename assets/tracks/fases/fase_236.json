@@ -1,0 +1,181 @@
+{
+  "id": 236,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 20,
+  "name": "Via Expressa Saturno Sprint",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.2355,
+  "lapTargetSeconds": 62,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.18,
+    0.6,
+    0.82
+  ],
+  "palette": {
+    "grass": "#2c2c42",
+    "grass2": "#151528",
+    "shoulder": "#151528",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0e0e25",
+    "mountSnow": false,
+    "road": "#2f2f3b",
+    "road2": "#292935"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 76,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 46,
+      "h": 108,
+      "l": 70,
+      "c": 1.25,
+      "y": -38,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 43,
+      "l": 53,
+      "c": -3.06,
+      "y": 10,
+      "w": 1.05,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 94,
+      "l": 38,
+      "c": 3.22,
+      "y": 14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 41,
+      "l": 41,
+      "c": -3.73,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 59,
+      "l": 39,
+      "c": 3.31,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 26,
+      "c": 1.71,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 31,
+      "c": -1.89,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 36,
+      "c": 2.07,
+      "y": -5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 55,
+      "l": 37,
+      "c": 2.57,
+      "y": -8,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 31,
+      "l": 40,
+      "c": -2.25,
+      "y": 4,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 140,
+      "l": 50,
+      "c": 4.35,
+      "y": 18,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 197,
+      "l": 26,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 60,
+      "h": 128,
+      "l": 62,
+      "c": 2.14,
+      "y": -8,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 97,
+      "l": 57,
+      "c": 1.44,
+      "y": 29,
+      "w": 0.99,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 160,
+      "l": 50,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f40b19d09e61"
+}

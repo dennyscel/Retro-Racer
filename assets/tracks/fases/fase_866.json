@@ -1,0 +1,235 @@
+{
+  "id": 866,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 2,
+  "name": "Anel Solaris Arcade",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.8667,
+  "lapTargetSeconds": 80,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.708,
+  "pits": [
+    0.25,
+    0.6,
+    0.82
+  ],
+  "palette": {
+    "grass": "#ebb741",
+    "grass2": "#d9a232",
+    "shoulder": "#d19431",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#de9b3f",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 94,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 40,
+      "l": 22,
+      "c": 2.85,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 51,
+      "l": 27,
+      "c": -3.03,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 62,
+      "l": 32,
+      "c": 3.21,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 49,
+      "l": 37,
+      "c": -4.32,
+      "y": 6,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 51,
+      "l": 38,
+      "c": 3.85,
+      "y": -3,
+      "w": 0.88,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 118,
+      "l": 66,
+      "c": 6.04,
+      "y": 24,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 211,
+      "l": 29,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 66,
+      "h": 84,
+      "l": 60,
+      "c": 3.42,
+      "y": 22,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 93,
+      "l": 67,
+      "c": -2.51,
+      "y": 39,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 38,
+      "h": 106,
+      "l": 70,
+      "c": 4.47,
+      "y": -2,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 61,
+      "l": 50,
+      "c": 2.94,
+      "y": -48,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 56,
+      "l": 60,
+      "c": -7.12,
+      "y": -18,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 73,
+      "l": 45,
+      "c": -3.72,
+      "y": -14,
+      "w": 0.93,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 36,
+      "h": 44,
+      "l": 30,
+      "c": 4.32,
+      "y": 0,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 32,
+      "c": -3.85,
+      "y": 6,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 53,
+      "l": 33,
+      "c": 3.78,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 64,
+      "l": 20,
+      "c": -3.96,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 43,
+      "l": 25,
+      "c": 4.14,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 58,
+      "l": 26,
+      "c": 5.76,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 30,
+      "l": 33,
+      "c": -5.18,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 47,
+      "h": 166,
+      "l": 64,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b007971be745"
+}

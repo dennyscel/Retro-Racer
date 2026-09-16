@@ -1,0 +1,235 @@
+{
+  "id": 659,
+  "championship": 25,
+  "cupName": "Grande Prêmio Floresta Azul",
+  "cupRace": 11,
+  "name": "Vale Diamante Solar",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6593,
+  "lapTargetSeconds": 77,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.708,
+  "pits": [
+    0.21,
+    0.51,
+    0.91
+  ],
+  "palette": {
+    "grass": "#2c2c3d",
+    "grass2": "#191927",
+    "shoulder": "#191927",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0f0f21",
+    "mountSnow": false,
+    "road": "#2d2d37",
+    "road2": "#272731"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 77,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 41,
+      "c": -4.23,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 41,
+      "l": 30,
+      "c": 3.77,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 168,
+      "l": 52,
+      "c": 3.44,
+      "y": -18,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 183,
+      "l": 34,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 60,
+      "h": 79,
+      "l": 64,
+      "c": 3.35,
+      "y": 14,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 90,
+      "l": 55,
+      "c": -2.46,
+      "y": 53,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 101,
+      "l": 38,
+      "c": 2.51,
+      "y": 20,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 104,
+      "l": 73,
+      "c": -2.89,
+      "y": -53,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 46,
+      "l": 42,
+      "c": 7.0,
+      "y": -18,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 71,
+      "l": 35,
+      "c": -3.65,
+      "y": 14,
+      "w": 0.98,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 34,
+      "c": 4.23,
+      "y": 0,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 48,
+      "l": 24,
+      "c": -3.77,
+      "y": 6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 23,
+      "c": -2.04,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 28,
+      "c": 2.22,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 33,
+      "c": -2.4,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 30,
+      "c": 5.67,
+      "y": 6,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 58,
+      "l": 25,
+      "c": -5.1,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 85,
+      "h": 149,
+      "l": 71,
+      "c": 4.83,
+      "y": 18,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 152,
+      "l": 27,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 116,
+      "l": 47,
+      "c": 2.51,
+      "y": 20,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 115,
+      "l": 59,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "6989f0acd590"
+}

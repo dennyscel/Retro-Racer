@@ -1,0 +1,199 @@
+{
+  "id": 691,
+  "championship": 26,
+  "cupName": "Liga Desfiladeiro Ônix",
+  "cupRace": 16,
+  "name": "Autódromo Mandacaru Pro",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.6914,
+  "lapTargetSeconds": 74,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.697,
+  "pits": [
+    0.24,
+    0.67,
+    0.75
+  ],
+  "palette": {
+    "grass": "#12a21d",
+    "grass2": "#149e1d",
+    "shoulder": "#397e28",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1f8d29",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 83,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 73,
+      "h": 161,
+      "l": 67,
+      "c": -5.49,
+      "y": -12,
+      "w": 1.05,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 148,
+      "l": 28,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 132,
+      "l": 55,
+      "c": 3.01,
+      "y": 20,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 83,
+      "l": 37,
+      "c": -2.17,
+      "y": 50,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 154,
+      "l": 65,
+      "c": -4.06,
+      "y": 14,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 61,
+      "l": 65,
+      "c": 2.64,
+      "y": -45,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 81,
+      "l": 39,
+      "c": -6.4,
+      "y": -18,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 42,
+      "h": 104,
+      "l": 33,
+      "c": 3.25,
+      "y": 14,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 39,
+      "l": 35,
+      "c": -3.75,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 39,
+      "l": 24,
+      "c": 3.34,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 58,
+      "l": 36,
+      "c": 3.41,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 37,
+      "l": 23,
+      "c": -3.59,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 28,
+      "c": 3.77,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 41,
+      "h": 53,
+      "l": 31,
+      "c": -5.2,
+      "y": -8,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 49,
+      "l": 25,
+      "c": 4.66,
+      "y": 4,
+      "w": 1.16,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 142,
+      "l": 86,
+      "c": 4.37,
+      "y": -18,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 43,
+      "h": 91,
+      "l": 43,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "0c69a1f6aa07"
+}

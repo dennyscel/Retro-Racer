@@ -1,0 +1,208 @@
+{
+  "id": 916,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 25,
+  "name": "Travessia Falésia Prime",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.9168,
+  "lapTargetSeconds": 80,
+  "signature": "reta com vento",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.711,
+  "pits": [
+    0.18,
+    0.64,
+    0.84
+  ],
+  "palette": {
+    "grass": "#15b421",
+    "grass2": "#09a213",
+    "shoulder": "#388425",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#148d1f",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 114,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 144,
+      "l": 40,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.01,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 151,
+      "l": 59,
+      "c": 3.96,
+      "y": 9,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 80,
+      "l": 37,
+      "c": -2.97,
+      "y": 48,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 89,
+      "l": 69,
+      "c": -3.11,
+      "y": 9,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 112,
+      "l": 70,
+      "c": 3.33,
+      "y": -50,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 71,
+      "l": 61,
+      "c": -8.06,
+      "y": -18,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 35,
+      "c": 4.35,
+      "y": -14,
+      "w": 0.93,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 31,
+      "c": 5.06,
+      "y": 0,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 51,
+      "l": 28,
+      "c": -4.53,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 54,
+      "l": 26,
+      "c": 2.58,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 65,
+      "l": 31,
+      "c": -2.76,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 44,
+      "l": 36,
+      "c": 2.94,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 27,
+      "c": -6.5,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 61,
+      "l": 29,
+      "c": 5.86,
+      "y": 6,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 144,
+      "l": 84,
+      "c": 5.63,
+      "y": 24,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 113,
+      "l": 33,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 104,
+      "l": 42,
+      "c": 3.11,
+      "y": 17,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 40,
+      "h": 112,
+      "l": 46,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "1b0359280e9a"
+}

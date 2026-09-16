@@ -1,0 +1,190 @@
+{
+  "id": 401,
+  "championship": 15,
+  "cupName": "Torneio Baía dos Ventos",
+  "cupRace": 23,
+  "name": "Vale Monsoon RX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.4008,
+  "lapTargetSeconds": 66,
+  "signature": "S técnico",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.68,
+  "pits": [
+    0.17,
+    0.48,
+    0.85
+  ],
+  "palette": {
+    "grass": "#16b422",
+    "grass2": "#11a91b",
+    "shoulder": "#398527",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#168e21",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 99,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 71,
+      "h": 143,
+      "l": 71,
+      "c": -4.03,
+      "y": 12,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 158,
+      "l": 38,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 140,
+      "l": 53,
+      "c": -1.9,
+      "y": 12,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 75,
+      "l": 62,
+      "c": 2.83,
+      "y": 48,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 78,
+      "l": 63,
+      "c": 2.95,
+      "y": 4,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 69,
+      "l": 45,
+      "c": 1.84,
+      "y": -43,
+      "w": 1.07,
+      "f": "descida rápida"
+    },
+    {
+      "e": 41,
+      "h": 75,
+      "l": 57,
+      "c": 4.48,
+      "y": -18,
+      "w": 0.86,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 104,
+      "l": 37,
+      "c": 1.96,
+      "y": 0,
+      "w": 1.07,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 51,
+      "l": 31,
+      "c": -4.84,
+      "y": 0,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 28,
+      "c": 4.33,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 34,
+      "c": 2.43,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 21,
+      "c": -2.61,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 26,
+      "c": 2.79,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 31,
+      "l": 27,
+      "c": -3.68,
+      "y": -8,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 33,
+      "l": 29,
+      "c": 3.27,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 38,
+      "h": 105,
+      "l": 69,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4572cf3a9dd7"
+}

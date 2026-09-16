@@ -1,0 +1,190 @@
+{
+  "id": 341,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 17,
+  "name": "Desafio Solaris RX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.3407,
+  "lapTargetSeconds": 65,
+  "signature": "S técnico",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.676,
+  "pits": [
+    0.22,
+    0.6,
+    0.79
+  ],
+  "palette": {
+    "grass": "#13981d",
+    "grass2": "#1c9b24",
+    "shoulder": "#39792a",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1c8125",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 113,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 75,
+      "h": 179,
+      "l": 53,
+      "c": -4.68,
+      "y": 12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 98,
+      "l": 28,
+      "c": 0.15,
+      "y": -6,
+      "w": 0.94,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 104,
+      "l": 65,
+      "c": -2.39,
+      "y": -3,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 91,
+      "l": 37,
+      "c": 1.65,
+      "y": 52,
+      "w": 1.17,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 126,
+      "l": 39,
+      "c": -1.55,
+      "y": 17,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 89,
+      "l": 45,
+      "c": 2.19,
+      "y": -19,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 87,
+      "l": 53,
+      "c": -5.33,
+      "y": -12,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 34,
+      "h": 94,
+      "l": 40,
+      "c": 2.53,
+      "y": 14,
+      "w": 1.1,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 37,
+      "c": 2.91,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 31,
+      "c": -2.56,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 64,
+      "l": 28,
+      "c": -2.87,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 43,
+      "l": 33,
+      "c": 3.05,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 20,
+      "c": -3.23,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 33,
+      "c": -4.35,
+      "y": 12,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 31,
+      "l": 32,
+      "c": 3.89,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 117,
+      "l": 57,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e1d1109c0c28"
+}

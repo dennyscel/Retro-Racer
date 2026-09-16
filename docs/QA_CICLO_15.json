@@ -1,0 +1,126 @@
+{
+  "version": "AAA_R2+C15",
+  "date": "2026-09-15",
+  "runtime": {
+    "story_isolated": {
+      "chapters": 37,
+      "allSix": true,
+      "cup1": "LINHA DE PARTIDA",
+      "cup37": "HORIZONTE ZERO",
+      "continueMarksSeen": true,
+      "secondOpenSkipped": true,
+      "pageErrors": 0
+    },
+    "mobile": {
+      "viewport": "390x844",
+      "cup37Lines": 6,
+      "scrollHeight": 844,
+      "innerHeight": 844
+    },
+    "migration": {
+      "from": 66,
+      "to": 67,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "livery": "TESTE",
+      "storySeen": 0
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    }
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 36
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 268,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "value": "retro_racer_championship_v30",
+      "version67": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 114884,
+      "kb": 112.2,
+      "ok": true
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "missing": [],
+      "cacheVersion": "c15"
+    },
+    "story": {
+      "module": true,
+      "chapters": 37,
+      "sixLinesEach": true,
+      "menu": true,
+      "mobile": true,
+      "flag": "c15Story"
+    }
+  },
+  "limitations": [
+    "Chromium deste ambiente bloqueia file:// e localhost por política administrativa; runtime do módulo C15 foi executado isoladamente em Chromium via DOM injetado.",
+    "Moto G físico NÃO TESTADO.",
+    "PWA instalada via HTTPS NÃO TESTADA em hardware."
+  ]
+}

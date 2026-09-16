@@ -1,0 +1,97 @@
+{
+  "ciclo": 21,
+  "ouro": "ANTI-TRAPAÇA E INTEGRIDADE",
+  "resultado": "PASS",
+  "testes": {
+    "replay_hz_real": {
+      "status": "PASS",
+      "detalhe": "20 Hz; 1200 amostras para 60,0 s"
+    },
+    "prova_recorde": {
+      "status": "PASS",
+      "detalhe": "replay+seed+carro+tempo+checksum; alteração de tempo rejeitada"
+    },
+    "recorde_legado": {
+      "status": "PASS",
+      "detalhe": "preservado em integrity.legacyRecords; não é tratado como verificado"
+    },
+    "migracao_v72_v73": {
+      "status": "PASS",
+      "detalhe": "fase 333, CR$ 76543, Goliath preservados"
+    },
+    "determinismo_3x": {
+      "status": "PASS"
+    },
+    "relogio_adulterado": {
+      "status": "PASS",
+      "detalhe": "rollback >5 min marca suspect e fixa lastGoodDay"
+    },
+    "shadow_checksum": {
+      "status": "PASS",
+      "detalhe": "codec C06 preservado; checksum FNV rejeita payload alterado"
+    },
+    "save_key": {
+      "status": "PASS",
+      "valor": "retro_racer_championship_v30"
+    },
+    "pistas": {
+      "status": "PASS",
+      "total": 999,
+      "sentinelas": [
+        1,
+        27,
+        333,
+        666,
+        999
+      ]
+    },
+    "ids_html": {
+      "status": "PASS",
+      "total": 304,
+      "duplicados": 0
+    },
+    "node_check": {
+      "status": "PASS",
+      "modulos": 41
+    },
+    "max_linhas_modulo": {
+      "status": "PASS",
+      "max": 358
+    },
+    "math_random_src": {
+      "status": "PASS",
+      "total": 0
+    },
+    "assets_quebrados": {
+      "status": "PASS",
+      "total": 0
+    },
+    "shell_gzip": {
+      "status": "PASS",
+      "bytes": 132456,
+      "limite": 350000
+    },
+    "browser_jogado": {
+      "status": "NAO_TESTADO",
+      "detalhe": "nesta execução o Chromium headless não concluiu localhost; testes de lógica Node + auditoria estática realizados"
+    },
+    "hardware_real": {
+      "status": "NAO_TESTADO",
+      "detalhe": "Moto G/gamepad/PWA real"
+    }
+  },
+  "leis": {
+    "L1": "PASS",
+    "L2": "PASS",
+    "L3": "PASS",
+    "L4": "PASS",
+    "L5": "PASS",
+    "L6": "PASS",
+    "L7": "PASS",
+    "L8": "PASS",
+    "L9": "PASS",
+    "L10": "PASS",
+    "L11": "PASS",
+    "L12": "PASS"
+  }
+}

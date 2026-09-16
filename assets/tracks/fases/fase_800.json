@@ -1,0 +1,217 @@
+{
+  "id": 800,
+  "championship": 30,
+  "cupName": "Copa Fumaça e Aço",
+  "cupRace": 17,
+  "name": "Rally Mandacaru Turbo",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.8006,
+  "lapTargetSeconds": 76,
+  "signature": "sequência de placas",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.7,
+  "pits": [
+    0.22,
+    0.48,
+    0.88
+  ],
+  "palette": {
+    "grass": "#dfb556",
+    "grass2": "#d3a64c",
+    "shoulder": "#bf8e3e",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c28b42",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 66,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 24,
+      "h": 34,
+      "l": 28,
+      "c": 3.83,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 33,
+      "c": -4.01,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 56,
+      "l": 20,
+      "c": 4.19,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 37,
+      "c": -5.84,
+      "y": 6,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 45,
+      "l": 35,
+      "c": 5.25,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 100,
+      "l": 84,
+      "c": 4.99,
+      "y": 18,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 109,
+      "l": 38,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 120,
+      "l": 66,
+      "c": 2.63,
+      "y": 2,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 85,
+      "l": 36,
+      "c": -3.44,
+      "y": 37,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 40,
+      "h": 142,
+      "l": 40,
+      "c": 3.68,
+      "y": 22,
+      "w": 1.13,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 121,
+      "l": 44,
+      "c": -2.37,
+      "y": -18,
+      "w": 1.02,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 50,
+      "l": 50,
+      "c": 5.75,
+      "y": 10,
+      "w": 0.89,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 91,
+      "l": 42,
+      "c": 5.01,
+      "y": 14,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 30,
+      "c": 5.84,
+      "y": 0,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 52,
+      "l": 29,
+      "c": -5.25,
+      "y": 6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 47,
+      "l": 21,
+      "c": 3.08,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 58,
+      "l": 26,
+      "c": -3.26,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 37,
+      "l": 31,
+      "c": 3.44,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 100,
+      "l": 62,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d0ab2889b7f8"
+}

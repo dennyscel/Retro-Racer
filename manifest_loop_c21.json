@@ -1,0 +1,20 @@
+{
+  "cycle": 21,
+  "version": "AAA_R2+C21",
+  "saveKey": "retro_racer_championship_v30",
+  "gold": "Anti-trapaça e integridade",
+  "filesChanged": [
+    "src/growth/integrity.js",
+    "src/core/state.js",
+    "src/race/physics.js",
+    "src/meta/results.js",
+    "src/main.js",
+    "sw.js",
+    "docs/QA_CICLO_21.json",
+    "docs/REGISTRO_CICLO_21.md",
+    "docs/CHECKLIST_CICLO_21.md",
+    "ESTADO_DO_LOOP.json",
+    "INTEGRIDADE.json"
+  ],
+  "status": "PASS"
+}

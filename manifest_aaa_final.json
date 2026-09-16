@@ -1,0 +1,23 @@
+{
+  "name": "Retrô Racer Championship: Horizonte Zero",
+  "version": "AAA_R2+C22",
+  "status": "FINAL_CRITERION_MET",
+  "saveKey": "retro_racer_championship_v30",
+  "tracks": 999,
+  "cups": 37,
+  "cars": 12,
+  "score": 118,
+  "criteria": {
+    "all12AxesAtLeast9": true,
+    "totalAtLeast110": true,
+    "investorPackageComplete": true
+  },
+  "entry": "index.html",
+  "investorIndex": "docs/INDEX_PACOTE_INVESTIDOR.md",
+  "residualRisks": [
+    "hardware real Moto G/classe similar não validado nesta execução",
+    "gamepad/haptics físico não validado nesta execução",
+    "PWA instalado via HTTPS não validado nesta execução",
+    "áudio iOS/Android real não validado nesta execução"
+  ]
+}

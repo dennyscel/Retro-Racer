@@ -1,0 +1,199 @@
+{
+  "id": 840,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 3,
+  "name": "Ponte Orion Oeste",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.8407,
+  "lapTargetSeconds": 77,
+  "signature": "túnel escuro",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.702,
+  "pits": [
+    0.3,
+    0.47,
+    0.86
+  ],
+  "palette": {
+    "grass": "#10ae1c",
+    "grass2": "#0ea618",
+    "shoulder": "#438f31",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1a9225",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 78,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 36,
+      "h": 92,
+      "l": 39,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 83,
+      "l": 55,
+      "c": -2.94,
+      "y": 8,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 96,
+      "l": 66,
+      "c": 3.7,
+      "y": 36,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 105,
+      "l": 65,
+      "c": -3.99,
+      "y": 2,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 112,
+      "l": 54,
+      "c": 2.59,
+      "y": -46,
+      "w": 1.15,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 83,
+      "l": 41,
+      "c": -6.28,
+      "y": 10,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 84,
+      "l": 43,
+      "c": 3.16,
+      "y": 14,
+      "w": 0.98,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 21,
+      "c": -6.26,
+      "y": 6,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 51,
+      "l": 36,
+      "c": 5.63,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 50,
+      "l": 22,
+      "c": 3.35,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 61,
+      "l": 27,
+      "c": -3.53,
+      "y": 9,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 40,
+      "l": 32,
+      "c": 3.71,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 43,
+      "l": 39,
+      "c": -5.1,
+      "y": -8,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 61,
+      "l": 37,
+      "c": 4.57,
+      "y": 4,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 132,
+      "l": 50,
+      "c": 4.28,
+      "y": -18,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 181,
+      "l": 32,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 92,
+      "l": 42,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d162a1afa5d1"
+}

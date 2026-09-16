@@ -1,0 +1,217 @@
+{
+  "id": 334,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 10,
+  "name": "Anel Jaguar SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.3337,
+  "lapTargetSeconds": 67,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.688,
+  "pits": [
+    0.24,
+    0.67,
+    0.78
+  ],
+  "palette": {
+    "grass": "#11a01b",
+    "grass2": "#159f1e",
+    "shoulder": "#428631",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#198623",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 70,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 150,
+      "l": 33,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 79,
+      "l": 53,
+      "c": -3.22,
+      "y": 3,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 56,
+      "l": 50,
+      "c": 2.34,
+      "y": 42,
+      "w": 1.15,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 101,
+      "l": 63,
+      "c": -2.37,
+      "y": 11,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 116,
+      "l": 58,
+      "c": 1.42,
+      "y": -44,
+      "w": 1.02,
+      "f": "descida rápida"
+    },
+    {
+      "e": 39,
+      "h": 53,
+      "l": 39,
+      "c": 3.47,
+      "y": -18,
+      "w": 0.92,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 106,
+      "l": 41,
+      "c": -3.49,
+      "y": 14,
+      "w": 1.06,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 49,
+      "l": 21,
+      "c": -4.04,
+      "y": 0,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 43,
+      "l": 34,
+      "c": 3.6,
+      "y": -6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 20,
+      "c": 1.92,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 25,
+      "c": -2.1,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 58,
+      "l": 30,
+      "c": 2.28,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 39,
+      "c": -2.89,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 53,
+      "l": 35,
+      "c": 2.54,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 90,
+      "l": 48,
+      "c": 4.65,
+      "y": 24,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 119,
+      "l": 26,
+      "c": 0.15,
+      "y": -6,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 116,
+      "l": 72,
+      "c": -2.37,
+      "y": 11,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 69,
+      "l": 40,
+      "c": -1.64,
+      "y": 43,
+      "w": 0.94,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 114,
+      "l": 64,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "42ebab256a29"
+}

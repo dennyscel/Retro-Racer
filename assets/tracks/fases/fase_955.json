@@ -1,0 +1,199 @@
+{
+  "id": 955,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 10,
+  "name": "Boulevard Prisma SX",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9559,
+  "lapTargetSeconds": 80,
+  "signature": "chicane curta",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.709,
+  "pits": [
+    0.19,
+    0.52,
+    0.87
+  ],
+  "palette": {
+    "grass": "#bec6cd",
+    "grass2": "#b2bdc7",
+    "shoulder": "#7a8894",
+    "skyTop": "#72afcb",
+    "skyBot": "#b8cfdb",
+    "mountColor": "#47525d",
+    "mountSnow": true,
+    "road": "#454d58",
+    "road2": "#3c444f"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 113,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 67,
+      "h": 94,
+      "l": 46,
+      "c": -2.69,
+      "y": 49,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 145,
+      "l": 62,
+      "c": 4.68,
+      "y": 3,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 104,
+      "l": 59,
+      "c": 3.09,
+      "y": -45,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 66,
+      "l": 58,
+      "c": 7.49,
+      "y": 18,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 57,
+      "l": 48,
+      "c": -3.97,
+      "y": 0,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 46,
+      "l": 30,
+      "c": 4.61,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 48,
+      "l": 24,
+      "c": -4.12,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 61,
+      "l": 27,
+      "c": 3.97,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 40,
+      "l": 32,
+      "c": -4.15,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 51,
+      "l": 37,
+      "c": 4.33,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 26,
+      "c": -6.05,
+      "y": 12,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 58,
+      "l": 25,
+      "c": 5.45,
+      "y": -6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 97,
+      "l": 89,
+      "c": -5.2,
+      "y": 24,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 108,
+      "l": 46,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 76,
+      "l": 71,
+      "c": -4.68,
+      "y": 23,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 107,
+      "l": 36,
+      "c": 3.57,
+      "y": 50,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 91,
+      "l": 51,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "45482e68f67a"
+}

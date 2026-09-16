@@ -1,0 +1,289 @@
+{
+  "id": 999,
+  "championship": 37,
+  "cupName": "Grande Final 999",
+  "cupRace": 27,
+  "name": "Grande Final Horizonte Zero 999",
+  "biome": "city",
+  "environment": "Megacidade lendária",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Noite",
+  "difficulty": 1.0,
+  "lapTargetSeconds": 107,
+  "signature": "circuito final com cidade futurista, túnel, ponte e tempestade",
+  "dominantFeature": "final lendária de alta velocidade",
+  "musicMood": "final épica synthwave/outrun",
+  "goldSpeedFactor": 0.728,
+  "pits": [
+    0.18,
+    0.52,
+    0.84
+  ],
+  "palette": {
+    "grass": "#2a2a3d",
+    "grass2": "#151525",
+    "shoulder": "#141424",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#030317",
+    "mountSnow": false,
+    "road": "#2c2c36",
+    "road2": "#262630"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 59,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 37,
+      "h": 59,
+      "l": 40,
+      "c": -3.6,
+      "y": -14,
+      "w": 1.07,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 38,
+      "c": 6.77,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 32,
+      "l": 24,
+      "c": -6.11,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 37,
+      "l": 31,
+      "c": -3.69,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 36,
+      "c": 3.87,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 23,
+      "c": -4.05,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 34,
+      "c": 5.62,
+      "y": -8,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 42,
+      "l": 25,
+      "c": -5.05,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 65,
+      "h": 177,
+      "l": 65,
+      "c": 4.78,
+      "y": 18,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 100,
+      "l": 38,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.04,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 120,
+      "l": 59,
+      "c": -4.36,
+      "y": 24,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 63,
+      "l": 55,
+      "c": 3.31,
+      "y": 50,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 142,
+      "l": 69,
+      "c": -3.52,
+      "y": 10,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 113,
+      "l": 53,
+      "c": 2.25,
+      "y": -45,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 49,
+      "l": 39,
+      "c": 8.77,
+      "y": 18,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 36,
+      "c": 4.82,
+      "y": -14,
+      "w": 1.04,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 27,
+      "h": 43,
+      "l": 27,
+      "c": -5.62,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 49,
+      "l": 40,
+      "c": 5.05,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 50,
+      "l": 24,
+      "c": 2.94,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 29,
+      "c": -3.12,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 40,
+      "l": 34,
+      "c": 3.3,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 57,
+      "l": 23,
+      "c": -7.06,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 59,
+      "l": 41,
+      "c": 6.37,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 158,
+      "l": 84,
+      "c": 6.17,
+      "y": 18,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 189,
+      "l": 31,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 73,
+      "l": 42,
+      "c": 3.52,
+      "y": 24,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 135,
+      "l": 43,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "44e14a5829b4"
+}

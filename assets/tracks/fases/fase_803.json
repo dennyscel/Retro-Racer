@@ -1,0 +1,226 @@
+{
+  "id": 803,
+  "championship": 30,
+  "cupName": "Copa Fumaça e Aço",
+  "cupRace": 20,
+  "name": "Rota Cascata Oeste",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.8036,
+  "lapTargetSeconds": 79,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.712,
+  "pits": [
+    0.26,
+    0.6,
+    0.91
+  ],
+  "palette": {
+    "grass": "#18b324",
+    "grass2": "#0a9e13",
+    "shoulder": "#3d882b",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#158b20",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 61,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 113,
+      "l": 53,
+      "c": -4.45,
+      "y": -18,
+      "w": 0.91,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 92,
+      "l": 40,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 104,
+      "l": 59,
+      "c": -4.11,
+      "y": 2,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 83,
+      "l": 44,
+      "c": 3.1,
+      "y": 34,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 126,
+      "l": 69,
+      "c": -3.27,
+      "y": 16,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 125,
+      "l": 57,
+      "c": 2.07,
+      "y": -49,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 81,
+      "l": 39,
+      "c": -8.33,
+      "y": 10,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 84,
+      "l": 40,
+      "c": 4.53,
+      "y": 14,
+      "w": 0.85,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 25,
+      "h": 55,
+      "l": 37,
+      "c": 5.27,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 63,
+      "l": 31,
+      "c": -4.73,
+      "y": -3,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 42,
+      "l": 22,
+      "c": 2.71,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 53,
+      "l": 27,
+      "c": -2.89,
+      "y": -5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 64,
+      "l": 32,
+      "c": 3.07,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 35,
+      "l": 33,
+      "c": -4.12,
+      "y": 12,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 35,
+      "l": 32,
+      "c": 3.67,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 94,
+      "l": 72,
+      "c": 5.84,
+      "y": 12,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 181,
+      "l": 33,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 141,
+      "l": 42,
+      "c": 3.27,
+      "y": 8,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 96,
+      "l": 69,
+      "c": -2.39,
+      "y": 35,
+      "w": 1.04,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 139,
+      "l": 43,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "521ba25052e1"
+}

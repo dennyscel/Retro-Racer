@@ -1,0 +1,226 @@
+{
+  "id": 544,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 4,
+  "name": "Autódromo Coral Master",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.5441,
+  "lapTargetSeconds": 72,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.701,
+  "pits": [
+    0.15,
+    0.67,
+    0.9
+  ],
+  "palette": {
+    "grass": "#10ac1c",
+    "grass2": "#0da317",
+    "shoulder": "#3f8a2d",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#138a1d",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 82,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 38,
+      "h": 152,
+      "l": 42,
+      "c": 2.87,
+      "y": -1,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 57,
+      "l": 70,
+      "c": -2.05,
+      "y": 25,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 90,
+      "l": 52,
+      "c": 2.03,
+      "y": 19,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 77,
+      "l": 48,
+      "c": 2.54,
+      "y": -34,
+      "w": 1.1,
+      "f": "descida rápida"
+    },
+    {
+      "e": 50,
+      "h": 46,
+      "l": 46,
+      "c": 6.16,
+      "y": 10,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 101,
+      "l": 28,
+      "c": -3.09,
+      "y": -14,
+      "w": 0.99,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 24,
+      "c": 3.57,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 26,
+      "l": 23,
+      "c": -3.16,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 51,
+      "l": 31,
+      "c": -3.29,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 36,
+      "c": 3.47,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 41,
+      "l": 23,
+      "c": -3.65,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 52,
+      "l": 20,
+      "c": 5.01,
+      "y": 12,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 36,
+      "l": 24,
+      "c": -4.49,
+      "y": -6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 149,
+      "l": 73,
+      "c": 4.19,
+      "y": 24,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 130,
+      "l": 48,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 105,
+      "l": 61,
+      "c": 2.03,
+      "y": -5,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 70,
+      "l": 60,
+      "c": 2.94,
+      "y": 26,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 127,
+      "l": 71,
+      "c": -3.08,
+      "y": -5,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 78,
+      "l": 68,
+      "c": 1.93,
+      "y": -42,
+      "w": 1.19,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 116,
+      "l": 50,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "57454fb790b8"
+}

@@ -1,0 +1,217 @@
+{
+  "id": 608,
+  "championship": 23,
+  "cupName": "Taça Praia do Eclipse",
+  "cupRace": 14,
+  "name": "Anel Esmeralda Final",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.6082,
+  "lapTargetSeconds": 74,
+  "signature": "sequência travada",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.7,
+  "pits": [
+    0.21,
+    0.57,
+    0.76
+  ],
+  "palette": {
+    "grass": "#212136",
+    "grass2": "#101022",
+    "shoulder": "#050517",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#000011",
+    "mountSnow": false,
+    "road": "#23232f",
+    "road2": "#1d1d29"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 76,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 54,
+      "h": 60,
+      "l": 52,
+      "c": 2.35,
+      "y": -50,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 55,
+      "l": 61,
+      "c": 5.69,
+      "y": 18,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 98,
+      "l": 32,
+      "c": 2.77,
+      "y": 0,
+      "w": 0.97,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 31,
+      "l": 39,
+      "c": -5.8,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 41,
+      "l": 33,
+      "c": 5.21,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 62,
+      "l": 20,
+      "c": 3.05,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 41,
+      "l": 25,
+      "c": -3.23,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 52,
+      "l": 30,
+      "c": 3.41,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 35,
+      "c": 4.64,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 51,
+      "l": 34,
+      "c": -4.15,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 128,
+      "l": 86,
+      "c": 3.84,
+      "y": 18,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 161,
+      "l": 48,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 58,
+      "h": 116,
+      "l": 38,
+      "c": 3.65,
+      "y": 20,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 113,
+      "l": 44,
+      "c": -2.71,
+      "y": 49,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 138,
+      "l": 48,
+      "c": 2.81,
+      "y": -4,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 61,
+      "l": 72,
+      "c": 1.73,
+      "y": -22,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 54,
+      "c": 7.53,
+      "y": -18,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 103,
+      "l": 28,
+      "c": -4.0,
+      "y": 0,
+      "w": 0.83,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 156,
+      "l": 46,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "55108caeb43f"
+}

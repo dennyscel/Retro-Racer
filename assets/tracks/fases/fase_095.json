@@ -1,0 +1,145 @@
+{
+  "id": 95,
+  "championship": 4,
+  "cupName": "Copa Deserto Rubro",
+  "cupRace": 14,
+  "name": "Caminho Trovão Mirror",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.0942,
+  "lapTargetSeconds": 58,
+  "signature": "descida rápida",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.658,
+  "pits": [
+    0.17,
+    0.63,
+    0.85
+  ],
+  "palette": {
+    "grass": "#1bac26",
+    "grass2": "#129d1b",
+    "shoulder": "#3d822c",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#168420",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 65,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 85,
+      "h": 173,
+      "l": 59,
+      "c": -3.07,
+      "y": 18,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 176,
+      "l": 32,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 116,
+      "l": 71,
+      "c": 1.18,
+      "y": 14,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 67,
+      "l": 36,
+      "c": 2.22,
+      "y": 30,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 138,
+      "l": 45,
+      "c": -2.23,
+      "y": -10,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 133,
+      "l": 69,
+      "c": 1.31,
+      "y": -25,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 69,
+      "l": 59,
+      "c": -3.22,
+      "y": -18,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 82,
+      "l": 46,
+      "c": 1.12,
+      "y": -14,
+      "w": 0.84,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 51,
+      "l": 33,
+      "c": -3.85,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 37,
+      "c": 3.42,
+      "y": 4,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 36,
+      "h": 87,
+      "l": 47,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "3817ab4ea32e"
+}

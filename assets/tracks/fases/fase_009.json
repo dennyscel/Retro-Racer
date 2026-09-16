@@ -1,0 +1,208 @@
+{
+  "id": 9,
+  "championship": 1,
+  "cupName": "Copa Verde Inicial",
+  "cupRace": 9,
+  "name": "Serpentina Coral Leste",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.008,
+  "lapTargetSeconds": 60,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.668,
+  "pits": [
+    0.27,
+    0.62,
+    0.83
+  ],
+  "palette": {
+    "grass": "#c9d1d8",
+    "grass2": "#bcc7d1",
+    "shoulder": "#8393a1",
+    "skyTop": "#79b7d5",
+    "skyBot": "#c0d7e4",
+    "mountColor": "#404d5a",
+    "mountSnow": true,
+    "road": "#4d5560",
+    "road2": "#444c57"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 63,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 51,
+      "h": 86,
+      "l": 45,
+      "c": -0.64,
+      "y": 31,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 101,
+      "l": 52,
+      "c": 2.24,
+      "y": 8,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 128,
+      "l": 73,
+      "c": -1.32,
+      "y": -35,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 60,
+      "l": 36,
+      "c": 3.23,
+      "y": -12,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 83,
+      "l": 47,
+      "c": 1.13,
+      "y": -14,
+      "w": 0.91,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 42,
+      "l": 30,
+      "c": 3.86,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 38,
+      "l": 23,
+      "c": -3.43,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 39,
+      "l": 35,
+      "c": 1.8,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 50,
+      "l": 22,
+      "c": -1.98,
+      "y": 0,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 61,
+      "l": 27,
+      "c": 2.16,
+      "y": -5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 56,
+      "l": 26,
+      "c": 2.7,
+      "y": -8,
+      "w": 0.9,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 48,
+      "l": 24,
+      "c": -2.37,
+      "y": 4,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 127,
+      "l": 67,
+      "c": -1.97,
+      "y": 12,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 206,
+      "l": 25,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 116,
+      "l": 61,
+      "c": 2.24,
+      "y": 14,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 62,
+      "h": 99,
+      "l": 70,
+      "c": 1.52,
+      "y": 32,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 49,
+      "h": 138,
+      "l": 71,
+      "c": -1.4,
+      "y": 0,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 113,
+      "l": 69,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b31238ff70a9"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 77,
+  "championship": 3,
+  "cupName": "Desafio Vale do Sol",
+  "cupRace": 23,
+  "name": "Passagem Turbo Final",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0762,
+  "lapTargetSeconds": 59,
+  "signature": "retomada após túnel",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.665,
+  "pits": [
+    0.27,
+    0.54,
+    0.85
+  ],
+  "palette": {
+    "grass": "#c3cdda",
+    "grass2": "#b6c3d3",
+    "shoulder": "#7991a1",
+    "skyTop": "#6bb5d8",
+    "skyBot": "#b8d4e3",
+    "mountColor": "#3d4f5f",
+    "mountSnow": true,
+    "road": "#47505e",
+    "road2": "#3e4755"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 105,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 59,
+      "h": 102,
+      "l": 43,
+      "c": -1.66,
+      "y": 35,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 153,
+      "l": 48,
+      "c": 1.56,
+      "y": 8,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 80,
+      "l": 51,
+      "c": -0.82,
+      "y": -31,
+      "w": 0.95,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 72,
+      "l": 48,
+      "c": 5.35,
+      "y": -18,
+      "w": 0.85,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 75,
+      "l": 31,
+      "c": -2.54,
+      "y": 14,
+      "w": 0.81,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 42,
+      "l": 32,
+      "c": 2.92,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 58,
+      "l": 28,
+      "c": -2.57,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 51,
+      "l": 31,
+      "c": -1.19,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 62,
+      "l": 36,
+      "c": 1.37,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 41,
+      "l": 23,
+      "c": -1.55,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 56,
+      "l": 28,
+      "c": 1.77,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 30,
+      "l": 29,
+      "c": -1.51,
+      "y": 4,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 75,
+      "h": 163,
+      "l": 51,
+      "c": -3.57,
+      "y": -18,
+      "w": 1.1,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 202,
+      "l": 43,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 43,
+      "h": 84,
+      "l": 57,
+      "c": 1.56,
+      "y": 0,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 37,
+      "h": 117,
+      "l": 49,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c5a9ab8af6e9"
+}

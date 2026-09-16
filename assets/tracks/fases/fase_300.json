@@ -1,0 +1,172 @@
+{
+  "id": 300,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 3,
+  "name": "Ponte Infinito Sul",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.2996,
+  "lapTargetSeconds": 63,
+  "signature": "subida cega",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.24,
+    0.5,
+    0.86
+  ],
+  "palette": {
+    "grass": "#c6a04a",
+    "grass2": "#c59c4a",
+    "shoulder": "#ac8137",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#b98844",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 100,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 38,
+      "l": 32,
+      "c": 1.85,
+      "y": 0,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 49,
+      "l": 37,
+      "c": -2.03,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 60,
+      "l": 24,
+      "c": 2.21,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 41,
+      "l": 21,
+      "c": -2.78,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 41,
+      "l": 39,
+      "c": 2.44,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 112,
+      "l": 88,
+      "c": 4.55,
+      "y": 18,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 209,
+      "l": 38,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 128,
+      "l": 70,
+      "c": 2.29,
+      "y": 10,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 69,
+      "l": 61,
+      "c": 1.57,
+      "y": 49,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 50,
+      "h": 150,
+      "l": 44,
+      "c": -1.45,
+      "y": -8,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 85,
+      "l": 54,
+      "c": -2.12,
+      "y": -22,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 86,
+      "l": 54,
+      "c": 5.16,
+      "y": -18,
+      "w": 0.97,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 85,
+      "l": 46,
+      "c": 2.42,
+      "y": 14,
+      "w": 1.04,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 51,
+      "h": 112,
+      "l": 46,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "eb232c8deb18"
+}

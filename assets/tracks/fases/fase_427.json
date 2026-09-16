@@ -1,0 +1,199 @@
+{
+  "id": 427,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 22,
+  "name": "Boulevard Delta Norte",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.4269,
+  "lapTargetSeconds": 68,
+  "signature": "final em mergulho",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.686,
+  "pits": [
+    0.29,
+    0.61,
+    0.81
+  ],
+  "palette": {
+    "grass": "#bac4cd",
+    "grass2": "#a8b5c1",
+    "shoulder": "#718493",
+    "skyTop": "#64a8c8",
+    "skyBot": "#aec7d5",
+    "mountColor": "#3c4c5a",
+    "mountSnow": true,
+    "road": "#3c4551",
+    "road2": "#333c48"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 75,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 49,
+      "h": 94,
+      "l": 43,
+      "c": -2.17,
+      "y": 33,
+      "w": 1.15,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 97,
+      "l": 38,
+      "c": 2.17,
+      "y": 4,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 128,
+      "l": 71,
+      "c": -1.27,
+      "y": -21,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 66,
+      "l": 34,
+      "c": 6.42,
+      "y": -18,
+      "w": 0.82,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 85,
+      "l": 45,
+      "c": 3.26,
+      "y": -14,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 30,
+      "c": 3.77,
+      "y": 12,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 38,
+      "l": 42,
+      "c": -3.35,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 21,
+      "c": -1.74,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 56,
+      "l": 26,
+      "c": 1.92,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 35,
+      "l": 31,
+      "c": -2.1,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 38,
+      "l": 26,
+      "c": 5.21,
+      "y": 6,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 48,
+      "l": 22,
+      "c": -4.67,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 145,
+      "l": 65,
+      "c": -4.39,
+      "y": 18,
+      "w": 1.14,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 132,
+      "l": 43,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.05,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 112,
+      "l": 47,
+      "c": 2.17,
+      "y": 12,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 107,
+      "l": 68,
+      "c": -1.47,
+      "y": 34,
+      "w": 0.89,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 91,
+      "l": 63,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "42e7654f5082"
+}

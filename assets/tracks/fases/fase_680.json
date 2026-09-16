@@ -1,0 +1,190 @@
+{
+  "id": 680,
+  "championship": 26,
+  "cupName": "Liga Desfiladeiro Ônix",
+  "cupRace": 5,
+  "name": "Serpentina Atlântico Turbo",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.6804,
+  "lapTargetSeconds": 72,
+  "signature": "sequência de placas",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.693,
+  "pits": [
+    0.15,
+    0.51,
+    0.76
+  ],
+  "palette": {
+    "grass": "#d0a443",
+    "grass2": "#c09135",
+    "shoulder": "#b4812d",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c58c3f",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 94,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 30,
+      "h": 58,
+      "l": 34,
+      "c": 3.02,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 37,
+      "l": 21,
+      "c": -3.2,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 26,
+      "c": 3.38,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 37,
+      "l": 27,
+      "c": -4.58,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 41,
+      "l": 41,
+      "c": 4.1,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 172,
+      "l": 48,
+      "c": 3.78,
+      "y": -12,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 109,
+      "l": 43,
+      "c": -0.39,
+      "y": -6,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 132,
+      "l": 54,
+      "c": 3.61,
+      "y": 20,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 53,
+      "l": 56,
+      "c": -2.68,
+      "y": 45,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 154,
+      "l": 64,
+      "c": 2.77,
+      "y": 6,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 85,
+      "l": 44,
+      "c": -1.7,
+      "y": -42,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 74,
+      "l": 42,
+      "c": 7.46,
+      "y": 18,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 71,
+      "l": 48,
+      "c": 3.95,
+      "y": 14,
+      "w": 0.98,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 32,
+      "l": 20,
+      "c": 4.58,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 48,
+      "l": 35,
+      "c": -4.1,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 51,
+      "h": 124,
+      "l": 66,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "7404832b5df9"
+}

@@ -1,0 +1,172 @@
+{
+  "id": 26,
+  "championship": 1,
+  "cupName": "Copa Verde Inicial",
+  "cupRace": 26,
+  "name": "Boulevard Atlas 16B",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.0251,
+  "lapTargetSeconds": 57,
+  "signature": "miolo ondulado",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.658,
+  "pits": [
+    0.27,
+    0.6,
+    0.88
+  ],
+  "palette": {
+    "grass": "#e8b133",
+    "grass2": "#dda22a",
+    "shoulder": "#d39328",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#d78f2d",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 104,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 48,
+      "l": 28,
+      "c": 2.21,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 33,
+      "c": -2.39,
+      "y": 0,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 38,
+      "l": 20,
+      "c": 2.57,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 31,
+      "l": 33,
+      "c": -3.34,
+      "y": 6,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 61,
+      "l": 38,
+      "c": 2.95,
+      "y": -3,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 142,
+      "l": 66,
+      "c": 2.58,
+      "y": -18,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 35,
+      "h": 211,
+      "l": 39,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.02,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 42,
+      "h": 84,
+      "l": 48,
+      "c": -0.8,
+      "y": 14,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 61,
+      "l": 67,
+      "c": -1.91,
+      "y": 31,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 106,
+      "l": 58,
+      "c": 1.86,
+      "y": 8,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 113,
+      "l": 50,
+      "c": -1.04,
+      "y": -36,
+      "w": 1.19,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 80,
+      "l": 60,
+      "c": 2.57,
+      "y": -12,
+      "w": 1.12,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 107,
+      "l": 45,
+      "c": 2.89,
+      "y": -14,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 43,
+      "h": 158,
+      "l": 64,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d276adc485b1"
+}

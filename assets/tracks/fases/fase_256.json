@@ -1,0 +1,190 @@
+{
+  "id": 256,
+  "championship": 10,
+  "cupName": "Copa Chuva de Verão",
+  "cupRace": 13,
+  "name": "Rally Horizonte Leste",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.2555,
+  "lapTargetSeconds": 63,
+  "signature": "chicane curta",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.671,
+  "pits": [
+    0.22,
+    0.49,
+    0.9
+  ],
+  "palette": {
+    "grass": "#d5ad50",
+    "grass2": "#d1a64d",
+    "shoulder": "#bf9040",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#cb964d",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 102,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 34,
+      "l": 24,
+      "c": 1.94,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 45,
+      "l": 29,
+      "c": -2.12,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 56,
+      "l": 34,
+      "c": 2.3,
+      "y": -5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 21,
+      "c": 2.92,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 37,
+      "l": 37,
+      "c": -2.57,
+      "y": 4,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 100,
+      "l": 86,
+      "c": 2.18,
+      "y": -12,
+      "w": 0.93,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 141,
+      "l": 44,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.13,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 124,
+      "l": 62,
+      "c": 2.4,
+      "y": -8,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 85,
+      "l": 52,
+      "c": 1.66,
+      "y": 37,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 40,
+      "h": 146,
+      "l": 72,
+      "c": 1.56,
+      "y": 2,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 125,
+      "l": 70,
+      "c": -2.2,
+      "y": -50,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 50,
+      "l": 38,
+      "c": 5.35,
+      "y": -12,
+      "w": 0.81,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 97,
+      "l": 44,
+      "c": 2.54,
+      "y": -14,
+      "w": 1.09,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 54,
+      "l": 36,
+      "c": 2.92,
+      "y": 0,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 31,
+      "c": -2.57,
+      "y": 6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 45,
+      "h": 156,
+      "l": 54,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "3fd0889d07a1"
+}

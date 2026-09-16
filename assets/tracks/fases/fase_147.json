@@ -1,0 +1,190 @@
+{
+  "id": 147,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 12,
+  "name": "Autódromo Horizonte SX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1463,
+  "lapTargetSeconds": 61,
+  "signature": "subida cega",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.669,
+  "pits": [
+    0.24,
+    0.47,
+    0.77
+  ],
+  "palette": {
+    "grass": "#13b01e",
+    "grass2": "#089e11",
+    "shoulder": "#3a8528",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#10881b",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 57,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 73,
+      "h": 161,
+      "l": 69,
+      "c": -2.68,
+      "y": 24,
+      "w": 0.91,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 180,
+      "l": 34,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 136,
+      "l": 51,
+      "c": 2.78,
+      "y": -9,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 83,
+      "l": 53,
+      "c": -1.97,
+      "y": 50,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 74,
+      "l": 61,
+      "c": -1.93,
+      "y": 1,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 65,
+      "l": 61,
+      "c": 1.1,
+      "y": -41,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 81,
+      "l": 55,
+      "c": -2.7,
+      "y": 18,
+      "w": 1.0,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 52,
+      "l": 35,
+      "c": 2.98,
+      "y": 14,
+      "w": 0.93,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 39,
+      "l": 41,
+      "c": 3.44,
+      "y": 6,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 31,
+      "l": 26,
+      "c": -3.05,
+      "y": -3,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 32,
+      "c": 1.53,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 37,
+      "c": -1.71,
+      "y": -5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 24,
+      "c": 1.89,
+      "y": 0,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 53,
+      "l": 37,
+      "c": 2.28,
+      "y": 6,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 27,
+      "c": -1.98,
+      "y": -3,
+      "w": 1.12,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 50,
+      "h": 147,
+      "l": 63,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "91d3b9a2ddb3"
+}

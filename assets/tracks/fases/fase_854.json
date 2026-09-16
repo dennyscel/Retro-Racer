@@ -1,0 +1,262 @@
+{
+  "id": 854,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 17,
+  "name": "Circuito Cristal Sul",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.8547,
+  "lapTargetSeconds": 81,
+  "signature": "descida rápida",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.719,
+  "pits": [
+    0.26,
+    0.54,
+    0.88
+  ],
+  "palette": {
+    "grass": "#29293c",
+    "grass2": "#202030",
+    "shoulder": "#141424",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#131327",
+    "mountSnow": false,
+    "road": "#33333d",
+    "road2": "#2d2d37"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 62,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 66,
+      "h": 92,
+      "l": 58,
+      "c": 3.23,
+      "y": -44,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 73,
+      "l": 55,
+      "c": -7.81,
+      "y": 18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 52,
+      "l": 47,
+      "c": 4.18,
+      "y": 0,
+      "w": 1.02,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 21,
+      "c": -4.86,
+      "y": 0,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 53,
+      "l": 27,
+      "c": 4.35,
+      "y": 6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 64,
+      "l": 32,
+      "c": 2.45,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 43,
+      "l": 37,
+      "c": -2.63,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 54,
+      "l": 24,
+      "c": 2.81,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 51,
+      "l": 39,
+      "c": -6.3,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 63,
+      "l": 28,
+      "c": 5.68,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 134,
+      "l": 80,
+      "c": 5.44,
+      "y": -18,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 203,
+      "l": 44,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 66,
+      "h": 104,
+      "l": 68,
+      "c": -2.97,
+      "y": 2,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 73,
+      "l": 45,
+      "c": -3.73,
+      "y": 39,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 38,
+      "h": 126,
+      "l": 42,
+      "c": 4.02,
+      "y": 2,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 93,
+      "l": 48,
+      "c": -2.61,
+      "y": -52,
+      "w": 1.03,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 72,
+      "l": 48,
+      "c": 6.34,
+      "y": 10,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 57,
+      "l": 43,
+      "c": -3.2,
+      "y": 0,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 46,
+      "l": 32,
+      "c": 6.3,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 32,
+      "l": 22,
+      "c": -5.68,
+      "y": 6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 45,
+      "l": 25,
+      "c": 3.38,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 56,
+      "l": 30,
+      "c": -3.56,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 35,
+      "c": 3.74,
+      "y": 5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 54,
+      "h": 98,
+      "l": 56,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "dd9b3c94a534"
+}

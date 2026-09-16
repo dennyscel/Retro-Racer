@@ -1,0 +1,217 @@
+{
+  "id": 771,
+  "championship": 29,
+  "cupName": "Rally Aurora Boreal",
+  "cupRace": 15,
+  "name": "Estrada Saturno Norte",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.7715,
+  "lapTargetSeconds": 76,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.702,
+  "pits": [
+    0.23,
+    0.65,
+    0.89
+  ],
+  "palette": {
+    "grass": "#151525",
+    "grass2": "#0b0b18",
+    "shoulder": "#0d0d1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#050515",
+    "mountSnow": false,
+    "road": "#21212b",
+    "road2": "#1b1b25"
+  },
+  "sections": [
+    {
+      "e": 44,
+      "h": 117,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 39,
+      "h": 43,
+      "l": 21,
+      "c": -5.75,
+      "y": 12,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 27,
+      "l": 37,
+      "c": 5.16,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 120,
+      "l": 80,
+      "c": 4.9,
+      "y": -18,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 127,
+      "l": 46,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 70,
+      "h": 135,
+      "l": 68,
+      "c": 2.56,
+      "y": 1,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 90,
+      "l": 62,
+      "c": -3.39,
+      "y": 37,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 73,
+      "l": 42,
+      "c": 3.62,
+      "y": 1,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 92,
+      "l": 65,
+      "c": 2.32,
+      "y": -21,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 46,
+      "l": 42,
+      "c": 5.63,
+      "y": -18,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 109,
+      "l": 42,
+      "c": -4.93,
+      "y": -14,
+      "w": 1.12,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 36,
+      "c": 5.75,
+      "y": -8,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 34,
+      "l": 31,
+      "c": -5.16,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 27,
+      "c": -3.02,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 60,
+      "l": 32,
+      "c": 3.2,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 39,
+      "l": 37,
+      "c": -3.38,
+      "y": 9,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 32,
+      "c": 4.59,
+      "y": 6,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 44,
+      "l": 32,
+      "c": -4.1,
+      "y": -3,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 69,
+      "h": 101,
+      "l": 57,
+      "c": -3.79,
+      "y": 18,
+      "w": 1.18,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 47,
+      "h": 163,
+      "l": 59,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ca4acffc46b1"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 855,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 18,
+  "name": "Grande Laço Infinito Final",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.8557,
+  "lapTargetSeconds": 77,
+  "signature": "reta de pit longa",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.703,
+  "pits": [
+    0.16,
+    0.65,
+    0.83
+  ],
+  "palette": {
+    "grass": "#0da919",
+    "grass2": "#0a9f14",
+    "shoulder": "#418c2f",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#12881c",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 115,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 77,
+      "h": 101,
+      "l": 63,
+      "c": -4.05,
+      "y": -12,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 96,
+      "l": 42,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 124,
+      "l": 39,
+      "c": 3.81,
+      "y": 16,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 99,
+      "l": 61,
+      "c": 2.85,
+      "y": 22,
+      "w": 1.08,
+      "f": "subida cega"
+    },
+    {
+      "e": 55,
+      "h": 146,
+      "l": 49,
+      "c": 2.97,
+      "y": 2,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 133,
+      "l": 49,
+      "c": -3.23,
+      "y": -29,
+      "w": 1.06,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 35,
+      "c": -7.81,
+      "y": 18,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 54,
+      "l": 29,
+      "c": 4.18,
+      "y": 14,
+      "w": 1.14,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 43,
+      "l": 23,
+      "c": 4.86,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 47,
+      "l": 41,
+      "c": -4.35,
+      "y": -3,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 20,
+      "c": 2.45,
+      "y": -5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 25,
+      "c": -2.63,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 60,
+      "l": 30,
+      "c": 2.81,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 57,
+      "l": 41,
+      "c": 6.31,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 57,
+      "l": 42,
+      "c": -5.68,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 178,
+      "l": 82,
+      "c": 5.44,
+      "y": -18,
+      "w": 1.19,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 111,
+      "l": 59,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "66f41932cbf8"
+}

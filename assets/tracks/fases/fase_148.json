@@ -1,0 +1,199 @@
+{
+  "id": 148,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 13,
+  "name": "Serpentina Cobalto Arcade",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.1473,
+  "lapTargetSeconds": 62,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.673,
+  "pits": [
+    0.31,
+    0.58,
+    0.9
+  ],
+  "palette": {
+    "grass": "#12a01c",
+    "grass2": "#179f1f",
+    "shoulder": "#428631",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1d8a27",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 70,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 168,
+      "l": 47,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 127,
+      "l": 47,
+      "c": -1.51,
+      "y": -5,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 80,
+      "l": 39,
+      "c": 0.92,
+      "y": 48,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 59,
+      "h": 149,
+      "l": 57,
+      "c": 2.57,
+      "y": -9,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 64,
+      "l": 52,
+      "c": 1.56,
+      "y": -38,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 71,
+      "l": 49,
+      "c": -3.8,
+      "y": 18,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 104,
+      "l": 44,
+      "c": 1.51,
+      "y": 0,
+      "w": 0.86,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 33,
+      "c": 4.31,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 33,
+      "l": 37,
+      "c": -3.84,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 32,
+      "c": -2.09,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 65,
+      "l": 37,
+      "c": 2.27,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 44,
+      "l": 24,
+      "c": -2.45,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 51,
+      "l": 29,
+      "c": -3.15,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 43,
+      "l": 38,
+      "c": 2.78,
+      "y": -6,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 84,
+      "h": 144,
+      "l": 72,
+      "c": 2.4,
+      "y": 18,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 137,
+      "l": 40,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 160,
+      "l": 66,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "cc11bcec68cc"
+}

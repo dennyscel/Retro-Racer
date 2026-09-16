@@ -1,0 +1,190 @@
+{
+  "id": 192,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 3,
+  "name": "Passagem Prisma Mirror",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.1914,
+  "lapTargetSeconds": 62,
+  "signature": "ponto de frenagem tardia",
+  "dominantFeature": "ponte estreita",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.671,
+  "pits": [
+    0.16,
+    0.59,
+    0.86
+  ],
+  "palette": {
+    "grass": "#12a51d",
+    "grass2": "#14a11d",
+    "shoulder": "#438a32",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1b8b25",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 68,
+      "l": 49,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 36,
+      "h": 116,
+      "l": 41,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 131,
+      "l": 55,
+      "c": -1.41,
+      "y": 15,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 64,
+      "l": 48,
+      "c": 2.42,
+      "y": 28,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 153,
+      "l": 65,
+      "c": 2.46,
+      "y": -9,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 100,
+      "l": 66,
+      "c": 1.48,
+      "y": -46,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 59,
+      "l": 37,
+      "c": 3.62,
+      "y": 10,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 92,
+      "l": 46,
+      "c": -1.39,
+      "y": 14,
+      "w": 1.01,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 33,
+      "c": -4.16,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 37,
+      "l": 39,
+      "c": 3.71,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 22,
+      "c": 2.0,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 27,
+      "c": -2.18,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 32,
+      "c": 2.36,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 33,
+      "l": 29,
+      "c": -3.01,
+      "y": 6,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 47,
+      "l": 40,
+      "c": 2.65,
+      "y": -3,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 156,
+      "l": 74,
+      "c": 2.26,
+      "y": 24,
+      "w": 0.87,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 116,
+      "l": 58,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b77eb8a87477"
+}

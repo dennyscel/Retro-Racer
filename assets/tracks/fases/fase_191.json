@@ -1,0 +1,172 @@
+{
+  "id": 191,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 2,
+  "name": "Anel Infinito RX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1904,
+  "lapTargetSeconds": 61,
+  "signature": "S técnico",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.667,
+  "pits": [
+    0.26,
+    0.48,
+    0.91
+  ],
+  "palette": {
+    "grass": "#1ca927",
+    "grass2": "#0b9214",
+    "shoulder": "#458935",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#188322",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 117,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 85,
+      "h": 173,
+      "l": 71,
+      "c": -2.53,
+      "y": -18,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 128,
+      "l": 28,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.05,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 140,
+      "l": 59,
+      "c": -2.67,
+      "y": 15,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 67,
+      "l": 62,
+      "c": 1.88,
+      "y": 30,
+      "w": 0.91,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 78,
+      "l": 69,
+      "c": 1.82,
+      "y": 9,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 58,
+      "h": 101,
+      "l": 45,
+      "c": 1.02,
+      "y": -49,
+      "w": 1.1,
+      "f": "descida rápida"
+    },
+    {
+      "e": 51,
+      "h": 69,
+      "l": 43,
+      "c": 5.82,
+      "y": 18,
+      "w": 0.89,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 98,
+      "l": 37,
+      "c": -2.85,
+      "y": -14,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 25,
+      "h": 55,
+      "l": 41,
+      "c": -3.29,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 28,
+      "c": 2.91,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 62,
+      "l": 22,
+      "c": 1.43,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 27,
+      "c": -1.61,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 52,
+      "l": 32,
+      "c": 1.79,
+      "y": 9,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 103,
+      "l": 55,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "957197a38c91"
+}

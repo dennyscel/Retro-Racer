@@ -1,0 +1,190 @@
+{
+  "id": 371,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 20,
+  "name": "Via Expressa Falésia RX",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.3707,
+  "lapTargetSeconds": 66,
+  "signature": "S técnico",
+  "dominantFeature": "subida cega",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.678,
+  "pits": [
+    0.28,
+    0.54,
+    0.91
+  ],
+  "palette": {
+    "grass": "#1ea628",
+    "grass2": "#179a1f",
+    "shoulder": "#448534",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1f8728",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 75,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 73,
+      "h": 161,
+      "l": 83,
+      "c": -3.1,
+      "y": 24,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 188,
+      "l": 33,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 80,
+      "l": 59,
+      "c": -3.09,
+      "y": 11,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 83,
+      "l": 67,
+      "c": 2.24,
+      "y": 50,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 47,
+      "h": 102,
+      "l": 69,
+      "c": -2.25,
+      "y": -3,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 117,
+      "l": 45,
+      "c": 1.33,
+      "y": -49,
+      "w": 0.94,
+      "f": "descida rápida"
+    },
+    {
+      "e": 33,
+      "h": 81,
+      "l": 55,
+      "c": -6.55,
+      "y": 10,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 70,
+      "l": 28,
+      "c": 3.35,
+      "y": 14,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 23,
+      "c": 3.87,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 40,
+      "c": -3.45,
+      "y": -6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 22,
+      "c": -1.81,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 27,
+      "c": 1.99,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 32,
+      "c": -2.17,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 51,
+      "l": 41,
+      "c": -2.72,
+      "y": -8,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 41,
+      "c": 2.38,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 46,
+      "h": 155,
+      "l": 63,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "6cacbd4a3b4d"
+}

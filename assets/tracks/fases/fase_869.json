@@ -1,0 +1,235 @@
+{
+  "id": 869,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 5,
+  "name": "Desafio Jaguar Chuva",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.8697,
+  "lapTargetSeconds": 83,
+  "signature": "retomada após túnel",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.72,
+  "pits": [
+    0.29,
+    0.51,
+    0.85
+  ],
+  "palette": {
+    "grass": "#12b41e",
+    "grass2": "#06a110",
+    "shoulder": "#3b8828",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#0f8a1a",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 89,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 59,
+      "h": 131,
+      "l": 77,
+      "c": -5.49,
+      "y": 12,
+      "w": 0.92,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 194,
+      "l": 31,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.98,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 63,
+      "h": 152,
+      "l": 53,
+      "c": -3.0,
+      "y": 2,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 91,
+      "l": 40,
+      "c": 3.76,
+      "y": 36,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 69,
+      "h": 90,
+      "l": 63,
+      "c": 4.06,
+      "y": 16,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 65,
+      "l": 63,
+      "c": 2.64,
+      "y": -43,
+      "w": 1.21,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 87,
+      "l": 49,
+      "c": -6.4,
+      "y": 18,
+      "w": 1.13,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 40,
+      "h": 66,
+      "l": 43,
+      "c": 3.24,
+      "y": 0,
+      "w": 1.11,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 37,
+      "h": 45,
+      "l": 37,
+      "c": -6.35,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 31,
+      "l": 34,
+      "c": 5.72,
+      "y": -6,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 32,
+      "h": 48,
+      "l": 34,
+      "c": 3.41,
+      "y": 9,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 59,
+      "l": 21,
+      "c": -3.59,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 26,
+      "c": 3.77,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 59,
+      "l": 33,
+      "c": 5.2,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 41,
+      "l": 35,
+      "c": -4.66,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 70,
+      "h": 112,
+      "l": 54,
+      "c": 4.37,
+      "y": 24,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 163,
+      "l": 24,
+      "c": -0.39,
+      "y": 0,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 105,
+      "l": 72,
+      "c": 4.06,
+      "y": 8,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 104,
+      "l": 65,
+      "c": 3.05,
+      "y": 37,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 127,
+      "l": 46,
+      "c": 3.21,
+      "y": 16,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 117,
+      "l": 45,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c99f7663fc52"
+}

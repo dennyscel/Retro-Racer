@@ -1,0 +1,181 @@
+{
+  "id": 430,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 25,
+  "name": "Serpentina Prisma 16B",
+  "biome": "city",
+  "environment": "Megacidade cyber",
+  "weather": "storm",
+  "weatherLabel": "tempestade",
+  "timeOfDay": "Madrugada",
+  "difficulty": 0.4299,
+  "lapTargetSeconds": 66,
+  "signature": "reta com vento",
+  "dominantFeature": "túnel escuro",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.678,
+  "pits": [
+    0.16,
+    0.52,
+    0.84
+  ],
+  "palette": {
+    "grass": "#1e1e31",
+    "grass2": "#1d1d2d",
+    "shoulder": "#0d0d1d",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#06061a",
+    "mountSnow": false,
+    "road": "#292933",
+    "road2": "#23232d"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 70,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 132,
+      "l": 54,
+      "c": 2.35,
+      "y": -52,
+      "w": 1.0,
+      "f": "descida rápida"
+    },
+    {
+      "e": 43,
+      "h": 49,
+      "l": 51,
+      "c": -5.7,
+      "y": -18,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 28,
+      "h": 78,
+      "l": 43,
+      "c": 2.77,
+      "y": 14,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 25,
+      "h": 59,
+      "l": 37,
+      "c": -3.2,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 49,
+      "l": 23,
+      "c": 2.83,
+      "y": -3,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 40,
+      "l": 22,
+      "c": 3.05,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 51,
+      "l": 27,
+      "c": -3.23,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 32,
+      "c": 3.41,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 33,
+      "c": 4.64,
+      "y": -8,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 59,
+      "l": 24,
+      "c": -4.15,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 158,
+      "l": 76,
+      "c": -3.84,
+      "y": 12,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 115,
+      "l": 45,
+      "c": -0.39,
+      "y": -6,
+      "w": 0.96,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 96,
+      "l": 40,
+      "c": 1.76,
+      "y": 4,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 105,
+      "l": 41,
+      "c": 2.71,
+      "y": 31,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 48,
+      "h": 130,
+      "l": 44,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d75f94152d19"
+}

@@ -1,0 +1,190 @@
+{
+  "id": 705,
+  "championship": 27,
+  "cupName": "Torneio Oasis Veloz",
+  "cupRace": 3,
+  "name": "Ponte Lunar Final",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.7054,
+  "lapTargetSeconds": 72,
+  "signature": "reta de pit longa",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.694,
+  "pits": [
+    0.2,
+    0.53,
+    0.77
+  ],
+  "palette": {
+    "grass": "#18b024",
+    "grass2": "#089a12",
+    "shoulder": "#3e872c",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1b8e25",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 57,
+      "l": 52,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 55,
+      "h": 95,
+      "l": 81,
+      "c": -4.42,
+      "y": 24,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 126,
+      "l": 42,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.13,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 76,
+      "l": 69,
+      "c": 4.09,
+      "y": 1,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 75,
+      "l": 51,
+      "c": -3.08,
+      "y": 32,
+      "w": 0.91,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 98,
+      "l": 43,
+      "c": -3.25,
+      "y": 1,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 69,
+      "l": 49,
+      "c": 2.05,
+      "y": -23,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 75,
+      "l": 53,
+      "c": -4.99,
+      "y": -18,
+      "w": 1.08,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 58,
+      "l": 47,
+      "c": 4.51,
+      "y": 14,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 41,
+      "l": 27,
+      "c": 5.24,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 61,
+      "l": 38,
+      "c": -4.7,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 22,
+      "h": 36,
+      "l": 32,
+      "c": 2.7,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 47,
+      "l": 37,
+      "c": -2.88,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 24,
+      "c": 3.06,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 55,
+      "l": 23,
+      "c": -4.09,
+      "y": -8,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 33,
+      "l": 39,
+      "c": 3.64,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 38,
+      "h": 97,
+      "l": 57,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f628970a708c"
+}

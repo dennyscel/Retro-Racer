@@ -1,0 +1,199 @@
+{
+  "id": 596,
+  "championship": 23,
+  "cupName": "Taça Praia do Eclipse",
+  "cupRace": 2,
+  "name": "Anel Lunar Mirror",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.5962,
+  "lapTargetSeconds": 72,
+  "signature": "retomada após túnel",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.692,
+  "pits": [
+    0.22,
+    0.51,
+    0.82
+  ],
+  "palette": {
+    "grass": "#16a121",
+    "grass2": "#13981c",
+    "shoulder": "#438633",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#188121",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 74,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 56,
+      "h": 88,
+      "l": 58,
+      "c": 2.57,
+      "y": -1,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 73,
+      "l": 52,
+      "c": 1.8,
+      "y": 45,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 110,
+      "l": 68,
+      "c": 3.62,
+      "y": 5,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 85,
+      "l": 70,
+      "c": 2.32,
+      "y": -50,
+      "w": 1.19,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 58,
+      "l": 42,
+      "c": 5.64,
+      "y": -12,
+      "w": 0.84,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 71,
+      "l": 38,
+      "c": -2.74,
+      "y": -14,
+      "w": 0.86,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 32,
+      "h": 60,
+      "l": 32,
+      "c": 5.76,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 33,
+      "c": -5.17,
+      "y": 4,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 47,
+      "l": 29,
+      "c": 3.03,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 58,
+      "l": 34,
+      "c": -3.21,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 37,
+      "l": 21,
+      "c": 3.39,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 40,
+      "l": 28,
+      "c": 4.6,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 58,
+      "l": 34,
+      "c": -4.11,
+      "y": -3,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 83,
+      "h": 137,
+      "l": 83,
+      "c": 3.8,
+      "y": 12,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 134,
+      "l": 25,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 125,
+      "l": 41,
+      "c": -3.62,
+      "y": 13,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 88,
+      "l": 66,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "a7c0eadd1831"
+}

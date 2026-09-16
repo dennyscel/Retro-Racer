@@ -1,0 +1,190 @@
+{
+  "id": 640,
+  "championship": 24,
+  "cupName": "Rota Capital Cyber",
+  "cupRace": 19,
+  "name": "Estrada Trovão Sprint",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.6403,
+  "lapTargetSeconds": 72,
+  "signature": "final em mergulho",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.69,
+  "pits": [
+    0.24,
+    0.52,
+    0.78
+  ],
+  "palette": {
+    "grass": "#0fae1b",
+    "grass2": "#12ab1c",
+    "shoulder": "#388425",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#199224",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 49,
+      "h": 104,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 132,
+      "l": 39,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.18,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 103,
+      "l": 71,
+      "c": -3.94,
+      "y": 20,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 54,
+      "h": 64,
+      "l": 41,
+      "c": 2.95,
+      "y": 28,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 125,
+      "l": 45,
+      "c": -3.1,
+      "y": 14,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 128,
+      "l": 64,
+      "c": 1.94,
+      "y": -26,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 59,
+      "l": 37,
+      "c": 4.72,
+      "y": 18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 70,
+      "l": 32,
+      "c": -4.33,
+      "y": 0,
+      "w": 0.86,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 41,
+      "h": 49,
+      "l": 41,
+      "c": -5.03,
+      "y": 12,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 32,
+      "h": 57,
+      "l": 25,
+      "c": 4.51,
+      "y": -6,
+      "w": 0.95,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 20,
+      "c": 2.56,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 25,
+      "c": -2.74,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 30,
+      "c": 2.92,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 63,
+      "l": 37,
+      "c": -3.88,
+      "y": 12,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 29,
+      "l": 26,
+      "c": 3.45,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 156,
+      "l": 60,
+      "c": 5.61,
+      "y": -18,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 49,
+      "h": 132,
+      "l": 58,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2bd44363e607"
+}

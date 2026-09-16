@@ -1,0 +1,217 @@
+{
+  "id": 697,
+  "championship": 26,
+  "cupName": "Liga Desfiladeiro Ônix",
+  "cupRace": 22,
+  "name": "Boulevard Tempestade Sul",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.6974,
+  "lapTargetSeconds": 76,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.702,
+  "pits": [
+    0.15,
+    0.49,
+    0.81
+  ],
+  "palette": {
+    "grass": "#2a2a3a",
+    "grass2": "#1a1a28",
+    "shoulder": "#0c0c1a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#020213",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 95,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 37,
+      "h": 47,
+      "l": 35,
+      "c": -4.93,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 41,
+      "l": 26,
+      "c": 4.41,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 126,
+      "l": 48,
+      "c": 4.11,
+      "y": 12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 209,
+      "l": 47,
+      "c": -0.15,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 155,
+      "l": 66,
+      "c": 3.86,
+      "y": 14,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 50,
+      "l": 58,
+      "c": -2.89,
+      "y": 27,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 93,
+      "l": 40,
+      "c": 3.02,
+      "y": 14,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 104,
+      "l": 51,
+      "c": 1.89,
+      "y": -19,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 52,
+      "c": -7.9,
+      "y": 10,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 87,
+      "l": 31,
+      "c": -4.24,
+      "y": 14,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 28,
+      "c": 4.93,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 48,
+      "l": 41,
+      "c": -4.41,
+      "y": -6,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 25,
+      "c": 2.49,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 30,
+      "c": -2.67,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 35,
+      "c": 2.85,
+      "y": 5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 56,
+      "l": 24,
+      "c": 3.77,
+      "y": -8,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 58,
+      "l": 42,
+      "c": -3.35,
+      "y": 4,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 59,
+      "h": 107,
+      "l": 67,
+      "c": -5.51,
+      "y": 12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 49,
+      "h": 169,
+      "l": 61,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2d6602510489"
+}

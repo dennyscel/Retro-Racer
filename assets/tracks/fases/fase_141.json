@@ -1,0 +1,181 @@
+{
+  "id": 141,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 6,
+  "name": "Boulevard Nômade Extreme",
+  "biome": "city",
+  "environment": "Cidade neon",
+  "weather": "night",
+  "weatherLabel": "noite seca",
+  "timeOfDay": "Noite",
+  "difficulty": 0.1403,
+  "lapTargetSeconds": 60,
+  "signature": "túnel escuro",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.664,
+  "pits": [
+    0.16,
+    0.65,
+    0.89
+  ],
+  "palette": {
+    "grass": "#262636",
+    "grass2": "#11111e",
+    "shoulder": "#12121f",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#080819",
+    "mountSnow": false,
+    "road": "#2a2a34",
+    "road2": "#24242e"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 67,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 43,
+      "h": 61,
+      "l": 43,
+      "c": -2.72,
+      "y": 0,
+      "w": 0.81,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 62,
+      "l": 38,
+      "c": 3.13,
+      "y": 0,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 30,
+      "l": 27,
+      "c": -2.76,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 55,
+      "l": 37,
+      "c": -1.33,
+      "y": -5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 34,
+      "l": 24,
+      "c": 1.51,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 45,
+      "l": 29,
+      "c": -1.69,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 34,
+      "c": 1.97,
+      "y": 0,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 40,
+      "l": 28,
+      "c": -1.7,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 135,
+      "l": 89,
+      "c": -3.77,
+      "y": -12,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 94,
+      "l": 30,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 84,
+      "l": 65,
+      "c": 1.71,
+      "y": 15,
+      "w": 1.19,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 70,
+      "h": 87,
+      "l": 37,
+      "c": 1.08,
+      "y": 24,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 67,
+      "h": 106,
+      "l": 39,
+      "c": 2.76,
+      "y": 1,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 133,
+      "l": 65,
+      "c": 1.7,
+      "y": -51,
+      "w": 0.98,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 157,
+      "l": 45,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b47c5e6bb6f7"
+}

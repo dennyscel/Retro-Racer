@@ -1,0 +1,43 @@
+{
+  "version": "AAA_R2+C20",
+  "date": "2026-09-16",
+  "logic": {
+    "migration": "v71→v72 PASS",
+    "ring_max": 500,
+    "sanitization": "PASS — campos fora da taxonomia descartados",
+    "retention_proxy": {
+      "d1": 100,
+      "d7": 100,
+      "d30": 100,
+      "sample_days": 4
+    },
+    "avg_session_test_s": 185,
+    "race_completion_test": "1/1 = 100%",
+    "opt_out_flush": {
+      "ok": false,
+      "reason": "OPT-OUT"
+    }
+  },
+  "static": {
+    "node_check": "PASS",
+    "js_files": 51,
+    "max_module_lines": 358,
+    "html_ids": 304,
+    "duplicates": [],
+    "tracks": 999,
+    "sentinels": [
+      1,
+      27,
+      333,
+      666,
+      999
+    ],
+    "math_random": [],
+    "shell_gzip_kb": 127.8
+  },
+  "limitations": [
+    "D1/D7/D30 no painel são proxy local da instalação, não métrica populacional.",
+    "Endpoint real NÃO TESTADO; envio permanece opt-in e requer HTTPS.",
+    "Moto G físico e PWA HTTPS em hardware ainda NÃO TESTADOS."
+  ]
+}

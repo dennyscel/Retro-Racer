@@ -1,0 +1,29 @@
+{
+  "cycle": 22,
+  "version": "AAA_R2+C22",
+  "saveKey": "retro_racer_championship_v30",
+  "gold": "Pacote de vitrine",
+  "status": "PASS_FINAL",
+  "score": 118,
+  "allAxesAtLeast9": true,
+  "filesChanged": [
+    "README.md",
+    "CHANGELOG.md",
+    "sw.js",
+    "docs/PITCH_UMA_PAGINA.md",
+    "docs/DECK.md",
+    "docs/TRAILER_15S.md",
+    "docs/TRAILER_45S.md",
+    "docs/ASO.md",
+    "docs/PRESS_KIT.md",
+    "docs/METRICAS_ALVO.md",
+    "docs/ROADMAP_12M.md",
+    "docs/INDEX_PACOTE_INVESTIDOR.md",
+    "docs/press/*",
+    "docs/QA_CICLO_22.json",
+    "docs/REGISTRO_CICLO_22.md",
+    "docs/CHECKLIST_CICLO_22.md",
+    "ESTADO_DO_LOOP.json",
+    "INTEGRIDADE.json"
+  ]
+}

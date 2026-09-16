@@ -1,0 +1,217 @@
+{
+  "id": 304,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 7,
+  "name": "Ponte Gaia SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.3036,
+  "lapTargetSeconds": 67,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.686,
+  "pits": [
+    0.18,
+    0.52,
+    0.84
+  ],
+  "palette": {
+    "grass": "#13aa1e",
+    "grass2": "#14a51d",
+    "shoulder": "#3f872d",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1a8d24",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 108,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 180,
+      "l": 28,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 103,
+      "l": 59,
+      "c": -2.51,
+      "y": 17,
+      "w": 1.1,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 64,
+      "l": 55,
+      "c": 1.75,
+      "y": 44,
+      "w": 0.95,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 125,
+      "l": 69,
+      "c": 1.67,
+      "y": -7,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 88,
+      "l": 58,
+      "c": 2.28,
+      "y": -50,
+      "w": 0.94,
+      "f": "descida rápida"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 37,
+      "c": -5.55,
+      "y": -18,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 72,
+      "l": 32,
+      "c": 2.67,
+      "y": 0,
+      "w": 0.81,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 29,
+      "h": 35,
+      "l": 35,
+      "c": -3.08,
+      "y": 6,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 61,
+      "l": 25,
+      "c": 2.72,
+      "y": -3,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 42,
+      "l": 26,
+      "c": 1.29,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 53,
+      "l": 31,
+      "c": -1.47,
+      "y": 0,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 64,
+      "l": 36,
+      "c": 1.65,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 49,
+      "l": 31,
+      "c": -4.52,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 33,
+      "l": 26,
+      "c": 4.04,
+      "y": 4,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 108,
+      "l": 60,
+      "c": 3.72,
+      "y": 24,
+      "w": 0.89,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 149,
+      "l": 46,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 140,
+      "l": 42,
+      "c": 1.67,
+      "y": 17,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 77,
+      "l": 45,
+      "c": -2.64,
+      "y": 45,
+      "w": 0.86,
+      "f": "subida cega"
+    },
+    {
+      "e": 36,
+      "h": 164,
+      "l": 58,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "c5fe1bcd40a6"
+}

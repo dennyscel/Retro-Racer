@@ -1,0 +1,208 @@
+{
+  "id": 293,
+  "championship": 11,
+  "cupName": "Liga Metro Futuro",
+  "cupRace": 23,
+  "name": "Volta Fênix Sul",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.2926,
+  "lapTargetSeconds": 65,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.682,
+  "pits": [
+    0.26,
+    0.57,
+    0.85
+  ],
+  "palette": {
+    "grass": "#b5bec6",
+    "grass2": "#9da8b2",
+    "shoulder": "#728290",
+    "skyTop": "#63a3c2",
+    "skyBot": "#abc3d0",
+    "mountColor": "#35424f",
+    "mountSnow": true,
+    "road": "#38414d",
+    "road2": "#2f3844"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 67,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 65,
+      "h": 70,
+      "l": 49,
+      "c": -2.09,
+      "y": 27,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 81,
+      "l": 48,
+      "c": 2.07,
+      "y": 10,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 84,
+      "l": 57,
+      "c": -1.19,
+      "y": -31,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 40,
+      "h": 48,
+      "l": 40,
+      "c": 6.23,
+      "y": 10,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 53,
+      "l": 37,
+      "c": -3.13,
+      "y": 0,
+      "w": 0.9,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 28,
+      "c": 3.62,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 50,
+      "l": 34,
+      "c": -3.21,
+      "y": -6,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 59,
+      "l": 31,
+      "c": 1.65,
+      "y": 5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 38,
+      "l": 36,
+      "c": -1.83,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 49,
+      "l": 23,
+      "c": 2.01,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 24,
+      "c": 2.47,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 60,
+      "l": 35,
+      "c": -2.15,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 67,
+      "h": 91,
+      "l": 57,
+      "c": 4.25,
+      "y": 12,
+      "w": 0.91,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 154,
+      "l": 34,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 55,
+      "h": 96,
+      "l": 57,
+      "c": -2.07,
+      "y": 2,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 83,
+      "l": 39,
+      "c": 1.38,
+      "y": 28,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 61,
+      "h": 118,
+      "l": 67,
+      "c": -3.12,
+      "y": 2,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 109,
+      "l": 53,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "058b0a7c982a"
+}

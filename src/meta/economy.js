@@ -1,0 +1,39 @@
+// CICLO 19 — economia formal e monetização ética, desligada por padrão.
+const MARK_ITEMS=Object.freeze([
+ {id:'nitro-cyan',kind:'nitroColors',name:'NITRO CIANO',cost:45,value:'cyan'},
+ {id:'horn-chip',kind:'horns',name:'BUZINA CHIPTUNE',cost:30,value:'chip'},
+ {id:'label-zero',kind:'labels',name:'RÓTULO HORIZONTE ZERO',cost:60,value:'zero'},
+ {id:'pack-grid',kind:'packs',name:'DECALQUES GRID 16',cost:35,value:'grid16'}
+]);
+const PAID=Object.freeze([
+ {id:'season-pass',name:'PASSE COSMÉTICO',desc:'Trilha premium só com pinturas/rótulos. Zero XP extra.'},
+ {id:'founder',name:'PACOTE FUNDADOR',desc:'Remove anúncios e libera selo cosmético. Zero desempenho.'},
+ {id:'paint-neon',name:'PINTURA NEON',desc:'Cosmético avulso.'},
+ {id:'nitro-violet',name:'NITRO VIOLETA',desc:'Cor de efeito. Sem potência extra.'}
+]);
+function ensure(){career.economy=career.economy||structuredClone(defaultCareer.economy);return career.economy;}
+function log(currency,amount,reason){const e=ensure(),v=Math.round(Number(amount)||0);e.ledger.push({t:localDateKey(),currency,amount:v,reason:String(reason||'')});e.ledger=e.ledger.slice(-120);}
+function balance(cur){return cur==='CR$'?career.money:cur==='FICHAS'?career.fichas:career.marcas;}
+function setBalance(cur,v){if(cur==='CR$')career.money=v;else if(cur==='FICHAS')career.fichas=v;else career.marcas=v;}
+globalThis.economyAdd=function economyAdd(cur,amount,reason=''){amount=Math.max(0,Math.round(amount));setBalance(cur,Math.min(999999999,balance(cur)+amount));log(cur,amount,reason);saveCareer();return amount;};
+globalThis.economySpend=function economySpend(cur,amount,reason=''){amount=Math.max(0,Math.round(amount));if(balance(cur)<amount)return false;setBalance(cur,balance(cur)-amount);log(cur,-amount,reason);saveCareer();return true;};
+globalThis.economyAwardSeasonMarks=function economyAwardSeasonMarks(kind,delta){if(delta<=0)return 0;const amount=kind==='weekly'?10:3;return economyAdd('MARCAS',amount,'TEMPORADA '+kind.toUpperCase());};
+function p1(level){const tier=Math.max(1,Math.ceil(level/27));return Math.round(1800+220*Math.log2(level+1)*tier);}
+globalThis.economyCurve=function economyCurve(){return[1,27,100,400,999].map(level=>({level,p1:p1(level),repairFull:2500,upgradeMedian:Math.round(650*Math.pow(2.08,Math.min(5,Math.floor(level/200))))}));};
+globalThis.economyCarForecast=function economyCarForecast(){return CARS.map(car=>{if(!car.price)return{id:car.id,name:car.name,price:0,unlock:car.unlockLevel||1,races:0};const lv=Math.max(1,car.unlockLevel||1),net=Math.max(1,Math.round(p1(lv)*.62));return{id:car.id,name:car.name,price:car.price,unlock:lv,races:Math.ceil(car.price/net)};});};
+function owns(item){const e=ensure();return (e.owned[item.kind]||[]).includes(item.value);}
+globalThis.economyBuyMarkItem=function economyBuyMarkItem(id){const item=MARK_ITEMS.find(x=>x.id===id);if(!item)return false;const e=ensure();if(owns(item))return true;if(!economySpend('MARCAS',item.cost,'COSMÉTICO '+item.id))return false;e.owned[item.kind]=[...(e.owned[item.kind]||[]),item.value];saveCareer();return true;};
+function adapter(){return globalThis.RRMonetizationAdapter||null;}
+function enabled(){return !!career.flags.monetization;}
+globalThis.economyRequestPurchase=async function economyRequestPurchase(sku){if(globalThis.telemetryEvent)telemetryEvent('purchase_intent',{sku:String(sku||'').slice(0,48)});if(!enabled())return{ok:false,reason:'MONETIZAÇÃO DESATIVADA'};const a=adapter();if(!a||typeof a.purchase!=='function')return{ok:false,reason:'ADAPTADOR NÃO CONFIGURADO'};const r=await a.purchase(sku);if(!r||r.ok!==true)return{ok:false,reason:'COMPRA NÃO CONFIRMADA'};const e=ensure();if(sku==='founder'){e.founder=true;e.adFree=true;e.owned.packs=[...new Set([...(e.owned.packs||[]),'founder'])];e.owned.labels=[...new Set([...(e.owned.labels||[]),'founder'])];}else if(sku==='season-pass'){e.premiumSeason=true;e.owned.packs=[...new Set([...(e.owned.packs||[]),'season-premium'])];e.owned.labels=[...new Set([...(e.owned.labels||[]),'season-premium'])];}else if(sku==='nitro-violet'){e.owned.nitroColors=[...new Set([...(e.owned.nitroColors||[]),'violet'])];}else e.owned.packs=[...new Set([...(e.owned.packs||[]),sku])];saveCareer();renderEconomy();return{ok:true};};
+globalThis.economyPrepareRaceReward=function economyPrepareRaceReward(amount){const e=ensure();e.rewarded.lastRace={race:career.stats.races,amount:Math.max(0,Math.round(amount||0)),claimed:false};saveCareer();};
+globalThis.economyClaimRewardedDouble=async function economyClaimRewardedDouble(){const e=ensure(),r=e.rewarded.lastRace;if(!enabled()||e.adFree||!r||r.claimed||r.amount<=0)return false;const a=adapter();if(!a||typeof a.rewarded!=='function')return false;const ok=await a.rewarded('double-prize');if(!ok)return false;r.claimed=true;career.money+=r.amount;career.stats.earned+=r.amount;log('CR$',r.amount,'ANÚNCIO RECOMPENSADO');saveCareer();updateStartBadges();renderEconomy();return true;};
+globalThis.economyCanRiftContinue=function economyCanRiftContinue(){const e=ensure(),run=Number(career.fenda?.seed||0);return enabled()&&!e.adFree&&!!run&&Number(e.rewarded.riftUsedRun||0)!==run&&adapter()&&typeof adapter().rewarded==='function';};
+globalThis.economyClaimRiftContinue=async function economyClaimRiftContinue(){if(!economyCanRiftContinue())return false;const a=adapter(),ok=await a.rewarded('rift-continue');if(!ok)return false;const e=ensure(),f=career.fenda;e.rewarded.riftUsedRun=Number(f.seed||0);f.active=true;f.failed=false;f.fuel=Math.max(.22,Number(f.fuel)||0);f.damage=Math.min(.82,Number(f.damage)||0);career.carDamage[currentCar().id]=f.damage;saveCareer();return true;};
+function paidStatus(x){const e=ensure();if(x.id==='founder'&&e.founder)return'ATIVO';if(x.id==='season-pass'&&e.premiumSeason)return'ATIVO';if((e.owned.packs||[]).includes(x.id))return'COMPRADO';return enabled()?'DISPONÍVEL*':'DESATIVADO';}
+globalThis.renderEconomy=function renderEconomy(){const e=ensure(),bal=document.getElementById('economyBalances'),marks=document.getElementById('economyMarks'),paid=document.getElementById('economyPaid'),flag=document.getElementById('economyFlag');if(!bal)return;bal.innerHTML=`<span>CR$ <b>${Math.floor(career.money).toLocaleString('pt-BR')}</b></span><span>FICHAS <b>${Math.floor(career.fichas||0).toLocaleString('pt-BR')}</b></span><span>MARCAS <b>${Math.floor(career.marcas||0).toLocaleString('pt-BR')}</b></span>`;flag.textContent=enabled()?'MONETIZAÇÃO ÉTICA · FLAG ON':'MONETIZAÇÃO DESATIVADA · PADRÃO DO JOGO';marks.innerHTML=MARK_ITEMS.map(i=>`<button class="economy-item" data-mark="${i.id}" ${owns(i)||(career.marcas||0)>=i.cost?'':'disabled'}><b>${i.name}</b><span>${owns(i)?'ADQUIRIDO':i.cost+' MARCAS'}</span></button>`).join('');marks.querySelectorAll('[data-mark]').forEach(b=>b.onclick=()=>{economyBuyMarkItem(b.dataset.mark);renderEconomy();});paid.innerHTML=PAID.map(i=>`<button class="economy-item paid" data-sku="${i.id}" ${enabled()?'':'disabled'}><b>${i.name}</b><span>${i.desc}</span><em>${paidStatus(i)}</em></button>`).join('');paid.querySelectorAll('[data-sku]').forEach(b=>b.onclick=async()=>{const r=await economyRequestPurchase(b.dataset.sku);const s=document.getElementById('economyStatus');if(s)s.textContent=r.ok?'CONFIRMADO · SOMENTE COSMÉTICO':r.reason;});document.getElementById('economyStatus').textContent=e.adFree?'FUNDADOR · SEM ANÚNCIOS':'Nenhuma compra concede desempenho, CR$, carro, upgrade, XP ou progresso.';};
+globalThis.openEconomy=function openEconomy(){gameMode='economy';renderEconomy();showMenu('economy');};
+globalThis.RR_ECONOMY={MARK_ITEMS,PAID,curve:economyCurve,forecast:economyCarForecast};
+const back=document.getElementById('btnEconomyBack');if(back)back.onclick=()=>{gameMode='menu';showMenu('start');};
+
+if(career&&career.flags&&!career.flags.c19Economy){career.flags.c19Economy=true;saveCareer();}

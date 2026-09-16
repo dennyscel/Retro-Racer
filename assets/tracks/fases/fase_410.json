@@ -1,0 +1,181 @@
+{
+  "id": 410,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 5,
+  "name": "Serpentina Prisma Clássico",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4098,
+  "lapTargetSeconds": 66,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.29,
+    0.63,
+    0.76
+  ],
+  "palette": {
+    "grass": "#13b51f",
+    "grass2": "#08a412",
+    "shoulder": "#428f2f",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#138e1e",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 74,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 136,
+      "l": 52,
+      "c": 2.76,
+      "y": 4,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 97,
+      "l": 41,
+      "c": 1.96,
+      "y": 51,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 74,
+      "l": 62,
+      "c": -1.92,
+      "y": -6,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 109,
+      "l": 64,
+      "c": -2.46,
+      "y": -44,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 76,
+      "l": 52,
+      "c": 5.98,
+      "y": 10,
+      "w": 1.08,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 69,
+      "l": 41,
+      "c": -2.96,
+      "y": 14,
+      "w": 1.09,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 22,
+      "c": 3.42,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 38,
+      "l": 36,
+      "c": -3.03,
+      "y": -3,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 23,
+      "c": -1.52,
+      "y": 5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 44,
+      "l": 28,
+      "c": 1.7,
+      "y": 5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 55,
+      "l": 33,
+      "c": -1.88,
+      "y": 9,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 40,
+      "c": 4.87,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 48,
+      "l": 37,
+      "c": -4.36,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 57,
+      "h": 95,
+      "l": 65,
+      "c": -4.05,
+      "y": 24,
+      "w": 1.07,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 47,
+      "h": 134,
+      "l": 68,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "7609afcea5e5"
+}

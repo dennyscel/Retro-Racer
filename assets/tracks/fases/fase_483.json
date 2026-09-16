@@ -1,0 +1,208 @@
+{
+  "id": 483,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 24,
+  "name": "Túnel Mandacaru Sprint",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.483,
+  "lapTargetSeconds": 70,
+  "signature": "reta de largada larga",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.693,
+  "pits": [
+    0.3,
+    0.47,
+    0.89
+  ],
+  "palette": {
+    "grass": "#12a51d",
+    "grass2": "#0b9814",
+    "shoulder": "#428931",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#1a8a24",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 115,
+      "l": 34,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 113,
+      "l": 69,
+      "c": -4.56,
+      "y": 24,
+      "w": 0.94,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 132,
+      "l": 45,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.0,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 51,
+      "h": 136,
+      "l": 63,
+      "c": -2.3,
+      "y": 18,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 83,
+      "l": 39,
+      "c": 1.58,
+      "y": 34,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 57,
+      "h": 74,
+      "l": 73,
+      "c": 3.36,
+      "y": -2,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 105,
+      "l": 67,
+      "c": -2.13,
+      "y": -53,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 81,
+      "l": 55,
+      "c": -5.18,
+      "y": 18,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 108,
+      "l": 35,
+      "c": 2.43,
+      "y": -14,
+      "w": 1.09,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 29,
+      "h": 53,
+      "l": 25,
+      "c": -5.39,
+      "y": 6,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 27,
+      "l": 26,
+      "c": 4.84,
+      "y": -3,
+      "w": 1.16,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 42,
+      "l": 26,
+      "c": 2.79,
+      "y": -5,
+      "w": 1.12,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 53,
+      "l": 31,
+      "c": -2.97,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 64,
+      "l": 36,
+      "c": 3.15,
+      "y": 9,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 33,
+      "l": 21,
+      "c": -4.24,
+      "y": 6,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 37,
+      "l": 27,
+      "c": 3.78,
+      "y": -3,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 94,
+      "l": 88,
+      "c": 3.45,
+      "y": -12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 101,
+      "l": 38,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 115,
+      "l": 63,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "8c1bf7359b6d"
+}

@@ -1,0 +1,18 @@
+function qSteer(v){return Math.max(0,Math.min(15,Math.round((Math.max(-1,Math.min(1,Number(v)||0))+1)*7.5)));}
+function packValues(steer,accel,brake,nitro){let b=qSteer(steer);if(accel)b|=16;if(brake)b|=32;if(nitro)b|=64;return b;}
+function unpackFrame(b){return{steer:(b&15)/7.5-1,accel:!!(b&16),brake:!!(b&32),nitro:!!(b&64)};}
+function toB64(bytes){let s='';for(const b of bytes)s+=String.fromCharCode(b);return btoa(s).replaceAll('+','-').replaceAll('/','_').replace(/=+$/,'');}
+function fromB64(s){s=String(s||'').replaceAll('-','+').replaceAll('_','/');while(s.length%4)s+='=';const raw=atob(s);return Uint8Array.from(raw,c=>c.charCodeAt(0));}
+export class InputReplay{
+  constructor(){this.start({});}
+  start(meta={}){this.meta={...meta,hz:20,format:2};this.frames=[];this.raw=[];this.last=-1;this.run=0;this.sampleCount=0;return this;}
+  record(input){return this.recordValues(input.steer,input.accel,input.brake,input.nitro);}
+  recordValues(steer,accel,brake,nitro){const b=packValues(steer,accel,brake,nitro);this.raw.push(b);this.sampleCount++;if(b===this.last&&this.run<255){this.run++;return;}this.flush();this.last=b;this.run=1;}
+  flush(){if(this.run>0)this.frames.push(this.last,this.run);this.run=0;}
+  finish(){this.flush();const rle=Uint8Array.from(this.frames),raw=Uint8Array.from(this.raw),useRaw=raw.length<=rle.length,bytes=useRaw?raw:rle;return{...this.meta,encoding:useRaw?'raw1':'rle1',runs:this.frames.length/2,sampleCount:this.sampleCount,payload:toB64(bytes),bytes:bytes.length};}
+  decode(replay){const bytes=fromB64(replay&&replay.payload||'');if((replay&&replay.encoding)==='raw1')return Array.from(bytes,unpackFrame);const out=[];for(let i=0;i+1<bytes.length;i+=2){const f=unpackFrame(bytes[i]);for(let n=0;n<bytes[i+1];n++)out.push(f);}return out;}
+  toGhostSamples(replay,totalDistance,finishTime){if(!replay||!replay.payload||!Number.isFinite(finishTime)||finishTime<=0)return[];const input=this.decode(replay),count=input.length;if(!count)return[];const out=new Array(count);let x=0,v=0,d=0;const hz=Math.max(1,Number(replay.hz)||20),dt=1/hz;for(let i=0;i<count;i++){const f=input[i];if(f.brake)v=Math.max(0,v-2.6*dt);else if(f.accel)v=Math.min(1.12,v+1.65*dt);else v=Math.max(0,v-.55*dt);if(f.nitro)v=Math.min(1.28,v+.75*dt);d+=Math.max(.08,v)*dt;x=Math.max(-1.6,Math.min(1.6,(x+f.steer*dt*1.7)*.997));out[i]=[finishTime*((i+1)/count),d,x];}const scale=Math.max(0,Number(totalDistance)||0)/Math.max(.0001,d);for(let i=0;i<count;i++)out[i][1]=Number((out[i][1]*scale).toFixed(1));return out;}
+}
+export function runReplayKernel(seed,inputs){let x=0,speed=0,progress=0,fuel=1,time=0;let r=2166136261;for(const ch of String(seed)){r^=ch.charCodeAt(0);r=Math.imul(r,16777619);}for(const input of inputs){const dt=1/60;const steer=Math.max(-1,Math.min(1,input.steer||0));x=Math.max(-2,Math.min(2,x+steer*dt*1.9));if(input.brake)speed=Math.max(0,speed-4200*dt);else if(input.accel)speed=Math.min(12000,speed+2700*dt);else speed=Math.max(0,speed-900*dt);if(input.nitro&&fuel>0){speed=Math.min(13600,speed+1800*dt);fuel=Math.max(0,fuel-.02*dt);}progress+=speed*dt;fuel=Math.max(0,fuel-(speed/12000*.004+.002)*dt);time+=dt;}return{time:+time.toFixed(6),progress:+progress.toFixed(6),x:+x.toFixed(6),speed:+speed.toFixed(6),fuel:+fuel.toFixed(6),seed:r>>>0};}
+export function determinismSelfTest(){const inputs=[];for(let i=0;i<3600;i++)inputs.push({steer:Math.sin(i/73)*.7,accel:i>30,brake:i%900>850,nitro:i%700>620});const a=runReplayKernel('C01',inputs),b=runReplayKernel('C01',inputs),c=runReplayKernel('C01',inputs);return{pass:JSON.stringify(a)===JSON.stringify(b)&&JSON.stringify(b)===JSON.stringify(c),runs:[a,b,c]};}
+export const replayCodec={toB64,fromB64};

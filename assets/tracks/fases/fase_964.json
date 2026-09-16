@@ -1,0 +1,262 @@
+{
+  "id": 964,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 19,
+  "name": "Volta Infinito Clássico",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.9649,
+  "lapTargetSeconds": 86,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.726,
+  "pits": [
+    0.31,
+    0.67,
+    0.78
+  ],
+  "palette": {
+    "grass": "#e0af3f",
+    "grass2": "#d5a036",
+    "shoulder": "#c68d2e",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c88932",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 98,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 30,
+      "c": 2.86,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 57,
+      "l": 35,
+      "c": -3.04,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 36,
+      "l": 22,
+      "c": 3.22,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 63,
+      "l": 25,
+      "c": 6.95,
+      "y": 12,
+      "w": 1.11,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 53,
+      "l": 31,
+      "c": -6.27,
+      "y": -6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 136,
+      "l": 80,
+      "c": -6.06,
+      "y": -12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 177,
+      "l": 27,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 112,
+      "l": 50,
+      "c": 3.44,
+      "y": -1,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 101,
+      "l": 60,
+      "c": 2.53,
+      "y": 41,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 134,
+      "l": 60,
+      "c": 4.49,
+      "y": 3,
+      "w": 0.92,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 117,
+      "l": 58,
+      "c": -2.95,
+      "y": -38,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 62,
+      "l": 46,
+      "c": 7.16,
+      "y": -18,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 99,
+      "l": 38,
+      "c": -3.75,
+      "y": -14,
+      "w": 0.86,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 58,
+      "l": 40,
+      "c": 6.95,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 60,
+      "l": 25,
+      "c": -6.27,
+      "y": 4,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 23,
+      "c": 3.8,
+      "y": -5,
+      "w": 0.94,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 28,
+      "c": -3.98,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 49,
+      "l": 33,
+      "c": 4.16,
+      "y": 0,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 38,
+      "l": 36,
+      "c": 5.79,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 32,
+      "l": 26,
+      "c": -5.21,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 117,
+      "l": 57,
+      "c": -4.95,
+      "y": 12,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 146,
+      "l": 45,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 61,
+      "h": 149,
+      "l": 69,
+      "c": -4.49,
+      "y": 3,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 120,
+      "l": 50,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "fa5d4ed6515e"
+}

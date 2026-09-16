@@ -1,0 +1,208 @@
+{
+  "id": 224,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 8,
+  "name": "Via Expressa Atlas Circuit",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.2234,
+  "lapTargetSeconds": 64,
+  "signature": "sequência de placas",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.681,
+  "pits": [
+    0.19,
+    0.54,
+    0.88
+  ],
+  "palette": {
+    "grass": "#169b20",
+    "grass2": "#1b9a23",
+    "shoulder": "#3b7b2c",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1b8024",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 74,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 58,
+      "h": 100,
+      "l": 46,
+      "c": 2.96,
+      "y": 16,
+      "w": 1.2,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 57,
+      "l": 65,
+      "c": 2.13,
+      "y": 25,
+      "w": 1.12,
+      "f": "subida cega"
+    },
+    {
+      "e": 64,
+      "h": 122,
+      "l": 56,
+      "c": 2.11,
+      "y": -4,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 133,
+      "l": 58,
+      "c": 1.23,
+      "y": -38,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 46,
+      "l": 34,
+      "c": 3.01,
+      "y": -12,
+      "w": 0.83,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 67,
+      "l": 44,
+      "c": -3.19,
+      "y": 14,
+      "w": 1.01,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 36,
+      "l": 34,
+      "c": 3.69,
+      "y": 0,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 28,
+      "l": 39,
+      "c": -3.27,
+      "y": 6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 35,
+      "c": 1.69,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 22,
+      "c": -1.87,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 27,
+      "c": 2.05,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 50,
+      "l": 30,
+      "c": -2.53,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 38,
+      "l": 40,
+      "c": 2.21,
+      "y": 4,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 63,
+      "h": 149,
+      "l": 89,
+      "c": -4.31,
+      "y": 12,
+      "w": 1.04,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 170,
+      "l": 28,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 57,
+      "h": 137,
+      "l": 65,
+      "c": -2.11,
+      "y": 10,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 68,
+      "h": 70,
+      "l": 55,
+      "c": 1.42,
+      "y": 26,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 92,
+      "l": 42,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4b058c91fb2b"
+}

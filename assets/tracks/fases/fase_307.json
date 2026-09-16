@@ -1,0 +1,199 @@
+{
+  "id": 307,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 10,
+  "name": "Grande Laço Ametista Norte",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3066,
+  "lapTargetSeconds": 64,
+  "signature": "final em mergulho",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.678,
+  "pits": [
+    0.22,
+    0.64,
+    0.87
+  ],
+  "palette": {
+    "grass": "#ccd5dd",
+    "grass2": "#b2bdc7",
+    "shoulder": "#768694",
+    "skyTop": "#74b3d1",
+    "skyBot": "#bcd3e0",
+    "mountColor": "#465360",
+    "mountSnow": true,
+    "road": "#49515c",
+    "road2": "#404853"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 103,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 49,
+      "h": 62,
+      "l": 63,
+      "c": -1.41,
+      "y": 41,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 109,
+      "l": 62,
+      "c": 3.15,
+      "y": 17,
+      "w": 0.89,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 92,
+      "l": 71,
+      "c": -1.98,
+      "y": -45,
+      "w": 1.19,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 42,
+      "l": 54,
+      "c": 4.82,
+      "y": 10,
+      "w": 0.91,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 65,
+      "l": 30,
+      "c": -2.19,
+      "y": -14,
+      "w": 0.89,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 30,
+      "h": 36,
+      "l": 20,
+      "c": 2.51,
+      "y": 12,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 34,
+      "l": 27,
+      "c": -2.19,
+      "y": -6,
+      "w": 1.13,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 37,
+      "l": 27,
+      "c": 2.61,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 48,
+      "l": 32,
+      "c": -2.79,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 59,
+      "l": 37,
+      "c": 2.97,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 50,
+      "l": 38,
+      "c": -3.96,
+      "y": 12,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 44,
+      "l": 28,
+      "c": 3.52,
+      "y": -6,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 81,
+      "h": 121,
+      "l": 71,
+      "c": -3.18,
+      "y": 18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 34,
+      "h": 132,
+      "l": 48,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.2,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 69,
+      "h": 124,
+      "l": 71,
+      "c": -3.15,
+      "y": 17,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 60,
+      "h": 75,
+      "l": 53,
+      "c": 2.29,
+      "y": 42,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 39,
+      "h": 115,
+      "l": 67,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "a01c49fbaf3c"
+}

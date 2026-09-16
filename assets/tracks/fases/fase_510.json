@@ -1,0 +1,190 @@
+{
+  "id": 510,
+  "championship": 19,
+  "cupName": "Desafio Planalto Roxo",
+  "cupRace": 24,
+  "name": "Via Expressa Monsoon Sul",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.51,
+  "lapTargetSeconds": 69,
+  "signature": "subida cega",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.15,
+    0.5,
+    0.8
+  ],
+  "palette": {
+    "grass": "#e5b54a",
+    "grass2": "#daa741",
+    "shoulder": "#ce973b",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#d69944",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 82,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 60,
+      "l": 26,
+      "c": 2.85,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 39,
+      "l": 31,
+      "c": -3.03,
+      "y": 0,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 50,
+      "l": 36,
+      "c": 3.21,
+      "y": 9,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 37,
+      "l": 33,
+      "c": -4.32,
+      "y": 6,
+      "w": 0.94,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 29,
+      "l": 39,
+      "c": 3.86,
+      "y": -3,
+      "w": 0.99,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 54,
+      "h": 178,
+      "l": 88,
+      "c": 3.53,
+      "y": 12,
+      "w": 1.06,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 119,
+      "l": 48,
+      "c": 0.15,
+      "y": 0,
+      "w": 0.98,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 128,
+      "l": 64,
+      "c": -3.42,
+      "y": 13,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 77,
+      "l": 61,
+      "c": -2.52,
+      "y": 35,
+      "w": 1.1,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 150,
+      "l": 38,
+      "c": 2.58,
+      "y": -5,
+      "w": 1.12,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 129,
+      "l": 54,
+      "c": -1.57,
+      "y": -52,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 44,
+      "l": 40,
+      "c": 7.13,
+      "y": -12,
+      "w": 0.88,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 91,
+      "l": 46,
+      "c": 3.73,
+      "y": -14,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 40,
+      "h": 32,
+      "l": 26,
+      "c": 4.32,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 28,
+      "h": 36,
+      "l": 33,
+      "c": -3.86,
+      "y": 6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 52,
+      "h": 114,
+      "l": 60,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "5edd6adc7ee4"
+}

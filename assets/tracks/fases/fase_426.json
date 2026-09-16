@@ -1,0 +1,190 @@
+{
+  "id": 426,
+  "championship": 16,
+  "cupName": "Copa Cidade Alta",
+  "cupRace": 21,
+  "name": "Serpentina Ametista Turbo",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.4259,
+  "lapTargetSeconds": 67,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "descida rápida",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.682,
+  "pits": [
+    0.22,
+    0.5,
+    0.86
+  ],
+  "palette": {
+    "grass": "#16b522",
+    "grass2": "#0fa819",
+    "shoulder": "#388425",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#128b1d",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 62,
+      "l": 43,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 56,
+      "h": 84,
+      "l": 68,
+      "c": 2.38,
+      "y": 4,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 97,
+      "l": 57,
+      "c": -1.64,
+      "y": 35,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 106,
+      "l": 42,
+      "c": 3.43,
+      "y": 4,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 129,
+      "l": 50,
+      "c": 2.19,
+      "y": -24,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 76,
+      "l": 40,
+      "c": 5.31,
+      "y": -18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 45,
+      "h": 91,
+      "l": 36,
+      "c": -2.52,
+      "y": 0,
+      "w": 0.93,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 24,
+      "h": 60,
+      "l": 38,
+      "c": 2.9,
+      "y": 0,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 36,
+      "l": 31,
+      "c": -2.55,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 21,
+      "c": -2.86,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 60,
+      "l": 26,
+      "c": 3.04,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 39,
+      "l": 31,
+      "c": -3.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 40,
+      "l": 34,
+      "c": 4.34,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 46,
+      "l": 32,
+      "c": -3.87,
+      "y": 4,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 143,
+      "l": 81,
+      "c": 3.55,
+      "y": 24,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 28,
+      "h": 144,
+      "l": 30,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 44,
+      "h": 166,
+      "l": 60,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "b303a6150ac5"
+}

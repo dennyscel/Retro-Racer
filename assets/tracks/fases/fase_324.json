@@ -1,0 +1,244 @@
+{
+  "id": 324,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 27,
+  "name": "Ponte Gaia Final",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.3236,
+  "lapTargetSeconds": 68,
+  "signature": "curva longa de alta",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.687,
+  "pits": [
+    0.22,
+    0.62,
+    0.74
+  ],
+  "palette": {
+    "grass": "#e8b847",
+    "grass2": "#e0ab41",
+    "shoulder": "#d29939",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#d4953d",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 82,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 24,
+      "h": 46,
+      "l": 20,
+      "c": 1.34,
+      "y": 9,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 57,
+      "l": 25,
+      "c": -1.52,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 30,
+      "c": 1.7,
+      "y": 9,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 59,
+      "l": 23,
+      "c": 4.59,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 57,
+      "l": 42,
+      "c": -4.1,
+      "y": 4,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 136,
+      "l": 70,
+      "c": 3.79,
+      "y": -18,
+      "w": 1.08,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 137,
+      "l": 37,
+      "c": 0.15,
+      "y": -6,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 68,
+      "h": 92,
+      "l": 58,
+      "c": 1.72,
+      "y": -7,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 101,
+      "l": 50,
+      "c": 2.68,
+      "y": 41,
+      "w": 1.02,
+      "f": "subida cega"
+    },
+    {
+      "e": 40,
+      "h": 114,
+      "l": 68,
+      "c": -2.77,
+      "y": 3,
+      "w": 1.02,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 77,
+      "l": 48,
+      "c": -1.71,
+      "y": -46,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 62,
+      "l": 50,
+      "c": 4.16,
+      "y": 10,
+      "w": 0.97,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 89,
+      "l": 28,
+      "c": 1.75,
+      "y": 0,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 38,
+      "c": 4.59,
+      "y": 0,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 26,
+      "l": 36,
+      "c": -4.1,
+      "y": 6,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 59,
+      "l": 31,
+      "c": -2.27,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 38,
+      "l": 36,
+      "c": 2.45,
+      "y": 0,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 49,
+      "l": 23,
+      "c": -2.63,
+      "y": 9,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 34,
+      "l": 34,
+      "c": 3.43,
+      "y": 0,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 37,
+      "c": -3.04,
+      "y": 6,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 117,
+      "l": 89,
+      "c": 2.67,
+      "y": 18,
+      "w": 1.06,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 160,
+      "l": 62,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "5c3bca337906"
+}

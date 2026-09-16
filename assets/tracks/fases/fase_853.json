@@ -1,0 +1,235 @@
+{
+  "id": 853,
+  "championship": 32,
+  "cupName": "Desafio Ruínas Solares",
+  "cupRace": 16,
+  "name": "Arena Delta Noite",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.8537,
+  "lapTargetSeconds": 80,
+  "signature": "final em mergulho",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.715,
+  "pits": [
+    0.19,
+    0.64,
+    0.75
+  ],
+  "palette": {
+    "grass": "#242439",
+    "grass2": "#1c1c2e",
+    "shoulder": "#18182a",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#0d0d23",
+    "mountSnow": false,
+    "road": "#2e2e3a",
+    "road2": "#282834"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 71,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 31,
+      "h": 45,
+      "l": 37,
+      "c": -6.3,
+      "y": 0,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 31,
+      "l": 35,
+      "c": 5.67,
+      "y": -6,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 90,
+      "l": 78,
+      "c": 5.44,
+      "y": 24,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 101,
+      "l": 28,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 131,
+      "l": 42,
+      "c": 2.97,
+      "y": -2,
+      "w": 0.98,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 98,
+      "l": 39,
+      "c": -3.73,
+      "y": 23,
+      "w": 1.15,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 153,
+      "l": 52,
+      "c": 4.02,
+      "y": 8,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 128,
+      "l": 57,
+      "c": 2.61,
+      "y": -31,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 40,
+      "c": 6.33,
+      "y": 18,
+      "w": 1.08,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 55,
+      "l": 40,
+      "c": -3.2,
+      "y": 0,
+      "w": 1.01,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 40,
+      "l": 30,
+      "c": 6.3,
+      "y": 0,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 38,
+      "l": 29,
+      "c": -5.67,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 39,
+      "l": 37,
+      "c": -3.38,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 50,
+      "l": 24,
+      "c": 3.56,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 61,
+      "l": 29,
+      "c": -3.74,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 26,
+      "c": 5.14,
+      "y": 6,
+      "w": 1.08,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 48,
+      "l": 30,
+      "c": -4.61,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 167,
+      "l": 55,
+      "c": -4.32,
+      "y": 24,
+      "w": 1.19,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 190,
+      "l": 46,
+      "c": 0.39,
+      "y": 6,
+      "w": 1.03,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 84,
+      "l": 61,
+      "c": 4.02,
+      "y": 2,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 85,
+      "l": 53,
+      "c": 0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9b83c9a98edc"
+}

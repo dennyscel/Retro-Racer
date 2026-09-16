@@ -1,0 +1,172 @@
+{
+  "id": 330,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 6,
+  "name": "Anel Centelha Sul",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.3297,
+  "lapTargetSeconds": 64,
+  "signature": "subida cega",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.672,
+  "pits": [
+    0.3,
+    0.65,
+    0.8
+  ],
+  "palette": {
+    "grass": "#e1b348",
+    "grass2": "#e0af49",
+    "shoulder": "#c79238",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#d29744",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 62,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 26,
+      "c": 2.47,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 43,
+      "l": 31,
+      "c": -2.65,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 54,
+      "l": 36,
+      "c": 2.83,
+      "y": -5,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 55,
+      "l": 29,
+      "c": 3.74,
+      "y": -8,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 30,
+      "h": 61,
+      "l": 27,
+      "c": -3.32,
+      "y": 4,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 94,
+      "l": 76,
+      "c": -2.97,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 179,
+      "l": 43,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 40,
+      "h": 104,
+      "l": 64,
+      "c": 3.0,
+      "y": -7,
+      "w": 1.21,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 61,
+      "l": 56,
+      "c": -2.16,
+      "y": 47,
+      "w": 0.93,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 126,
+      "l": 38,
+      "c": 2.15,
+      "y": 17,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 69,
+      "h": 113,
+      "l": 54,
+      "c": -1.26,
+      "y": -52,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 80,
+      "l": 56,
+      "c": 6.39,
+      "y": 10,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 61,
+      "l": 34,
+      "c": 3.23,
+      "y": 0,
+      "w": 0.83,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 43,
+      "h": 150,
+      "l": 52,
+      "c": -0.44,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "a00a160aeb73"
+}

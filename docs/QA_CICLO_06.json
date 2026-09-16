@@ -1,0 +1,317 @@
+{
+  "version": "AAA_R2+C06",
+  "date": "2026-09-14",
+  "cycle": 6,
+  "runtime": {
+    "migrated": {
+      "version": 58,
+      "level": 77,
+      "money": 54321,
+      "car": 1,
+      "shadow": {
+        "alias": "PILOTO",
+        "library": [],
+        "lastImport": null,
+        "lastExport": null,
+        "imports": 0,
+        "exports": 0
+      },
+      "flag": false
+    },
+    "export": {
+      "code": "RR7-AA78-WWVZ",
+      "payloadLen": 240,
+      "chain": 1,
+      "alias": "DENNYS",
+      "level": 27,
+      "time": 70,
+      "replayBytes": 132,
+      "replayEncoding": "rle1",
+      "uiCode": "RR7-AA78-WWVZ",
+      "qr": "ok",
+      "link": "https://red-otter-848116.hostingersite.com/retroracer/#g=UlI3AQEbAAEAcBEBAAZERU5OWVMLMjd8c2hhZG93fDAUAHgFhAAYERkRGhQbFxxiGxgaExkRGCAXERYTFREUCRM0MxMTGhQPVAlVE1YSVw0XAxgRGREaExsPHAwdORwlGxgaFBkRGBAXERYKNgc1DBUIFBcTPBQpFQlVDlYFVQxWEVcLFwYYEBkSGhMbGBxhGwE7ExsEGgcbCxoRGRAYERcIFgsVExQYE0IVFRX_zADoKAXO",
+      "flag": true,
+      "exports": 1
+    },
+    "corruptionRejected": true,
+    "chain": {
+      "count": 4,
+      "aliases": [
+        "ANA",
+        "REX",
+        "LIA",
+        "MAX"
+      ],
+      "payloadLen": 908,
+      "code": "RR7-4T6A-TE1M",
+      "imports": 1,
+      "library": 1
+    },
+    "start": {
+      "mode": "shadow",
+      "level": 27,
+      "laps": 1,
+      "menu": true,
+      "afterMode": "shadow",
+      "gameMode": "race",
+      "ghosts": 4,
+      "cars": 0,
+      "totalLaps": 1,
+      "radio": "SOMBRA DE ANA NA PISTA",
+      "seed": "27|shadow|0",
+      "totalHud": "5"
+    },
+    "ranking": {
+      "rank": 4,
+      "rows": [
+        {
+          "n": "👻 MAX",
+          "t": "01:06.0",
+          "r": 1
+        },
+        {
+          "n": "👻 LIA",
+          "t": "01:07.0",
+          "r": 2
+        },
+        {
+          "n": "👻 REX",
+          "t": "01:08.0",
+          "r": 3
+        },
+        {
+          "n": "VOCÊ",
+          "t": "01:08.5",
+          "r": 4
+        },
+        {
+          "n": "👻 ANA",
+          "t": "01:09.0",
+          "r": 5
+        }
+      ]
+    },
+    "economy": {
+      "money0": 54321,
+      "money1": 54321,
+      "wins0": 0,
+      "wins1": 0,
+      "medalsSame": true,
+      "rank": 4
+    },
+    "revenge": {
+      "count": 4,
+      "last": "DENNYS",
+      "lastTime": 65,
+      "code": "RR7-CXGR-ZH4G",
+      "button": "↩ REVANCHE + SOMBRA"
+    },
+    "determinism": {
+      "pass": true,
+      "runs": [
+        {
+          "progress": 82168.06222,
+          "x": -1.89869,
+          "speed": 0,
+          "fuel": 0.84806,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 82168.06222,
+          "x": -1.89869,
+          "speed": 0,
+          "fuel": 0.84806,
+          "time": 20,
+          "lap": 1
+        },
+        {
+          "progress": 82168.06222,
+          "x": -1.89869,
+          "speed": 0,
+          "fuel": 0.84806,
+          "time": 20,
+          "lap": 1
+        }
+      ]
+    },
+    "fps": {
+      "frames": 109,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "bootHash": {
+      "shadowVisible": true,
+      "startHidden": true,
+      "ftue": false,
+      "code": "RR7-CXGR-ZH4G",
+      "chain": 4,
+      "imports": 1
+    },
+    "errors": [],
+    "consoleErrors": [],
+    "bootErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 26,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 188,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version58": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "wheelEvidence": 6,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 79349,
+      "kb": 77.5,
+      "ok": true
+    },
+    "shadow": {
+      "module": true,
+      "maxChain4": true,
+      "checksum": true,
+      "qrReal": true,
+      "hashImport": true,
+      "ui": true
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "qr_external_validation": {
+    "status": "PASS",
+    "decoder": "OpenCV QRCodeDetector",
+    "matrix": "Version 20-L",
+    "same_link": true,
+    "single_shadow_payload_chars": 240,
+    "four_shadow_payload_chars": 908
+  },
+  "hardware_not_tested": [
+    "Moto G real / orçamento 16,6 ms",
+    "gamepad físico e haptics reais",
+    "PWA instalada em HTTPS real",
+    "áudio iOS/Android"
+  ]
+}

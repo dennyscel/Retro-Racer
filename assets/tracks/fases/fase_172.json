@@ -1,0 +1,190 @@
+{
+  "id": 172,
+  "championship": 7,
+  "cupName": "Grande Prêmio Tropical",
+  "cupRace": 10,
+  "name": "Grande Laço Esmeralda Noite",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.1713,
+  "lapTargetSeconds": 61,
+  "signature": "subida em caracol",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.67,
+  "pits": [
+    0.29,
+    0.49,
+    0.78
+  ],
+  "palette": {
+    "grass": "#14ab1f",
+    "grass2": "#099912",
+    "shoulder": "#367e24",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1f922a",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 82,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 80,
+      "l": 66,
+      "c": 1.36,
+      "y": 15,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 105,
+      "l": 48,
+      "c": -2.38,
+      "y": 37,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 46,
+      "h": 102,
+      "l": 40,
+      "c": 2.41,
+      "y": -9,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 125,
+      "l": 66,
+      "c": -1.44,
+      "y": -22,
+      "w": 0.96,
+      "f": "descida rápida"
+    },
+    {
+      "e": 30,
+      "h": 82,
+      "l": 38,
+      "c": 3.53,
+      "y": 10,
+      "w": 1.1,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 43,
+      "h": 97,
+      "l": 34,
+      "c": -1.33,
+      "y": 0,
+      "w": 1.0,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 40,
+      "h": 48,
+      "l": 26,
+      "c": 4.1,
+      "y": -8,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 44,
+      "l": 29,
+      "c": -3.65,
+      "y": 4,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 55,
+      "l": 37,
+      "c": -1.95,
+      "y": 9,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 34,
+      "l": 24,
+      "c": 2.13,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 45,
+      "l": 29,
+      "c": -2.31,
+      "y": 9,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 62,
+      "l": 22,
+      "c": 2.94,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 54,
+      "l": 30,
+      "c": -2.59,
+      "y": 4,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 75,
+      "h": 161,
+      "l": 79,
+      "c": 2.2,
+      "y": 12,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 166,
+      "l": 26,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.16,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 37,
+      "h": 120,
+      "l": 54,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "9a9d4b5ceb85"
+}

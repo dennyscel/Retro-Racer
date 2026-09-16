@@ -1,0 +1,181 @@
+{
+  "id": 375,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 24,
+  "name": "Via Expressa Horizonte Solar",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3747,
+  "lapTargetSeconds": 64,
+  "signature": "curva de raio crescente",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.674,
+  "pits": [
+    0.22,
+    0.56,
+    0.89
+  ],
+  "palette": {
+    "grass": "#c1cad6",
+    "grass2": "#abb8c8",
+    "shoulder": "#718797",
+    "skyTop": "#63acce",
+    "skyBot": "#b0cbd9",
+    "mountColor": "#384a5a",
+    "mountSnow": true,
+    "road": "#3e4755",
+    "road2": "#353e4c"
+  },
+  "sections": [
+    {
+      "e": 39,
+      "h": 83,
+      "l": 40,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 57,
+      "h": 78,
+      "l": 61,
+      "c": -2.43,
+      "y": 45,
+      "w": 0.96,
+      "f": "subida cega"
+    },
+    {
+      "e": 42,
+      "h": 77,
+      "l": 58,
+      "c": 2.47,
+      "y": 11,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 120,
+      "l": 49,
+      "c": -1.49,
+      "y": -41,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 38,
+      "c": 3.63,
+      "y": -12,
+      "w": 0.9,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 57,
+      "l": 35,
+      "c": -3.6,
+      "y": 14,
+      "w": 1.05,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 26,
+      "h": 36,
+      "l": 22,
+      "c": 4.18,
+      "y": -8,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 54,
+      "l": 32,
+      "c": -3.72,
+      "y": 4,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 49,
+      "l": 23,
+      "c": -2.0,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 60,
+      "l": 28,
+      "c": 2.18,
+      "y": 9,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 33,
+      "c": -2.36,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 50,
+      "l": 40,
+      "c": 3.02,
+      "y": 0,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 26,
+      "l": 33,
+      "c": -2.66,
+      "y": 6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 85,
+      "h": 157,
+      "l": 55,
+      "c": -4.78,
+      "y": 18,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 30,
+      "h": 128,
+      "l": 41,
+      "c": 0.15,
+      "y": 6,
+      "w": 1.17,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 119,
+      "l": 47,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4f4561e69c84"
+}

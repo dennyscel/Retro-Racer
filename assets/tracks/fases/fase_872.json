@@ -1,0 +1,217 @@
+{
+  "id": 872,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 8,
+  "name": "Túnel Aurora RX",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.8727,
+  "lapTargetSeconds": 80,
+  "signature": "curva de raio fechado",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.712,
+  "pits": [
+    0.16,
+    0.63,
+    0.88
+  ],
+  "palette": {
+    "grass": "#14af20",
+    "grass2": "#12a61b",
+    "shoulder": "#398427",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1f952a",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 84,
+      "l": 47,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 60,
+      "h": 136,
+      "l": 46,
+      "c": 4.49,
+      "y": 8,
+      "w": 1.16,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 89,
+      "l": 48,
+      "c": -3.41,
+      "y": 33,
+      "w": 1.04,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 74,
+      "l": 56,
+      "c": 3.64,
+      "y": 16,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 69,
+      "l": 46,
+      "c": -2.34,
+      "y": -38,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 70,
+      "l": 38,
+      "c": 5.68,
+      "y": -18,
+      "w": 1.07,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 59,
+      "l": 41,
+      "c": 4.97,
+      "y": 14,
+      "w": 0.98,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 38,
+      "h": 46,
+      "l": 22,
+      "c": -5.78,
+      "y": -8,
+      "w": 0.96,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 42,
+      "l": 36,
+      "c": 5.2,
+      "y": 4,
+      "w": 0.96,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 43,
+      "l": 35,
+      "c": -3.04,
+      "y": 5,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 22,
+      "c": 3.22,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 65,
+      "l": 27,
+      "c": -3.4,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 40,
+      "h": 60,
+      "l": 40,
+      "c": 4.63,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 37,
+      "c": -4.14,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 125,
+      "l": 65,
+      "c": 6.33,
+      "y": -18,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 24,
+      "h": 146,
+      "l": 26,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 89,
+      "l": 65,
+      "c": -3.64,
+      "y": 22,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 56,
+      "h": 102,
+      "l": 38,
+      "c": 2.7,
+      "y": 34,
+      "w": 1.16,
+      "f": "subida cega"
+    },
+    {
+      "e": 65,
+      "h": 111,
+      "l": 39,
+      "c": -2.8,
+      "y": 22,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 156,
+      "l": 54,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "233715fa2a94"
+}

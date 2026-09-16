@@ -1,0 +1,208 @@
+{
+  "id": 597,
+  "championship": 23,
+  "cupName": "Taça Praia do Eclipse",
+  "cupRace": 3,
+  "name": "Passagem Neon Clássico",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.5972,
+  "lapTargetSeconds": 72,
+  "signature": "túnel escuro",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.696,
+  "pits": [
+    0.29,
+    0.62,
+    0.77
+  ],
+  "palette": {
+    "grass": "#bfc8d0",
+    "grass2": "#b4bfc9",
+    "shoulder": "#788896",
+    "skyTop": "#74b3d1",
+    "skyBot": "#bcd3e0",
+    "mountColor": "#465360",
+    "mountSnow": true,
+    "road": "#49515c",
+    "road2": "#404853"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 87,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 69,
+      "h": 70,
+      "l": 38,
+      "c": -2.33,
+      "y": 43,
+      "w": 0.87,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 101,
+      "l": 64,
+      "c": 2.36,
+      "y": 13,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 84,
+      "l": 61,
+      "c": -2.79,
+      "y": -47,
+      "w": 1.16,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 36,
+      "c": 6.75,
+      "y": -12,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 35,
+      "h": 65,
+      "l": 47,
+      "c": 3.48,
+      "y": -14,
+      "w": 0.87,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 24,
+      "c": -4.03,
+      "y": -8,
+      "w": 0.93,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 50,
+      "l": 23,
+      "c": 3.59,
+      "y": 4,
+      "w": 0.89,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 23,
+      "h": 43,
+      "l": 29,
+      "c": -1.91,
+      "y": -5,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 54,
+      "l": 34,
+      "c": 2.09,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 65,
+      "l": 21,
+      "c": -2.27,
+      "y": 0,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 38,
+      "l": 20,
+      "c": 5.47,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 60,
+      "l": 24,
+      "c": -4.91,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 83,
+      "h": 139,
+      "l": 67,
+      "c": 4.64,
+      "y": 12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 36,
+      "h": 122,
+      "l": 38,
+      "c": 0.15,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 116,
+      "l": 73,
+      "c": 2.36,
+      "y": 19,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 50,
+      "h": 83,
+      "l": 63,
+      "c": -3.22,
+      "y": 44,
+      "w": 1.03,
+      "f": "subida cega"
+    },
+    {
+      "e": 59,
+      "h": 138,
+      "l": 47,
+      "c": -3.42,
+      "y": -5,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 101,
+      "l": 69,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "4ce81699faa1"
+}

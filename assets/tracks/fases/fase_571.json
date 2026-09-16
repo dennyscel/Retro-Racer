@@ -1,0 +1,199 @@
+{
+  "id": 571,
+  "championship": 22,
+  "cupName": "Campeonato Alpes Pixel",
+  "cupRace": 4,
+  "name": "Arena Atlântico Pro",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.5711,
+  "lapTargetSeconds": 71,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.69,
+  "pits": [
+    0.17,
+    0.49,
+    0.81
+  ],
+  "palette": {
+    "grass": "#16a220",
+    "grass2": "#11981a",
+    "shoulder": "#3a7d2a",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#178221",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 48,
+      "h": 111,
+      "l": 54,
+      "c": 0,
+      "y": 0,
+      "w": 1.06,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 81,
+      "h": 137,
+      "l": 73,
+      "c": -4.28,
+      "y": -18,
+      "w": 0.9,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 148,
+      "l": 33,
+      "c": 0.39,
+      "y": 6,
+      "w": 0.99,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 71,
+      "h": 144,
+      "l": 43,
+      "c": -2.09,
+      "y": -5,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 51,
+      "l": 57,
+      "c": 2.99,
+      "y": 26,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 43,
+      "h": 82,
+      "l": 53,
+      "c": -3.14,
+      "y": 5,
+      "w": 0.96,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 101,
+      "l": 65,
+      "c": 1.98,
+      "y": -33,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 57,
+      "l": 59,
+      "c": -4.81,
+      "y": 18,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 30,
+      "h": 84,
+      "l": 39,
+      "c": 4.38,
+      "y": 0,
+      "w": 1.12,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 27,
+      "h": 51,
+      "l": 25,
+      "c": 5.1,
+      "y": 0,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 30,
+      "c": -4.57,
+      "y": 6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 50,
+      "l": 24,
+      "c": -2.6,
+      "y": -5,
+      "w": 1.02,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 61,
+      "l": 29,
+      "c": 2.78,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 40,
+      "l": 34,
+      "c": -2.96,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 31,
+      "l": 21,
+      "c": -3.94,
+      "y": 0,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 45,
+      "l": 31,
+      "c": 3.51,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 60,
+      "h": 118,
+      "l": 50,
+      "c": 3.16,
+      "y": 24,
+      "w": 1.13,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 115,
+      "l": 47,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "12e85994aa73"
+}

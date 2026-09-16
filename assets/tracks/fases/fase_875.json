@@ -1,0 +1,208 @@
+{
+  "id": 875,
+  "championship": 33,
+  "cupName": "Liga Montanha Estelar",
+  "cupRace": 11,
+  "name": "Passagem Centelha Circuit",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.8758,
+  "lapTargetSeconds": 77,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "descida rápida",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.705,
+  "pits": [
+    0.2,
+    0.54,
+    0.91
+  ],
+  "palette": {
+    "grass": "#2d2d3c",
+    "grass2": "#242431",
+    "shoulder": "#181825",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#131323",
+    "mountSnow": false,
+    "road": "#2f2f38",
+    "road2": "#292932"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 101,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 35,
+      "h": 53,
+      "l": 37,
+      "c": -4.93,
+      "y": 6,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 33,
+      "l": 36,
+      "c": 4.41,
+      "y": -3,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 66,
+      "h": 96,
+      "l": 58,
+      "c": 4.11,
+      "y": 12,
+      "w": 0.99,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 135,
+      "l": 25,
+      "c": -0.27,
+      "y": 0,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 91,
+      "l": 64,
+      "c": 3.86,
+      "y": 8,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 58,
+      "l": 61,
+      "c": -2.88,
+      "y": 45,
+      "w": 0.96,
+      "f": "subida cega"
+    },
+    {
+      "e": 44,
+      "h": 113,
+      "l": 38,
+      "c": 3.02,
+      "y": 2,
+      "w": 0.92,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 67,
+      "h": 108,
+      "l": 49,
+      "c": -3.26,
+      "y": -53,
+      "w": 0.99,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 70,
+      "l": 34,
+      "c": 7.89,
+      "y": 18,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 107,
+      "l": 41,
+      "c": 4.24,
+      "y": -14,
+      "w": 0.89,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 26,
+      "h": 48,
+      "l": 30,
+      "c": -4.93,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 31,
+      "h": 40,
+      "l": 30,
+      "c": 4.41,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 23,
+      "c": -2.49,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 28,
+      "c": 2.67,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 33,
+      "c": -2.85,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 62,
+      "l": 26,
+      "c": 6.37,
+      "y": 0,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 35,
+      "h": 50,
+      "l": 31,
+      "c": -5.74,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 37,
+      "h": 107,
+      "l": 63,
+      "c": -0.44,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ba283fed985a"
+}

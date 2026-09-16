@@ -1,0 +1,199 @@
+{
+  "id": 208,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 19,
+  "name": "Passagem Ametista Arcade",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.2074,
+  "lapTargetSeconds": 62,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.676,
+  "pits": [
+    0.26,
+    0.67,
+    0.78
+  ],
+  "palette": {
+    "grass": "#14b220",
+    "grass2": "#11a81a",
+    "shoulder": "#428e30",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#168e21",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 42,
+      "h": 56,
+      "l": 45,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 34,
+      "h": 108,
+      "l": 32,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 79,
+      "l": 71,
+      "c": -2.92,
+      "y": 10,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 42,
+      "h": 64,
+      "l": 64,
+      "c": 2.09,
+      "y": 44,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 51,
+      "h": 101,
+      "l": 45,
+      "c": -2.08,
+      "y": 10,
+      "w": 1.05,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 120,
+      "l": 52,
+      "c": 1.2,
+      "y": -26,
+      "w": 1.07,
+      "f": "descida rápida"
+    },
+    {
+      "e": 45,
+      "h": 59,
+      "l": 53,
+      "c": -2.95,
+      "y": -12,
+      "w": 1.04,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 44,
+      "h": 56,
+      "l": 41,
+      "c": 3.15,
+      "y": 0,
+      "w": 1.0,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 41,
+      "h": 31,
+      "l": 27,
+      "c": -3.63,
+      "y": 12,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 35,
+      "l": 34,
+      "c": 3.23,
+      "y": -6,
+      "w": 1.14,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 20,
+      "c": 1.65,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 53,
+      "l": 25,
+      "c": -1.83,
+      "y": 5,
+      "w": 1.09,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 64,
+      "l": 30,
+      "c": 2.01,
+      "y": 5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 45,
+      "l": 23,
+      "c": -2.48,
+      "y": 0,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 24,
+      "h": 45,
+      "l": 35,
+      "c": 2.17,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 80,
+      "h": 108,
+      "l": 48,
+      "c": 4.26,
+      "y": 18,
+      "w": 1.06,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 197,
+      "l": 25,
+      "c": -0.15,
+      "y": 6,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 148,
+      "l": 50,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "1093ef3e43e4"
+}

@@ -1,0 +1,356 @@
+{
+  "version": "AAA_R2+C10",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 62,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "c10": true,
+      "seasonKey": "HZ-0010"
+    },
+    "determinism": {
+      "same": true,
+      "key": "HZ-0010",
+      "day": 5,
+      "week": 0,
+      "daily": 45,
+      "weekly": [
+        989,
+        469,
+        463
+      ],
+      "unique": 3,
+      "modifier": {
+        "id": "ghost",
+        "name": "CAÇADA AO GHOST",
+        "desc": "rivais +3% · XP +15%",
+        "ai": 1.03,
+        "xp": 1.15
+      }
+    },
+    "menu": {
+      "visible": true,
+      "title": "TEMPORADA HORIZONTE · HZ-0010",
+      "daily": "DESTAQUE DE HOJE · FASE 045\nGrande Laço Vector Noite · melhor --:--.-",
+      "weekly": "GAUNTLET W1 · 989 → 469 → 463\nmelhor score 0 · 3 provas / 1 volta",
+      "pass": 40
+    },
+    "dailyAntiFarm": {
+      "a": {
+        "type": "daily",
+        "score": 80,
+        "delta": 80,
+        "gain": {
+          "xp": 92,
+          "fichas": 0,
+          "levels": 0
+        }
+      },
+      "b": {
+        "type": "daily",
+        "score": 80,
+        "delta": 0,
+        "gain": {
+          "xp": 0,
+          "fichas": 0,
+          "levels": 0
+        }
+      },
+      "c": {
+        "type": "daily",
+        "score": 100,
+        "delta": 20,
+        "gain": {
+          "xp": 23,
+          "fichas": 15,
+          "levels": 1
+        }
+      },
+      "xp1": 92,
+      "xp2": 92,
+      "xp3": 115,
+      "record": {
+        "pointsAwarded": 100,
+        "bestTime": 86.4,
+        "bestRank": 1
+      }
+    },
+    "pass40": {
+      "pass": 40,
+      "xp": 4015,
+      "fichasGain": 100,
+      "result": {
+        "type": "daily",
+        "score": 100,
+        "delta": 100,
+        "gain": {
+          "xp": 115,
+          "fichas": 100,
+          "levels": 1
+        }
+      }
+    },
+    "gauntlet": {
+      "levels": [
+        989,
+        469,
+        463
+      ],
+      "unique": 3,
+      "x0": 4015,
+      "x1": 4015,
+      "x2": 4015,
+      "x3": 4297,
+      "r1": {
+        "type": "gauntlet",
+        "stage": 1,
+        "complete": false,
+        "score": 100
+      },
+      "r2": {
+        "type": "gauntlet",
+        "stage": 2,
+        "complete": false,
+        "score": 180
+      },
+      "r3": {
+        "type": "gauntlet",
+        "stage": 3,
+        "complete": true,
+        "score": 245,
+        "delta": 245,
+        "gain": {
+          "xp": 282,
+          "fichas": 0,
+          "levels": 0
+        }
+      },
+      "active": false
+    },
+    "shadowBoard": {
+      "rows": [
+        "1º\nAMIGO\n01:14.3",
+        "2º\nVOCÊ\n01:16.5"
+      ],
+      "stored": [
+        {
+          "alias": "AMIGO",
+          "level": 45,
+          "lapTime": 74.321,
+          "car": 1
+        }
+      ]
+    },
+    "resultUi": "+100 XP · +15 FICHAS",
+    "rollover": {
+      "oldKey": "HZ-0010",
+      "newKey": "HZ-0011",
+      "xp": 0,
+      "pass": 0,
+      "history": [
+        {
+          "key": "HZ-0010",
+          "xp": 1234,
+          "passLevel": 12
+        }
+      ]
+    },
+    "mods": {
+      "modifier": {
+        "id": "ghost",
+        "name": "CAÇADA AO GHOST",
+        "desc": "rivais +3% · XP +15%",
+        "ai": 1.03,
+        "xp": 1.15
+      },
+      "base": {
+        "speed": 11040,
+        "grip": 0.97,
+        "fuel": 0.72,
+        "nitro": 0.92
+      },
+      "season": {
+        "speed": 11040,
+        "grip": 0.97,
+        "fuel": 0.72,
+        "nitro": 0.92
+      }
+    },
+    "fps": {
+      "frames": 90,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.799999999999727
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 31,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 219,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version62": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 95359,
+      "kb": 93.1,
+      "ok": true
+    },
+    "rift": {
+      "module": true,
+      "cards40": true,
+      "fiveTracks": true,
+      "legendary": true,
+      "ui": true
+    },
+    "season": {
+      "module": true,
+      "menu": true,
+      "pass40": true,
+      "daily": true,
+      "weekly3": true,
+      "antiFarm": true,
+      "shadowBoard": true
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 21,
+      "missing": [],
+      "cacheVersion": "c10"
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "controles/haptics físicos",
+    "áudio iOS/Android",
+    "PWA HTTPS instalada"
+  ]
+}

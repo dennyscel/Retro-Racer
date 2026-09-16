@@ -1,0 +1,190 @@
+{
+  "id": 451,
+  "championship": 17,
+  "cupName": "Rally Estrada de Vidro",
+  "cupRace": 19,
+  "name": "Ponte Diamante Final",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.4509,
+  "lapTargetSeconds": 66,
+  "signature": "trecho de aderência baixa",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.683,
+  "pits": [
+    0.27,
+    0.52,
+    0.87
+  ],
+  "palette": {
+    "grass": "#232336",
+    "grass2": "#151525",
+    "shoulder": "#020212",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#06061a",
+    "mountSnow": false,
+    "road": "#23232d",
+    "road2": "#1d1d27"
+  },
+  "sections": [
+    {
+      "e": 47,
+      "h": 109,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 25,
+      "h": 41,
+      "l": 31,
+      "c": -3.27,
+      "y": -8,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 29,
+      "l": 32,
+      "c": 2.89,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 58,
+      "h": 120,
+      "l": 54,
+      "c": 5.02,
+      "y": 12,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 27,
+      "h": 167,
+      "l": 26,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 56,
+      "h": 83,
+      "l": 72,
+      "c": 2.65,
+      "y": 4,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 90,
+      "l": 57,
+      "c": 1.87,
+      "y": 37,
+      "w": 0.96,
+      "f": "subida cega"
+    },
+    {
+      "e": 62,
+      "h": 105,
+      "l": 46,
+      "c": 1.81,
+      "y": 18,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 72,
+      "l": 45,
+      "c": 2.38,
+      "y": -25,
+      "w": 1.07,
+      "f": "descida rápida"
+    },
+    {
+      "e": 48,
+      "h": 46,
+      "l": 58,
+      "c": 5.78,
+      "y": -18,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 75,
+      "l": 37,
+      "c": -2.83,
+      "y": 0,
+      "w": 0.88,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 34,
+      "h": 36,
+      "l": 24,
+      "c": 3.27,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 36,
+      "l": 26,
+      "c": -2.89,
+      "y": -3,
+      "w": 1.1,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 31,
+      "c": -3.1,
+      "y": 0,
+      "w": 0.96,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 60,
+      "l": 36,
+      "c": 3.28,
+      "y": 5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 39,
+      "l": 23,
+      "c": -3.46,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 50,
+      "h": 139,
+      "l": 51,
+      "c": -0.22,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "ef294b1847b1"
+}

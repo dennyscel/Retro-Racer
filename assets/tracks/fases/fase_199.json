@@ -1,0 +1,208 @@
+{
+  "id": 199,
+  "championship": 8,
+  "cupName": "Circuito Industrial 16 Bits",
+  "cupRace": 10,
+  "name": "Anel Delta Endurance",
+  "biome": "grass",
+  "environment": "Floresta leve",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Amanhecer",
+  "difficulty": 0.1984,
+  "lapTargetSeconds": 64,
+  "signature": "hairpin duplo",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.68,
+  "pits": [
+    0.31,
+    0.52,
+    0.87
+  ],
+  "palette": {
+    "grass": "#10a91c",
+    "grass2": "#0d9f17",
+    "shoulder": "#3f882d",
+    "skyTop": "#77c8ff",
+    "skyBot": "#ffe7b2",
+    "mountColor": "#13871d",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 111,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 61,
+      "h": 149,
+      "l": 79,
+      "c": -2.28,
+      "y": 24,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 26,
+      "h": 184,
+      "l": 36,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.1,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 72,
+      "l": 67,
+      "c": -2.48,
+      "y": -5,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 99,
+      "l": 70,
+      "c": 1.72,
+      "y": 38,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 94,
+      "l": 41,
+      "c": -1.63,
+      "y": -5,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 66,
+      "h": 73,
+      "l": 53,
+      "c": 0.88,
+      "y": -21,
+      "w": 1.12,
+      "f": "descida rápida"
+    },
+    {
+      "e": 37,
+      "h": 45,
+      "l": 51,
+      "c": -5.48,
+      "y": -12,
+      "w": 0.81,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 80,
+      "l": 45,
+      "c": 2.63,
+      "y": -14,
+      "w": 1.08,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 33,
+      "h": 61,
+      "l": 27,
+      "c": -3.03,
+      "y": -8,
+      "w": 1.07,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 33,
+      "h": 53,
+      "l": 36,
+      "c": 2.67,
+      "y": 4,
+      "w": 1.15,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 34,
+      "h": 54,
+      "l": 30,
+      "c": 1.26,
+      "y": 5,
+      "w": 0.99,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 65,
+      "l": 35,
+      "c": -1.44,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 44,
+      "l": 22,
+      "c": 1.62,
+      "y": 0,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 41,
+      "l": 23,
+      "c": 4.47,
+      "y": 12,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 63,
+      "l": 37,
+      "c": -4.0,
+      "y": -6,
+      "w": 0.91,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 72,
+      "h": 130,
+      "l": 56,
+      "c": 3.68,
+      "y": 24,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 153,
+      "l": 29,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 45,
+      "h": 119,
+      "l": 51,
+      "c": 0.44,
+      "y": 0,
+      "w": 0.98,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2ea1afb685d4"
+}

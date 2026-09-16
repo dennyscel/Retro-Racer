@@ -1,0 +1,91 @@
+{
+  "ciclo": 22,
+  "versao": "AAA_R2+C22",
+  "ouro_atual": "OURO 22 — PACOTE DE VITRINE — CONCLUÍDO",
+  "ouros_concluidos": [
+    "OURO 1 — MODULARIZAÇÃO + DETERMINISMO",
+    "OURO 2 — OS PRIMEIROS 8 SEGUNDOS",
+    "OURO 3 — JUICE ATÉ DOER",
+    "OURO 4 — HÁPTICO COMO LINGUAGEM",
+    "OURO 5 — GHOST QUE APRENDE VOCÊ",
+    "OURO 6 — CÓDIGO DE SOMBRA",
+    "OURO 7 — RÁDIO VIVO E MÚSICA REATIVA",
+    "OURO 8 — COMBO DE RISCO",
+    "OURO 9 — FENDA",
+    "OURO 10 — TEMPORADA HORIZONTE",
+    "OURO 11 — LICENÇAS",
+    "OURO 12 — OFICINA DE PINTURA",
+    "OURO 13 — TREINADOR PÓS-CORRIDA",
+    "OURO 14 — COPILOTO + LENDÁRIO",
+    "OURO 15 — NARRATIVA EM 37 CAPÍTULOS",
+    "OURO 16 — CLIPE DE DESTAQUE",
+    "OURO 17 — IDENTIDADE E BOOT AAA",
+    "OURO 18 — ACESSIBILIDADE DE VERDADE",
+    "OURO 19 — ECONOMIA E MONETIZAÇÃO ÉTICA",
+    "OURO 20 — TELEMETRIA E PAINEL",
+    "OURO 21 — ANTI-TRAPAÇA E INTEGRIDADE",
+    "OURO 22 — PACOTE DE VITRINE"
+  ],
+  "ouros_pendentes": [],
+  "placar": {
+    "feel": 10,
+    "clareza": 10,
+    "progressao": 10,
+    "meta": 10,
+    "social": 10,
+    "audio": 9,
+    "identidade": 10,
+    "performance": 9,
+    "acessibilidade": 10,
+    "economia": 10,
+    "retencao": 10,
+    "vitrine": 10
+  },
+  "nota_total": 118,
+  "critica_mais_dura_do_ciclo": "O produto está pronto para demonstração e validação; o risco restante não é falta de feature, é ausência de dados de coorte e QA em hardware real suficiente para provar escala comercial.",
+  "alvo_do_proximo_ciclo": "ENCERRADO — critério final verdadeiro; próximos passos pertencem ao roadmap de validação, não ao loop obrigatório.",
+  "decisoes_travadas": [
+    {
+      "q": "Inventar TAM/D1/D7/D30/k-factor para fortalecer o deck?",
+      "escolha": "Não.",
+      "motivo": "Pacote investidor distingue fatos do build, metas e hipóteses."
+    },
+    {
+      "q": "Adicionar feature nova no C22?",
+      "escolha": "Não.",
+      "motivo": "C22 é vitrine; risco de regressão seria maior que o benefício."
+    }
+  ],
+  "arquivos_tocados_no_ciclo": [
+    "README.md",
+    "CHANGELOG.md",
+    "sw.js",
+    "docs/PITCH_UMA_PAGINA.md",
+    "docs/DECK.md",
+    "docs/TRAILER_15S.md",
+    "docs/TRAILER_45S.md",
+    "docs/ASO.md",
+    "docs/PRESS_KIT.md",
+    "docs/METRICAS_ALVO.md",
+    "docs/ROADMAP_12M.md",
+    "docs/INDEX_PACOTE_INVESTIDOR.md",
+    "docs/press/*",
+    "docs/QA_CICLO_22.json",
+    "docs/REGISTRO_CICLO_22.md",
+    "docs/CHECKLIST_CICLO_22.md",
+    "ESTADO_DO_LOOP.json",
+    "INTEGRIDADE.json"
+  ],
+  "regressoes_revertidas": [],
+  "divida_tecnica": [
+    "Matriz de aparelhos reais ainda necessária.",
+    "Gamepad/haptics físico e PWA instalado via HTTPS ainda precisam de QA.",
+    "Métricas D1/D7/D30 e k-factor só existem como metas até lançamento/teste com usuários."
+  ],
+  "criterio_final": {
+    "todos_eixos_ge_9": true,
+    "nota_ge_110": true,
+    "pacote_investidor_completo": true,
+    "atingido": true
+  }
+}

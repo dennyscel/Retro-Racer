@@ -1,0 +1,226 @@
+{
+  "id": 309,
+  "championship": 12,
+  "cupName": "Rota das Cataratas",
+  "cupRace": 12,
+  "name": "Arena Cristal Oeste",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.3086,
+  "lapTargetSeconds": 67,
+  "signature": "reta de pit longa",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.687,
+  "pits": [
+    0.19,
+    0.65,
+    0.77
+  ],
+  "palette": {
+    "grass": "#18182b",
+    "grass2": "#101020",
+    "shoulder": "#010111",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#06061a",
+    "mountSnow": false,
+    "road": "#21212b",
+    "road2": "#1b1b25"
+  },
+  "sections": [
+    {
+      "e": 41,
+      "h": 107,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 45,
+      "l": 21,
+      "c": -3.38,
+      "y": 12,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 37,
+      "c": 3.0,
+      "y": -6,
+      "w": 1.05,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 90,
+      "l": 80,
+      "c": 2.62,
+      "y": 12,
+      "w": 1.03,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 133,
+      "l": 34,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 135,
+      "l": 38,
+      "c": 2.74,
+      "y": 17,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 98,
+      "l": 55,
+      "c": -1.94,
+      "y": 23,
+      "w": 1.14,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 73,
+      "l": 48,
+      "c": 1.89,
+      "y": 17,
+      "w": 1.06,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 47,
+      "h": 132,
+      "l": 53,
+      "c": -1.07,
+      "y": -27,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 38,
+      "h": 52,
+      "l": 56,
+      "c": 5.93,
+      "y": -18,
+      "w": 1.13,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 61,
+      "l": 42,
+      "c": -2.93,
+      "y": 0,
+      "w": 1.03,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 40,
+      "l": 36,
+      "c": 3.38,
+      "y": 0,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 25,
+      "h": 30,
+      "l": 31,
+      "c": -3.0,
+      "y": 6,
+      "w": 1.04,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 39,
+      "l": 33,
+      "c": 1.49,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 50,
+      "l": 20,
+      "c": -1.67,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 61,
+      "l": 25,
+      "c": 1.85,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 54,
+      "l": 32,
+      "c": 4.83,
+      "y": 6,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 29,
+      "h": 40,
+      "l": 32,
+      "c": -4.32,
+      "y": -3,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 55,
+      "h": 167,
+      "l": 57,
+      "c": -4.02,
+      "y": 12,
+      "w": 1.17,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 102,
+      "l": 27,
+      "c": 0.27,
+      "y": 0,
+      "w": 1.09,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 41,
+      "h": 141,
+      "l": 45,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "f82decce9da5"
+}

@@ -1,0 +1,163 @@
+{
+  "id": 41,
+  "championship": 2,
+  "cupName": "Torneio Costa Azul",
+  "cupRace": 14,
+  "name": "Grande Laço Neblina GT",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.0401,
+  "lapTargetSeconds": 57,
+  "signature": "sequência de placas",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.658,
+  "pits": [
+    0.3,
+    0.57,
+    0.85
+  ],
+  "palette": {
+    "grass": "#212132",
+    "grass2": "#1b1b29",
+    "shoulder": "#0b0b19",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#060618",
+    "mountSnow": false,
+    "road": "#272731",
+    "road2": "#21212b"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 91,
+      "l": 50,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 29,
+      "h": 31,
+      "l": 39,
+      "c": -3.09,
+      "y": 6,
+      "w": 0.91,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 47,
+      "l": 42,
+      "c": 2.73,
+      "y": -3,
+      "w": 0.94,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 174,
+      "l": 64,
+      "c": 2.35,
+      "y": -12,
+      "w": 1.01,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 31,
+      "h": 177,
+      "l": 41,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.15,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 54,
+      "h": 103,
+      "l": 58,
+      "c": 2.52,
+      "y": 8,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 50,
+      "l": 67,
+      "c": -1.76,
+      "y": 43,
+      "w": 0.86,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 125,
+      "l": 68,
+      "c": 1.68,
+      "y": -6,
+      "w": 0.91,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 65,
+      "h": 120,
+      "l": 55,
+      "c": 0.91,
+      "y": -47,
+      "w": 1.22,
+      "f": "descida rápida"
+    },
+    {
+      "e": 34,
+      "h": 64,
+      "l": 40,
+      "c": -2.26,
+      "y": -12,
+      "w": 1.01,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 41,
+      "h": 55,
+      "l": 47,
+      "c": -2.69,
+      "y": 14,
+      "w": 1.08,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 38,
+      "h": 60,
+      "l": 32,
+      "c": 3.09,
+      "y": 12,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 37,
+      "h": 54,
+      "l": 36,
+      "c": -2.73,
+      "y": -6,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 39,
+      "h": 89,
+      "l": 53,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2e046b887237"
+}

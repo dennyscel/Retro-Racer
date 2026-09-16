@@ -1,0 +1,217 @@
+{
+  "id": 364,
+  "championship": 14,
+  "cupName": "Autódromo Vulcão Antigo",
+  "cupRace": 13,
+  "name": "Travessia Mandacaru SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.3637,
+  "lapTargetSeconds": 69,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.69,
+  "pits": [
+    0.3,
+    0.61,
+    0.9
+  ],
+  "palette": {
+    "grass": "#15a11f",
+    "grass2": "#199f21",
+    "shoulder": "#387b28",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#198423",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 45,
+      "h": 94,
+      "l": 48,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 28,
+      "h": 120,
+      "l": 38,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.18,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 65,
+      "h": 139,
+      "l": 47,
+      "c": 2.02,
+      "y": 17,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 112,
+      "l": 45,
+      "c": -1.34,
+      "y": 40,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 71,
+      "h": 77,
+      "l": 57,
+      "c": -3.08,
+      "y": 11,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 68,
+      "l": 58,
+      "c": 1.93,
+      "y": -38,
+      "w": 0.97,
+      "f": "descida rápida"
+    },
+    {
+      "e": 47,
+      "h": 47,
+      "l": 41,
+      "c": 4.69,
+      "y": -18,
+      "w": 0.95,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 38,
+      "h": 82,
+      "l": 29,
+      "c": 2.1,
+      "y": 0,
+      "w": 1.05,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 35,
+      "h": 63,
+      "l": 29,
+      "c": -5.01,
+      "y": 6,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 63,
+      "l": 22,
+      "c": 4.49,
+      "y": -3,
+      "w": 1.17,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 30,
+      "h": 62,
+      "l": 32,
+      "c": 2.54,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 41,
+      "l": 37,
+      "c": -2.72,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 52,
+      "l": 24,
+      "c": 2.9,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 37,
+      "h": 43,
+      "l": 25,
+      "c": -3.85,
+      "y": -8,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 35,
+      "l": 23,
+      "c": 3.42,
+      "y": 4,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 76,
+      "h": 168,
+      "l": 78,
+      "c": 3.07,
+      "y": -18,
+      "w": 1.02,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 39,
+      "h": 209,
+      "l": 31,
+      "c": -0.15,
+      "y": 0,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 92,
+      "l": 66,
+      "c": 3.08,
+      "y": -3,
+      "w": 1.08,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 61,
+      "l": 70,
+      "c": -2.23,
+      "y": 41,
+      "w": 1.13,
+      "f": "subida cega"
+    },
+    {
+      "e": 39,
+      "h": 152,
+      "l": 42,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "30d43dd65eaa"
+}

@@ -1,0 +1,199 @@
+{
+  "id": 492,
+  "championship": 19,
+  "cupName": "Desafio Planalto Roxo",
+  "cupRace": 6,
+  "name": "Caminho Liberdade Arcade",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.492,
+  "lapTargetSeconds": 69,
+  "signature": "reta de pit longa",
+  "dominantFeature": "hairpin forte",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.69,
+  "pits": [
+    0.25,
+    0.62,
+    0.8
+  ],
+  "palette": {
+    "grass": "#1aa525",
+    "grass2": "#169b1f",
+    "shoulder": "#448734",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1d8626",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 54,
+      "h": 90,
+      "l": 37,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 54,
+      "h": 132,
+      "l": 62,
+      "c": 3.17,
+      "y": 18,
+      "w": 1.11,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 105,
+      "l": 53,
+      "c": 2.3,
+      "y": 37,
+      "w": 1.07,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 154,
+      "l": 72,
+      "c": 2.32,
+      "y": -2,
+      "w": 0.9,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 45,
+      "h": 69,
+      "l": 56,
+      "c": 1.38,
+      "y": -18,
+      "w": 1.04,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 82,
+      "l": 50,
+      "c": -6.69,
+      "y": 10,
+      "w": 0.99,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 73,
+      "l": 39,
+      "c": -3.43,
+      "y": 14,
+      "w": 1.12,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 50,
+      "l": 38,
+      "c": 3.98,
+      "y": 6,
+      "w": 1.01,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 42,
+      "l": 34,
+      "c": -3.54,
+      "y": -3,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 31,
+      "h": 55,
+      "l": 33,
+      "c": -1.88,
+      "y": -5,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 34,
+      "l": 20,
+      "c": 2.06,
+      "y": -5,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 25,
+      "c": -2.24,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 30,
+      "l": 34,
+      "c": 5.42,
+      "y": 6,
+      "w": 1.0,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 35,
+      "c": -4.87,
+      "y": -3,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 75,
+      "h": 161,
+      "l": 63,
+      "c": 4.59,
+      "y": 24,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 40,
+      "h": 126,
+      "l": 46,
+      "c": -0.27,
+      "y": 6,
+      "w": 1.08,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 85,
+      "l": 45,
+      "c": -2.32,
+      "y": 4,
+      "w": 1.0,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 53,
+      "h": 144,
+      "l": 62,
+      "c": 0.0,
+      "y": 0,
+      "w": 0.96,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "e1e69c854b83"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 328,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 4,
+  "name": "Túnel Vulcano Extreme",
+  "biome": "grass",
+  "environment": "Campos verdes",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Manhã",
+  "difficulty": 0.3277,
+  "lapTargetSeconds": 67,
+  "signature": "curva espelhada falsa",
+  "dominantFeature": "curva longa de alta",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.16,
+    0.64,
+    0.9
+  ],
+  "palette": {
+    "grass": "#16ad21",
+    "grass2": "#10a119",
+    "shoulder": "#3a8228",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#1c8f26",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 43,
+      "h": 58,
+      "l": 36,
+      "c": 0,
+      "y": 0,
+      "w": 1.11,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 60,
+      "h": 140,
+      "l": 42,
+      "c": 2.36,
+      "y": -7,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 71,
+      "h": 89,
+      "l": 64,
+      "c": 1.63,
+      "y": 33,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 78,
+      "l": 52,
+      "c": -1.52,
+      "y": -3,
+      "w": 1.01,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 73,
+      "l": 72,
+      "c": -2.17,
+      "y": -34,
+      "w": 1.17,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 70,
+      "l": 54,
+      "c": 5.28,
+      "y": -12,
+      "w": 0.87,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 37,
+      "h": 65,
+      "l": 43,
+      "c": -2.49,
+      "y": 0,
+      "w": 1.13,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 34,
+      "h": 46,
+      "l": 28,
+      "c": 2.87,
+      "y": 12,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 34,
+      "l": 38,
+      "c": -2.52,
+      "y": -6,
+      "w": 1.02,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 43,
+      "l": 31,
+      "c": -2.84,
+      "y": 0,
+      "w": 1.01,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 54,
+      "l": 36,
+      "c": 3.02,
+      "y": 5,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 65,
+      "l": 23,
+      "c": -3.2,
+      "y": -5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 36,
+      "h": 60,
+      "l": 24,
+      "c": 4.31,
+      "y": -8,
+      "w": 1.02,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 22,
+      "h": 44,
+      "l": 39,
+      "c": -3.85,
+      "y": 4,
+      "w": 1.09,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 71,
+      "h": 125,
+      "l": 67,
+      "c": -3.52,
+      "y": -18,
+      "w": 0.88,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 38,
+      "h": 178,
+      "l": 32,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.19,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 59,
+      "h": 93,
+      "l": 61,
+      "c": 1.52,
+      "y": 17,
+      "w": 0.93,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 52,
+      "h": 102,
+      "l": 54,
+      "c": -2.51,
+      "y": 34,
+      "w": 1.09,
+      "f": "subida cega"
+    },
+    {
+      "e": 41,
+      "h": 124,
+      "l": 46,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "d2ffceed392a"
+}

@@ -1,0 +1,208 @@
+{
+  "id": 183,
+  "championship": 7,
+  "cupName": "Grande Prêmio Tropical",
+  "cupRace": 21,
+  "name": "Circuito Monsoon 16B",
+  "biome": "city",
+  "environment": "Porto neon",
+  "weather": "rain",
+  "weatherLabel": "chuva",
+  "timeOfDay": "Noite",
+  "difficulty": 0.1824,
+  "lapTargetSeconds": 63,
+  "signature": "trecho com relevo quebrado",
+  "dominantFeature": "subida cega",
+  "musicMood": "synthwave misteriosa",
+  "goldSpeedFactor": 0.675,
+  "pits": [
+    0.21,
+    0.65,
+    0.77
+  ],
+  "palette": {
+    "grass": "#1d1d2d",
+    "grass2": "#11111e",
+    "shoulder": "#050512",
+    "skyTop": "#121431",
+    "skyBot": "#3a2e62",
+    "mountColor": "#080819",
+    "mountSnow": false,
+    "road": "#24242e",
+    "road2": "#1e1e28"
+  },
+  "sections": [
+    {
+      "e": 51,
+      "h": 93,
+      "l": 46,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 27,
+      "c": -2.98,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 21,
+      "h": 53,
+      "l": 37,
+      "c": 2.62,
+      "y": 4,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 78,
+      "h": 108,
+      "l": 80,
+      "c": 2.23,
+      "y": -18,
+      "w": 0.85,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 211,
+      "l": 33,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.21,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 60,
+      "h": 135,
+      "l": 56,
+      "c": 2.44,
+      "y": 15,
+      "w": 1.04,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 49,
+      "h": 106,
+      "l": 69,
+      "c": -1.69,
+      "y": 25,
+      "w": 0.92,
+      "f": "subida cega"
+    },
+    {
+      "e": 66,
+      "h": 73,
+      "l": 66,
+      "c": 1.6,
+      "y": -9,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 60,
+      "l": 47,
+      "c": 0.85,
+      "y": -45,
+      "w": 1.13,
+      "f": "descida rápida"
+    },
+    {
+      "e": 44,
+      "h": 58,
+      "l": 42,
+      "c": -5.41,
+      "y": -12,
+      "w": 0.94,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 69,
+      "l": 42,
+      "c": -2.59,
+      "y": 14,
+      "w": 0.93,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 56,
+      "l": 20,
+      "c": 2.98,
+      "y": 12,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 60,
+      "l": 31,
+      "c": -2.62,
+      "y": -6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 33,
+      "c": 1.23,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 20,
+      "c": -1.41,
+      "y": 9,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 25,
+      "c": 1.59,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 38,
+      "h": 36,
+      "l": 38,
+      "c": 4.42,
+      "y": -8,
+      "w": 0.97,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 32,
+      "l": 32,
+      "c": -3.95,
+      "y": 4,
+      "w": 0.93,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 48,
+      "h": 87,
+      "l": 59,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.02,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2c32cab63a48"
+}

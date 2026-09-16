@@ -1,0 +1,172 @@
+{
+  "id": 136,
+  "championship": 6,
+  "cupName": "Rally Serra Fria",
+  "cupRace": 1,
+  "name": "Serpentina Mandacaru Leste",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.1353,
+  "lapTargetSeconds": 58,
+  "signature": "chicane curta",
+  "dominantFeature": "curva em caracol",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.664,
+  "pits": [
+    0.15,
+    0.52,
+    0.78
+  ],
+  "palette": {
+    "grass": "#dfad3a",
+    "grass2": "#d19c2e",
+    "shoulder": "#c28726",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#cd8c32",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 38,
+      "h": 68,
+      "l": 42,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 32,
+      "h": 58,
+      "l": 30,
+      "c": 1.13,
+      "y": -5,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 33,
+      "h": 37,
+      "l": 35,
+      "c": -1.31,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 48,
+      "l": 22,
+      "c": 1.49,
+      "y": 5,
+      "w": 1.0,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 33,
+      "c": -4.27,
+      "y": 6,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 33,
+      "l": 22,
+      "c": 3.81,
+      "y": -3,
+      "w": 1.01,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 64,
+      "h": 172,
+      "l": 50,
+      "c": 3.48,
+      "y": 12,
+      "w": 1.16,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 141,
+      "l": 24,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 50,
+      "h": 136,
+      "l": 50,
+      "c": -1.48,
+      "y": 9,
+      "w": 1.14,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 53,
+      "l": 37,
+      "c": -0.89,
+      "y": 45,
+      "w": 0.97,
+      "f": "subida cega"
+    },
+    {
+      "e": 56,
+      "h": 74,
+      "l": 60,
+      "c": 2.54,
+      "y": -9,
+      "w": 0.88,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 57,
+      "h": 89,
+      "l": 70,
+      "c": 1.54,
+      "y": -38,
+      "w": 1.2,
+      "f": "descida rápida"
+    },
+    {
+      "e": 42,
+      "h": 74,
+      "l": 58,
+      "c": 3.75,
+      "y": 18,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 29,
+      "h": 77,
+      "l": 29,
+      "c": 1.48,
+      "y": -14,
+      "w": 0.95,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 39,
+      "h": 92,
+      "l": 58,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "2ae3d4ae1f09"
+}

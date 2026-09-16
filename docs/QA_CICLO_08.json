@@ -1,0 +1,279 @@
+{
+  "version": "AAA_R2+C08",
+  "date": "2026-09-15",
+  "runtime": {
+    "migration": {
+      "version": 60,
+      "level": 77,
+      "money": 54321,
+      "fichas": 0,
+      "c08": true,
+      "trails": [
+        "classic"
+      ],
+      "selected": "classic"
+    },
+    "combo": {
+      "near": {
+        "multiplier": 1.28,
+        "score": 220,
+        "chainScore": 220,
+        "bestMultiplier": 1.28,
+        "earned": 0,
+        "lastEvent": "QUASE! +",
+        "lastEventValue": 220
+      },
+      "zebra": {
+        "multiplier": 1.37,
+        "score": 329,
+        "chainScore": 329,
+        "bestMultiplier": 1.37,
+        "earned": 0,
+        "lastEvent": "ZEBRA LIMPA +",
+        "lastEventValue": 109
+      },
+      "draft": {
+        "multiplier": 1.4700000000000002,
+        "score": 452,
+        "chainScore": 452,
+        "bestMultiplier": 1.4700000000000002,
+        "earned": 0,
+        "lastEvent": "VÁCUO +",
+        "lastEventValue": 123
+      },
+      "drift": {
+        "multiplier": 1.5900000000000003,
+        "score": 606,
+        "chainScore": 606,
+        "bestMultiplier": 1.5900000000000003,
+        "earned": 0,
+        "lastEvent": "DRIFT +",
+        "lastEventValue": 154
+      },
+      "air": {
+        "multiplier": 1.7500000000000002,
+        "score": 829,
+        "chainScore": 829,
+        "bestMultiplier": 1.7500000000000002,
+        "earned": 0,
+        "lastEvent": "NO AR +",
+        "lastEventValue": 223
+      },
+      "before": {
+        "multiplier": 1.7500000000000002,
+        "score": 829,
+        "chainScore": 829,
+        "bestMultiplier": 1.7500000000000002,
+        "earned": 0,
+        "lastEvent": "NO AR +",
+        "lastEventValue": 223
+      },
+      "after": {
+        "multiplier": 0,
+        "score": 829,
+        "chainScore": 0,
+        "bestMultiplier": 1.7500000000000002,
+        "earned": 0,
+        "lastEvent": "COMBO QUEBRADO",
+        "lastEventValue": 0
+      },
+      "hud": "x0.0",
+      "event": "COMBO QUEBRADO"
+    },
+    "economy": {
+      "earned": 33,
+      "before": 0,
+      "after": 33,
+      "buy": true,
+      "afterBuy": 120,
+      "cr": 54321,
+      "cr2": 54321,
+      "selected": "cyan",
+      "owned": [
+        "classic",
+        "cyan"
+      ]
+    },
+    "realRace": {
+      "level": 27,
+      "mode": "timeTrial",
+      "hud": true,
+      "trail": "rgba(255,55,205,.95)",
+      "snap": {
+        "multiplier": 1,
+        "score": 0,
+        "chainScore": 0,
+        "bestMultiplier": 1,
+        "earned": 0,
+        "lastEvent": "",
+        "lastEventValue": 0
+      }
+    },
+    "fps": {
+      "frames": 90,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "mobile": {
+      "scroll": false,
+      "trails": 4,
+      "combo": true
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 29,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 196,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version60": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "wheelEvidence": 6,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 85392,
+      "kb": 83.4,
+      "ok": true
+    },
+    "shadow": {
+      "module": true,
+      "maxChain4": true,
+      "checksum": true,
+      "qrReal": true,
+      "hashImport": true,
+      "ui": true
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": {
+    "sentinels": {
+      "1": {
+        "raceLevel": 1,
+        "segments": 2740,
+        "trackZLength": 548000,
+        "biome": "mountain",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "27": {
+        "raceLevel": 27,
+        "segments": 3176,
+        "trackZLength": 635200,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "333": {
+        "raceLevel": 333,
+        "segments": 3417,
+        "trackZLength": 683400,
+        "biome": "grass",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "666": {
+        "raceLevel": 666,
+        "segments": 3279,
+        "trackZLength": 655800,
+        "biome": "desert",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      },
+      "999": {
+        "raceLevel": 999,
+        "segments": 4714,
+        "trackZLength": 942800,
+        "biome": "city",
+        "speed": 0,
+        "fuel": 0.9992,
+        "cars": 0,
+        "mode": "timeTrial"
+      }
+    },
+    "determinismKernel": {
+      "pass": true,
+      "runs": [
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        },
+        {
+          "time": 60,
+          "progress": 675704.5,
+          "x": -0.549859,
+          "speed": 8570,
+          "fuel": 0.523099,
+          "seed": 2691943669
+        }
+      ]
+    },
+    "errors": []
+  },
+  "hardware_not_tested": [
+    "Moto G real",
+    "controles/haptics físicos",
+    "áudio iOS/Android",
+    "PWA HTTPS"
+  ]
+}

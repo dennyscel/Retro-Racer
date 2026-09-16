@@ -1,0 +1,217 @@
+{
+  "id": 218,
+  "championship": 9,
+  "cupName": "Taça Canion Dourado",
+  "cupRace": 2,
+  "name": "Caminho Aurora Chuva",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.2174,
+  "lapTargetSeconds": 64,
+  "signature": "descida rápida",
+  "dominantFeature": "reta de recuperação",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.677,
+  "pits": [
+    0.28,
+    0.51,
+    0.82
+  ],
+  "palette": {
+    "grass": "#ddb863",
+    "grass2": "#caa251",
+    "shoulder": "#c1974d",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#cb9b58",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 52,
+      "h": 84,
+      "l": 53,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 30,
+      "h": 48,
+      "l": 22,
+      "c": 1.49,
+      "y": 5,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 59,
+      "l": 27,
+      "c": -1.67,
+      "y": 0,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 32,
+      "c": 1.85,
+      "y": 5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 39,
+      "l": 27,
+      "c": 2.22,
+      "y": -8,
+      "w": 1.09,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 37,
+      "l": 41,
+      "c": -1.93,
+      "y": 4,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 82,
+      "h": 142,
+      "l": 48,
+      "c": 4.01,
+      "y": -12,
+      "w": 1.0,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 29,
+      "h": 115,
+      "l": 31,
+      "c": -0.39,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 64,
+      "h": 132,
+      "l": 60,
+      "c": 1.89,
+      "y": -4,
+      "w": 1.18,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 61,
+      "l": 49,
+      "c": -1.23,
+      "y": 31,
+      "w": 0.9,
+      "f": "subida cega"
+    },
+    {
+      "e": 70,
+      "h": 154,
+      "l": 70,
+      "c": 2.94,
+      "y": -8,
+      "w": 1.09,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 61,
+      "h": 125,
+      "l": 62,
+      "c": -1.83,
+      "y": -48,
+      "w": 1.19,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 80,
+      "l": 56,
+      "c": 4.46,
+      "y": -12,
+      "w": 1.11,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 39,
+      "h": 81,
+      "l": 48,
+      "c": 1.95,
+      "y": -14,
+      "w": 0.87,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 36,
+      "h": 34,
+      "l": 20,
+      "c": -2.22,
+      "y": 12,
+      "w": 1.06,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 44,
+      "l": 35,
+      "c": 1.93,
+      "y": -6,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 27,
+      "h": 61,
+      "l": 33,
+      "c": -2.42,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 40,
+      "l": 20,
+      "c": 2.6,
+      "y": 5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 25,
+      "c": -2.78,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 45,
+      "h": 102,
+      "l": 52,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "754dbcc8de02"
+}

@@ -1,0 +1,235 @@
+{
+  "id": 338,
+  "championship": 13,
+  "cupName": "Campeonato Neve Lunar",
+  "cupRace": 14,
+  "name": "Anel Vulcano Chuva",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.3377,
+  "lapTargetSeconds": 68,
+  "signature": "descida rápida",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.684,
+  "pits": [
+    0.18,
+    0.48,
+    0.76
+  ],
+  "palette": {
+    "grass": "#c9a248",
+    "grass2": "#c59c46",
+    "shoulder": "#b28538",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#c39049",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 56,
+      "l": 44,
+      "c": 0,
+      "y": 0,
+      "w": 1.02,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 24,
+      "h": 56,
+      "l": 34,
+      "c": 2.3,
+      "y": 9,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 35,
+      "l": 21,
+      "c": -2.48,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 46,
+      "l": 26,
+      "c": 2.66,
+      "y": 0,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 61,
+      "l": 37,
+      "c": 3.48,
+      "y": -8,
+      "w": 1.1,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 41,
+      "l": 35,
+      "c": -3.08,
+      "y": 4,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 74,
+      "h": 166,
+      "l": 84,
+      "c": 2.72,
+      "y": 18,
+      "w": 1.11,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 115,
+      "l": 26,
+      "c": 0.39,
+      "y": 0,
+      "w": 1.07,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 48,
+      "h": 120,
+      "l": 72,
+      "c": 2.8,
+      "y": -7,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 93,
+      "l": 64,
+      "c": -2.0,
+      "y": 23,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 54,
+      "h": 142,
+      "l": 46,
+      "c": 1.96,
+      "y": 3,
+      "w": 0.86,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 51,
+      "h": 85,
+      "l": 62,
+      "c": 1.12,
+      "y": -24,
+      "w": 0.94,
+      "f": "descida rápida"
+    },
+    {
+      "e": 46,
+      "h": 56,
+      "l": 36,
+      "c": -6.05,
+      "y": -12,
+      "w": 1.09,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 101,
+      "l": 42,
+      "c": -3.01,
+      "y": -14,
+      "w": 0.98,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 30,
+      "h": 56,
+      "l": 30,
+      "c": 3.48,
+      "y": -8,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 48,
+      "l": 29,
+      "c": -3.08,
+      "y": 4,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 27,
+      "c": -1.55,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 22,
+      "h": 48,
+      "l": 32,
+      "c": 1.73,
+      "y": -5,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 59,
+      "l": 37,
+      "c": -1.91,
+      "y": 0,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 36,
+      "l": 26,
+      "c": 4.92,
+      "y": 6,
+      "w": 1.03,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 58,
+      "l": 30,
+      "c": -4.41,
+      "y": -3,
+      "w": 1.07,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 51,
+      "h": 166,
+      "l": 48,
+      "c": 0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "706372ebeaf9"
+}

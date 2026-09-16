@@ -1,0 +1,217 @@
+{
+  "id": 484,
+  "championship": 18,
+  "cupName": "Liga Porto Neon",
+  "cupRace": 25,
+  "name": "Desafio Horizonte SX",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.484,
+  "lapTargetSeconds": 71,
+  "signature": "esses de alta velocidade",
+  "dominantFeature": "entrada de chicane",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.697,
+  "pits": [
+    0.2,
+    0.58,
+    0.84
+  ],
+  "palette": {
+    "grass": "#16a621",
+    "grass2": "#0f9918",
+    "shoulder": "#428731",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#188622",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 46,
+      "h": 66,
+      "l": 39,
+      "c": 0,
+      "y": 0,
+      "w": 0.99,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 40,
+      "h": 120,
+      "l": 33,
+      "c": 0.27,
+      "y": 6,
+      "w": 1.12,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 49,
+      "h": 127,
+      "l": 59,
+      "c": 2.94,
+      "y": 18,
+      "w": 0.99,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 48,
+      "h": 80,
+      "l": 60,
+      "c": -2.11,
+      "y": 32,
+      "w": 1.11,
+      "f": "subida cega"
+    },
+    {
+      "e": 55,
+      "h": 149,
+      "l": 69,
+      "c": -2.1,
+      "y": -6,
+      "w": 0.95,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 104,
+      "l": 58,
+      "c": 2.59,
+      "y": -50,
+      "w": 1.09,
+      "f": "descida rápida"
+    },
+    {
+      "e": 35,
+      "h": 71,
+      "l": 49,
+      "c": 6.29,
+      "y": -18,
+      "w": 0.93,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 32,
+      "h": 102,
+      "l": 44,
+      "c": -3.17,
+      "y": 0,
+      "w": 0.82,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 29,
+      "h": 51,
+      "l": 39,
+      "c": -3.66,
+      "y": 0,
+      "w": 0.99,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 29,
+      "l": 37,
+      "c": 3.25,
+      "y": 6,
+      "w": 1.0,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 24,
+      "h": 38,
+      "l": 26,
+      "c": 1.67,
+      "y": -5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 25,
+      "h": 49,
+      "l": 31,
+      "c": -1.85,
+      "y": 5,
+      "w": 1.11,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 26,
+      "h": 60,
+      "l": 36,
+      "c": 2.03,
+      "y": 9,
+      "w": 1.05,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 31,
+      "h": 31,
+      "l": 35,
+      "c": 5.11,
+      "y": 12,
+      "w": 0.92,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 20,
+      "h": 39,
+      "l": 38,
+      "c": -4.58,
+      "y": -6,
+      "w": 0.89,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 68,
+      "h": 96,
+      "l": 72,
+      "c": -4.29,
+      "y": -18,
+      "w": 1.15,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 33,
+      "h": 209,
+      "l": 26,
+      "c": -0.15,
+      "y": 6,
+      "w": 0.96,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 48,
+      "h": 80,
+      "l": 42,
+      "c": 2.1,
+      "y": -6,
+      "w": 0.97,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 59,
+      "h": 93,
+      "l": 50,
+      "c": -2.99,
+      "y": 33,
+      "w": 0.88,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 128,
+      "l": 66,
+      "c": 0.44,
+      "y": 0,
+      "w": 1.04,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "13f877b7149f"
+}

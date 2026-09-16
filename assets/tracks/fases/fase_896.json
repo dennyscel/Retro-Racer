@@ -1,0 +1,235 @@
+{
+  "id": 896,
+  "championship": 34,
+  "cupName": "Torneio Rodovia Infinita",
+  "cupRace": 5,
+  "name": "Travessia Falésia Arcade",
+  "biome": "desert",
+  "environment": "Cânion seco",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Pôr do sol",
+  "difficulty": 0.8968,
+  "lapTargetSeconds": 79,
+  "signature": "miolo de 3 vértices",
+  "dominantFeature": "subida cega",
+  "musicMood": "seca agressiva",
+  "goldSpeedFactor": 0.71,
+  "pits": [
+    0.31,
+    0.54,
+    0.76
+  ],
+  "palette": {
+    "grass": "#cca957",
+    "grass2": "#c19b4d",
+    "shoulder": "#b08641",
+    "skyTop": "#ff8a4a",
+    "skyBot": "#ffd38c",
+    "mountColor": "#bb8d4d",
+    "mountSnow": false,
+    "road": "#67605d",
+    "road2": "#5f5956"
+  },
+  "sections": [
+    {
+      "e": 50,
+      "h": 56,
+      "l": 41,
+      "c": 0,
+      "y": 0,
+      "w": 0.97,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 22,
+      "h": 34,
+      "l": 34,
+      "c": 3.47,
+      "y": 5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 23,
+      "h": 45,
+      "l": 21,
+      "c": -3.65,
+      "y": -5,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 24,
+      "h": 56,
+      "l": 26,
+      "c": 3.83,
+      "y": 9,
+      "w": 1.07,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 39,
+      "h": 63,
+      "l": 23,
+      "c": -5.28,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 36,
+      "h": 33,
+      "l": 26,
+      "c": 4.74,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 56,
+      "h": 100,
+      "l": 54,
+      "c": 4.46,
+      "y": 24,
+      "w": 1.12,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 41,
+      "h": 181,
+      "l": 34,
+      "c": -0.39,
+      "y": 6,
+      "w": 1.22,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 62,
+      "h": 144,
+      "l": 54,
+      "c": 4.12,
+      "y": 16,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 43,
+      "h": 85,
+      "l": 62,
+      "c": -3.1,
+      "y": 37,
+      "w": 1.06,
+      "f": "subida cega"
+    },
+    {
+      "e": 68,
+      "h": 82,
+      "l": 64,
+      "c": 3.28,
+      "y": -2,
+      "w": 1.03,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 63,
+      "h": 89,
+      "l": 50,
+      "c": -2.07,
+      "y": -42,
+      "w": 1.01,
+      "f": "descida rápida"
+    },
+    {
+      "e": 32,
+      "h": 50,
+      "l": 34,
+      "c": 8.35,
+      "y": 18,
+      "w": 0.98,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 33,
+      "h": 107,
+      "l": 33,
+      "c": -4.54,
+      "y": -14,
+      "w": 1.06,
+      "f": "ponte estreita"
+    },
+    {
+      "e": 30,
+      "h": 58,
+      "l": 38,
+      "c": 5.28,
+      "y": 0,
+      "w": 1.04,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 40,
+      "l": 41,
+      "c": -4.74,
+      "y": 6,
+      "w": 1.06,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 47,
+      "l": 27,
+      "c": -2.72,
+      "y": 0,
+      "w": 1.08,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 58,
+      "l": 32,
+      "c": 2.9,
+      "y": -5,
+      "w": 0.98,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 37,
+      "l": 37,
+      "c": -3.08,
+      "y": 9,
+      "w": 1.04,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 32,
+      "h": 38,
+      "l": 34,
+      "c": 6.73,
+      "y": 0,
+      "w": 0.95,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 50,
+      "l": 42,
+      "c": -6.07,
+      "y": 6,
+      "w": 0.98,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 39,
+      "h": 116,
+      "l": 42,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "3747abba78e9"
+}

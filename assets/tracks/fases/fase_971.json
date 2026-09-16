@@ -1,0 +1,208 @@
+{
+  "id": 971,
+  "championship": 36,
+  "cupName": "Pré-Final Horizonte Zero",
+  "cupRace": 26,
+  "name": "Boulevard Ametista Master",
+  "biome": "mountain",
+  "environment": "Vale nevado",
+  "weather": "fog",
+  "weatherLabel": "neblina",
+  "timeOfDay": "Noite",
+  "difficulty": 0.9719,
+  "lapTargetSeconds": 81,
+  "signature": "sequência travada",
+  "dominantFeature": "saída de chicane",
+  "musicMood": "fria melancólica",
+  "goldSpeedFactor": 0.714,
+  "pits": [
+    0.29,
+    0.6,
+    0.79
+  ],
+  "palette": {
+    "grass": "#c6ced5",
+    "grass2": "#b0bbc5",
+    "shoulder": "#808e9b",
+    "skyTop": "#73b1ce",
+    "skyBot": "#bad1dd",
+    "mountColor": "#485461",
+    "mountSnow": true,
+    "road": "#474f5a",
+    "road2": "#3e4651"
+  },
+  "sections": [
+    {
+      "e": 40,
+      "h": 101,
+      "l": 38,
+      "c": 0,
+      "y": 0,
+      "w": 1.09,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 53,
+      "h": 94,
+      "l": 62,
+      "c": -3.96,
+      "y": 33,
+      "w": 1.01,
+      "f": "subida cega"
+    },
+    {
+      "e": 60,
+      "h": 93,
+      "l": 42,
+      "c": 4.3,
+      "y": 9,
+      "w": 1.15,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 55,
+      "h": 124,
+      "l": 45,
+      "c": 2.81,
+      "y": -25,
+      "w": 1.18,
+      "f": "descida rápida"
+    },
+    {
+      "e": 36,
+      "h": 66,
+      "l": 46,
+      "c": 6.82,
+      "y": 10,
+      "w": 0.96,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 31,
+      "h": 79,
+      "l": 43,
+      "c": -3.52,
+      "y": 0,
+      "w": 0.94,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 28,
+      "h": 58,
+      "l": 24,
+      "c": 6.68,
+      "y": 0,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 19,
+      "h": 46,
+      "l": 40,
+      "c": -6.02,
+      "y": 6,
+      "w": 1.11,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 33,
+      "h": 45,
+      "l": 25,
+      "c": -3.63,
+      "y": 0,
+      "w": 1.03,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 34,
+      "h": 56,
+      "l": 30,
+      "c": 3.81,
+      "y": 0,
+      "w": 1.1,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 35,
+      "l": 35,
+      "c": -3.99,
+      "y": -5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 30,
+      "h": 38,
+      "l": 20,
+      "c": 5.53,
+      "y": 6,
+      "w": 1.12,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 23,
+      "h": 56,
+      "l": 41,
+      "c": -4.96,
+      "y": -3,
+      "w": 1.08,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 73,
+      "h": 145,
+      "l": 63,
+      "c": -4.69,
+      "y": -18,
+      "w": 0.97,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 32,
+      "h": 100,
+      "l": 37,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.06,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 53,
+      "h": 108,
+      "l": 51,
+      "c": 4.3,
+      "y": 9,
+      "w": 1.07,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 64,
+      "h": 107,
+      "l": 52,
+      "c": 3.25,
+      "y": 34,
+      "w": 0.98,
+      "f": "subida cega"
+    },
+    {
+      "e": 59,
+      "h": 130,
+      "l": 61,
+      "c": -3.46,
+      "y": 17,
+      "w": 0.94,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 38,
+      "h": 123,
+      "l": 43,
+      "c": -0.22,
+      "y": 0,
+      "w": 1.06,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "41ad8b69e02f"
+}

@@ -1,0 +1,259 @@
+{
+  "runtime": {
+    "migration": {
+      "version": 63,
+      "level": 333,
+      "money": 76543,
+      "car": 2,
+      "c11": false,
+      "licenses": {
+        "medals": {},
+        "goldCount": 0,
+        "attempts": 0,
+        "lastResult": null
+      }
+    },
+    "menu": {
+      "visible": true,
+      "cards": 60,
+      "summary": "0/60 OUROS · PRÓXIMO CARRO: FIREFLY · 0/5 OUROS"
+    },
+    "curve": {
+      "snap": {
+        "count": 60,
+        "gold": 1,
+        "active": "C-01",
+        "runtime": {
+          "elapsed": 30,
+          "draft": 0,
+          "bestPass": 0,
+          "pitDone": false,
+          "offroad": 0,
+          "crashes": 0
+        },
+        "medals": {
+          "C-01": "gold"
+        }
+      },
+      "last": "C-01 · GOLD · OFF 0.0s · BAT 0 · TEMPO",
+      "damage": 0,
+      "stats": {
+        "pits": 9,
+        "crashes": 13
+      },
+      "mode": "race"
+    },
+    "overtake": {
+      "snap": {
+        "count": 60,
+        "gold": 2,
+        "active": "U-01",
+        "runtime": {
+          "elapsed": 0.1,
+          "draft": 0,
+          "bestPass": 2,
+          "pitDone": false,
+          "offroad": 0,
+          "crashes": 0
+        },
+        "medals": {
+          "C-01": "gold",
+          "U-01": "gold"
+        }
+      },
+      "last": "U-01 · GOLD · 2/2 PASS · ALVO ATINGIDO",
+      "damage": 0,
+      "stats": {
+        "pits": 9,
+        "crashes": 13
+      },
+      "mode": "race"
+    },
+    "draft": {
+      "snap": {
+        "count": 60,
+        "gold": 3,
+        "active": "V-01",
+        "runtime": {
+          "elapsed": 4.560000000000002,
+          "draft": 4.560000000000002,
+          "bestPass": 0,
+          "pitDone": false,
+          "offroad": 0,
+          "crashes": 0
+        },
+        "medals": {
+          "C-01": "gold",
+          "U-01": "gold",
+          "V-01": "gold"
+        }
+      },
+      "last": "V-01 · GOLD · 4.6/4.5s · ALVO ATINGIDO",
+      "damage": 0,
+      "stats": {
+        "pits": 9,
+        "crashes": 13
+      },
+      "mode": "race"
+    },
+    "pit": {
+      "snap": {
+        "count": 60,
+        "gold": 4,
+        "active": "P-01",
+        "runtime": {
+          "elapsed": 0.1,
+          "draft": 0,
+          "bestPass": 0,
+          "pitDone": true,
+          "offroad": 0,
+          "crashes": 0
+        },
+        "medals": {
+          "C-01": "gold",
+          "U-01": "gold",
+          "V-01": "gold",
+          "P-01": "gold"
+        }
+      },
+      "last": "P-01 · GOLD · PIT 0.1s · SERVIÇO COMPLETO",
+      "damage": 0,
+      "stats": {
+        "pits": 9,
+        "crashes": 13
+      },
+      "mode": "race"
+    },
+    "unlock": {
+      "firefly": true,
+      "nightshade": true,
+      "duna": true,
+      "reason": "LICENÇAS: 15 OUROS ou Fase 82 + CR$ 38.000",
+      "unlocked": false
+    },
+    "determinism": {
+      "same": true,
+      "a": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      },
+      "b": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      },
+      "c": {
+        "progress": 15470.466551,
+        "x": -1.222832,
+        "speed": 3000,
+        "fuel": 0.981058,
+        "time": 4,
+        "lap": 1
+      }
+    },
+    "fps": {
+      "frames": 73,
+      "medianMs": 16.699999999999818,
+      "fps": 59.88023952095874,
+      "p95": 16.700000000000273
+    },
+    "errors": [],
+    "consoleErrors": []
+  },
+  "static": {
+    "nodeCheck": {
+      "ok": true,
+      "files": 32,
+      "failures": []
+    },
+    "moduleLines": {
+      "ok": true,
+      "max": 351,
+      "over400": {}
+    },
+    "htmlIds": {
+      "ok": true,
+      "count": 232,
+      "duplicates": []
+    },
+    "saveKey": {
+      "ok": true,
+      "version63": true
+    },
+    "tracks": {
+      "ok": true,
+      "count": 999,
+      "sentinels": {
+        "1": true,
+        "27": true,
+        "333": true,
+        "666": true,
+        "999": true
+      }
+    },
+    "fourWheels": {
+      "ok": true,
+      "rearRefs": 3,
+      "frontRefs": 3
+    },
+    "mathRandom": {
+      "ok": true,
+      "files": []
+    },
+    "assetsRefs": {
+      "ok": true,
+      "missing": []
+    },
+    "shellGzip": {
+      "bytes": 99583,
+      "kb": 97.2,
+      "ok": true
+    },
+    "licenses": {
+      "module": true,
+      "countFormula": true,
+      "menu": true,
+      "hud": true,
+      "carThresholds": true
+    },
+    "serviceWorkerShell": {
+      "ok": true,
+      "runtimeModules": 22,
+      "missing": [],
+      "cacheVersion": "c11"
+    },
+    "consoleError": {
+      "ok": true,
+      "files": []
+    }
+  },
+  "sentinels": [
+    {
+      "level": 1,
+      "segments": 2740
+    },
+    {
+      "level": 27,
+      "segments": 3176
+    },
+    {
+      "level": 333,
+      "segments": 3417
+    },
+    {
+      "level": 666,
+      "segments": 3279
+    },
+    {
+      "level": 999,
+      "segments": 4714
+    }
+  ]
+}

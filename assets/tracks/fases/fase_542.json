@@ -1,0 +1,208 @@
+{
+  "id": 542,
+  "championship": 21,
+  "cupName": "Circuito Savana Retrô",
+  "cupRace": 2,
+  "name": "Boulevard Jaguar GT",
+  "biome": "grass",
+  "environment": "Costa tropical",
+  "weather": "clear",
+  "weatherLabel": "céu limpo",
+  "timeOfDay": "Tarde",
+  "difficulty": 0.5421,
+  "lapTargetSeconds": 70,
+  "signature": "zigue-zague rítmico",
+  "dominantFeature": "esses de alta velocidade",
+  "musicMood": "aberta veloz",
+  "goldSpeedFactor": 0.693,
+  "pits": [
+    0.18,
+    0.66,
+    0.82
+  ],
+  "palette": {
+    "grass": "#1aae25",
+    "grass2": "#0d9b16",
+    "shoulder": "#3c832b",
+    "skyTop": "#58d1ef",
+    "skyBot": "#a7f2ff",
+    "mountColor": "#14841e",
+    "mountSnow": false,
+    "road": "#5f6066",
+    "road2": "#5b5c62"
+  },
+  "sections": [
+    {
+      "e": 53,
+      "h": 100,
+      "l": 35,
+      "c": 0,
+      "y": 0,
+      "w": 1.04,
+      "f": "largada personalizada"
+    },
+    {
+      "e": 26,
+      "h": 166,
+      "l": 41,
+      "c": 0.39,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 39,
+      "h": 75,
+      "l": 45,
+      "c": -2.02,
+      "y": -1,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 56,
+      "l": 48,
+      "c": 2.93,
+      "y": 26,
+      "w": 1.0,
+      "f": "subida cega"
+    },
+    {
+      "e": 45,
+      "h": 97,
+      "l": 55,
+      "c": 3.08,
+      "y": -1,
+      "w": 1.17,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 44,
+      "h": 72,
+      "l": 56,
+      "c": 1.93,
+      "y": -36,
+      "w": 1.11,
+      "f": "descida rápida"
+    },
+    {
+      "e": 49,
+      "h": 53,
+      "l": 51,
+      "c": -4.69,
+      "y": 10,
+      "w": 1.02,
+      "f": "hairpin forte"
+    },
+    {
+      "e": 36,
+      "h": 102,
+      "l": 39,
+      "c": 4.31,
+      "y": 14,
+      "w": 1.08,
+      "f": "túnel escuro"
+    },
+    {
+      "e": 33,
+      "h": 35,
+      "l": 31,
+      "c": -5.0,
+      "y": 0,
+      "w": 1.05,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 34,
+      "h": 55,
+      "l": 32,
+      "c": 4.48,
+      "y": -6,
+      "w": 1.03,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 26,
+      "h": 52,
+      "l": 30,
+      "c": 2.54,
+      "y": 5,
+      "w": 1.06,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 27,
+      "h": 63,
+      "l": 35,
+      "c": -2.72,
+      "y": 0,
+      "w": 0.95,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 28,
+      "h": 42,
+      "l": 22,
+      "c": 2.9,
+      "y": 0,
+      "w": 0.97,
+      "f": "esses de alta velocidade"
+    },
+    {
+      "e": 35,
+      "h": 49,
+      "l": 27,
+      "c": -3.85,
+      "y": 12,
+      "w": 0.98,
+      "f": "entrada de chicane"
+    },
+    {
+      "e": 18,
+      "h": 27,
+      "l": 33,
+      "c": 3.42,
+      "y": -6,
+      "w": 0.97,
+      "f": "saída de chicane"
+    },
+    {
+      "e": 62,
+      "h": 138,
+      "l": 88,
+      "c": 3.07,
+      "y": 18,
+      "w": 0.95,
+      "f": "curva em caracol"
+    },
+    {
+      "e": 37,
+      "h": 135,
+      "l": 34,
+      "c": 0.27,
+      "y": -6,
+      "w": 1.14,
+      "f": "reta de recuperação"
+    },
+    {
+      "e": 38,
+      "h": 112,
+      "l": 64,
+      "c": -3.08,
+      "y": 13,
+      "w": 1.22,
+      "f": "curva longa de alta"
+    },
+    {
+      "e": 46,
+      "h": 90,
+      "l": 44,
+      "c": 0.0,
+      "y": 0,
+      "w": 1.0,
+      "f": "chegada exclusiva"
+    }
+  ],
+  "fingerprint": "481de2795c47"
+}
