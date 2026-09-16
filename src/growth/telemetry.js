@@ -4,7 +4,7 @@ const MAX=500, ALLOWED=Object.freeze({
 });
 let started=performance.now(),logoTaps=0,logoTapAt=0;
 function clean(name,data={}){if(!ALLOWED[name])return null;const out={};for(const k of ALLOWED[name]){const v=data[k];if(typeof v==='number'&&Number.isFinite(v))out[k]=Math.round(v*1000)/1000;else if(typeof v==='string')out[k]=v.slice(0,48);else if(typeof v==='boolean')out[k]=v;}return out;}
-function day(){return localDateKey();}
+function day(){if(typeof globalThis.localDateKey==='function')return globalThis.localDateKey();const d=new Date();return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function ensure(){career.telemetry=career.telemetry||structuredClone(defaultCareer.telemetry);career.telemetry.events=Array.isArray(career.telemetry.events)?career.telemetry.events:[];career.telemetry.sessionDays=Array.isArray(career.telemetry.sessionDays)?career.telemetry.sessionDays:[];return career.telemetry;}
 globalThis.telemetryEvent=function telemetryEvent(name,data={}){const payload=clean(name,data);if(!payload)return false;const t=ensure(),evt={n:name,d:payload,day:day(),ts:Date.now()};t.events.push(evt);if(t.events.length>MAX)t.events.splice(0,t.events.length-MAX);if(!t.sessionDays.includes(evt.day))t.sessionDays.push(evt.day);t.sessionDays=t.sessionDays.slice(-120);saveCareer();return true;};
 function startMap(){const m=new Map();for(const e of ensure().events)if(e.n==='race_start'){const k=e.d.level+'|'+e.d.mode;m.set(k,(m.get(k)||0)+1);}return m;}
