@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#05070d">
+  <title>Atualizando Retrô Racer</title>
+  <style>
+    :root{color-scheme:dark;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}*{box-sizing:border-box}body{min-height:100vh;margin:0;display:grid;place-items:center;background:#05070d;color:#f6f7fb;padding:24px}.card{width:min(520px,100%);border:2px solid #ffcc00;border-radius:24px;padding:30px;text-align:center;background:linear-gradient(#17191d,#0a0b0d);box-shadow:0 0 36px #ffcc0030}h1{color:#ffcc00;letter-spacing:.08em;font-size:clamp(24px,7vw,38px);margin:0 0 18px}p{line-height:1.55}.bar{height:12px;border:1px solid #657080;border-radius:99px;overflow:hidden;margin:24px 0}.bar span{display:block;width:45%;height:100%;background:#35d05b;animation:load 1s ease-in-out infinite alternate}button{border:2px solid #4de16c;border-radius:14px;padding:14px 22px;background:#178b36;color:#fff;font:700 17px inherit;cursor:pointer}button[hidden]{display:none}@keyframes load{to{transform:translateX(120%)}}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <h1>RETRÔ RACER</h1>
+    <p id="status" role="status">Atualizando os arquivos do jogo…</p>
+    <div class="bar" aria-hidden="true"><span></span></div>
+    <button id="retry" type="button" hidden>TENTAR NOVAMENTE</button>
+  </main>
+  <script>
+    const VERSION='c22-v5',status=document.getElementById('status'),retry=document.getElementById('retry');
+    function openGame(){location.replace(`./?atualizado=${VERSION}`);}
+    async function updateGame(){
+      retry.hidden=true;status.textContent='Atualizando os arquivos do jogo…';
+      if(!('serviceWorker'in navigator)){openGame();return;}
+      try{
+        const reg=await navigator.serviceWorker.register(`./sw.js?v=${VERSION}`,{scope:'./',updateViaCache:'none'});
+        await reg.update();
+        const worker=reg.installing||reg.waiting;
+        if(reg.active&&reg.active.scriptURL.includes(`v=${VERSION}`)&&!worker){openGame();return;}
+        let finished=false,poll;
+        const timeout=setTimeout(()=>{clearInterval(poll);status.textContent='A atualização demorou mais que o esperado.';retry.hidden=false;},20000);
+        const finish=()=>{if(finished)return;finished=true;clearTimeout(timeout);clearInterval(poll);status.textContent='Atualização concluída. Abrindo o jogo…';setTimeout(openGame,250);};
+        navigator.serviceWorker.addEventListener('controllerchange',finish,{once:true});
+        if(worker){worker.addEventListener('statechange',()=>{if(worker.state==='activated')finish();});if(worker.state==='activated')finish();}
+        poll=setInterval(()=>{if(reg.active&&reg.active.scriptURL.includes(`v=${VERSION}`))finish();},200);
+      }catch(error){status.textContent='Não foi possível atualizar agora. Verifique a internet e tente novamente.';retry.hidden=false;}
+    }
+    retry.addEventListener('click',updateGame);updateGame();
+  </script>
+</body>
+</html>

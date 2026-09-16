@@ -7,7 +7,7 @@ import { createFixedLoop } from './core/loop.js';
 import * as assets from './core/assets.js';
 import * as runtime from './core/runtime-store.js';
 
-const BUILD_TAG=new URL(import.meta.url).searchParams.get('v')||'c22-v4',BUILD_QUERY=encodeURIComponent(BUILD_TAG);
+const BUILD_TAG=new URL(import.meta.url).searchParams.get('v')||'c22-v5',BUILD_QUERY=encodeURIComponent(BUILD_TAG);
 if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register(`./sw.js?v=${BUILD_QUERY}`,{updateViaCache:'none'}).then(reg=>reg.update()).catch(()=>{});
 
 const rng=new RngHub(`boot|${state.career.level}`),events=new EventBus(),replay=new InputReplay(),lapReplay=new InputReplay();

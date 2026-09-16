@@ -1,7 +1,7 @@
 {
   "version": "AAA_R2+C22",
   "generated": "2026-09-16T21:24:16.329275+00:00",
-  "filesCount": 2198,
+  "filesCount": 2199,
   "files": [
     {
       "path": "CHANGELOG.md",
@@ -12118,6 +12118,12 @@
       "lines": 289
     },
     {
+      "path": "atualizar.html",
+      "sha256": "68250feb92a708b5679e98283080ed42ca083533ef6b52cde8a66b80e62a4e17",
+      "bytes": 3090,
+      "lines": 41
+    },
+    {
       "path": "docs/ANEXO_A_BIBLIA_VISUAL_RETRO_RACER.md",
       "sha256": "415481071254ce643bdc665b540c2cbc4b20ea8eb950355f5211b8678098cc00",
       "bytes": 43391,
@@ -12773,7 +12779,7 @@
     },
     {
       "path": "index.html",
-      "sha256": "73d69a82f21643df31b0f942e42a97f4c17cc60d718ee3a2762031215a2b7311",
+      "sha256": "94e3f141c79d1a3ed83c35359803e5c446e435b50e8160e996da7e91d8184954",
       "bytes": 38505,
       "lines": 255
     },
@@ -13031,7 +13037,7 @@
     },
     {
       "path": "src/main.js",
-      "sha256": "6ee714f54ca146fb7de6b92791bf1fd14ca4f1f3b85629037e965d8ab1c55451",
+      "sha256": "53be7bb641d33b5f264a343a1053aecca39274b26adae440bc0bc070429549e2",
       "bytes": 2300,
       "lines": 29
     },
@@ -13187,9 +13193,9 @@
     },
     {
       "path": "sw.js",
-      "sha256": "03d8d8b477b492f964b6aef9676b78d7ba197b8848eccb6dcd9c522b623428cb",
-      "bytes": 2190,
-      "lines": 5
+      "sha256": "dd6a26db38a702aff1f2ee18e2f9b1f3c87aa6c79e4dd8911b43ac40e139c72e",
+      "bytes": 2298,
+      "lines": 6
     }
   ]
 }
