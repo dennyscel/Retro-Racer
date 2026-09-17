@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "updated": "2026-09-17",
+  "bugs": [
+    {
+      "id": "RR-BUG-0001",
+      "severity": "MEDIUM",
+      "system": "hud",
+      "description": "Duas regiões status exibem simultaneamente a mesma mensagem de rádio.",
+      "steps_to_reproduce": [
+        "Durante corrida, inspecionar regiões status quando rádio mostra RESPIRA. A CORRIDA NÃO ACABOU."
+      ],
+      "expected": "Uma única mensagem acessível e visual por evento.",
+      "actual": "Duas regiões status idênticas em dois snapshots; obstrução visual durante mensagem ainda precisa medição.",
+      "device": "Navegador cloud, captura 1363×936",
+      "orientation": "paisagem",
+      "status": "OPEN",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Observação do navegador na sessão R0, 2026-09-17"
+    },
+    {
+      "id": "RR-BUG-0002",
+      "severity": "MEDIUM",
+      "system": "scenery",
+      "description": "Cenário alpino com extensas faixas horizontais e separação visual abrupta entre fundo e pista.",
+      "steps_to_reproduce": [
+        "Observar cenário alpino na corrida publicada, fase inicial."
+      ],
+      "expected": "Terreno/horizonte contínuos e cenário com profundidade coerente.",
+      "actual": "Captura mostra grandes superfícies brancas/cinzentas e faixas abruptas; coincide com relatos móveis.",
+      "device": "Navegador cloud, captura 1363×936",
+      "orientation": "paisagem",
+      "status": "OPEN",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Observação do navegador na sessão R0, 2026-09-17"
+    },
+    {
+      "id": "RR-BUG-0003",
+      "severity": "MAJOR",
+      "system": "nitro",
+      "description": "Gesto mantido permite acionamento sem carga completa/limite por volta.",
+      "steps_to_reproduce": [
+        "Carregar nitro, manter gesto para cima após consumo; observar nova ativação."
+      ],
+      "expected": "100% obrigatório, consumo total, um uso/volta e novo gesto.",
+      "actual": "Relatado pelo usuário; inspeção anterior de physics.js sugere ativação por flag mantida e carga >0.02; falta reprodução controlada.",
+      "device": "Celular do usuário, modelo não informado",
+      "orientation": "retrato",
+      "status": "UNCONFIRMED",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Relato do usuário / auditoria estática; não reproduzido nesta sessão"
+    },
+    {
+      "id": "RR-BUG-0004",
+      "severity": "MAJOR",
+      "system": "collision",
+      "description": "Impactos estranhos e possível repetição de dano durante contato contínuo.",
+      "steps_to_reproduce": [
+        "Manter contato lateral/traseiro e comparar dano por par."
+      ],
+      "expected": "Um impacto em ENTER, sem repetição em STAY.",
+      "actual": "Relato e suspeita estática; faltam medições controladas.",
+      "device": "Celular do usuário, modelo não informado",
+      "orientation": "retrato",
+      "status": "UNCONFIRMED",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Relato do usuário / auditoria estática; não reproduzido nesta sessão"
+    },
+    {
+      "id": "RR-BUG-0005",
+      "severity": "MAJOR",
+      "system": "ai",
+      "description": "Pelotão fácil demais e largada pouco competitiva.",
+      "steps_to_reproduce": [
+        "Largar em Normal e medir posições/tempos sem pilotagem avançada."
+      ],
+      "expected": "Disputa justa, sem ganhar maioria do grid apenas acelerando.",
+      "actual": "Relatado; baseline comparativo ainda não executado.",
+      "device": "Celular do usuário, modelo não informado",
+      "orientation": "retrato",
+      "status": "UNCONFIRMED",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Relato do usuário / auditoria estática; não reproduzido nesta sessão"
+    },
+    {
+      "id": "RR-BUG-0006",
+      "severity": "MEDIUM",
+      "system": "audio",
+      "description": "Áudio com cortes sob carga.",
+      "steps_to_reproduce": [
+        "Executar corrida, efeitos concorrentes e minimizar/retomar."
+      ],
+      "expected": "Áudio contínuo, ganho suave e retomada correta.",
+      "actual": "Requisito/relato do usuário; não houve teste auditivo controlado.",
+      "device": "Não medido",
+      "orientation": "não determinada",
+      "status": "UNCONFIRMED",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Relato do usuário / auditoria estática; não reproduzido nesta sessão"
+    },
+    {
+      "id": "RR-BUG-0007",
+      "severity": "MAJOR",
+      "system": "mobile_ui",
+      "description": "Menu extenso e HUD com sobreposição em celular.",
+      "steps_to_reproduce": [
+        "Abrir menu e correr nas oito resoluções obrigatórias."
+      ],
+      "expected": "Menu por categorias e HUD compacto sem sobreposição.",
+      "actual": "Capturas mostram problema; reprodução nos viewports obrigatórios pendente.",
+      "device": "Capturas enviadas pelo usuário",
+      "orientation": "retrato",
+      "status": "UNCONFIRMED",
+      "introduced_in": "UNKNOWN",
+      "fixed_in": "",
+      "regression_test": "Pendente: repetir cenário em ambas orientações e registrar evidência.",
+      "evidence_source": "Relato do usuário / auditoria estática; não reproduzido nesta sessão"
+    }
+  ]
+}

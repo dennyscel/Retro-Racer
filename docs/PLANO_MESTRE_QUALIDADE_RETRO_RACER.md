@@ -3,7 +3,8 @@ document_id: RR-PLAN-001
 title: Plano Mestre de Qualidade do Retro Racer
 version: 1.1.0
 status: active
-canonical: true
+canonical: false
+superseded_by: docs/GAMEPLAY_RECOVERY_LOOP.md
 language: pt-BR
 owner: dennyscel
 repository: https://github.com/dennyscel/Retro-Racer
@@ -35,7 +36,7 @@ severity_values:
 
 ## Como humanos e IAs devem usar este arquivo
 
-Este Markdown é a fonte oficial de requisitos, ordem de execução e aceite do projeto. Ele foi escrito para leitura direta no GitHub e para atualização segura por agentes de IA.
+Este Markdown preserva o detalhamento anterior. A autoridade atual para requisitos, conflitos, ordem de execução e aceite é `docs/GAMEPLAY_RECOVERY_LOOP.md`, conforme o Loop Mestre fornecido pelo proprietário. Nenhum estado desta tabela representa aprovação do novo recovery.
 
 - Os identificadores `RR-*` são permanentes. Não devem ser renumerados nem reutilizados.
 - `todo` significa ainda não implementado; `doing`, em execução; `blocked`, impedido; `done`, implementado e validado localmente; `verified`, validado na versão pública do GitHub Pages.
@@ -63,11 +64,11 @@ Esta tabela é o painel principal para leitura e escrita automatizada. As seçõ
 | RR-HUD-001 | P0 | todo | RR-UI-001 | HUD sem sobreposição em vertical e horizontal | Pendente |
 | RR-CAR-001 | P1 | todo | RR-COL-001 | Carros com silhueta, escala, sombra e dano coerentes | Pendente |
 | RR-ENV-001 | P1 | todo | RR-HUD-001 | Ambientes em camadas sem vazios ou blocos sem origem | Pendente |
-| RR-LVL-001 | P1 | todo | RR-AI-001, RR-ENV-001 | Campanha inicial curada e pistas repetitivas retiradas | Pendente |
+| RR-LVL-001 | P1 | todo | RR-AI-001, RR-ENV-001 | Todas as 999 pistas preservadas e melhoradas | Pendente |
 | RR-PWR-001 | P1 | todo | RR-LVL-001 | Power-ups restritos a modos próprios e balanceados | Pendente |
 | RR-AUD-002 | P0 | todo | RR-AUD-001 | Áudio contínuo durante corrida, pausa e troca de aba | Pendente |
 | RR-PERF-001 | P0 | todo | RR-HUD-001, RR-ENV-001 | Simulação 60 Hz e qualidade gráfica adaptativa | Pendente |
-| RR-QA-001 | P0 | todo | Todos os itens P0 | Matriz vertical e horizontal sem falha grave | Pendente |
+| RR-QA-001 | P0 | todo | Implementação e evidências R0–R20 do Loop Mestre | Matriz vertical e horizontal sem falha grave | Pendente |
 | RR-REL-001 | P0 | todo | RR-QA-001 | Versão pública sem defeitos bloqueadores, críticos ou graves | Pendente |
 
 ### Ordem dos ciclos
@@ -336,7 +337,7 @@ Retângulos escuros sem origem, áreas brancas vazias, montanhas genéricas repe
 O número de pistas não substitui curadoria. As 999 pistas serão avaliadas por variedade, legibilidade e qualidade, com prioridade para uma campanha inicial forte.
 
 - Cada copa terá identidade visual, rival, dificuldade e combinação própria de curvas.
-- Pistas repetitivas, vazias, injustas ou visualmente quebradas serão refeitas ou removidas da progressão principal.
+- Pistas repetitivas, vazias, injustas ou visualmente quebradas serão melhoradas, preservando as 999 pistas e sua progressão.
 - A campanha introduzirá uma mecânica por vez.
 - Curvas, clima e obstáculos precisam formar combinações intencionais.
 - Marcos visuais ajudam a memorizar pistas e pontos de frenagem.
@@ -391,11 +392,12 @@ A simulação usará passo fixo de 60 Hz separado da renderização. O acumulado
 
 ### Escalonamento de qualidade
 
-1. Reduzir densidade interna do canvas.
-2. Reduzir partículas e reflexos.
-3. Reduzir detalhes de cenário distante.
-4. Reduzir frequência de efeitos não essenciais.
-5. Usar 30 FPS estáveis apenas quando o hardware não sustentar 60 FPS após as reduções.
+1. Reduzir pós-processamento.
+2. Reduzir partículas.
+3. Reduzir objetos de cenário.
+4. Reduzir distância de desenho.
+5. Reduzir resolução interna.
+6. Usar 30 FPS estáveis apenas quando o hardware não sustentar 60 FPS após as reduções.
 
 O perfil não pode oscilar rapidamente. A decisão usará média de desempenho e período mínimo antes de trocar novamente.
 

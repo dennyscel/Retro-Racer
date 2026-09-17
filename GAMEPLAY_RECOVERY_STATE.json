@@ -1,0 +1,33 @@
+{
+  "cycle": 1,
+  "version": "GAMEPLAY_RECOVERY_C01",
+  "current_focus": "R0_INVENTORY",
+  "release_status": "BLOCKED",
+  "critical_bugs": 0,
+  "major_bugs": 0,
+  "medium_bugs": 2,
+  "minor_bugs": 0,
+  "unconfirmed_bugs": 5,
+  "counts_scope": "Somente OPEN/REOPENED confirmados; auditoria parcial, zero não significa sistema aprovado.",
+  "known_regressions": [],
+  "fixed_this_cycle": [],
+  "reverted_changes": [],
+  "next_focus": "Completar reprodução controlada R0; nitro, contatos, fluxo completo e matriz mobile.",
+  "portrait_pass": false,
+  "landscape_pass": false,
+  "full_race_pass": false,
+  "old_save_pass": false,
+  "performance_pass": false,
+  "audio_pass": false,
+  "pit_pass": false,
+  "nitro_pass": false,
+  "ai_pass": false,
+  "release_candidate": false,
+  "perfect_ship": false,
+  "human_qa_pass": false,
+  "limitations": [
+    "Sessão de navegador cloud não é teste em celular físico.",
+    "Oito resoluções, multitouch, cinco voltas e avaliação auditiva/humana ainda não executados."
+  ],
+  "updated": "2026-09-17"
+}

@@ -1,8 +1,14 @@
 {
   "version": "AAA_R2+C22",
-  "generated": "2026-09-17T00:21:47Z",
-  "filesCount": 2200,
+  "generated": "2026-09-17T09:14:00.366Z",
+  "filesCount": 2204,
   "files": [
+    {
+      "path": "BUG_REGISTRY.json",
+      "sha256": "3a45bd53a43d8287388a58ca5021cd2e1b9a8a002762af3170e97ac8df6234d0",
+      "bytes": 6026,
+      "lines": 132
+    },
     {
       "path": "CHANGELOG.md",
       "sha256": "1416f1296c80b19568e7ac324083a6a6ca6c6038e1182f6eb74411adbe29154c",
@@ -14,6 +20,12 @@
       "sha256": "8d6e0f4cfaaa70ddfb2164e68e460ca28e55a482848e3cb394e1d4c1c634f70b",
       "bytes": 3018,
       "lines": 91
+    },
+    {
+      "path": "GAMEPLAY_RECOVERY_STATE.json",
+      "sha256": "58d842ed0821fb79c98ba21bb258bf20f8d999f60f8b32dfc697a415aae4cfbb",
+      "bytes": 1049,
+      "lines": 33
     },
     {
       "path": "README.md",
@@ -12298,6 +12310,12 @@
       "lines": 43
     },
     {
+      "path": "docs/GAMEPLAY_RECOVERY_LOOP.md",
+      "sha256": "afe5e36ec8a7818ea8db8e5ed95f40cd31e25a141484be6670542ff2359437d4",
+      "bytes": 13590,
+      "lines": 134
+    },
+    {
       "path": "docs/INDEX_PACOTE_INVESTIDOR.md",
       "sha256": "d287e29ac26689eb064adbf160ca68ea7c3e61329f21c75653fabc1c1ce725cc",
       "bytes": 1073,
@@ -12317,9 +12335,9 @@
     },
     {
       "path": "docs/PLANO_MESTRE_QUALIDADE_RETRO_RACER.md",
-      "sha256": "77f3c976985fe9556a411907d417656d8d64341b543616105424fcfd16b89990",
-      "bytes": 29486,
-      "lines": 476
+      "sha256": "02c577f59219cba7fbff4cde8efefae9d3d1ed1914f8ed9251727b6081de64ba",
+      "bytes": 29653,
+      "lines": 478
     },
     {
       "path": "docs/PRESS_KIT.md",
@@ -12476,6 +12494,12 @@
       "sha256": "b92231c3b2941f820932b424c9243a7db2c2f1dde624aba9bdaba6fce7d1a99b",
       "bytes": 194,
       "lines": 11
+    },
+    {
+      "path": "docs/RECOVERY_C01.md",
+      "sha256": "0499ae51b5b3eea1214cb25a2e9ff7d0115052bf04342f52d84f87c22781be45",
+      "bytes": 1709,
+      "lines": 19
     },
     {
       "path": "docs/REGISTRO_CICLO_01.md",
