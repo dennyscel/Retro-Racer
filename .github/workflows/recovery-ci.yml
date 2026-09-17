@@ -1,0 +1,44 @@
+name: Gameplay Recovery CI
+
+on:
+  push:
+    branches: [gameplay-recovery-perfect-ship]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  static-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: JavaScript syntax
+        shell: bash
+        run: |
+          set -euo pipefail
+          while IFS= read -r -d '' file; do
+            node --check "$file"
+          done < <(find src -type f -name '*.js' -print0)
+          node --check sw.js
+      - name: Recovery invariants
+        shell: python
+        run: |
+          from pathlib import Path
+          import json, re
+          root = Path('.')
+          main = (root/'src/main.js').read_text(encoding='utf-8')
+          sw = (root/'sw.js').read_text(encoding='utf-8')
+          state = json.loads((root/'GAMEPLAY_RECOVERY_STATE.json').read_text(encoding='utf-8'))
+          bugs = json.loads((root/'BUG_REGISTRY.json').read_text(encoding='utf-8'))
+          assert 'recovery-runtime.js' in main, 'recovery-runtime não carregado em main.js'
+          assert 'recovery-runtime.js' in sw, 'recovery-runtime fora do shell offline'
+          assert state['release_status'] == 'BLOCKED', 'Recovery não pode se autoliberar sem gates finais'
+          assert bugs['release_status'] == 'BLOCKED'
+          source = ''.join(p.read_text(encoding='utf-8', errors='ignore') for p in (root/'src').rglob('*.js'))
+          assert "retro_racer_championship_v30" in source, 'SAVE_KEY canônico não encontrado'
+          rr = (root/'src/race/recovery-runtime.js').read_text(encoding='utf-8')
+          for token in ['CHARGING','READY','FIRING','EMPTY','LOCKED','PIT_ENTRY','PIT_SERVICE_FUEL','PIT_SERVICE_REPAIR','PIT_RELEASE','PIT_REJOIN']:
+            assert token in rr, f'contrato ausente: {token}'
+          print('Recovery static gate: PASS')
