@@ -1,7 +1,7 @@
 {
   "version": "AAA_R2+C22",
-  "generated": "2026-09-16T21:24:16.329275+00:00",
-  "filesCount": 2199,
+  "generated": "2026-09-17T00:19:38Z",
+  "filesCount": 2200,
   "files": [
     {
       "path": "CHANGELOG.md",
@@ -12314,6 +12314,12 @@
       "sha256": "a1f0d40e8478622ab07acd331a3b0d37c8e6aaf3a58a11d614a0af8d1daac078",
       "bytes": 1740,
       "lines": 19
+    },
+    {
+      "path": "docs/PLANO_MESTRE_QUALIDADE_RETRO_RACER.md",
+      "sha256": "81e535c1ea0e8d6b863b347a6e73b527399828cde337a32fbf12ca336759d931",
+      "bytes": 29422,
+      "lines": 476
     },
     {
       "path": "docs/PRESS_KIT.md",
