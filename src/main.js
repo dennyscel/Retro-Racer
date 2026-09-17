@@ -7,7 +7,7 @@ import { createFixedLoop } from './core/loop.js';
 import * as assets from './core/assets.js';
 import * as runtime from './core/runtime-store.js';
 
-const BUILD_TAG=new URL(import.meta.url).searchParams.get('v')||'recovery-c01-v1',BUILD_QUERY=encodeURIComponent(BUILD_TAG);
+const BUILD_TAG=new URL(import.meta.url).searchParams.get('v')||'recovery-c01-v2',BUILD_QUERY=encodeURIComponent(BUILD_TAG);
 if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register(`./sw.js?v=${BUILD_QUERY}`,{updateViaCache:'none'}).then(reg=>reg.update()).catch(()=>{});
 
 const rng=new RngHub(`boot|${state.career.level}`),events=new EventBus(),replay=new InputReplay(),lapReplay=new InputReplay();
@@ -16,7 +16,7 @@ state.loadCareer();
 await assets.ensureActiveCircuit(state.career.level);
 
 const runtimeModules=[
- './core/runtime-state.js','./audio/runtime.js','./ui/haptics.js','./ui/accessibility.js','./growth/telemetry.js','./meta/economy.js','./meta/combo-risk.js','./meta/rift.js','./ui/input.js','./growth/integrity.js','./meta/season.js','./meta/licenses.js','./meta/paint-shop.js','./meta/trainer.js','./meta/drive-modes.js','./audio/radio-live.js','./audio/adaptive.js','./meta/ghost-learning.js','./race/track-ai.js','./render/juice.js','./race/physics.js','./race/recovery-runtime.js','./meta/results.js','./render/road-background.js','./render/car-fx.js','./render/weather.js','./ui/screens.js','./meta/story.js','./growth/shadow-code.js','./growth/highlight-clip.js','./ui/identity.js','./meta/ftue.js','./core/runtime-bridge.js'
+ './core/runtime-state.js','./audio/runtime.js','./ui/haptics.js','./ui/accessibility.js','./growth/telemetry.js','./meta/economy.js','./meta/combo-risk.js','./meta/rift.js','./ui/input.js','./ui/recovery-input.js','./growth/integrity.js','./meta/season.js','./meta/licenses.js','./meta/paint-shop.js','./meta/trainer.js','./meta/drive-modes.js','./audio/radio-live.js','./audio/adaptive.js','./meta/ghost-learning.js','./race/track-ai.js','./render/juice.js','./race/physics.js','./race/recovery-runtime.js','./meta/results.js','./render/road-background.js','./render/car-fx.js','./render/weather.js','./ui/screens.js','./meta/story.js','./growth/shadow-code.js','./growth/highlight-clip.js','./ui/identity.js','./meta/ftue.js','./core/runtime-bridge.js'
 ];
 for(const modulePath of runtimeModules) await import(`${modulePath}?v=${BUILD_QUERY}`);
 
