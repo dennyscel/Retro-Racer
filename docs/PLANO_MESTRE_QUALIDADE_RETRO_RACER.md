@@ -51,8 +51,8 @@ Esta tabela é o painel principal para leitura e escrita automatizada. As seçõ
 
 | ID | Prioridade | Estado | Dependências | Entrega verificável | Evidência |
 | --- | --- | --- | --- | --- | --- |
-| RR-DOC-001 | P0 | doing | Nenhuma | Especificação canônica publicada no repositório | Pendente |
-| RR-AUD-001 | P0 | todo | RR-DOC-001 | Auditoria do código e lista de defeitos reproduzíveis | Pendente |
+| RR-DOC-001 | P0 | verified | Nenhuma | Especificação canônica publicada no repositório | Commit `743d422287db82afbb74770f208bd69ae5697e46` |
+| RR-AUD-001 | P0 | doing | RR-DOC-001 | Auditoria do código e lista de defeitos reproduzíveis | Iniciada após `RR-DOC-001` |
 | RR-NIT-001 | P0 | todo | RR-AUD-001 | Máquina de estados do nitro e testes de gesto mantido | Pendente |
 | RR-COL-001 | P0 | todo | RR-AUD-001 | Colisões estáveis entre carros, bordas e barreiras | Pendente |
 | RR-STA-001 | P0 | todo | RR-AUD-001 | Grid, semáforo e lançamento competitivo | Pendente |
