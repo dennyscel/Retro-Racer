@@ -1,0 +1,30 @@
+{
+  "cycle": 1,
+  "version": "GAMEPLAY_RECOVERY_C01",
+  "current_focus": "CORE_RACE_RECOVERY",
+  "release_status": "BLOCKED",
+  "critical_bugs": 0,
+  "major_bugs": 3,
+  "medium_bugs": 6,
+  "minor_bugs": 0,
+  "known_regressions": [],
+  "fixed_this_cycle": [],
+  "reverted_changes": [],
+  "next_focus": "NITRO_CONTACT_PIT",
+  "portrait_pass": false,
+  "landscape_pass": false,
+  "full_race_pass": false,
+  "old_save_pass": false,
+  "performance_pass": false,
+  "audio_pass": false,
+  "pit_pass": false,
+  "nitro_pass": false,
+  "ai_pass": false,
+  "release_candidate": false,
+  "perfect_ship": false,
+  "notes": [
+    "A antiga nota AAA/C22 não é usada como gate de release neste recovery.",
+    "Testes humanos reportados pelo proprietário reabriram o produto para recuperação de gameplay.",
+    "Nenhuma feature de expansão deve ser priorizada enquanto release_status=BLOCKED."
+  ]
+}
